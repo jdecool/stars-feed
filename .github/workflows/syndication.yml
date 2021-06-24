@@ -4,7 +4,7 @@ on:
   schedule:
   - cron: 0 0 * * *
 jobs:
-  awesome-stars:
+  update-feed:
     name: Update stars feed
     runs-on: ubuntu-latest
     steps:
@@ -17,7 +17,6 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install starred
+    - run: starred --version
     - name: update repo
-      env:
-        GITHUB_TOKEN: ${{ secrets.TOKEN }}
-      run: starred --username jdecool --repository stars-feed --sort --token ${GITHUB_TOKEN} --message "$(date '+%Y-%m-%d') Update"
+      run: starred --username jdecool --repository stars-feed --sort --token ${{ secrets.GITHUB_TOKEN }} --message "$(date '+%Y-%m-%d') update"
