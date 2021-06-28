@@ -1176,6 +1176,7 @@
 
 ## Others 
 
+- [mfo/dashlord](https://github.com/mfo/dashlord) - 
 - [gbprod/stars](https://github.com/gbprod/stars) - 
 - [elazar/asynchronous-php](https://github.com/elazar/asynchronous-php) - List of resources for asynchronous programming in PHP
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
