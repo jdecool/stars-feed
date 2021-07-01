@@ -1336,6 +1336,7 @@
 
 ## PHP 
 
+- [stevedesmond-ca/php-libyear](https://github.com/stevedesmond-ca/php-libyear) - A simple measure of dependency freshness
 - [cebe/php-openapi](https://github.com/cebe/php-openapi) - Read and write OpenAPI yaml/json files and make the content accessible in PHP objects.
 - [vtsykun/packeton](https://github.com/vtsykun/packeton) - :package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos.
 - [arnolem/gmail-archiver](https://github.com/arnolem/gmail-archiver) - Allows you to archive old emails from one Gmail mailbox to another Gmail mailbox
@@ -2079,7 +2080,7 @@
 - [Orbitale/Rymfony](https://github.com/Orbitale/Rymfony) - A work-in-progress CLI tool built in Rust to mimic the Symfony CLI binary
 - [jmmv/endbasic](https://github.com/jmmv/endbasic) - BASIC environment with a REPL, a web interface, and RPi support written in Rust
 - [archseer/enigma](https://github.com/archseer/enigma) - An Erlang VM implementation in Rust
-- [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
+- [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
 - [bastion-rs/bastion](https://github.com/bastion-rs/bastion) - Highly-available Distributed Fault-tolerant Runtime
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [google/OpenSK](https://github.com/google/OpenSK) - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
