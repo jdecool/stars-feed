@@ -1337,6 +1337,7 @@
 
 ## PHP 
 
+- [Innmind/Doctrine](https://github.com/Innmind/Doctrine) - Declarative approach to eliminate state where not necessary
 - [stevedesmond-ca/php-libyear](https://github.com/stevedesmond-ca/php-libyear) - A simple measure of dependency freshness
 - [cebe/php-openapi](https://github.com/cebe/php-openapi) - Read and write OpenAPI yaml/json files and make the content accessible in PHP objects.
 - [vtsykun/packeton](https://github.com/vtsykun/packeton) - :package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos.
@@ -2068,6 +2069,7 @@
 
 ## Rust 
 
+- [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing
 - [dertuxmalwieder/yaydl](https://github.com/dertuxmalwieder/yaydl) - yet another youtube down loader (Git mirror)
 - [Timmmm/autorebase](https://github.com/Timmmm/autorebase) - Automatically rebase all your branches onto master
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
