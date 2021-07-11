@@ -397,7 +397,7 @@
 - [shaxbee/go-spatialite](https://github.com/shaxbee/go-spatialite) - Spatialite SQL Driver for Golang
 - [mdlayher/schedgroup](https://github.com/mdlayher/schedgroup) - Package schedgroup provides a goroutine worker pool which schedules tasks to be performed at or after a specified time. MIT Licensed.
 - [michelin/ChopChop](https://github.com/michelin/ChopChop) - ChopChop is a CLI to help developers scanning endpoints and identifying exposition of sensitive services/files/folders.
-- [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
+- [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a standalone framework for distributed systems development
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
 - [github/go-fault](https://github.com/github/go-fault) - Fault injection library in Go using standard http middleware
 - [RussellLuo/micron](https://github.com/RussellLuo/micron) - A minimal implementation of the fault-tolerant job scheduler.
@@ -2069,7 +2069,7 @@
 
 ## Rust 
 
-- [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing
+- [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing for Rust
 - [dertuxmalwieder/yaydl](https://github.com/dertuxmalwieder/yaydl) - yet another youtube down loader (Git mirror)
 - [Timmmm/autorebase](https://github.com/Timmmm/autorebase) - Automatically rebase all your branches onto master
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
