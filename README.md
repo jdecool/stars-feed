@@ -309,7 +309,6 @@
 - [JoelBesada/activate-power-mode](https://github.com/JoelBesada/activate-power-mode) - Atom package - Activate POWER MODE to write your code in style.
 - [ctate/autocode](https://github.com/ctate/autocode) - spec-driven code generator
 - [ichord/At.js](https://github.com/ichord/At.js) - Add Github like mentions autocomplete to your application.
-- [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [appuri/mock-http-server](https://github.com/appuri/mock-http-server) - Generic HTTP Server that can record requests as a proxy and playback as an HTTP server.
 - [dmackerman/angular-better-placeholders](https://github.com/dmackerman/angular-better-placeholders) - Angular directive for enhanced placeholders that easily integrate with Bootstrap form fields.
 - [jnordberg/wintersmith](https://github.com/jnordberg/wintersmith) - A flexible static site generator
@@ -1056,6 +1055,7 @@
 - [marmelab/gremlins.js](https://github.com/marmelab/gremlins.js) - Monkey testing library for web apps and Node.js
 - [BlueSpire/Durandal](https://github.com/BlueSpire/Durandal) - Durandal has evolved to the next generation: Aurelia.
 - [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
+- [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [substack/invoicer](https://github.com/substack/invoicer) - generate pdf invoices from json
 - [substack/clocker](https://github.com/substack/clocker) - track project hours
 - [appserver-io/appserver](https://github.com/appserver-io/appserver) - A multithreaded application server for PHP, written in PHP.
