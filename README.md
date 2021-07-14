@@ -396,7 +396,7 @@
 - [shaxbee/go-spatialite](https://github.com/shaxbee/go-spatialite) - Spatialite SQL Driver for Golang
 - [mdlayher/schedgroup](https://github.com/mdlayher/schedgroup) - Package schedgroup provides a goroutine worker pool which schedules tasks to be performed at or after a specified time. MIT Licensed.
 - [michelin/ChopChop](https://github.com/michelin/ChopChop) - ChopChop is a CLI to help developers scanning endpoints and identifying exposition of sensitive services/files/folders.
-- [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a standalone framework for distributed systems development
+- [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
 - [github/go-fault](https://github.com/github/go-fault) - Fault injection library in Go using standard http middleware
 - [RussellLuo/micron](https://github.com/RussellLuo/micron) - A minimal implementation of the fault-tolerant job scheduler.
@@ -1337,6 +1337,7 @@
 
 ## PHP 
 
+- [globtec/phpadr](https://github.com/globtec/phpadr) - A PHP based command-line interface tool for working with Architecture Decision Records (ADR)
 - [Innmind/Doctrine](https://github.com/Innmind/Doctrine) - Declarative approach to eliminate state where not necessary
 - [stevedesmond-ca/php-libyear](https://github.com/stevedesmond-ca/php-libyear) - A simple measure of dependency freshness
 - [cebe/php-openapi](https://github.com/cebe/php-openapi) - Read and write OpenAPI yaml/json files and make the content accessible in PHP objects.
