@@ -391,7 +391,7 @@
 - [stapelberg/airscan](https://github.com/stapelberg/airscan) - Go package to scan paper documents 📄 from a scanner 🖨️ via the network 🕸️ using the Apple AirScan (eSCL) protocol.
 - [royalbhati/Foxy](https://github.com/royalbhati/Foxy) - Go based download manager
 - [goadapp/goad](https://github.com/goadapp/goad) - Goad is an AWS Lambda powered, highly distributed, load testing tool
-- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, service-to-service and IoT auth. Can work as an OAuth2 / OpenID Connect Provider. Golang, headless, API-only - without templating or theming headaches.
+- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, and IoT auth. Golang, headless, API-only - without templating or theming headaches.
 - [briansorahan/spatialite](https://github.com/briansorahan/spatialite) - database/sql driver for libspatialite
 - [shaxbee/go-spatialite](https://github.com/shaxbee/go-spatialite) - Spatialite SQL Driver for Golang
 - [mdlayher/schedgroup](https://github.com/mdlayher/schedgroup) - Package schedgroup provides a goroutine worker pool which schedules tasks to be performed at or after a specified time. MIT Licensed.
@@ -618,7 +618,7 @@
 - [warrensbox/terraform-switcher](https://github.com/warrensbox/terraform-switcher) - A command line tool to switch between different versions of terraform  (install with homebrew and more)
 - [berzniz/github_pr_tree](https://github.com/berzniz/github_pr_tree) - Add a file tree to GitHub's Pull Request
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
-- [kamilmielnik/scrabble-solver](https://github.com/kamilmielnik/scrabble-solver) - The ultimate cheating app for Scrabble and Literaki
+- [kamilmielnik/scrabble-solver](https://github.com/kamilmielnik/scrabble-solver) - The ultimate cheating app for Scrabble and Literaki. Available in English, French, Polish & Spanish.
 - [isaaceindhoven/velocita-proxy](https://github.com/isaaceindhoven/velocita-proxy) - Velocita - Composer caching reverse proxy
 - [beberlei/php-rfc-watch](https://github.com/beberlei/php-rfc-watch) - Interactive voting results for PHP RFC process.
 - [BustByte/coronastatus](https://github.com/BustByte/coronastatus) - 🇳🇴🇳🇱🇸🇰🇩🇰🇨🇴🇮🇹🇫🇷🇲🇽🇺🇸🇺🇦🇪🇸🇧🇷🇨🇦🇦🇺🇸🇬🇦🇷🇲🇾🇲🇹🇨🇱🇮🇳🇵🇹🇹🇷🇱🇹🇳🇵🇨🇿🇮🇩🇵🇭🇳🇬🇷🇴Join the fight! Open source webapp that let people report their health status to get overview of COVID-19
