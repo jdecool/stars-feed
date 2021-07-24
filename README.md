@@ -1338,6 +1338,7 @@
 
 ## PHP 
 
+- [nuxsmin/sysPass](https://github.com/nuxsmin/sysPass) - Systems Password Manager
 - [globtec/phpadr](https://github.com/globtec/phpadr) - A PHP based command-line interface tool for working with Architecture Decision Records (ADR)
 - [Innmind/Doctrine](https://github.com/Innmind/Doctrine) - Declarative approach to eliminate state where not necessary
 - [stevedesmond-ca/php-libyear](https://github.com/stevedesmond-ca/php-libyear) - A simple measure of dependency freshness
