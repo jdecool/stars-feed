@@ -174,6 +174,7 @@
 
 ## C# # 
 
+- [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 - [OpenSilver/OpenSilver](https://github.com/OpenSilver/OpenSilver) - This repository contains the source of both OpenSilver and CSHTML5. More information is available at: www.opensilver.net and www.cshtml5.com - Read README.md for the instructions on how to build the source code and how to test it.
 - [spectresystems/jarvis](https://github.com/spectresystems/jarvis) - Your robotic butler.
 - [JasonStein/Notepads](https://github.com/JasonStein/Notepads) - A modern, lightweight text editor with a minimalist design.
@@ -205,6 +206,7 @@
 - [lethal-guitar/RigelEngine](https://github.com/lethal-guitar/RigelEngine) - A modern re-implementation of the classic DOS game Duke Nukem II
 - [googlevr/cardboard](https://github.com/googlevr/cardboard) - Open source Cardboard SDK and samples
 - [weigert/territory](https://github.com/weigert/territory) - 3D rendered proc-gen world test. C++ homebrew voxel engine for agent-driven prodedural generation / world simulation
+- [priyankchheda/algorithms](https://github.com/priyankchheda/algorithms) - Data Structure Libraries and Algorithms implementation
 - [unetbootin/unetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive
 - [diasurgical/devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
 - [philosophofee/SBSPSS](https://github.com/philosophofee/SBSPSS) - The source code repository for the PlayStation 1 game, SpongeBob SquarePants: SuperSponge
@@ -763,7 +765,7 @@
 - [axioms-io/axioms-jwt-debugger](https://github.com/axioms-io/axioms-jwt-debugger) - Axioms JWT Debugger
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app
 - [fregante/github-issue-link-status](https://github.com/fregante/github-issue-link-status) - Colorize issue and PR links to see their status (open, closed, merged)
-- [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.
+- [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading a large number of keys.
 - [seanmiller802/BrowserTime](https://github.com/seanmiller802/BrowserTime) - open source browser history page with analytics
 - [Tom32i/synchroplayer](https://github.com/Tom32i/synchroplayer) - Synchronized video player for watching videos together remotely.
 - [nbrownus/streamstash](https://github.com/nbrownus/streamstash) - Log aggregating, filtering, redirecting service
@@ -1885,7 +1887,6 @@
 - [Eerovil/TrackLater](https://github.com/Eerovil/TrackLater) - TrackLater helps you track time after-the-fact by combining clues and showing your day on a simple timeline view.
 - [axi0mX/ipwndfu](https://github.com/axi0mX/ipwndfu) - open-source jailbreaking tool for many iOS devices
 - [lean-delivery/ansible-role-gitlab-runner](https://github.com/lean-delivery/ansible-role-gitlab-runner) - Ansible Role - GitLab Runner
-- [priyankchheda/algorithms](https://github.com/priyankchheda/algorithms) - Data Structure Libraries and Algorithms implementation
 - [m8r0wn/CrossLinked](https://github.com/m8r0wn/CrossLinked) - LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [TomAnthony/itermocil](https://github.com/TomAnthony/itermocil) - Create pre-defined window/pane layouts and run commands in iTerm
