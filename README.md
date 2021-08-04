@@ -2257,6 +2257,7 @@
 
 ## TypeScript 
 
+- [jopemachine/arvis](https://github.com/jopemachine/arvis) - Arvis GUI alpha
 - [covidpass-org/covidpass](https://github.com/covidpass-org/covidpass) - Web app for adding EU Digital COVID Certificates to your wallet apps
 - [FMS-Cat/condition](https://github.com/FMS-Cat/condition) - A 64KB WebGL Intro. Appeared in Revision 2021, PC 64KB Intro Compo
 - [screensy/screensy](https://github.com/screensy/screensy) - Simple peer-to-peer screen sharing
