@@ -283,7 +283,6 @@
 - [rekihattori/awesome-programmers](https://github.com/rekihattori/awesome-programmers) - A list of history's greatest software engineers and tech pioneers
 - [mnapoli/workshop-middlewares](https://github.com/mnapoli/workshop-middlewares) - 
 - [pmartin/slides-introduction-sysdig](https://github.com/pmartin/slides-introduction-sysdig) - Quelques slides d'introduction à sysdig
-- [heroku/starboard](https://github.com/heroku/starboard) - onboarding, offboarding, or crossboarding made easy
 - [alsacreations/webfonts](https://github.com/alsacreations/webfonts) - une collection de webfonts optimisées pour le web
 - [DevLyon/mixter](https://github.com/DevLyon/mixter) - CQRS and Event Sourcing Koans
 - [anmoljagetia/Flatabulous](https://github.com/anmoljagetia/Flatabulous) - This is a Flat theme for Ubuntu and other Gnome based Linux Systems.
@@ -2124,6 +2123,7 @@
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [papercss/papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
+- [heroku/starboard](https://github.com/heroku/starboard) - onboarding, offboarding, or crossboarding made easy
 - [BafS/Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.
 
 ## Scala 
