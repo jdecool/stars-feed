@@ -118,7 +118,7 @@
 - [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
 - [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 - [beberlei/php-compiletime-poc](https://github.com/beberlei/php-compiletime-poc) - Extension that counts the time spent in PHP file compilation during the execution of a script
-- [koute/memory-profiler](https://github.com/koute/memory-profiler) - 
+- [koute/memory-profiler](https://github.com/koute/memory-profiler) - A memory profiler for Linux.
 - [chrismaltby/gb-studio](https://github.com/chrismaltby/gb-studio) - A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
 - [jonasob/jwhois](https://github.com/jonasob/jwhois) - 
 - [beberlei/php-ast-tracer-poc](https://github.com/beberlei/php-ast-tracer-poc) - 
