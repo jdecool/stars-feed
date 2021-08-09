@@ -548,7 +548,7 @@
 - [google/keytransparency](https://github.com/google/keytransparency) - A transparent and secure way to look up public keys.
 - [google/grumpy](https://github.com/google/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
 - [geohot/lolrecaptcha](https://github.com/geohot/lolrecaptcha) - We try to break the recaptcha for the Merry Christmas for all!
-- [DiSiqueira/Gorganizer](https://github.com/DiSiqueira/Gorganizer) - Organize your folders into a beautiful classified folder structure with this perfect tool
+- [d6o/Gorganizer](https://github.com/d6o/Gorganizer) - Organize your folders into a beautiful classified folder structure with this perfect tool
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
 - [maddevsio/ariadna](https://github.com/maddevsio/ariadna) - Geocoder Ariadna on ElasticSearch with OpenStreetMap
@@ -1342,6 +1342,7 @@
 
 ## PHP 
 
+- [peppeocchi/php-cron-scheduler](https://github.com/peppeocchi/php-cron-scheduler) - PHP cron job scheduler
 - [nuxsmin/sysPass](https://github.com/nuxsmin/sysPass) - Systems Password Manager
 - [globtec/phpadr](https://github.com/globtec/phpadr) - A PHP based command-line interface tool for working with Architecture Decision Records (ADR)
 - [Innmind/Doctrine](https://github.com/Innmind/Doctrine) - Declarative approach to eliminate state where not necessary
