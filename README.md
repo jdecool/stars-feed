@@ -1342,6 +1342,7 @@
 
 ## PHP 
 
+- [lsalp/Simple-Status-Page](https://github.com/lsalp/Simple-Status-Page) - Simple Status Page for PHP Server Monitor
 - [peppeocchi/php-cron-scheduler](https://github.com/peppeocchi/php-cron-scheduler) - PHP cron job scheduler
 - [nuxsmin/sysPass](https://github.com/nuxsmin/sysPass) - Systems Password Manager
 - [globtec/phpadr](https://github.com/globtec/phpadr) - A PHP based command-line interface tool for working with Architecture Decision Records (ADR)
@@ -1864,6 +1865,7 @@
 
 ## Python 
 
+- [SamSchott/maestral](https://github.com/SamSchott/maestral) - Open-source Dropbox client for macOS and Linux
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [cpfair/tapiriik](https://github.com/cpfair/tapiriik) - tapiriik keeps your fitness in sync
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown syntax for formatting text. It is written with Python 3 (3.6+) and Qt 5 (5.3+) for cross-platform support.
