@@ -1343,6 +1343,7 @@
 
 ## PHP 
 
+- [chrome-php/chrome](https://github.com/chrome-php/chrome) - Instrument headless chrome/chromium instances from PHP
 - [lsalp/Simple-Status-Page](https://github.com/lsalp/Simple-Status-Page) - Simple Status Page for PHP Server Monitor
 - [peppeocchi/php-cron-scheduler](https://github.com/peppeocchi/php-cron-scheduler) - PHP cron job scheduler
 - [nuxsmin/sysPass](https://github.com/nuxsmin/sysPass) - Systems Password Manager
