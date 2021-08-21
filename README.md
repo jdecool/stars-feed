@@ -1355,7 +1355,7 @@
 - [arnolem/gmail-archiver](https://github.com/arnolem/gmail-archiver) - Allows you to archive old emails from one Gmail mailbox to another Gmail mailbox
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class.
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
-- [scheb/2fa](https://github.com/scheb/2fa) - Two-factor authentication for Symfony applications 🔐 (bunde version ≥ 5)
+- [scheb/2fa](https://github.com/scheb/2fa) - Two-factor authentication for Symfony 4+ applications 🔐 (bunde version ≥ 5)
 - [container-interop/service-provider](https://github.com/container-interop/service-provider) - [EXPERIMENTAL] Promoting container interoperability through standard service providers
 - [steevanb/doctrine-stats](https://github.com/steevanb/doctrine-stats) - Get Doctrine stats : managed entities, lazy loaded entities, hydration time etc.
 - [Ph3nol/Trading-Bot](https://github.com/Ph3nol/Trading-Bot) - Automated Trading Bot based on managed instances of Freqtrade, fully Dockerized.
