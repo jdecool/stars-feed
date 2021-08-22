@@ -468,7 +468,7 @@
 - [cristianoliveira/ergo](https://github.com/cristianoliveira/ergo) - The management of multiple apps running over different ports made easy
 - [spiral/php-grpc](https://github.com/spiral/php-grpc) - :electric_plug: Fast and furious GRPC server for PHP applications
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Privately hosted app for browsing, organizing, and sharing your photo collection. Say goodbye to uploading your visual memories to the cloud! 🌈
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Browse, organize, and share your photo collection. Privacy-friendly, simple to use & open-source! 🌈
 - [aacebedo/dnsdock](https://github.com/aacebedo/dnsdock) - DNS service discovery for Docker containers
 - [orisano/dlayer](https://github.com/orisano/dlayer) - dlayer is docker layer analyzer.
 - [buzzfeed/sso](https://github.com/buzzfeed/sso) - sso, aka S.S.Octopus, aka octoboi, is a single sign-on solution for securing internal services
