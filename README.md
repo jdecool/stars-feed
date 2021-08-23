@@ -431,7 +431,7 @@
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [nbedos/cistern](https://github.com/nbedos/cistern) - A terminal UI for Unix to monitor Continuous Integration pipelines from the command line. Current integrations include GitLab, Azure DevOps, Travis CI, AppVeyor and CircleCI.
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
-- [thecodingmachine/gotenberg](https://github.com/thecodingmachine/gotenberg) - A Docker-powered stateless API for converting HTML, Markdown and Office documents to PDF
+- [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A Docker-powered stateless API for PDF files.
 - [CleverCloud/stream-dns](https://github.com/CleverCloud/stream-dns) - A DNS server written in Go with an event stream architecture, updated via kafka
 - [neex/phuip-fpizdam](https://github.com/neex/phuip-fpizdam) - Exploit for CVE-2019-11043
 - [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) - validate the structure of your container images
@@ -1181,6 +1181,7 @@
 
 ## Others 
 
+- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.
 - [Clivern/Scalability](https://github.com/Clivern/Scalability) - 🔖 Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems.
 - [Dashlane/password-changer-well-known](https://github.com/Dashlane/password-changer-well-known) - Documentation for using Dashlane's password changer .well-known
 - [mfo/dashlord](https://github.com/mfo/dashlord) - 
