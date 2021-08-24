@@ -1344,6 +1344,7 @@
 
 ## PHP 
 
+- [scheb/2fa-bundle](https://github.com/scheb/2fa-bundle) - [READ ONLY] A generic interface to implement two-factor authentication in Symfony applications
 - [chrome-php/chrome](https://github.com/chrome-php/chrome) - Instrument headless chrome/chromium instances from PHP
 - [lsalp/Simple-Status-Page](https://github.com/lsalp/Simple-Status-Page) - Simple Status Page for PHP Server Monitor
 - [peppeocchi/php-cron-scheduler](https://github.com/peppeocchi/php-cron-scheduler) - PHP cron job scheduler
@@ -1356,7 +1357,7 @@
 - [arnolem/gmail-archiver](https://github.com/arnolem/gmail-archiver) - Allows you to archive old emails from one Gmail mailbox to another Gmail mailbox
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class.
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
-- [scheb/2fa](https://github.com/scheb/2fa) - Two-factor authentication for Symfony 4+ applications 🔐 (bunde version ≥ 5)
+- [scheb/2fa](https://github.com/scheb/2fa) - Two-factor authentication for Symfony applications 🔐
 - [container-interop/service-provider](https://github.com/container-interop/service-provider) - [EXPERIMENTAL] Promoting container interoperability through standard service providers
 - [steevanb/doctrine-stats](https://github.com/steevanb/doctrine-stats) - Get Doctrine stats : managed entities, lazy loaded entities, hydration time etc.
 - [Ph3nol/Trading-Bot](https://github.com/Ph3nol/Trading-Bot) - Automated Trading Bot based on managed instances of Freqtrade, fully Dockerized.
@@ -1972,7 +1973,7 @@
 - [cmheisel/pywatch](https://github.com/cmheisel/pywatch) - Runs an arbitrary command if files specified to be watched change. It's good for automatically running unit tests when your code changes, similar to Ruby's ZenTest.
 - [tonybaloney/mocker](https://github.com/tonybaloney/mocker) - A Docker-type runtime, written in 100% Python
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur support now! Only commercial (paid) support is available.
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur support now! Only commercial (paid) support is available now to avoid spammy issues.
 - [marteinn/The-Big-Username-Blocklist](https://github.com/marteinn/The-Big-Username-Blocklist) - This is a opinionated blocklist of words that you might not like to see used as usernames in your service.
 - [david-gpu/srez](https://github.com/david-gpu/srez) - Image super-resolution through deep learning
 - [mozilla/http-observatory](https://github.com/mozilla/http-observatory) - Mozilla HTTP Observatory
@@ -2270,7 +2271,7 @@
 
 ## TypeScript 
 
-- [jopemachine/arvis](https://github.com/jopemachine/arvis) - Arvis GUI alpha
+- [jopemachine/arvis](https://github.com/jopemachine/arvis) - Extendable cross-platform launcher that aims to help you run, edit, create any workflow simple
 - [covidpass-org/covidpass](https://github.com/covidpass-org/covidpass) - Web app for adding EU Digital COVID Certificates to your wallet apps
 - [0b5vr/condition](https://github.com/0b5vr/condition) - A 64KB WebGL Intro. Appeared in Revision 2021, PC 64KB Intro Compo
 - [screensy/screensy](https://github.com/screensy/screensy) - Simple peer-to-peer screen sharing
