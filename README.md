@@ -400,7 +400,7 @@
 - [shaxbee/go-spatialite](https://github.com/shaxbee/go-spatialite) - Spatialite SQL Driver for Golang
 - [mdlayher/schedgroup](https://github.com/mdlayher/schedgroup) - Package schedgroup provides a goroutine worker pool which schedules tasks to be performed at or after a specified time. MIT Licensed.
 - [michelin/ChopChop](https://github.com/michelin/ChopChop) - ChopChop is a CLI to help developers scanning endpoints and identifying exposition of sensitive services/files/folders.
-- [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
+- [asim/go-micro](https://github.com/asim/go-micro) - A Go framework for distributed systems development
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
 - [github/go-fault](https://github.com/github/go-fault) - Fault injection library in Go using standard http middleware
 - [RussellLuo/micron](https://github.com/RussellLuo/micron) - A minimal implementation of the fault-tolerant job scheduler.
@@ -1344,6 +1344,7 @@
 
 ## PHP 
 
+- [ergebnis/factory-bot](https://github.com/ergebnis/factory-bot) - :robot: Provides a fixture factory for doctrine/orm entities.
 - [scheb/2fa-bundle](https://github.com/scheb/2fa-bundle) - [READ ONLY] A generic interface to implement two-factor authentication in Symfony applications
 - [chrome-php/chrome](https://github.com/chrome-php/chrome) - Instrument headless chrome/chromium instances from PHP
 - [lsalp/Simple-Status-Page](https://github.com/lsalp/Simple-Status-Page) - Simple Status Page for PHP Server Monitor
