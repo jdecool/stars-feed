@@ -297,7 +297,6 @@
 - [jasonhargrove/ghost-medium-theme](https://github.com/jasonhargrove/ghost-medium-theme) - A base theme for Ghost.org blogging platform powered by Node.js. This theme uses Handlebar.js, Twitter Bootstrap, and Font Awesome. Design inspired by Medium.com.
 - [stripe-archive/shop](https://github.com/stripe-archive/shop) - Single-page shop
 - [simpleit/docky](https://github.com/simpleit/docky) - 
-- [klaussilveira/gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
 
 ## Clojure 
 
@@ -468,7 +467,7 @@
 - [cristianoliveira/ergo](https://github.com/cristianoliveira/ergo) - The management of multiple apps running over different ports made easy
 - [spiral/php-grpc](https://github.com/spiral/php-grpc) - :electric_plug: Fast and furious GRPC server for PHP applications
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Browse, organize, and share your photo collection. Privacy-friendly, simple to use & open-source! 🌈
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management. Powered by Go and Google TensorFlow! 🌈
 - [aacebedo/dnsdock](https://github.com/aacebedo/dnsdock) - DNS service discovery for Docker containers
 - [orisano/dlayer](https://github.com/orisano/dlayer) - dlayer is docker layer analyzer.
 - [buzzfeed/sso](https://github.com/buzzfeed/sso) - sso, aka S.S.Octopus, aka octoboi, is a single sign-on solution for securing internal services
@@ -1117,6 +1116,7 @@
 ## Less 
 
 - [xhacker/miracle-board](https://github.com/xhacker/miracle-board) - Just another simple and elegant status board / dashboard.
+- [klaussilveira/gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
 
 ## Lua 
 
