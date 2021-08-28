@@ -903,7 +903,7 @@
 - [Staffjoy/v2](https://github.com/Staffjoy/v2) - Staffjoy V2 - all microservices in a monorepo
 - [bilbof/purser](https://github.com/bilbof/purser) - A lightweight JavaScript library for preserving user data from first website visit to signup.
 - [Song-Li/cross_browser](https://github.com/Song-Li/cross_browser) - This is a project for a browser fingerprinting technique that can track users not only within a single browser but also across different browsers on the same machine.
-- [BoostIO/Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux.
+- [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - A markdown editor for developers on Mac, Windows and Linux.
 - [perftools/xhgui](https://github.com/perftools/xhgui) - Web interface for XHProf profiling data can store data in MongoDB or PDO database
 - [astefanutti/decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
@@ -1027,7 +1027,7 @@
 - [addyosmani/tmi](https://github.com/addyosmani/tmi) - TMI (Too Many Images) - discover your image weight on the web
 - [xat/castnow](https://github.com/xat/castnow) - commandline chromecast player
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
-- [M6Web/GithubTeamReviewer](https://github.com/M6Web/GithubTeamReviewer) - Review all pull requests of your teams in one place
+- [BedrockStreaming/GithubTeamReviewer](https://github.com/BedrockStreaming/GithubTeamReviewer) - Review all pull requests of your teams in one place
 - [FGRibreau/check-build](https://github.com/FGRibreau/check-build) - :dart: Check-build - Verifies that your NodeJS project follows team conventions, is well written, up to date and secure.
 - [ded/klass](https://github.com/ded/klass) - a utility for creating expressive classes in JavaScript
 - [maqetta/maqetta](https://github.com/maqetta/maqetta) - Maqetta Designer
@@ -1352,7 +1352,7 @@
 - [nuxsmin/sysPass](https://github.com/nuxsmin/sysPass) - Systems Password Manager
 - [globtec/phpadr](https://github.com/globtec/phpadr) - A PHP based command-line interface tool for working with Architecture Decision Records (ADR)
 - [Innmind/Doctrine](https://github.com/Innmind/Doctrine) - Declarative approach to eliminate state where not necessary
-- [stevedesmond-ca/php-libyear](https://github.com/stevedesmond-ca/php-libyear) - A simple measure of dependency freshness
+- [SteveDesmond-ca/php-libyear](https://github.com/SteveDesmond-ca/php-libyear) - A simple measure of dependency freshness
 - [cebe/php-openapi](https://github.com/cebe/php-openapi) - Read and write OpenAPI yaml/json files and make the content accessible in PHP objects.
 - [vtsykun/packeton](https://github.com/vtsykun/packeton) - :package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos.
 - [arnolem/gmail-archiver](https://github.com/arnolem/gmail-archiver) - Allows you to archive old emails from one Gmail mailbox to another Gmail mailbox
@@ -1726,8 +1726,8 @@
 - [phpfunct/funct](https://github.com/phpfunct/funct) - A PHP library with commonly used code blocks
 - [rlerdorf/php7dev](https://github.com/rlerdorf/php7dev) - Documentation for the php7dev Vagrant box image
 - [broadway/broadway-demo](https://github.com/broadway/broadway-demo) - Demo application that uses Broadway
-- [M6Web/ApiExceptionBundle](https://github.com/M6Web/ApiExceptionBundle) - Exception API Bundle
-- [M6Web/ElasticsearchBundle](https://github.com/M6Web/ElasticsearchBundle) - Integration of the Elasticsearch official PHP client within a Symfony Project
+- [BedrockStreaming/ApiExceptionBundle](https://github.com/BedrockStreaming/ApiExceptionBundle) - Exception API Bundle
+- [BedrockStreaming/ElasticsearchBundle](https://github.com/BedrockStreaming/ElasticsearchBundle) - Integration of the Elasticsearch official PHP client within a Symfony Project
 - [pocky/PageBundle](https://github.com/pocky/PageBundle) - [WIP] Page Management
 - [filepreviews/filepreviews-php](https://github.com/filepreviews/filepreviews-php) - PHP client library for FilePreviews.io
 - [broadway/broadway](https://github.com/broadway/broadway) - Infrastructure and testing helpers for creating CQRS and event sourced applications.
@@ -2088,6 +2088,8 @@
 
 ## Rust 
 
+- [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
+- [trusch/snakeos](https://github.com/trusch/snakeos) - bootable x86 snake game in rust
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [dertuxmalwieder/yaydl](https://github.com/dertuxmalwieder/yaydl) - yet another youtube down loader (Git mirror)
 - [Timmmm/autorebase](https://github.com/Timmmm/autorebase) - Automatically rebase all your branches onto master
@@ -2199,7 +2201,7 @@
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
 - [TheNewNormal/kube-solo-osx](https://github.com/TheNewNormal/kube-solo-osx) - Local development Kubernetes Solo Cluster for macOS made very simple
 - [Coding/WebIDE](https://github.com/Coding/WebIDE) - Coding WebIDE Community Edition
-- [M6Web/Coke](https://github.com/M6Web/Coke) - PHP Code Sniffer configurator
+- [BedrockStreaming/Coke](https://github.com/BedrockStreaming/Coke) - PHP Code Sniffer configurator
 - [rauchg/wifi-password](https://github.com/rauchg/wifi-password) - Get the password of the wifi you're on (bash)
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.
