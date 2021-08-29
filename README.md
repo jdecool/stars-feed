@@ -2363,6 +2363,7 @@
 
 ## Vue 
 
+- [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [vue-leaflet/vue-leaflet](https://github.com/vue-leaflet/vue-leaflet) - vue-leaflet compatible with vue3
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
