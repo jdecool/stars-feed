@@ -244,7 +244,7 @@
 - [wichtounet/thor-os](https://github.com/wichtounet/thor-os) - Simple operating system in C++, written from scratch
 - [ionescu007/lxss](https://github.com/ionescu007/lxss) - Fun with the Windows Subsystem for Linux (WSL/LXSS)
 - [google/szl](https://github.com/google/szl) - A compiler and runtime for the Sawzall language
-- [facebook/Surround360](https://github.com/facebook/Surround360) - Surround360 is Facebook's open source hardware and software for capturing stereoscopic 3D 360 video for VR. The repo contains hardware designs, as well as software for camera control and rendering.
+- [facebookarchive/Surround360](https://github.com/facebookarchive/Surround360) - Surround360 is Facebook's open source hardware and software for capturing stereoscopic 3D 360 video for VR. The repo contains hardware designs, as well as software for camera control and rendering.
 - [dropbox/lepton](https://github.com/dropbox/lepton) - Lepton is a tool and file format for losslessly compressing JPEGs by an average of 22%.
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [amazon-archives/amazon-dsstne](https://github.com/amazon-archives/amazon-dsstne) - Deep Scalable Sparse Tensor Network Engine (DSSTNE) is an Amazon developed library for building Deep Learning (DL) machine learning (ML) models
