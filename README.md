@@ -904,7 +904,7 @@
 - [Staffjoy/v2](https://github.com/Staffjoy/v2) - Staffjoy V2 - all microservices in a monorepo
 - [bilbof/purser](https://github.com/bilbof/purser) - A lightweight JavaScript library for preserving user data from first website visit to signup.
 - [Song-Li/cross_browser](https://github.com/Song-Li/cross_browser) - This is a project for a browser fingerprinting technique that can track users not only within a single browser but also across different browsers on the same machine.
-- [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - A markdown editor for developers on Mac, Windows and Linux.
+- [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [perftools/xhgui](https://github.com/perftools/xhgui) - Web interface for XHProf profiling data can store data in MongoDB or PDO database
 - [astefanutti/decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
