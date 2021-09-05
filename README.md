@@ -175,6 +175,7 @@
 
 ## C# # 
 
+- [devcrafting/architecture-styles](https://github.com/devcrafting/architecture-styles) - Different architecture / domain modelling styles
 - [jtheisen/reconciler](https://github.com/jtheisen/reconciler) - Update an entity graph in store to a given one by inserting, updating and removing the respective entities.
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 - [OpenSilver/OpenSilver](https://github.com/OpenSilver/OpenSilver) - This repository contains the source of both OpenSilver and CSHTML5. More information is available at: www.opensilver.net and www.cshtml5.com - Read README.md for the instructions on how to build the source code and how to test it.
