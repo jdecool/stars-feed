@@ -788,7 +788,6 @@
 - [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
 - [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
 - [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript) - A repository for All algorithms implemented in Javascript (for educational purposes only)
-- [kamranahmedse/roadmap.sh](https://github.com/kamranahmedse/roadmap.sh) - Community driven roadmaps, articles and resources for developers
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
 - [codemirror/codemirror.next](https://github.com/codemirror/codemirror.next) - The next generation of the CodeMirror in-browser editor
 - [gsilvamartin/RTCode](https://github.com/gsilvamartin/RTCode) - Real time code sharing web application
@@ -1873,7 +1872,7 @@
 
 ## Python 
 
-- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀 (Clone of https://github.com/public-apis/public-apis)
 - [SamSchott/maestral](https://github.com/SamSchott/maestral) - Open-source Dropbox client for macOS and Linux
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [cpfair/tapiriik](https://github.com/cpfair/tapiriik) - tapiriik keeps your fitness in sync
@@ -2295,6 +2294,7 @@
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - The best platform to write and share markdown.
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+- [kamranahmedse/roadmap.sh](https://github.com/kamranahmedse/roadmap.sh) - Community driven roadmaps, articles and resources for developers
 - [peter-evans/dockerhub-description](https://github.com/peter-evans/dockerhub-description) - A GitHub action to update a Docker Hub repository description from README.md
 - [axa-group/oauth2-mock-server](https://github.com/axa-group/oauth2-mock-server) - A development and test oriented OAuth2 mock server
 - [shivammathur/setup-php](https://github.com/shivammathur/setup-php) - GitHub action to set up PHP with required extensions, php.ini configuration, code-coverage support, and various tools like composer...
