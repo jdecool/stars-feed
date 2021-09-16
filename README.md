@@ -1348,6 +1348,8 @@
 
 ## PHP 
 
+- [ramsey/php-rfcs](https://github.com/ramsey/php-rfcs) - This is an experiment to export all RFCs from the PHP wiki into Git, including the change history for each RFC (along with the date and author of each change). This is not meant to replace the wiki.
+- [marcocesarato/PHP-Antimalware-Scanner](https://github.com/marcocesarato/PHP-Antimalware-Scanner) - AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it.
 - [mrsuh/php-generics](https://github.com/mrsuh/php-generics) - PHP generics written in PHP
 - [ergebnis/factory-bot](https://github.com/ergebnis/factory-bot) - :robot: Provides a fixture factory for doctrine/orm entities.
 - [scheb/2fa-bundle](https://github.com/scheb/2fa-bundle) - [READ ONLY] A generic interface to implement two-factor authentication in Symfony applications
