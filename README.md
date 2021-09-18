@@ -331,7 +331,7 @@
 
 ## Dockerfile 
 
-- [sherifabdlnaby/phpdocker](https://github.com/sherifabdlnaby/phpdocker) - 🐳   Production Grade, Rootless, and Preconfigured PHP Docker Image Template for Cloud-Native Deployments (and Kubernetes)
+- [sherifabdlnaby/kubephp](https://github.com/sherifabdlnaby/kubephp) - 🐳   Production Grade, Rootless, and Optimized PHP Container Image Template for Cloud-Native Deployments and Kubernetes.
 - [Zenika/alpine-chrome](https://github.com/Zenika/alpine-chrome) - Chrome Headless docker images built upon alpine official image
 - [OskarStark/phpstan-ga](https://github.com/OskarStark/phpstan-ga) - GithubAction for PHPStan
 - [jaem3l/php1-docker-image](https://github.com/jaem3l/php1-docker-image) - Docker image which provides basic installation of PHP in version 1.0.8
@@ -470,7 +470,7 @@
 - [cristianoliveira/ergo](https://github.com/cristianoliveira/ergo) - The management of multiple apps running over different ports made easy
 - [spiral/php-grpc](https://github.com/spiral/php-grpc) - :electric_plug: Fast and furious GRPC server for PHP applications
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management. Powered by Go and Google TensorFlow! 🌈
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management powered by Go and Google TensorFlow 🌈
 - [aacebedo/dnsdock](https://github.com/aacebedo/dnsdock) - DNS service discovery for Docker containers
 - [orisano/dlayer](https://github.com/orisano/dlayer) - dlayer is docker layer analyzer.
 - [buzzfeed/sso](https://github.com/buzzfeed/sso) - sso, aka S.S.Octopus, aka octoboi, is a single sign-on solution for securing internal services
@@ -1225,7 +1225,7 @@
 - [sarthology/ResolutionBoard](https://github.com/sarthology/ResolutionBoard) - 📅 A template that helps you achieve your resolutions every year
 - [jdumars/agileops](https://github.com/jdumars/agileops) - The Agile Operations methodology
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [mthenw/awesome-layers](https://github.com/mthenw/awesome-layers) - λ A curated list of awesome AWS Lambda Layers.
+- [mthenw/awesome-layers](https://github.com/mthenw/awesome-layers) - λ A curated list of awesome AWS Lambda Layers. Sponsored by https://cloudash.dev
 - [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 - [Porges/programming-history](https://github.com/Porges/programming-history) - Inspired by Cajori’s A History of Mathematical Notations, and/or TV Tropes.
