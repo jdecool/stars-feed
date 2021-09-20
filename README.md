@@ -753,6 +753,7 @@
 
 ## JavaScript 
 
+- [i5ik/jspaint.exe](https://github.com/i5ik/jspaint.exe) - JS Paint ~~ as a cross-platform native desktop app. In other words, the "🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras".exe hehe
 - [typicode/husky](https://github.com/typicode/husky) - Modern native Git hooks made easy 🐶 woof!
 - [hieunc229/copilot-clone](https://github.com/hieunc229/copilot-clone) - VSCode extension for code suggestion
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
