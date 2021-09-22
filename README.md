@@ -1927,7 +1927,7 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [yahoo/open_nsfw](https://github.com/yahoo/open_nsfw) - Not Suitable for Work (NSFW) classification using deep neural network Caffe models.
-- [fireeye/GeoLogonalyzer](https://github.com/fireeye/GeoLogonalyzer) - GeoLogonalyzer is a utility to analyze remote access logs for anomalies such as travel feasibility and data center sources.
+- [mandiant/GeoLogonalyzer](https://github.com/mandiant/GeoLogonalyzer) - GeoLogonalyzer is a utility to analyze remote access logs for anomalies such as travel feasibility and data center sources.
 - [openfoodfacts/openfoodfacts-apirestpython](https://github.com/openfoodfacts/openfoodfacts-apirestpython) - Python API for Open Food Facts (using a DB dump)
 - [leapsecurity/InSpy](https://github.com/leapsecurity/InSpy) - A python based LinkedIn enumeration tool
 - [vaguileradiaz/tinfoleak](https://github.com/vaguileradiaz/tinfoleak) - The most complete open-source tool for Twitter intelligence analysis
@@ -2265,7 +2265,7 @@
 - [cristibaluta/Jirassic](https://github.com/cristibaluta/Jirassic) - Time tracking done right. Time tracking for employees.
 - [soapyigu/Swift-30-Projects](https://github.com/soapyigu/Swift-30-Projects) - 30 mini Swift Apps for self-study
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
-- [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift web framework.
+- [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
 - [nzff/cardboard-swift](https://github.com/nzff/cardboard-swift) - Google's Cardboard SDK ported to Swift and iOS.
 - [Jintin/Swimat](https://github.com/Jintin/Swimat) - An Xcode formatter plug-in to format your swift code.
 - [nst/ScreenTime](https://github.com/nst/ScreenTime) - create movies from periodic screenshots
