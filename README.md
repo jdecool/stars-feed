@@ -770,7 +770,7 @@
 - [axioms-io/axioms-jwt-debugger](https://github.com/axioms-io/axioms-jwt-debugger) - Axioms JWT Debugger
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app
 - [fregante/github-issue-link-status](https://github.com/fregante/github-issue-link-status) - Colorize issue and PR links to see their status (open, closed, merged)
-- [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading a large number of keys.
+- [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys.
 - [seanmiller802/BrowserTime](https://github.com/seanmiller802/BrowserTime) - open source browser history page with analytics
 - [Tom32i/synchroplayer](https://github.com/Tom32i/synchroplayer) - Synchronized video player for watching videos together remotely.
 - [nbrownus/streamstash](https://github.com/nbrownus/streamstash) - Log aggregating, filtering, redirecting service
@@ -2295,7 +2295,7 @@
 - [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [thecodingmachine/workadventure](https://github.com/thecodingmachine/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
 - [stoplightio/prism](https://github.com/stoplightio/prism) - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
-- [rowyio/rowy](https://github.com/rowyio/rowy) - ⚡️✨ Rowy is an open source platform to manage Firestore data in a spreadsheet-like UI, deploy Cloud Functions easily, and connect to your favorite third-party platforms.⚡️✨
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Open source platform to manage Firestore data in a spreadsheet-like UI, deploy Cloud Functions easily, and connect to your favorite third-party platforms.⚡️✨
 - [betagouv/mon-entreprise](https://github.com/betagouv/mon-entreprise) - L'assistant officiel de l'entrepreneur
 - [bt0r/NoteFlix](https://github.com/bt0r/NoteFlix) - Permet d'avoir un score Allociné et SensCritique sur les films/séries Netflix
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
