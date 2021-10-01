@@ -327,7 +327,7 @@
 
 ## Dart 
 
-- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [redstone-dart/redstone](https://github.com/redstone-dart/redstone) - A metadata driven microframework for Dart.
 
 ## Dockerfile 
