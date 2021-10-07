@@ -1237,7 +1237,7 @@
 - [jlondiche/job-board-php](https://github.com/jlondiche/job-board-php) - 
 - [mdiplo/Medias_francais](https://github.com/mdiplo/Medias_francais) - Qui possède quoi ?
 - [PharkMillups/beautiful-docs](https://github.com/PharkMillups/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL & Relay
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [j4p3/strimpack](https://github.com/j4p3/strimpack) - A platform for livestreamers to make a home for their audience.
 - [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
