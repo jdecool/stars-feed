@@ -120,7 +120,6 @@
 - [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 - [beberlei/php-compiletime-poc](https://github.com/beberlei/php-compiletime-poc) - Extension that counts the time spent in PHP file compilation during the execution of a script
 - [koute/bytehound](https://github.com/koute/bytehound) - A memory profiler for Linux.
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [chrismaltby/gb-studio](https://github.com/chrismaltby/gb-studio) - A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
 - [jonasob/jwhois](https://github.com/jonasob/jwhois) - 
 - [beberlei/php-ast-tracer-poc](https://github.com/beberlei/php-ast-tracer-poc) - 
@@ -386,7 +385,7 @@
 - [geohot/minikeyvalue](https://github.com/geohot/minikeyvalue) - A distributed key value store in under 1000 lines. Used in production at comma.ai
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) - A Golang Job Scheduling Package.
-- [TwinProduction/gatus](https://github.com/TwinProduction/gatus) - ⛑ Gatus - Automated service health dashboard
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
 - [redirect2me/which-dns](https://github.com/redirect2me/which-dns) - Detects which DNS server is being used
 - [deletescape/goop](https://github.com/deletescape/goop) - Yet another tool to dump a git repository from a website.
 - [kkdai/youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
@@ -1913,6 +1912,7 @@
 - [renatomefi/php-fpm-healthcheck](https://github.com/renatomefi/php-fpm-healthcheck) - A POSIX compliant sh script to healthcheck PHP fpm status, can be used only for pinging or check for specific metrics
 - [larsks/ansible-toolbox](https://github.com/larsks/ansible-toolbox) - 
 - [adithyakhamithkar/ansible-playbooks](https://github.com/adithyakhamithkar/ansible-playbooks) - Ansible playbook collection that have been written for Ubuntu. Some of the playbooks are Elasticsearch, Mesos, AWS, MySql, Sensu, Nginx etc..
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [NVIDIA/vid2vid](https://github.com/NVIDIA/vid2vid) - Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [SebastienReuiller/teleinfo-linky-with-raspberry](https://github.com/SebastienReuiller/teleinfo-linky-with-raspberry) - Surveiller sa consommation électrique en temps réel avec un compteur Linky et un Raspberry
@@ -2099,6 +2099,7 @@
 
 ## Rust 
 
+- [mdsherry/clokwerk](https://github.com/mdsherry/clokwerk) - Simple scheduler for Rust
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [trusch/snakeos](https://github.com/trusch/snakeos) - bootable x86 snake game in rust
