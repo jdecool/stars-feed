@@ -2296,7 +2296,7 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [thecodingmachine/workadventure](https://github.com/thecodingmachine/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
 - [stoplightio/prism](https://github.com/stoplightio/prism) - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Open-source Airtable-like experience for your database with GCP's scalability. Build any automation or cloud functions for your product. ⚡️✨
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Open-source Airtable-like experience for your database (Firestore) with GCP's scalability. Build any automation or cloud functions for your product. ⚡️✨
 - [betagouv/mon-entreprise](https://github.com/betagouv/mon-entreprise) - L'assistant officiel de l'entrepreneur
 - [bt0r/NoteFlix](https://github.com/bt0r/NoteFlix) - Permet d'avoir un score Allociné et SensCritique sur les films/séries Netflix
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
