@@ -199,6 +199,7 @@
 
 ## C++ 
 
+- [k4zmu2a/SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Decompilation of 3D Pinball for Windows – Space Cadet
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [GTAmodding/re3](https://github.com/GTAmodding/re3) - GTA III, Vice City
 - [FD-/RPiPlay](https://github.com/FD-/RPiPlay) - An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.
@@ -1350,6 +1351,7 @@
 
 ## PHP 
 
+- [revoltphp/event-loop](https://github.com/revoltphp/event-loop) - Revolt is a rock-solid event loop for concurrent PHP applications.
 - [ramsey/php-rfcs](https://github.com/ramsey/php-rfcs) - This is an experiment to export all RFCs from the PHP wiki into Git, including the change history for each RFC (along with the date and author of each change). This is not meant to replace the wiki.
 - [marcocesarato/PHP-Antimalware-Scanner](https://github.com/marcocesarato/PHP-Antimalware-Scanner) - AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it.
 - [mrsuh/php-generics](https://github.com/mrsuh/php-generics) - PHP generics written in PHP
