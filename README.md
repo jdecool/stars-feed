@@ -371,6 +371,7 @@
 
 ## Go 
 
+- [librespeed/speedtest-cli](https://github.com/librespeed/speedtest-cli) - Command line client for LibreSpeed
 - [im2nguyen/rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [warrensbox/hubapp](https://github.com/warrensbox/hubapp) - The `hubapp` command line tool lets you install app binaries from github user's releases.
