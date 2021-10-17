@@ -1659,7 +1659,7 @@
 - [beberlei/porpaginas](https://github.com/beberlei/porpaginas) - A simple abstraction for paginated and non-paginated results
 - [php-school/cli-menu](https://github.com/php-school/cli-menu) - 🖥  Build beautiful PHP CLI menus. Simple yet Powerful. Expressive DSL.
 - [ubirak/rest-api-behat-extension](https://github.com/ubirak/rest-api-behat-extension) - Stuff to easily test your rest api with Behat
-- [OmarElGabry/lumen-api-oauth](https://github.com/OmarElGabry/lumen-api-oauth) - A RESTful API based on Lumen micro-framework with OAuth2.
+- [OmarElgabry/lumen-api-oauth](https://github.com/OmarElgabry/lumen-api-oauth) - A RESTful API based on Lumen micro-framework with OAuth2.
 - [botman/botman](https://github.com/botman/botman) - A framework agnostic PHP library to build chat bots
 - [spatie/opening-hours](https://github.com/spatie/opening-hours) - Query and format a set of opening hours
 - [ciaranmcnulty/behat-localwebserverextension](https://github.com/ciaranmcnulty/behat-localwebserverextension) - A behat extension for people who forget to start their web server
