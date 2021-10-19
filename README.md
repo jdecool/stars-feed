@@ -371,6 +371,7 @@
 
 ## Go 
 
+- [m3o/m3o](https://github.com/m3o/m3o) - The open source public cloud platform. An AWS alternative for the next generation of developers.
 - [librespeed/speedtest-cli](https://github.com/librespeed/speedtest-cli) - Command line client for LibreSpeed
 - [im2nguyen/rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
@@ -1190,7 +1191,6 @@
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.
 - [Clivern/Scalability](https://github.com/Clivern/Scalability) - 🔖 Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems.
 - [Dashlane/password-changer-well-known](https://github.com/Dashlane/password-changer-well-known) - Documentation for using Dashlane's password changer .well-known
-- [mfo/dashlord](https://github.com/mfo/dashlord) - 
 - [gbprod/stars](https://github.com/gbprod/stars) - 
 - [elazar/asynchronous-php](https://github.com/elazar/asynchronous-php) - List of resources for asynchronous programming in PHP
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
