@@ -372,7 +372,7 @@
 ## Go 
 
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
-- [m3o/m3o](https://github.com/m3o/m3o) - The open source public cloud platform. An AWS alternative for the next generation of developers.
+- [m3o/m3o](https://github.com/m3o/m3o) - The open source public cloud platform. We are building an AWS alternative for the next generation of developers.
 - [librespeed/speedtest-cli](https://github.com/librespeed/speedtest-cli) - Command line client for LibreSpeed
 - [im2nguyen/rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
@@ -2219,7 +2219,7 @@
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
 - [TheNewNormal/kube-solo-osx](https://github.com/TheNewNormal/kube-solo-osx) - Local development Kubernetes Solo Cluster for macOS made very simple
 - [Coding/WebIDE](https://github.com/Coding/WebIDE) - Coding WebIDE Community Edition
-- [BedrockStreaming/Coke](https://github.com/BedrockStreaming/Coke) - PHP Code Sniffer configurator
+- [BedrockStreaming/Coke](https://github.com/BedrockStreaming/Coke) - :no_entry: DEPRECATED - PHP Code Sniffer configurator
 - [rauchg/wifi-password](https://github.com/rauchg/wifi-password) - Get the password of the wifi you're on (bash)
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.
