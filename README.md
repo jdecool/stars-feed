@@ -1354,6 +1354,8 @@
 
 ## PHP 
 
+- [LongTermSupport/php-book-markdown-tools](https://github.com/LongTermSupport/php-book-markdown-tools) - A set of tools to assist with processing markdown files, geared towards book authorship
+- [eonx-com/easy-monorepo](https://github.com/eonx-com/easy-monorepo) - The packages to step the f*k up in your projects
 - [revoltphp/event-loop](https://github.com/revoltphp/event-loop) - Revolt is a rock-solid event loop for concurrent PHP applications.
 - [ramsey/php-rfcs](https://github.com/ramsey/php-rfcs) - This is an experiment to export all RFCs from the PHP wiki into Git, including the change history for each RFC (along with the date and author of each change). This is not meant to replace the wiki.
 - [marcocesarato/PHP-Antimalware-Scanner](https://github.com/marcocesarato/PHP-Antimalware-Scanner) - AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it.
@@ -2103,6 +2105,7 @@
 
 ## Rust 
 
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [mdsherry/clokwerk](https://github.com/mdsherry/clokwerk) - Simple scheduler for Rust
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
