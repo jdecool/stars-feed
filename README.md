@@ -95,6 +95,7 @@
 
 ## C 
 
+- [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
 - [QB64Team/qb64](https://github.com/QB64Team/qb64) - BASIC for the modern era.
 - [lpereira/hardinfo](https://github.com/lpereira/hardinfo) - System profiler and benchmark tool for Linux systems
 - [Softmotions/ejdb](https://github.com/Softmotions/ejdb) - :snowboarder: EJDB 2.0 — Embeddable JSON Database engine C library. Simple XPath like query language (JQL). Websockets / Android / iOS / React Native / Flutter / Java / Dart / Node.js bindings. Docker image.
@@ -231,7 +232,7 @@
 - [xmichelo/Beeftext](https://github.com/xmichelo/Beeftext) - A text snippet tool for Windows.
 - [tony2001/pinba_engine](https://github.com/tony2001/pinba_engine) - Pinba - MySQL plugin and storage engine
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
-- [librevault/librevault](https://github.com/librevault/librevault) - Librevault - Peer-to-peer, decentralized and open source file sync.
+- [librevault/librevault](https://github.com/librevault/librevault) - Librevault - Peer-to-peer, decentralized and open-source file sync.
 - [valhalla/valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap
 - [apple/turicreate](https://github.com/apple/turicreate) - Turi Create simplifies the development of custom machine learning models.
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP
@@ -372,6 +373,7 @@
 
 ## Go 
 
+- [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [m3o/m3o](https://github.com/m3o/m3o) - The open source public cloud platform. We are building an AWS alternative for the next generation of developers.
 - [librespeed/speedtest-cli](https://github.com/librespeed/speedtest-cli) - Command line client for LibreSpeed
@@ -1475,7 +1477,7 @@
 - [sebastianfeldmann/phpbu](https://github.com/sebastianfeldmann/phpbu) - PHP Backup Utility - Creates and encrypts database and file backups, syncs your backups to other servers or cloud services and assists you monitor your backup process
 - [mnapoli/externals](https://github.com/mnapoli/externals) - Opening PHP's #internals to the outside
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
-- [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - ⚗️ Adds static analysis to Laravel improving developer productivity and code quality.
+- [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [Happyr/GoogleAnalyticsBundle](https://github.com/Happyr/GoogleAnalyticsBundle) - The Google Analytics Bundle lets you send data (like event tracking) to Google.
 - [thecodingmachine/gitlab-hook-middleware](https://github.com/thecodingmachine/gitlab-hook-middleware) - A PSR-15 middleware to handle Gitlab hooks
 - [j0k3r/graby](https://github.com/j0k3r/graby) - Graby helps you extract article content from web pages
