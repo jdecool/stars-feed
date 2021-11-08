@@ -1360,6 +1360,7 @@
 
 ## PHP 
 
+- [godruoyi/php-snowflake](https://github.com/godruoyi/php-snowflake) - ❄ An ID Generator for PHP based on Snowflake Algorithm (Twitter announced).
 - [LongTermSupport/php-book-markdown-tools](https://github.com/LongTermSupport/php-book-markdown-tools) - A set of tools to assist with processing markdown files, geared towards book authorship
 - [eonx-com/easy-monorepo](https://github.com/eonx-com/easy-monorepo) - The packages to step the f*k up in your projects
 - [revoltphp/event-loop](https://github.com/revoltphp/event-loop) - Revolt is a rock-solid event loop for concurrent PHP applications.
