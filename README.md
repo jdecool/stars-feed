@@ -375,7 +375,7 @@
 
 - [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
-- [m3o/m3o](https://github.com/m3o/m3o) - The open source public cloud platform. We are building an AWS alternative for the next generation of developers.
+- [m3o/m3o](https://github.com/m3o/m3o) - The open source public cloud platform. We are building an AWS alternative for the Next generation of developers.
 - [librespeed/speedtest-cli](https://github.com/librespeed/speedtest-cli) - Command line client for LibreSpeed
 - [im2nguyen/rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
@@ -627,6 +627,7 @@
 
 ## HTML 
 
+- [jbrains/trivia](https://github.com/jbrains/trivia) - Legacy Code Retreat - Trivia Game codebase
 - [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing for Rust
 - [learning-rust/learning-rust.github.io](https://github.com/learning-rust/learning-rust.github.io) - 🌐 https://learning-rust.github.io
 - [warrensbox/terraform-switcher](https://github.com/warrensbox/terraform-switcher) - A command line tool to switch between different versions of terraform  (install with homebrew and more)
@@ -781,7 +782,7 @@
 - [Tom32i/synchroplayer](https://github.com/Tom32i/synchroplayer) - Synchronized video player for watching videos together remotely.
 - [nbrownus/streamstash](https://github.com/nbrownus/streamstash) - Log aggregating, filtering, redirecting service
 - [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle) - A simple, distributed task scheduler and runner with a web based UI.
-- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio.
+- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [chrnorm/deployment-action](https://github.com/chrnorm/deployment-action) - GitHub action to create a Deployment
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
