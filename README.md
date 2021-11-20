@@ -144,7 +144,7 @@
 - [basil00/reqrypt](https://github.com/basil00/reqrypt) - A censorship circumvention tool
 - [krakjoe/autostrict](https://github.com/krakjoe/autostrict) - Automatic strict types in PHP7
 - [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
-- [willdurand/willOS](https://github.com/willdurand/willOS) - :floppy_disk: A minimal kernel (just a hobby, won't be big and professional). // Work In Progress
+- [willdurand/ArvernOS](https://github.com/willdurand/ArvernOS) - :floppy_disk: A minimal kernel (just a hobby, won't be big and professional). // Work In Progress
 - [hak5darren/USB-Rubber-Ducky](https://github.com/hak5darren/USB-Rubber-Ducky) - 
 - [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
 - [robertfisk/USG](https://github.com/robertfisk/USG) - The USG is Good, not Bad
@@ -157,7 +157,7 @@
 - [balde/balde](https://github.com/balde/balde) - A microframework for C based on GLib and bad intentions.
 - [lavabit/magma](https://github.com/lavabit/magma) - The magma server daemon, is an encrypted email system with support for SMTP, POP, IMAP, HTTP and MOLTEN,. Additional support for DMTP and DMAP is currently in active development.
 - [jech/polipo](https://github.com/jech/polipo) - The Polipo caching HTTP proxy
-- [zyantific/zydis](https://github.com/zyantific/zydis) - Fast and lightweight x86/x86-64 disassembler library
+- [zyantific/zydis](https://github.com/zyantific/zydis) - Fast and lightweight x86/x86-64 disassembler and code generation library
 - [badlee/PHPJS](https://github.com/badlee/PHPJS) - Run javascript inside PHP (powered by duktape.org)
 - [php-ds/ext-ds](https://github.com/php-ds/ext-ds) - An extension providing efficient data structures for PHP 7
 - [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
@@ -2306,6 +2306,7 @@
 
 ## TypeScript 
 
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [geospoc/v-mapbox](https://github.com/geospoc/v-mapbox) - A cloned & maintained version of vue-mapbox
 - [SamKirkland/FTP-Deploy-Action](https://github.com/SamKirkland/FTP-Deploy-Action) - Deploys a GitHub project to a FTP server using GitHub actions
