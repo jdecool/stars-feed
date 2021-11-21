@@ -494,7 +494,7 @@
 - [docker/app](https://github.com/docker/app) - Make your Docker Compose applications reusable, and share them on Docker Hub
 - [atlassian/escalator](https://github.com/atlassian/escalator) - Escalator is a batch or job optimized horizontal autoscaler for Kubernetes
 - [src-d/gitbase](https://github.com/src-d/gitbase) - SQL interface to git repositories, written in Go. https://docs.sourced.tech/gitbase
-- [alexei-led/pumba](https://github.com/alexei-led/pumba) - Chaos testing, network emulation and stress testing tool for containers
+- [alexei-led/pumba](https://github.com/alexei-led/pumba) - Chaos testing, network emulation, and stress testing tool for containers
 - [machinebox/appify](https://github.com/machinebox/appify) - Create a macOS Application from an executable (like a Go binary)
 - [kubeless/kubeless](https://github.com/kubeless/kubeless) - Kubernetes Native Serverless Framework
 - [ldez/prm](https://github.com/ldez/prm) - Pull Request Manager for Maintainers
@@ -1362,6 +1362,7 @@
 
 ## PHP 
 
+- [bilfeldt/laravel-route-statistics](https://github.com/bilfeldt/laravel-route-statistics) - Log requests and group together for aggregated statistics of route usage
 - [godruoyi/php-snowflake](https://github.com/godruoyi/php-snowflake) - ❄ An ID Generator for PHP based on Snowflake Algorithm (Twitter announced).
 - [LongTermSupport/php-book-markdown-tools](https://github.com/LongTermSupport/php-book-markdown-tools) - A set of tools to assist with processing markdown files, geared towards book authorship
 - [eonx-com/easy-monorepo](https://github.com/eonx-com/easy-monorepo) - The packages to step the f*k up in your projects
