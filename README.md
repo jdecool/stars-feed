@@ -846,7 +846,6 @@
 - [timezoneio/timezoneio](https://github.com/timezoneio/timezoneio) - :clock8: :clock12: :clock2: Official repo of the app that helps you stay in sync with your globally distributed team
 - [sigalor/whatsapp-web-reveng](https://github.com/sigalor/whatsapp-web-reveng) - Reverse engineering WhatsApp Web.
 - [tlbtlbtlb/startuptools](https://github.com/tlbtlbtlb/startuptools) - Tools for startups
-- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [jdittrich/quickMockup](https://github.com/jdittrich/quickMockup) - HTML based interface mockups
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [egoist/vue-content-loader](https://github.com/egoist/vue-content-loader) - SVG component to create placeholder loading, like Facebook cards loading.
@@ -1023,7 +1022,6 @@
 - [weiland/es6-babel-systemjs-boilerplate](https://github.com/weiland/es6-babel-systemjs-boilerplate) - ES6 babel (formerly 6to5) & SystemJS Boilerplate
 - [superkhau/lice](https://github.com/superkhau/lice) - An open source license generator and license viewer.
 - [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
-- [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [englercj/phaser-debug](https://github.com/englercj/phaser-debug) - Simple debug module for phaser
 - [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
 - [enricolucia/pong](https://github.com/enricolucia/pong) - A pure javascript pong game clone based on socket.io and canvas.
@@ -1139,7 +1137,6 @@
 ## Makefile 
 
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
-- [ergebnis/php-package-template](https://github.com/ergebnis/php-package-template) - :octocat: + :ledger: Provides a GitHub repository template for a PHP package, using GitHub actions.
 - [akrabat/bref-image-resizer](https://github.com/akrabat/bref-image-resizer) - Serverless PHP (Bref/Lambda) function to resize an image on upload to an S3 bucket
 - [jakzal/phpqa](https://github.com/jakzal/phpqa) - Docker image that provides static analysis tools for PHP
 
@@ -1475,6 +1472,7 @@
 - [enumag/no-thanks](https://github.com/enumag/no-thanks) - Prevents symfony/flex from printing thanks reminder.
 - [awes-io/awes-io](https://github.com/awes-io/awes-io) - Awes.io // boilerplate based on Vue, Nuxt, TailwindCSS plus Laravel as a backend. 🤟
 - [domainmod/domainmod](https://github.com/domainmod/domainmod) - DomainMOD is an open source application written in PHP & MySQL used to manage your domains and other internet assets in a central location. DomainMOD also includes a Data Warehouse framework that allows you to import your web server data so that you can view, export, and report on your live data.
+- [ergebnis/php-package-template](https://github.com/ergebnis/php-package-template) - :octocat: + :ledger: Provides a GitHub repository template for a PHP package, using GitHub actions.
 - [B-Galati/monolog-sentry-handler](https://github.com/B-Galati/monolog-sentry-handler) - Monolog handler for Sentry PHP SDK v2 with breadcrumbs support
 - [composer/satis](https://github.com/composer/satis) - Simple static Composer repository generator - For a full private Composer repo use Private Packagist
 - [Swop/github-webhook-middleware](https://github.com/Swop/github-webhook-middleware) - PSR-7 style & PSR-15 compatible middleware which will verify if the incoming GitHub web hook request is correctly signed.
@@ -2219,6 +2217,7 @@
 - [cytopia/awesome-ci](https://github.com/cytopia/awesome-ci) - Awesome Continuous Integration - Lot's of tools for git, file and static source code analysis.
 - [pyaillet/conf-linuxkit](https://github.com/pyaillet/conf-linuxkit) - Projects used in demos of our linuxkit talk
 - [hraban/tomono](https://github.com/hraban/tomono) - Multi- To Mono-repository
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [laravel/settler](https://github.com/laravel/settler) - 
 - [shopsys/monorepo-tools](https://github.com/shopsys/monorepo-tools) - [READ-ONLY] Tools for building and splitting monolithic repository from existing packages (with their history unchanged). This package is used for splitting our monorepo and we share it with our community as it is. We do not intend to support or develop it any further. Feel free to fork it and adjust for your own need.
 - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
@@ -2389,6 +2388,7 @@
 - [phiresky/nmap-log-parse](https://github.com/phiresky/nmap-log-parse) - Logs which devices are in your local network and draws graphs
 - [FlorianRappl/Mario5TS](https://github.com/FlorianRappl/Mario5TS) - The TypeScript version of the Mario5 demo application.
 - [aksharpatel47/Phaser-Typescript-Tutorials-Code](https://github.com/aksharpatel47/Phaser-Typescript-Tutorials-Code) - This repository contains code written in typescript for various tutorials found online for Phaser Game Framework.
+- [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [sahat/satellizer](https://github.com/sahat/satellizer) - Token-based AngularJS Authentication
 - [serkanyersen/sync](https://github.com/serkanyersen/sync) - syncs your local folder with remote folder using scp
 
