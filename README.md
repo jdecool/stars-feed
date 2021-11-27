@@ -761,6 +761,7 @@
 
 ## JavaScript 
 
+- [dalunacrobate/DaProfiler](https://github.com/dalunacrobate/DaProfiler) - DaProfiler allows you to create a profile on your target based in France only. The particularity of this program is its ability to find the e-mail addresses your target.
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [i5ik/jspaint.exe](https://github.com/i5ik/jspaint.exe) - 🌂JS Paint ~~ as a cross-platform native desktop app. In other words, the "🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras".exe hehe
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
@@ -1386,7 +1387,7 @@
 - [container-interop/service-provider](https://github.com/container-interop/service-provider) - [EXPERIMENTAL] Promoting container interoperability through standard service providers
 - [steevanb/doctrine-stats](https://github.com/steevanb/doctrine-stats) - Get Doctrine stats : managed entities, lazy loaded entities, hydration time etc.
 - [Ph3nol/Trading-Bot](https://github.com/Ph3nol/Trading-Bot) - Automated Trading Bot based on managed instances of Freqtrade, fully Dockerized.
-- [bytefury/crater](https://github.com/bytefury/crater) - Free & Open Source Invoice App for Freelancers & Small Businesses
+- [crater-invoice/crater](https://github.com/crater-invoice/crater) - Open Source Invoicing Solution for Individuals & Businesses
 - [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
 - [phpvirtualbox/phpvirtualbox](https://github.com/phpvirtualbox/phpvirtualbox) - A web interface to manage and access Virtualbox machines.
 - [WsdlToPhp/PackageGenerator](https://github.com/WsdlToPhp/PackageGenerator) - Generates a PHP SDK based on a WSDL, simple and powerful, WSDL to PHP
