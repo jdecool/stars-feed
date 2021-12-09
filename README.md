@@ -483,7 +483,7 @@
 - [buzzfeed/sso](https://github.com/buzzfeed/sso) - sso, aka S.S.Octopus, aka octoboi, is a single sign-on solution for securing internal services
 - [matoous/go-nanoid](https://github.com/matoous/go-nanoid) - Golang random IDs generator.
 - [dutchcoders/go-clamd](https://github.com/dutchcoders/go-clamd) - Interface to clamd (clamav daemon). You can use go-clamd to implement virus detection capabilities to your application.
-- [UKHomeOffice/repo-security-scanner](https://github.com/UKHomeOffice/repo-security-scanner) - CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys
+- [UKHomeOffice-attic/repo-security-scanner](https://github.com/UKHomeOffice-attic/repo-security-scanner) - CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys
 - [gaia-pipeline/gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [cirocosta/cr](https://github.com/cirocosta/cr) - Runs your tasks at maximum concurrency
@@ -1626,7 +1626,7 @@
 - [phpactor/code-builder](https://github.com/phpactor/code-builder) - Build or modify source code
 - [aurimasniekis/flex-server](https://github.com/aurimasniekis/flex-server) - The Symfony.sh proxy with custom recipes for use instead of original endpoint
 - [kreta/Kreta](https://github.com/kreta/Kreta) - Modern project management solution
-- [flyimg/flyimg](https://github.com/flyimg/flyimg) - Dockerized PHP7 application runs as a Microservice to resize and crop images on the fly. Get optimised images with MozJPEG, WebP or PNG using ImageMagick, with an efficient caching system.
+- [flyimg/flyimg](https://github.com/flyimg/flyimg) - Dockerized PHP application runs as a Microservice to resize and crop images on the fly. Get optimised images with MozJPEG, WebP or PNG using ImageMagick, with an efficient caching system.
 - [Stampie/Stampie](https://github.com/Stampie/Stampie) - Library for using online Email providers
 - [the-badger/badger](https://github.com/the-badger/badger) - Gamification platform to motivate your team with badges, adventures & other cool stuff!
 - [slince/spike](https://github.com/slince/spike) - :mega: A fast reverse proxy written in PHP that helps to expose local services to the internet
