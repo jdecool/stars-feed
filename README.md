@@ -138,7 +138,7 @@
 - [OpenDUNE/OpenDUNE](https://github.com/OpenDUNE/OpenDUNE) - DUNE, REINVENTED
 - [microsoft/winfile](https://github.com/microsoft/winfile) - Original Windows File Manager (winfile) with enhancements
 - [patrickallaert/php-apm](https://github.com/patrickallaert/php-apm) - PHP APM (Alternative PHP Monitor)
-- [arnaud-lb/php-memory-profiler](https://github.com/arnaud-lb/php-memory-profiler) - Memory leak profiler for PHP
+- [arnaud-lb/php-memory-profiler](https://github.com/arnaud-lb/php-memory-profiler) - Memory profiler for PHP. Helps finding memory leaks in PHP scripts.
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [NoiseByNorthwest/php-spx](https://github.com/NoiseByNorthwest/php-spx) - A simple & straight-to-the-point PHP profiling extension with its built-in web UI
 - [basil00/reqrypt](https://github.com/basil00/reqrypt) - A censorship circumvention tool
@@ -1362,6 +1362,7 @@
 
 ## PHP 
 
+- [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) - Issue Bot used on symfony/symfony
 - [bilfeldt/laravel-route-statistics](https://github.com/bilfeldt/laravel-route-statistics) - Log requests and group together for aggregated statistics of route usage
 - [godruoyi/php-snowflake](https://github.com/godruoyi/php-snowflake) - ❄ An ID Generator for PHP based on Snowflake Algorithm (Twitter announced).
 - [LongTermSupport/php-book-markdown-tools](https://github.com/LongTermSupport/php-book-markdown-tools) - A set of tools to assist with processing markdown files, geared towards book authorship
@@ -1591,7 +1592,7 @@
 - [mikeerickson/phpunit-pretty-result-printer](https://github.com/mikeerickson/phpunit-pretty-result-printer) - PHPUnit Pretty Result Printer -- make your PHPUnit tests look pretty!
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library
 - [edyan/neuralyzer](https://github.com/edyan/neuralyzer) - Neuralyzer is a library and a command line tool to anonymize databases (by updating existing data or populating a table with fake data)
-- [llaville/php-compat-info](https://github.com/llaville/php-compat-info) - Library that find out the minimum version and the extensions required for a piece of code to run
+- [llaville/php-compatinfo](https://github.com/llaville/php-compatinfo) - Library that find out the minimum version and the extensions required for a piece of code to run
 - [php-enqueue/enqueue-dev](https://github.com/php-enqueue/enqueue-dev) - Message Queue, Job Queue, Broadcasting, WebSockets packages for PHP, Symfony, Laravel, Magento. DEVELOPMENT REPOSITORY - provided by Forma-Pro
 - [afilina/doctrine-perf](https://github.com/afilina/doctrine-perf) - Examples used in my conference talk: https://speakerdeck.com/afilina/doctrine-performance-optimization
 - [rectorphp/rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
@@ -2317,7 +2318,7 @@
 - [0b5vr/condition](https://github.com/0b5vr/condition) - A 64KB WebGL Intro. Appeared in Revision 2021, PC 64KB Intro Compo
 - [screensy/screensy](https://github.com/screensy/screensy) - Simple peer-to-peer screen sharing
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
 - [ziulev/spotter](https://github.com/ziulev/spotter) - 🔭 macOS productivity tool to launch everything
 - [2fd/graphdoc](https://github.com/2fd/graphdoc) - Static page generator for documenting GraphQL Schema
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
