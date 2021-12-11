@@ -373,6 +373,7 @@
 
 ## Go 
 
+- [symfony-cli/console](https://github.com/symfony-cli/console) - 
 - [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [m3o/m3o](https://github.com/m3o/m3o) - Next Generation Cloud Platform
