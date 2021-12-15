@@ -762,6 +762,7 @@
 
 ## JavaScript 
 
+- [flowwer-dev/pull-request-stats](https://github.com/flowwer-dev/pull-request-stats) - Github action to print relevant stats about Pull Request reviewers
 - [EvilFreelancer/xhprof-ui-js](https://github.com/EvilFreelancer/xhprof-ui-js) - Modern, flexible and mobile friendly application for analyzing PHP XHProf dumps
 - [dalunacrobate/DaProfiler](https://github.com/dalunacrobate/DaProfiler) - DaProfiler allows you to create a profile on your target based in France only. The particularity of this program is its ability to find the e-mail addresses your target.
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
@@ -2002,7 +2003,7 @@
 - [cmheisel/pywatch](https://github.com/cmheisel/pywatch) - Runs an arbitrary command if files specified to be watched change. It's good for automatically running unit tests when your code changes, similar to Ruby's ZenTest.
 - [tonybaloney/mocker](https://github.com/tonybaloney/mocker) - A Docker-type runtime, written in 100% Python
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues.
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [marteinn/The-Big-Username-Blocklist](https://github.com/marteinn/The-Big-Username-Blocklist) - This is a opinionated blocklist of words that you might not like to see used as usernames in your service.
 - [david-gpu/srez](https://github.com/david-gpu/srez) - Image super-resolution through deep learning
 - [mozilla/http-observatory](https://github.com/mozilla/http-observatory) - Mozilla HTTP Observatory
