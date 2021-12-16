@@ -376,7 +376,6 @@
 - [symfony-cli/console](https://github.com/symfony-cli/console) - 
 - [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
-- [m3o/m3o](https://github.com/m3o/m3o) - Next Generation Cloud Platform
 - [librespeed/speedtest-cli](https://github.com/librespeed/speedtest-cli) - Command line client for LibreSpeed
 - [im2nguyen/rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
@@ -497,7 +496,7 @@
 - [src-d/gitbase](https://github.com/src-d/gitbase) - SQL interface to git repositories, written in Go. https://docs.sourced.tech/gitbase
 - [alexei-led/pumba](https://github.com/alexei-led/pumba) - Chaos testing, network emulation, and stress testing tool for containers
 - [machinebox/appify](https://github.com/machinebox/appify) - Create a macOS Application from an executable (like a Go binary)
-- [kubeless/kubeless](https://github.com/kubeless/kubeless) - Kubernetes Native Serverless Framework
+- [vmware-archive/kubeless](https://github.com/vmware-archive/kubeless) - Kubernetes Native Serverless Framework
 - [ldez/prm](https://github.com/ldez/prm) - Pull Request Manager for Maintainers
 - [hasura/gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
@@ -1798,7 +1797,7 @@
 - [rlerdorf/opcache-status](https://github.com/rlerdorf/opcache-status) - A one-page opcache status page
 - [backup-manager/backup-manager](https://github.com/backup-manager/backup-manager) - Database backup manager for dumping to and restoring databases from S3, Dropbox, FTP, SFTP, and Rackspace Cloud
 - [rezzza/mock-extension](https://github.com/rezzza/mock-extension) - [Deprecated] Add possibility to define several mock engine for your behat tests
-- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) - The new (and simple) admin generator for Symfony applications.
+- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) - EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.
 - [sciactive/hookphp](https://github.com/sciactive/hookphp) - Method hooking in PHP.
 - [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
 - [simshaun/recurr](https://github.com/simshaun/recurr) - PHP library for working with recurrence rules (RRULE); meant to help with recurring calendar events.
@@ -2317,6 +2316,7 @@
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [geospoc/v-mapbox](https://github.com/geospoc/v-mapbox) - A cloned & maintained version of vue-mapbox
 - [SamKirkland/FTP-Deploy-Action](https://github.com/SamKirkland/FTP-Deploy-Action) - Deploys a GitHub project to a FTP server using GitHub actions
+- [m3o/m3o](https://github.com/m3o/m3o) - Next Generation Cloud Platform
 - [jopemachine/arvis](https://github.com/jopemachine/arvis) - Extendable cross-platform launcher that aims to help you run, edit, create any workflow simply
 - [covidpass-org/covidpass](https://github.com/covidpass-org/covidpass) - Web app for adding EU Digital COVID Certificates to your wallet apps
 - [0b5vr/condition](https://github.com/0b5vr/condition) - A 64KB WebGL Intro. Appeared in Revision 2021, PC 64KB Intro Compo
