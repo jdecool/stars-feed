@@ -376,6 +376,7 @@
 - [symfony-cli/console](https://github.com/symfony-cli/console) - 
 - [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+- [m3o/m3o](https://github.com/m3o/m3o) - Next Generation Cloud Platform
 - [librespeed/speedtest-cli](https://github.com/librespeed/speedtest-cli) - Command line client for LibreSpeed
 - [im2nguyen/rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
@@ -761,6 +762,7 @@
 
 ## JavaScript 
 
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - ↯ Planet-scale performance testing for DevOps & SRE
 - [flowwer-dev/pull-request-stats](https://github.com/flowwer-dev/pull-request-stats) - Github action to print relevant stats about Pull Request reviewers
 - [EvilFreelancer/xhprof-ui-js](https://github.com/EvilFreelancer/xhprof-ui-js) - Modern, flexible and mobile friendly application for analyzing PHP XHProf dumps
 - [dalunacrobate/DaProfiler](https://github.com/dalunacrobate/DaProfiler) - DaProfiler allows you to create a profile on your target based in France only. The particularity of this program is its ability to find the e-mail addresses your target.
@@ -2317,14 +2319,13 @@
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [geospoc/v-mapbox](https://github.com/geospoc/v-mapbox) - A cloned & maintained version of vue-mapbox
 - [SamKirkland/FTP-Deploy-Action](https://github.com/SamKirkland/FTP-Deploy-Action) - Deploys a GitHub project to a FTP server using GitHub actions
-- [m3o/m3o](https://github.com/m3o/m3o) - Next Generation Cloud Platform
 - [jopemachine/arvis](https://github.com/jopemachine/arvis) - Extendable cross-platform launcher that aims to help you run, edit, create any workflow simply
 - [covidpass-org/covidpass](https://github.com/covidpass-org/covidpass) - Web app for adding EU Digital COVID Certificates to your wallet apps
 - [0b5vr/condition](https://github.com/0b5vr/condition) - A 64KB WebGL Intro. Appeared in Revision 2021, PC 64KB Intro Compo
 - [screensy/screensy](https://github.com/screensy/screensy) - Simple peer-to-peer screen sharing
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Guide on Domain-Driven Design, software architecture, design patterns, best practices etc.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
-- [ziulev/spotter](https://github.com/ziulev/spotter) - 🔭 macOS productivity tool to launch everything
+- [spotter-application/core](https://github.com/spotter-application/core) - 🔭 macOS productivity tool to launch everything
 - [2fd/graphdoc](https://github.com/2fd/graphdoc) - Static page generator for documenting GraphQL Schema
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [thecodingmachine/workadventure](https://github.com/thecodingmachine/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
