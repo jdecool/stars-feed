@@ -761,6 +761,7 @@
 
 ## JavaScript 
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - ↯ Planet-scale performance testing for DevOps & SRE
 - [flowwer-dev/pull-request-stats](https://github.com/flowwer-dev/pull-request-stats) - Github action to print relevant stats about Pull Request reviewers
 - [EvilFreelancer/xhprof-ui-js](https://github.com/EvilFreelancer/xhprof-ui-js) - Modern, flexible and mobile friendly application for analyzing PHP XHProf dumps
@@ -1364,6 +1365,7 @@
 
 ## PHP 
 
+- [roach-php/core](https://github.com/roach-php/core) - The complete web scraping toolkit for PHP.
 - [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) - Issue Bot used on symfony/symfony
 - [bilfeldt/laravel-route-statistics](https://github.com/bilfeldt/laravel-route-statistics) - Log requests and group together for aggregated statistics of route usage
 - [godruoyi/php-snowflake](https://github.com/godruoyi/php-snowflake) - ❄ An ID Generator for PHP based on Snowflake Algorithm (Twitter announced).
