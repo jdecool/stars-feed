@@ -2120,6 +2120,7 @@
 
 ## Rust 
 
+- [SOF3/phar.rs](https://github.com/SOF3/phar.rs) - Rust library for PHP phar format
 - [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust.
 - [chiselstrike/chiselstore](https://github.com/chiselstrike/chiselstore) - SQLite + Little Raft = 🚀
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
