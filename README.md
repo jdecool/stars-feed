@@ -372,6 +372,8 @@
 
 ## Go 
 
+- [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) - The Symfony CLI tool
+- [google/log4jscanner](https://github.com/google/log4jscanner) - 
 - [symfony-cli/console](https://github.com/symfony-cli/console) - 
 - [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
@@ -761,6 +763,7 @@
 
 ## JavaScript 
 
+- [ultrabolido/PrinceJS](https://github.com/ultrabolido/PrinceJS) - Prince of Persia reimplementation written in HTML5/Javascript
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - ↯ Planet-scale performance testing for DevOps & SRE
 - [flowwer-dev/pull-request-stats](https://github.com/flowwer-dev/pull-request-stats) - Github action to print relevant stats about Pull Request reviewers
@@ -1394,7 +1397,7 @@
 - [steevanb/doctrine-stats](https://github.com/steevanb/doctrine-stats) - Get Doctrine stats : managed entities, lazy loaded entities, hydration time etc.
 - [Ph3nol/Trading-Bot](https://github.com/Ph3nol/Trading-Bot) - Automated Trading Bot based on managed instances of Freqtrade, fully Dockerized.
 - [crater-invoice/crater](https://github.com/crater-invoice/crater) - Open Source Invoicing Solution for Individuals & Businesses
-- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers.
+- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers.
 - [phpvirtualbox/phpvirtualbox](https://github.com/phpvirtualbox/phpvirtualbox) - A web interface to manage and access Virtualbox machines.
 - [WsdlToPhp/PackageGenerator](https://github.com/WsdlToPhp/PackageGenerator) - Generates a PHP SDK based on a WSDL, simple and powerful, WSDL to PHP
 - [php/doc-base](https://github.com/php/doc-base) - Tools for the PHP documentation
@@ -2381,7 +2384,7 @@
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [microsoft/TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) - A starter template for TypeScript and React with a detailed README describing how to use the two together.
 - [cupslab/password_meter](https://github.com/cupslab/password_meter) - This project implements a data-driven password meter. Its effects on password security and usability were evaluated in the following publication: http://www.blaseur.com/papers/CHI17meter.pdf and a demo is available at: https://cups.cs.cmu.edu/meter/
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2021
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
 - [teambit/bit](https://github.com/teambit/bit) - A tool for component-driven application development.
 - [paulirish/pwmetrics](https://github.com/paulirish/pwmetrics) - Progressive web metrics at your fingertipz
 - [eclipse/che](https://github.com/eclipse/che) - The Kubernetes-Native IDE for Developer Teams
