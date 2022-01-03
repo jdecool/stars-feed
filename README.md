@@ -95,6 +95,7 @@
 
 ## C 
 
+- [joncampbell123/dosbox-x](https://github.com/joncampbell123/dosbox-x) - DOSBox-X fork of the DOSBox project
 - [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
 - [QB64Team/qb64](https://github.com/QB64Team/qb64) - BASIC for the modern era.
 - [lpereira/hardinfo](https://github.com/lpereira/hardinfo) - System profiler and benchmark tool for Linux systems
@@ -373,7 +374,7 @@
 ## Go 
 
 - [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) - The Symfony CLI tool
-- [google/log4jscanner](https://github.com/google/log4jscanner) - 
+- [google/log4jscanner](https://github.com/google/log4jscanner) - A log4j vulnerability filesystem scanner and Go package for analyzing JAR files.
 - [symfony-cli/console](https://github.com/symfony-cli/console) - 
 - [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
@@ -1368,6 +1369,7 @@
 
 ## PHP 
 
+- [thephpleague/construct-finder](https://github.com/thephpleague/construct-finder) - PHP code construct finder
 - [roach-php/core](https://github.com/roach-php/core) - The complete web scraping toolkit for PHP.
 - [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) - Issue Bot used on symfony/symfony
 - [bilfeldt/laravel-route-statistics](https://github.com/bilfeldt/laravel-route-statistics) - Log requests and group together for aggregated statistics of route usage
@@ -2252,7 +2254,7 @@
 - [rauchg/wifi-password](https://github.com/rauchg/wifi-password) - Get the password of the wifi you're on (bash)
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.
-- [BisectXYZ/aws-elk-billing](https://github.com/BisectXYZ/aws-elk-billing) - Tools for Loading and Visualising AWS Detailed Billing with ELK(Elasticsearch, Logstash, Kibana)
+- [300Geeks/aws-elk-billing](https://github.com/300Geeks/aws-elk-billing) - Tools for Loading and Visualising AWS Detailed Billing with ELK(Elasticsearch, Logstash, Kibana)
 - [ingydotnet/git-subrepo](https://github.com/ingydotnet/git-subrepo) - 
 - [kiwenlau/hadoop-cluster-docker](https://github.com/kiwenlau/hadoop-cluster-docker) - Run Hadoop Custer within Docker Containers
 - [nerdpress-org/docker-sf3](https://github.com/nerdpress-org/docker-sf3) - Docker advanced LAMP setup for symfony3 development :whale:
