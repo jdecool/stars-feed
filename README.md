@@ -1234,7 +1234,6 @@
 - [ivRodriguezCA/RE-iOS-Apps](https://github.com/ivRodriguezCA/RE-iOS-Apps) - A completely free, open source and online course about Reverse Engineering iOS Applications.
 - [yeahhub/Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks) - Top 100 Hacking & Security E-Books (Free Download)
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
-- [inlets/inlets-archived](https://github.com/inlets/inlets-archived) - Cloud Native Tunnel, now inlets PRO
 - [peay/ansible-gitlab-ci-variables](https://github.com/peay/ansible-gitlab-ci-variables) - Ansible role to manage Gitlab CI variables
 - [aeris/gdpr](https://github.com/aeris/gdpr) - GDPR letter template
 - [bzg/logiciel-libre-esr](https://github.com/bzg/logiciel-libre-esr) - Ressources autour du logiciel libre dans l'enseignement supérieur et la recherche
