@@ -177,6 +177,7 @@
 
 ## C# # 
 
+- [Rebalanser/rebalanser-net](https://github.com/Rebalanser/rebalanser-net) - Rebalanser for .NET
 - [devcrafting/architecture-styles](https://github.com/devcrafting/architecture-styles) - Different architecture / domain modelling styles
 - [jtheisen/reconciler](https://github.com/jtheisen/reconciler) - Update an entity graph in store to a given one by inserting, updating and removing the respective entities.
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
