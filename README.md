@@ -1369,6 +1369,7 @@
 
 ## PHP 
 
+- [ankitpokhrel/tus-php](https://github.com/ankitpokhrel/tus-php) - 🚀 A pure PHP server and client for the tus resumable upload protocol v1.0.0
 - [thephpleague/construct-finder](https://github.com/thephpleague/construct-finder) - PHP code construct finder
 - [roach-php/core](https://github.com/roach-php/core) - The complete web scraping toolkit for PHP.
 - [symfony-tools/carsonbot](https://github.com/symfony-tools/carsonbot) - Issue Bot used on symfony/symfony
