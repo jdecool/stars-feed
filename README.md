@@ -374,6 +374,7 @@
 
 ## Go 
 
+- [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
 - [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) - The Symfony CLI tool
 - [google/log4jscanner](https://github.com/google/log4jscanner) - A log4j vulnerability filesystem scanner and Go package for analyzing JAR files.
@@ -2081,7 +2082,7 @@
 - [TypoCI/Marketplace-App](https://github.com/TypoCI/Marketplace-App) - Find Spelling errors in files within PRs
 - [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.2. PHP 8.2 is a nightly build.
 - [eXolnet/homebrew-deprecated](https://github.com/eXolnet/homebrew-deprecated) - eXolnet's Homebrew tap for deprecated formulae.
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot Updates
 - [purban/contrats-francais](https://github.com/purban/contrats-francais) - Contrats français
 - [riggraz/astuto](https://github.com/riggraz/astuto) - A free, open source, self-hosted customer feedback tool 🦊
 - [brotandgames/ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
