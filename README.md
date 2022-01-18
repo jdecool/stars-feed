@@ -62,7 +62,6 @@
   - [Scheme](#scheme)
   - [Shell](#shell)
   - [Standard ML](#standard-ml)
-  - [Starlark](#starlark)
   - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
@@ -545,6 +544,7 @@
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [qax-os/goreporter](https://github.com/qax-os/goreporter) - A Golang tool that does static analysis, unit testing, code review and generate code quality report.
 - [campoy/go-tooling-workshop](https://github.com/campoy/go-tooling-workshop) - A workshop covering all the tools gophers use in their day to day life
+- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 - [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go.
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 - [gopher-os/gopher-os](https://github.com/gopher-os/gopher-os) - A proof of concept OS kernel written in Go
@@ -2284,10 +2284,6 @@
 ## Standard ML 
 
 - [rootkovska/codehash.db](https://github.com/rootkovska/codehash.db) - A public database for software and firmware hashes
-
-## Starlark 
-
-- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 
 ## Swift 
 
