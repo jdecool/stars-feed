@@ -1910,6 +1910,7 @@
 
 ## Python 
 
+- [infosecstreams/infosecstreams.github.io](https://github.com/infosecstreams/infosecstreams.github.io) - A (hopefully) actively maintained activity-based-autosorted list of InfoSec Streamers
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
 - [swisskyrepo/GraphQLmap](https://github.com/swisskyrepo/GraphQLmap) - GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes.
 - [knadh/tg-archive](https://github.com/knadh/tg-archive) - A tool for exporting Telegram group chats into static websites to preserve chat history like mailing list archives.
