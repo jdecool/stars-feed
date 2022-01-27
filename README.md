@@ -2156,7 +2156,7 @@
 - [Orbitale/Rymfony](https://github.com/Orbitale/Rymfony) - A work-in-progress CLI tool built in Rust to mimic the Symfony CLI binary
 - [endbasic/endbasic](https://github.com/endbasic/endbasic) - BASIC environment with a REPL, a web interface, a graphical console, and RPi support written in Rust
 - [archseer/enigma](https://github.com/archseer/enigma) - An Erlang VM implementation in Rust
-- [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
 - [bastion-rs/bastion](https://github.com/bastion-rs/bastion) - Highly-available Distributed Fault-tolerant Runtime
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [google/OpenSK](https://github.com/google/OpenSK) - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
@@ -2201,7 +2201,7 @@
 - [softwaremill/codebrag](https://github.com/softwaremill/codebrag) - Your daily code review tool
 - [TheHive-Project/TheHive](https://github.com/TheHive-Project/TheHive) - TheHive: a Scalable, Open Source and Free Security Incident Response Platform
 - [philwantsfish/shard](https://github.com/philwantsfish/shard) - A command line tool to detect shared passwords
-- [ornicar/lila](https://github.com/ornicar/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
+- [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 - [Fuzion24/AndroidZipArbitrage](https://github.com/Fuzion24/AndroidZipArbitrage) - Exploit for Android Zip bugs: 8219321, 9695860, and 9950697
 
 ## Scheme 
