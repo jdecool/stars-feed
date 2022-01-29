@@ -1372,6 +1372,7 @@
 
 ## PHP 
 
+- [Hi-Folks/statistics](https://github.com/Hi-Folks/statistics) - PHP package that provides functions for calculating mathematical statistics of numeric data.
 - [ankitpokhrel/tus-php](https://github.com/ankitpokhrel/tus-php) - 🚀 A pure PHP server and client for the tus resumable upload protocol v1.0.0
 - [thephpleague/construct-finder](https://github.com/thephpleague/construct-finder) - PHP code construct finder
 - [roach-php/core](https://github.com/roach-php/core) - The complete web scraping toolkit for PHP.
@@ -2210,6 +2211,7 @@
 
 ## Shell 
 
+- [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - Get started with your own dotfiles.
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio unlike any other.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
