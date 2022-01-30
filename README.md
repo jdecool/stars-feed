@@ -1372,6 +1372,7 @@
 
 ## PHP 
 
+- [incentive-factory/iletaitunefoisundev](https://github.com/incentive-factory/iletaitunefoisundev) - Il était une fois un dev est une plateforme proposant une nouvelle expérience d'apprentissage.
 - [Hi-Folks/statistics](https://github.com/Hi-Folks/statistics) - PHP package that provides functions for calculating mathematical statistics of numeric data.
 - [ankitpokhrel/tus-php](https://github.com/ankitpokhrel/tus-php) - 🚀 A pure PHP server and client for the tus resumable upload protocol v1.0.0
 - [thephpleague/construct-finder](https://github.com/thephpleague/construct-finder) - PHP code construct finder
@@ -2149,7 +2150,7 @@
 - [lholden/job_scheduler](https://github.com/lholden/job_scheduler) - A simple cron-like job scheduling library for Rust.
 - [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - ❌ Cargo plugin for linting your dependencies 🦀
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
-- [martinvonz/jj](https://github.com/martinvonz/jj) - Jujutsu (an experimental VCS)
+- [martinvonz/jj](https://github.com/martinvonz/jj) - Jujutsu DVCS
 - [hardik05/Damn_Vulnerable_C_Program](https://github.com/hardik05/Damn_Vulnerable_C_Program) - a c program containing vulnerable code for common types of vulnerabilities, can be used to show fuzzing concepts.
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
