@@ -1372,6 +1372,7 @@
 
 ## PHP 
 
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) - Check the health of your Laravel app
 - [incentive-factory/iletaitunefoisundev](https://github.com/incentive-factory/iletaitunefoisundev) - Il était une fois un dev est une plateforme proposant une nouvelle expérience d'apprentissage.
 - [Hi-Folks/statistics](https://github.com/Hi-Folks/statistics) - PHP package that provides functions for calculating mathematical statistics of numeric data.
 - [ankitpokhrel/tus-php](https://github.com/ankitpokhrel/tus-php) - 🚀 A pure PHP server and client for the tus resumable upload protocol v1.0.0
@@ -1546,7 +1547,7 @@
 - [acmephp/acmephp](https://github.com/acmephp/acmephp) - Let's Encrypt/ACME Command Line client written in PHP
 - [clue/socket-raw](https://github.com/clue/socket-raw) - Simple and lightweight OOP wrapper for PHP's low-level sockets extension (ext-sockets)
 - [liip/RMT](https://github.com/liip/RMT) - RMT is a handy tool to help releasing new version of your software
-- [pH7Software/pH7-Social-Dating-CMS](https://github.com/pH7Software/pH7-Social-Dating-CMS) - 😻 pH7Builder (formerly pH7CMS) :couple: is a Professional & Open Source Social Dating CMS written in OOP PHP with the MVC pattern. This Social Dating Script wants to be low resource-intensive, powerful and secure. pH7CMS is included with 40+ modules and based on pH7Framework. It is also the first Professional, Free & Open Source Social Dating Site Builder Software and the first choice for creating enterprise level Dating Apps/Service or Social Networking Sites
+- [pH7Software/pH7-Social-Dating-CMS](https://github.com/pH7Software/pH7-Social-Dating-CMS) - 😻 pH7Builder (formerly pH7CMS) :couple: is a Professional & Open Source Social Dating CMS written in PHP 8 🚀 This Social Dating Script wants to be low resource-intensive, powerful and secure. pH7CMS is included with 40+ modules and based on pH7Framework. It is also the first Professional, Free & Open Source Social Dating Site Builder Software and the first choice for creating enterprise level Dating Apps/Service or Social Networking Sites
 - [Rebilly/openapi-php](https://github.com/Rebilly/openapi-php) - OpenAPI Specification SDK for PHP
 - [WandiParis/EasyAdminPlusBundle](https://github.com/WandiParis/EasyAdminPlusBundle) - EasyAdminPlusBundle is a Symfony 4 wrapper for the amazing  EasyCorp/EasyAdminBundle
 - [prolic/fpp](https://github.com/prolic/fpp) - Functional PHP Preprocessor - Generate Immutable Data Types
@@ -2298,6 +2299,8 @@
 
 ## Swift 
 
+- [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
+- [Mortennn/Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [nicoverbruggen/phpmon](https://github.com/nicoverbruggen/phpmon) - Lightweight, native Mac menu bar app that interacts with Laravel Valet. Helps you manage multiple PHP installations, locate config files and more.
