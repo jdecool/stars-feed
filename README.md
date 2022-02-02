@@ -374,6 +374,7 @@
 
 ## Go 
 
+- [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms implemented in Go for beginners, following best practices.
 - [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
 - [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) - The Symfony CLI tool
@@ -687,7 +688,6 @@
 - [google/WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 - [julien-c/Circular](https://github.com/julien-c/Circular) - An open source Buffer app clone
 - [jglovier/jglovier.github.io](https://github.com/jglovier/jglovier.github.io) - :notebook: Source for joelglovier.com. Built with Jekyll and hosted on GitHub Pages.
-- [PurePelicanTheme/pure](https://github.com/PurePelicanTheme/pure) - Collaborative blogging theme for Pelican blogs
 - [metaware/angular-invoicing](https://github.com/metaware/angular-invoicing) - Create free and unlimited one off invoices using this little Invoicing app made with Angular JS
 - [javiereguiluz/easybook](https://github.com/javiereguiluz/easybook) - Book publishing as easy as it should be (built with Symfony components)
 
