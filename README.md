@@ -708,6 +708,7 @@
 
 ## Java 
 
+- [t-geindre/java-synthesizer](https://github.com/t-geindre/java-synthesizer) - 
 - [gisgraphy/gisgraphy](https://github.com/gisgraphy/gisgraphy) - geocoding and geolocalisation webservices for Geonames, Openstreetmap, Openaddresses, Tiger and quattroshapes data
 - [r0hi7/TrashEmail](https://github.com/r0hi7/TrashEmail) - A hosted disposable email telegram bot; Extremely privacy friendly; Proudly hosted for community.
 - [srcclr/sapling](https://github.com/srcclr/sapling) - Planning tool for remote and distributed teams
@@ -767,6 +768,7 @@
 
 ## JavaScript 
 
+- [Curvytron/curvytron](https://github.com/Curvytron/curvytron) - A web multiplayer Tron game like with curves
 - [ultrabolido/PrinceJS](https://github.com/ultrabolido/PrinceJS) - Prince of Persia reimplementation written in HTML5/Javascript
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - ↯ Planet-scale performance testing for DevOps & SRE
@@ -1456,7 +1458,7 @@
 - [loophp/mock-soapclient](https://github.com/loophp/mock-soapclient) - A fake and predictable SOAP client, useful for your unit tests.
 - [ovh/php-ovh](https://github.com/ovh/php-ovh) - Lightweight PHP wrapper for OVH APIs. That's the easiest way to use OVH.com APIs in your PHP applications.
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - :computer: Parallel testing for PHPUnit
-- [ConnectHolland/cookie-consent-bundle](https://github.com/ConnectHolland/cookie-consent-bundle) - Symfony bundle to append Cookie Consent to your website to comply to AVG/GDPR for cookies.
+- [Harborn-digital/cookie-consent-bundle](https://github.com/Harborn-digital/cookie-consent-bundle) - Symfony bundle to append Cookie Consent to your website to comply to AVG/GDPR for cookies.
 - [malc0mn/vultr-api-client](https://github.com/malc0mn/vultr-api-client) - API Client for Vultr.com
 - [Orbitale/Compotes](https://github.com/Orbitale/Compotes) - A small app to manage bank account operations and display rich analytics. Demo app credentials are admin/admin. [In development]
 - [akaunting/akaunting](https://github.com/akaunting/akaunting) - Free and Online Accounting Software
