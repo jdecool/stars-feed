@@ -202,6 +202,7 @@
 
 ## C++ 
 
+- [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows.
 - [k4zmu2a/SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Decompilation of 3D Pinball for Windows – Space Cadet
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [GTAmodding/re3](https://github.com/GTAmodding/re3) - GTA III, Vice City
@@ -1374,8 +1375,9 @@
 
 ## PHP 
 
+- [canvural/phpstan-blade-rule](https://github.com/canvural/phpstan-blade-rule) - PHPStan rule for static analysis of Blade templates
 - [spatie/laravel-health](https://github.com/spatie/laravel-health) - Check the health of your Laravel app
-- [incentive-factory/iletaitunefoisundev](https://github.com/incentive-factory/iletaitunefoisundev) - Il était une fois un dev est une plateforme proposant une nouvelle expérience d'apprentissage.
+- [incentive-factory/iletaitunefoisundev](https://github.com/incentive-factory/iletaitunefoisundev) - La formation dont vous êtes le héros !
 - [Hi-Folks/statistics](https://github.com/Hi-Folks/statistics) - PHP package that provides functions for calculating mathematical statistics of numeric data.
 - [ankitpokhrel/tus-php](https://github.com/ankitpokhrel/tus-php) - 🚀 A pure PHP server and client for the tus resumable upload protocol v1.0.0
 - [thephpleague/construct-finder](https://github.com/thephpleague/construct-finder) - PHP code construct finder
