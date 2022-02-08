@@ -634,6 +634,7 @@
 
 ## HTML 
 
+- [roberto-butti/50-drops-of-php](https://github.com/roberto-butti/50-drops-of-php) - Open source and free e-book, that collects some useful, unknown, underrated PHP functions or stuff discovered, used, learned during the PHP daily use.
 - [jbrains/trivia](https://github.com/jbrains/trivia) - Legacy Code Retreat - Trivia Game codebase
 - [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing for Rust
 - [learning-rust/learning-rust.github.io](https://github.com/learning-rust/learning-rust.github.io) - 🌐 https://learning-rust.github.io
@@ -711,7 +712,7 @@
 
 - [t-geindre/java-synthesizer](https://github.com/t-geindre/java-synthesizer) - 
 - [gisgraphy/gisgraphy](https://github.com/gisgraphy/gisgraphy) - geocoding and geolocalisation webservices for Geonames, Openstreetmap, Openaddresses, Tiger and quattroshapes data
-- [r0hi7/TrashEmail](https://github.com/r0hi7/TrashEmail) - A hosted disposable email telegram bot; Extremely privacy friendly; Proudly hosted for community.
+- [rosehgal/TrashEmail](https://github.com/rosehgal/TrashEmail) - A hosted disposable email telegram bot; Extremely privacy friendly; Proudly hosted for community.
 - [srcclr/sapling](https://github.com/srcclr/sapling) - Planning tool for remote and distributed teams
 - [OpenVidu/openvidu](https://github.com/OpenVidu/openvidu) - OpenVidu Platform main repository
 - [marytts/marytts](https://github.com/marytts/marytts) - MARY TTS -- an open-source, multilingual text-to-speech synthesis system written in pure java
@@ -1375,6 +1376,7 @@
 
 ## PHP 
 
+- [sj-i/php-profiler](https://github.com/sj-i/php-profiler) - a sampling profiler for PHP written in PHP
 - [canvural/phpstan-blade-rule](https://github.com/canvural/phpstan-blade-rule) - PHPStan rule for static analysis of Blade templates
 - [spatie/laravel-health](https://github.com/spatie/laravel-health) - Check the health of your Laravel app
 - [incentive-factory/iletaitunefoisundev](https://github.com/incentive-factory/iletaitunefoisundev) - La formation dont vous êtes le héros !
@@ -2341,6 +2343,7 @@
 
 ## TypeScript 
 
+- [antonmedv/numbr](https://github.com/antonmedv/numbr) - Notepad + calculator
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
