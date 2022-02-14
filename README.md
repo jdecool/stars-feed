@@ -1030,7 +1030,7 @@
 - [sdelements/lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [EtnaTraining/MoviesDemo](https://github.com/EtnaTraining/MoviesDemo) - This demo show how we can build with Appcelerator Titanium the same app demonstrated during the Facebook React Native demo
-- [oncletom/nodebook](https://github.com/oncletom/nodebook) - 📖 Livre publié aux Éditions Eyrolles • Première édition : Node.js v10 et npm v6.
+- [thom4parisot/nodebook](https://github.com/thom4parisot/nodebook) - 📖 Livre publié aux Éditions Eyrolles • Première édition : Node.js v10 et npm v6.
 - [sinnerschrader/digitalfoosball](https://github.com/sinnerschrader/digitalfoosball) - ⚽ Taking an analog foosball table into the digital age.  See our League in action here: http://demo.s2.de
 - [juancabrera/gulp-babel-codebase](https://github.com/juancabrera/gulp-babel-codebase) - A basic gulp codebase project using babelify and browserify for its modules.
 - [michaelbromley/css-space-shooter](https://github.com/michaelbromley/css-space-shooter) - An old-school arcade-style 3D shoot-em-up rendered entirely with CSS 3D transforms
@@ -1184,7 +1184,7 @@
 - [google/santa](https://github.com/google/santa) - A binary authorization system for macOS
 - [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [brunophilipe/Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew.
-- [kasper/phoenix](https://github.com/kasper/phoenix) - A lightweight macOS/OS X window and app manager scriptable with JavaScript
+- [kasper/phoenix](https://github.com/kasper/phoenix) - A lightweight macOS window and app manager scriptable with JavaScript
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
 - [sequelpro/sequelpro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS
 - [Naituw/IPAPatch](https://github.com/Naituw/IPAPatch) - Patch iOS Apps, The Easy Way, Without Jailbreak.
