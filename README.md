@@ -1376,6 +1376,9 @@
 
 ## PHP 
 
+- [kra8/laravel-snowflake](https://github.com/kra8/laravel-snowflake) - This Laravel package to generate 64 bit identifier like the snowflake within Twitter.
+- [mateusjunges/laravel-kafka](https://github.com/mateusjunges/laravel-kafka) - Use Kafka Producers and Consumers in your laravel app with ease!
+- [marvinrabe/laravel-wizards](https://github.com/marvinrabe/laravel-wizards) - 🧙‍♂️ Simple Wizard Controller for Laravel.
 - [hmones/laravel-digest](https://github.com/hmones/laravel-digest) - Simple way to convert your emails into configurable digests
 - [jawira/case-converter](https://github.com/jawira/case-converter) - Convert strings between 13 naming conventions: Snake case, Camel case, Kebab case, Pascal case, Ada case, Train case, Cobol case, Macro case, Upper case, Lower case, Title case, Sentence case and Dot notation.
 - [sj-i/php-profiler](https://github.com/sj-i/php-profiler) - A sampling profiler for PHP written in PHP, which reads information about running PHP VM from outside of the process.
@@ -2145,6 +2148,8 @@
 
 ## Rust 
 
+- [atlasr-org/atlasr](https://github.com/atlasr-org/atlasr) - Atlasr is a truly open-source and free map browser.
+- [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 - [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The enterprise ready webhooks service 🦀
 - [SOF3/phar.rs](https://github.com/SOF3/phar.rs) - Rust library for PHP phar format
 - [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust.
@@ -2350,6 +2355,7 @@
 
 ## TypeScript 
 
+- [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [dynamite-ready/movie-parser](https://github.com/dynamite-ready/movie-parser) - NWJS wrapper for a wider project.
 - [QingWei-Li/notea](https://github.com/QingWei-Li/notea) - 📒 Self hosted note taking app stored on S3
 - [antonmedv/numbr](https://github.com/antonmedv/numbr) - Notepad + calculator
