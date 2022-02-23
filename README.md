@@ -177,6 +177,7 @@
 
 ## C# # 
 
+- [unfrl/dug](https://github.com/unfrl/dug) - A global DNS propagation checker that gives pretty output. Written in dotnet core
 - [Rebalanser/rebalanser-net](https://github.com/Rebalanser/rebalanser-net) - Rebalanser for .NET
 - [devcrafting/architecture-styles](https://github.com/devcrafting/architecture-styles) - Different architecture / domain modelling styles
 - [jtheisen/reconciler](https://github.com/jtheisen/reconciler) - Update an entity graph in store to a given one by inserting, updating and removing the respective entities.
@@ -1008,7 +1009,6 @@
 - [streamaserver/streama](https://github.com/streamaserver/streama) - Self hosted streaming media server. https://docs.streama-project.com/
 - [Lallassu/VoxLords](https://github.com/Lallassu/VoxLords) - VoxLords - ThreeJS WebGL game with a simple voxel engine
 - [buildar/awe.js](https://github.com/buildar/awe.js) - The jQuery for the Augmented Web
-- [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library
 - [Yproximite/PRReviewWatcher](https://github.com/Yproximite/PRReviewWatcher) - An open source tool to help code reviewer's to focus on what's important by reminding the developper to check for obvious things first.
 - [allegro/tipboard](https://github.com/allegro/tipboard) - Tipboard - in-house, tasty, local dashboarding system
 - [Tygs/0bin](https://github.com/Tygs/0bin) - Client side encrypted pastebin
@@ -2441,6 +2441,7 @@
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [phiresky/nmap-log-parse](https://github.com/phiresky/nmap-log-parse) - Logs which devices are in your local network and draws graphs
+- [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library
 - [FlorianRappl/Mario5TS](https://github.com/FlorianRappl/Mario5TS) - The TypeScript version of the Mario5 demo application.
 - [aksharpatel47/Phaser-Typescript-Tutorials-Code](https://github.com/aksharpatel47/Phaser-Typescript-Tutorials-Code) - This repository contains code written in typescript for various tutorials found online for Phaser Game Framework.
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
