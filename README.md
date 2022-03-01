@@ -642,7 +642,7 @@
 - [warrensbox/terraform-switcher](https://github.com/warrensbox/terraform-switcher) - A command line tool to switch between different versions of terraform  (install with homebrew and more)
 - [berzniz/github_pr_tree](https://github.com/berzniz/github_pr_tree) - Add a file tree to GitHub's Pull Request
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
-- [kamilmielnik/scrabble-solver](https://github.com/kamilmielnik/scrabble-solver) - The ultimate cheating app for Scrabble and Literaki. Available in English, French, German, Polish & Spanish.
+- [kamilmielnik/scrabble-solver](https://github.com/kamilmielnik/scrabble-solver) - The ultimate, open-source cheating app for Scrabble and Literaki. Available in English, French, German, Polish & Spanish.
 - [isaaceindhoven/velocita-proxy](https://github.com/isaaceindhoven/velocita-proxy) - Velocita - Composer caching reverse proxy
 - [beberlei/php-rfc-watch](https://github.com/beberlei/php-rfc-watch) - Interactive voting results for PHP RFC process.
 - [BustByte/coronastatus](https://github.com/BustByte/coronastatus) - 🇳🇴🇳🇱🇸🇰🇩🇰🇨🇴🇮🇹🇫🇷🇲🇽🇺🇸🇺🇦🇪🇸🇧🇷🇨🇦🇦🇺🇸🇬🇦🇷🇲🇾🇲🇹🇨🇱🇮🇳🇵🇹🇹🇷🇱🇹🇳🇵🇨🇿🇮🇩🇵🇭🇳🇬🇷🇴Join the fight! Open source webapp that let people report their health status to get overview of COVID-19
@@ -1211,6 +1211,7 @@
 
 ## Others 
 
+- [curated-intel/Ukraine-Cyber-Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations) - Curated Intelligence is working with analysts from around the world to provide useful information to organisations in Ukraine looking for additional free threat intelligence. Slava Ukraini. Glory to Ukraine.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
@@ -1262,7 +1263,7 @@
 - [awesome-inc/hello.gitlab.monorepo](https://github.com/awesome-inc/hello.gitlab.monorepo) - A simple script helping towards using GitLab CI with Monorepos
 - [jlondiche/job-board-php](https://github.com/jlondiche/job-board-php) - 
 - [mdiplo/Medias_francais](https://github.com/mdiplo/Medias_francais) - Qui possède quoi ?
-- [PharkMillups/beautiful-docs](https://github.com/PharkMillups/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
+- [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [j4p3/strimpack](https://github.com/j4p3/strimpack) - A platform for livestreamers to make a home for their audience.
 - [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
