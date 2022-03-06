@@ -1379,6 +1379,7 @@
 
 ## PHP 
 
+- [laravelio/laravel.io](https://github.com/laravelio/laravel.io) - The Laravel.io Community Portal.
 - [golem-ai/messenger-kit](https://github.com/golem-ai/messenger-kit) - 
 - [machitgarha/phirs](https://github.com/machitgarha/phirs) - Library providing cross-platform user directory paths, such as config and cache
 - [lucasdotdev/laravel-soulbscription](https://github.com/lucasdotdev/laravel-soulbscription) - This package provides a straightforward interface to handle subscriptions and features consumption.
