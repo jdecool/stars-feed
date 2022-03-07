@@ -1424,7 +1424,7 @@
 - [steevanb/doctrine-stats](https://github.com/steevanb/doctrine-stats) - Get Doctrine stats : managed entities, lazy loaded entities, hydration time etc.
 - [Ph3nol/Trading-Bot](https://github.com/Ph3nol/Trading-Bot) - Automated Trading Bot based on managed instances of Freqtrade, fully Dockerized.
 - [crater-invoice/crater](https://github.com/crater-invoice/crater) - Open Source Invoicing Solution for Individuals & Businesses
-- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers.
+- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers - #StandWithUkraine 🇺🇦
 - [phpvirtualbox/phpvirtualbox](https://github.com/phpvirtualbox/phpvirtualbox) - A web interface to manage and access Virtualbox machines.
 - [WsdlToPhp/PackageGenerator](https://github.com/WsdlToPhp/PackageGenerator) - Generates a PHP SDK based on a WSDL, simple and powerful, WSDL to PHP
 - [php/doc-base](https://github.com/php/doc-base) - Tools for the PHP documentation
