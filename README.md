@@ -284,7 +284,6 @@
 - [thewhiteh4t/seeker](https://github.com/thewhiteh4t/seeker) - Accurately Locate Smartphones using Social Engineering
 - [green7ea/cpp-compilation](https://github.com/green7ea/cpp-compilation) - A short description of the C++ build process
 - [maxogden/screencat](https://github.com/maxogden/screencat) - :cat2: webrtc screensharing electron app for mac os (Alpha)
-- [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
 - [ConnorAtherton/loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations.
 - [twbs/ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
 - [usetania/tania](https://github.com/usetania/tania) - A PHP based, free, and open source farming management system.
@@ -773,6 +772,7 @@
 
 ## JavaScript 
 
+- [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
 - [getify/monio](https://github.com/getify/monio) - The most powerful IO monad implementation in JS, possibly in any language!
 - [Curvytron/curvytron](https://github.com/Curvytron/curvytron) - A web multiplayer Tron game like with curves
 - [ultrabolido/PrinceJS](https://github.com/ultrabolido/PrinceJS) - Prince of Persia reimplementation written in HTML5/Javascript
@@ -2215,6 +2215,7 @@
 - [nickboucher/trojan-source](https://github.com/nickboucher/trojan-source) - Trojan Source: Invisible Vulnerabilities
 - [artsy/artsy.github.io](https://github.com/artsy/artsy.github.io) - The Artsy Engineering Open-Source Developers Blog
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
+- [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
 - [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [papercss/papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 - [heroku/starboard](https://github.com/heroku/starboard) - onboarding, offboarding, or crossboarding made easy
