@@ -131,7 +131,7 @@
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [videogamepreservation/descent](https://github.com/videogamepreservation/descent) - Descent (1995) by Parallax Software Corp.
 - [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
-- [solokeys/solo](https://github.com/solokeys/solo) - Solo 1: open security key supporting FIDO2 & U2F over USB + NFC
+- [solokeys/solo1](https://github.com/solokeys/solo1) - Solo 1 firmware in C
 - [conorpp/u2f-zero](https://github.com/conorpp/u2f-zero) - U2F USB token optimized for physical security, affordability, and style
 - [github/glb-director](https://github.com/github/glb-director) - GitHub Load Balancer Director and supporting tooling.
 - [BlindMindStudios/StarRuler2-Source](https://github.com/BlindMindStudios/StarRuler2-Source) - 4X Space Strategy game Star Ruler 2's open source distribution.
@@ -1930,6 +1930,7 @@
 
 ## Python 
 
+- [VHellendoorn/Code-LMs](https://github.com/VHellendoorn/Code-LMs) - Guide to using pre-trained large language models of source code
 - [dynamite-ready/movie-parser-cli](https://github.com/dynamite-ready/movie-parser-cli) - 
 - [SuoraGmbH/build-php-extension](https://github.com/SuoraGmbH/build-php-extension) - Develop, Build and Test PHP Extensions
 - [infosecstreams/infosecstreams.github.io](https://github.com/infosecstreams/infosecstreams.github.io) - A (hopefully) actively maintained activity-based-autosorted list of InfoSec Streamers
@@ -2385,7 +2386,7 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [thecodingmachine/workadventure](https://github.com/thecodingmachine/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
 - [stoplightio/prism](https://github.com/stoplightio/prism) - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Open-source Airtable-like experience for your database (Firestore) with GCP's scalability. Build any automation or cloud functions for your product. ⚡️✨
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open-source Airtable-like UI for your database and to build serverless cloud functions visually in the context of your data.⚡️✨
 - [betagouv/mon-entreprise](https://github.com/betagouv/mon-entreprise) - L'assistant officiel des entrepreneurs
 - [bt0r/NoteFlix](https://github.com/bt0r/NoteFlix) - Permet d'avoir un score Allociné et SensCritique sur les films/séries Netflix
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
