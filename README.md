@@ -1455,7 +1455,7 @@
 - [spatie/tinker.app](https://github.com/spatie/tinker.app) - Instant shareable Laravel Tinker sessions in your browser.
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) - cs2pr - Annotate a GitHub Pull Request based on a Checkstyle XML-report within your GitHub Action
 - [beyondcode/expose](https://github.com/beyondcode/expose) - A beautiful, fully open-source, tunneling service - written in pure PHP
-- [pestphp/pest](https://github.com/pestphp/pest) - Pest is an amazing and elegant PHP Testing Framework with a focus on simplicity
+- [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP Testing Framework with a focus on simplicity
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - Map nested JSON structures to PHP classes
 - [cweagans/composer-patches](https://github.com/cweagans/composer-patches) - Simple patches plugin for Composer
 - [matthiasnoback/symfony-console-form](https://github.com/matthiasnoback/symfony-console-form) - Use Symfony forms for Console command input
@@ -2249,7 +2249,7 @@
 - [bflorat/modele-da](https://github.com/bflorat/modele-da) - Modèle de Dossier d'Architecture
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
-- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [swarmlet/swarmlet](https://github.com/swarmlet/swarmlet) - A self-hosted, open-source Platform as a Service that enables easy swarm deployments, load balancing, automatic SSL, metrics, analytics and more.
 - [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Local ad blocker. Like Pi-hole but local and using your operating system.
