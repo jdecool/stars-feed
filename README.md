@@ -1785,7 +1785,7 @@
 - [phpfunct/funct](https://github.com/phpfunct/funct) - A PHP library with commonly used code blocks
 - [rlerdorf/php7dev](https://github.com/rlerdorf/php7dev) - Documentation for the php7dev Vagrant box image
 - [broadway/broadway-demo](https://github.com/broadway/broadway-demo) - Demo application that uses Broadway
-- [BedrockStreaming/ApiExceptionBundle](https://github.com/BedrockStreaming/ApiExceptionBundle) - Exception API Bundle
+- [BedrockStreaming/ApiExceptionBundle](https://github.com/BedrockStreaming/ApiExceptionBundle) - :no_entry: DEPRECATED - Exception API Bundle
 - [BedrockStreaming/ElasticsearchBundle](https://github.com/BedrockStreaming/ElasticsearchBundle) - Integration of the Elasticsearch official PHP client within a Symfony Project
 - [pocky/PageBundle](https://github.com/pocky/PageBundle) - [WIP] Page Management
 - [filepreviews/filepreviews-php](https://github.com/filepreviews/filepreviews-php) - PHP client library for FilePreviews.io
@@ -2175,7 +2175,7 @@
 - [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - ❌ Cargo plugin for linting your dependencies 🦀
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible DVCS that is both simple and powerful
-- [hardik05/Damn_Vulnerable_C_Program](https://github.com/hardik05/Damn_Vulnerable_C_Program) - a c program containing vulnerable code for common types of vulnerabilities, can be used to show fuzzing concepts.
+- [hardik05/Damn_Vulnerable_C_Program](https://github.com/hardik05/Damn_Vulnerable_C_Program) - An example C program which contains vulnerable code for common types of vulnerabilities. It can be used to show fuzzing concepts.
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
