@@ -715,6 +715,7 @@
 
 ## Java 
 
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [archimatetool/archi](https://github.com/archimatetool/archi) - Archi: ArchiMate Modelling Tool
 - [t-geindre/java-synthesizer](https://github.com/t-geindre/java-synthesizer) - 
 - [gisgraphy/gisgraphy](https://github.com/gisgraphy/gisgraphy) - geocoding and geolocalisation webservices for Geonames, Openstreetmap, Openaddresses, Tiger and quattroshapes data
@@ -1146,6 +1147,7 @@
 
 ## Kotlin 
 
+- [pestphp/pest-intellij](https://github.com/pestphp/pest-intellij) - The official Pest Plugin for PhpStorm / IntelliJ IDEA
 - [Roboroads/laravel-tinker](https://github.com/Roboroads/laravel-tinker) - Adds a way to write php and run it directly in Laravels' Artisan Tinker.
 - [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
@@ -1387,6 +1389,8 @@
 
 ## PHP 
 
+- [ecotoneframework/ecotone](https://github.com/ecotoneframework/ecotone) - Ecotone Framework is Service Bus Implementation. It enables message driven architecture and DDD, CQRS, Event Sourcing PHP
+- [allysonsilva/laravel-artisan-domain-contexts](https://github.com/allysonsilva/laravel-artisan-domain-contexts) - A Laravel Package for using Artisan commands in Domain Contexts
 - [sebastianbergmann/phploc](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
 - [phpmetrics/PhpMetrics](https://github.com/phpmetrics/PhpMetrics) - Beautiful and understandable static analysis tool for PHP
 - [laravelio/laravel.io](https://github.com/laravelio/laravel.io) - The Laravel.io Community Portal.
@@ -2444,7 +2448,7 @@
 - [microsoft/TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) - A starter template for TypeScript and React with a detailed README describing how to use the two together.
 - [cupslab/password_meter](https://github.com/cupslab/password_meter) - This project implements a data-driven password meter. Its effects on password security and usability were evaluated in the following publication: http://www.blaseur.com/papers/CHI17meter.pdf and a demo is available at: https://cups.cs.cmu.edu/meter/
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
-- [teambit/bit](https://github.com/teambit/bit) - A tool for component-driven application development.
+- [teambit/bit](https://github.com/teambit/bit) - A tool for composable application development.
 - [paulirish/pwmetrics](https://github.com/paulirish/pwmetrics) - Progressive web metrics at your fingertipz
 - [eclipse/che](https://github.com/eclipse/che) - The Kubernetes-Native IDE for Developer Teams
 - [angular/components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular
