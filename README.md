@@ -376,6 +376,7 @@
 
 ## Go 
 
+- [adamgordonbell/cloudservices](https://github.com/adamgordonbell/cloudservices) - 
 - [winfsp/hubfs](https://github.com/winfsp/hubfs) - File system for GitHub
 - [proofrock/ws4sqlite](https://github.com/proofrock/ws4sqlite) - Query sqlite via http
 - [sysdream/ligolo](https://github.com/sysdream/ligolo) - Reverse Tunneling made easy for pentesters, by pentesters https://sysdream.com/
@@ -777,6 +778,7 @@
 
 ## JavaScript 
 
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [frncsdrk/avatar](https://github.com/frncsdrk/avatar) - Self-hosted service for creating random avatars
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - convert curl commands to Python, JavaScript, Go, PHP, R, Dart, Java, MATLAB, Rust, Elixir and more
 - [rohanrhu/gdb-frontend](https://github.com/rohanrhu/gdb-frontend) - ☕ GDBFrontend is an easy, flexible and extensionable gui debugger.
@@ -1223,6 +1225,7 @@
 
 ## Others 
 
+- [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [coopTilleuls/handbook](https://github.com/coopTilleuls/handbook) - Les Tilleuls handbook
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
