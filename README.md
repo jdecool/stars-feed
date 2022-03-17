@@ -63,6 +63,7 @@
   - [Shell](#shell)
   - [Standard ML](#standard-ml)
   - [Starlark](#starlark)
+  - [Svelte](#svelte)
   - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
@@ -1225,6 +1226,7 @@
 
 ## Others 
 
+- [ddbeck/readme-checklist](https://github.com/ddbeck/readme-checklist) - A checklist for writing READMEs
 - [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [coopTilleuls/handbook](https://github.com/coopTilleuls/handbook) - Les Tilleuls handbook
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -1493,7 +1495,6 @@
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - :computer: Parallel testing for PHPUnit
 - [Harborn-digital/cookie-consent-bundle](https://github.com/Harborn-digital/cookie-consent-bundle) - Symfony bundle to append Cookie Consent to your website to comply to AVG/GDPR for cookies.
 - [malc0mn/vultr-api-client](https://github.com/malc0mn/vultr-api-client) - API Client for Vultr.com
-- [Orbitale/Compotes](https://github.com/Orbitale/Compotes) - A small app to manage bank account operations and display rich analytics. Demo app credentials are admin/admin. [In development]
 - [akaunting/akaunting](https://github.com/akaunting/akaunting) - Free and Online Accounting Software
 - [liip/LiipMonitorBundle](https://github.com/liip/LiipMonitorBundle) - Integrates the LiipMonitor library into Symfony
 - [lukanetconsult/network-address-types](https://github.com/lukanetconsult/network-address-types) - Provides network address types for PHP
@@ -2340,6 +2341,10 @@
 
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 
+## Svelte 
+
+- [Orbitale/Compotes](https://github.com/Orbitale/Compotes) - A small app to manage bank account operations and display rich analytics. Demo app credentials are admin/admin. [In development]
+
 ## Swift 
 
 - [davidwernhart/AlDente](https://github.com/davidwernhart/AlDente) - macOS tool to limit maximum charging percentage
@@ -2451,7 +2456,7 @@
 - [microsoft/TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) - A starter template for TypeScript and React with a detailed README describing how to use the two together.
 - [cupslab/password_meter](https://github.com/cupslab/password_meter) - This project implements a data-driven password meter. Its effects on password security and usability were evaluated in the following publication: http://www.blaseur.com/papers/CHI17meter.pdf and a demo is available at: https://cups.cs.cmu.edu/meter/
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
-- [teambit/bit](https://github.com/teambit/bit) - A tool for composable application development.
+- [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 - [paulirish/pwmetrics](https://github.com/paulirish/pwmetrics) - Progressive web metrics at your fingertipz
 - [eclipse/che](https://github.com/eclipse/che) - The Kubernetes-Native IDE for Developer Teams
 - [angular/components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular
