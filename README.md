@@ -783,7 +783,7 @@
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [frncsdrk/avatar](https://github.com/frncsdrk/avatar) - Self-hosted service for creating random avatars
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - convert curl commands to Python, JavaScript, Go, PHP, R, Dart, Java, MATLAB, Rust, Elixir and more
-- [rohanrhu/gdb-frontend](https://github.com/rohanrhu/gdb-frontend) - ☕ GDBFrontend is an easy, flexible and extensionable gui debugger.
+- [rohanrhu/gdb-frontend](https://github.com/rohanrhu/gdb-frontend) - ☕ GDBFrontend is an easy, flexible and extensionable gui debugger. Try it on https://debugme.online
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
 - [getify/monio](https://github.com/getify/monio) - The most powerful IO monad implementation in JS, possibly in any language!
 - [Curvytron/curvytron](https://github.com/Curvytron/curvytron) - A web multiplayer Tron game like with curves
@@ -796,7 +796,6 @@
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [crisdosyago/jspaint.exe](https://github.com/crisdosyago/jspaint.exe) - 🌂JS Paint ~~ as a cross-platform native desktop app. In other words, the "🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras".exe hehe
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
-- [hieunc229/copilot-clone](https://github.com/hieunc229/copilot-clone) - VSCode extension for code suggestion
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
@@ -2403,6 +2402,7 @@
 - [m3o/m3o](https://github.com/m3o/m3o) - Everything as a Service
 - [jopemachine/arvis](https://github.com/jopemachine/arvis) - Extendable cross-platform launcher that aims to help you run, edit, create any workflow simply
 - [covidpass-org/covidpass](https://github.com/covidpass-org/covidpass) - Web app for adding EU Digital COVID Certificates to your wallet apps
+- [hieunc229/copilot-clone](https://github.com/hieunc229/copilot-clone) - VSCode extension for code suggestion
 - [0b5vr/condition](https://github.com/0b5vr/condition) - A 64KB WebGL Intro. Appeared in Revision 2021, PC 64KB Intro Compo
 - [screensy/screensy](https://github.com/screensy/screensy) - Simple peer-to-peer screen sharing
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Guide on Domain-Driven Design, software architecture, design patterns, best practices etc. with code examples
