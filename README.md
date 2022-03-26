@@ -213,7 +213,7 @@
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [Ethereal-Developers-Inc/OpenScan](https://github.com/Ethereal-Developers-Inc/OpenScan) - A privacy-friendly Document Scanner app
 - [uglide/RedisDesktopManager](https://github.com/uglide/RedisDesktopManager) - :wrench: Cross-platform Developer GUI for Redis
-- [typesense/typesense](https://github.com/typesense/typesense) - Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍 ✨ An Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch.
+- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [francescmm/GitQlient](https://github.com/francescmm/GitQlient) - GitQlient: Multi-platform Git client written with Qt.
 - [lethal-guitar/RigelEngine](https://github.com/lethal-guitar/RigelEngine) - A modern re-implementation of the classic DOS game Duke Nukem II
 - [googlevr/cardboard](https://github.com/googlevr/cardboard) - Open source Cardboard SDK and samples
