@@ -768,7 +768,7 @@
 - [melix/deck2pdf](https://github.com/melix/deck2pdf) - Converts various HTML5 slide decks to PDF
 - [SilenceIM/Silence](https://github.com/SilenceIM/Silence) - PROJECT MOVED: https://git.silence.dev/Silence/Silence-Android/ (GitHub is just a mirror.)
 - [yahoo/mysql_perf_analyzer](https://github.com/yahoo/mysql_perf_analyzer) - MySQL performance monitoring and analysis.
-- [benoit-dumas/OpenRTS](https://github.com/benoit-dumas/OpenRTS) - Real-Time Strategy game 3D engine coded in pure java
+- [methusalah/OpenRTS](https://github.com/methusalah/OpenRTS) - Real-Time Strategy game 3D engine coded in pure java
 - [crashlytics/cannonball-android](https://github.com/crashlytics/cannonball-android) - Cannonball is the fun way to create and share stories and poems on your phone. This app uses all the features of Fabric for Android.
 - [UnderwaterApps/overlap2d](https://github.com/UnderwaterApps/overlap2d) - Overlap2D Game development toolkit for UI and Level design
 - [cSploit/android](https://github.com/cSploit/android) - cSploit - The most complete and advanced IT security professional toolkit on Android.
@@ -1394,6 +1394,7 @@
 
 ## PHP 
 
+- [scr34m/php-malware-scanner](https://github.com/scr34m/php-malware-scanner) - Scans PHP files for malwares and known threats
 - [ecotoneframework/ecotone](https://github.com/ecotoneframework/ecotone) - Ecotone Framework is Service Bus Implementation. It enables message driven architecture and DDD, CQRS, Event Sourcing PHP
 - [allysonsilva/laravel-artisan-domain-contexts](https://github.com/allysonsilva/laravel-artisan-domain-contexts) - A Laravel Package for using Artisan commands in Domain Contexts
 - [sebastianbergmann/phploc](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
