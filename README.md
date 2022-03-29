@@ -1408,7 +1408,7 @@
 - [marvinrabe/laravel-wizards](https://github.com/marvinrabe/laravel-wizards) - 🧙‍♂️ Simple Wizard Controller for Laravel.
 - [hmones/laravel-digest](https://github.com/hmones/laravel-digest) - Simple way to convert your emails into configurable digests
 - [jawira/case-converter](https://github.com/jawira/case-converter) - Convert strings between 13 naming conventions: Snake case, Camel case, Kebab case, Pascal case, Ada case, Train case, Cobol case, Macro case, Upper case, Lower case, Title case, Sentence case and Dot notation.
-- [sj-i/php-profiler](https://github.com/sj-i/php-profiler) - A sampling profiler for PHP written in PHP, which reads information about running PHP VM from outside of the process.
+- [reliforp/reli-prof](https://github.com/reliforp/reli-prof) - A sampling profiler for PHP written in PHP, which reads information about running PHP VM from outside of the process.
 - [canvural/phpstan-blade-rule](https://github.com/canvural/phpstan-blade-rule) - PHPStan rule for static analysis of Blade templates
 - [spatie/laravel-health](https://github.com/spatie/laravel-health) - Check the health of your Laravel app
 - [incentive-factory/iletaitunefoisundev](https://github.com/incentive-factory/iletaitunefoisundev) - La formation dont vous êtes le héros !
