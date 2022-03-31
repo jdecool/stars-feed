@@ -782,7 +782,7 @@
 
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [frncsdrk/avatar](https://github.com/frncsdrk/avatar) - Self-hosted service for creating random avatars
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - generate code from Curl commands
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Turn curl commands into code
 - [rohanrhu/gdb-frontend](https://github.com/rohanrhu/gdb-frontend) - ☕ GDBFrontend is an easy, flexible and extensionable gui debugger. Try it on https://debugme.online
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
 - [getify/monio](https://github.com/getify/monio) - The most powerful IO monad implementation in JS, possibly in any language!
@@ -1394,6 +1394,7 @@
 
 ## PHP 
 
+- [facile-it/doctrine-mysql-come-back](https://github.com/facile-it/doctrine-mysql-come-back) - Doctrine DBAL able to try reconnect on MySQL has gone away exceptions
 - [scr34m/php-malware-scanner](https://github.com/scr34m/php-malware-scanner) - Scans PHP files for malwares and known threats
 - [ecotoneframework/ecotone](https://github.com/ecotoneframework/ecotone) - Ecotone Framework is Service Bus Implementation. It enables message driven architecture and DDD, CQRS, Event Sourcing PHP
 - [allysonsilva/laravel-artisan-domain-contexts](https://github.com/allysonsilva/laravel-artisan-domain-contexts) - A Laravel Package for using Artisan commands in Domain Contexts
