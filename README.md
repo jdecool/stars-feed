@@ -1393,6 +1393,7 @@
 
 ## PHP 
 
+- [lavary/crunz](https://github.com/lavary/crunz) - A PHP-based job scheduler
 - [facile-it/doctrine-mysql-come-back](https://github.com/facile-it/doctrine-mysql-come-back) - Doctrine DBAL able to try reconnect on MySQL has gone away exceptions
 - [scr34m/php-malware-scanner](https://github.com/scr34m/php-malware-scanner) - Scans PHP files for malwares and known threats
 - [ecotoneframework/ecotone](https://github.com/ecotoneframework/ecotone) - Ecotone Framework is Service Bus Implementation. It enables message driven architecture and DDD, CQRS, Event Sourcing PHP
@@ -1949,6 +1950,7 @@
 
 ## Python 
 
+- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
 - [VHellendoorn/Code-LMs](https://github.com/VHellendoorn/Code-LMs) - Guide to using pre-trained large language models of source code
 - [dynamite-ready/movie-parser-cli](https://github.com/dynamite-ready/movie-parser-cli) - 
 - [SuoraGmbH/build-php-extension](https://github.com/SuoraGmbH/build-php-extension) - Develop, Build and Test PHP Extensions
@@ -2175,6 +2177,7 @@
 
 ## Rust 
 
+- [Qovery/replibyte](https://github.com/Qovery/replibyte) - Synchronize your cloud databases and hide sensitive data 🛡
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [atlasr-org/atlasr](https://github.com/atlasr-org/atlasr) - Atlasr is a truly open-source and free map browser.
