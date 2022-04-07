@@ -145,7 +145,7 @@
 - [basil00/reqrypt](https://github.com/basil00/reqrypt) - A censorship circumvention tool
 - [krakjoe/autostrict](https://github.com/krakjoe/autostrict) - Automatic strict types in PHP7
 - [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
-- [willdurand/ArvernOS](https://github.com/willdurand/ArvernOS) - :floppy_disk: A minimal and experimental kernel // Work In Progress
+- [willdurand/ArvernOS](https://github.com/willdurand/ArvernOS) - :floppy_disk: A minimal and experimental monolithic kernel to learn about OS development // Work In Progress
 - [hak5darren/USB-Rubber-Ducky](https://github.com/hak5darren/USB-Rubber-Ducky) - 
 - [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
 - [robertfisk/USG](https://github.com/robertfisk/USG) - The USG is Good, not Bad
@@ -1404,7 +1404,7 @@
 - [laravelio/laravel.io](https://github.com/laravelio/laravel.io) - The Laravel.io Community Portal.
 - [golem-ai/messenger-kit](https://github.com/golem-ai/messenger-kit) - 
 - [machitgarha/phirs](https://github.com/machitgarha/phirs) - Library providing cross-platform user directory paths, such as config and cache
-- [lucasdotdev/laravel-soulbscription](https://github.com/lucasdotdev/laravel-soulbscription) - This package provides a straightforward interface to handle subscriptions and features consumption.
+- [lucasdotdev/laravel-soulbscription](https://github.com/lucasdotdev/laravel-soulbscription) - A straightforward interface to handle subscriptions and feature consumption.
 - [kra8/laravel-snowflake](https://github.com/kra8/laravel-snowflake) - This Laravel package to generate 64 bit identifier like the snowflake within Twitter.
 - [mateusjunges/laravel-kafka](https://github.com/mateusjunges/laravel-kafka) - Use Kafka Producers and Consumers in your laravel app with ease!
 - [marvinrabe/laravel-wizards](https://github.com/marvinrabe/laravel-wizards) - 🧙‍♂️ Simple Wizard Controller for Laravel.
@@ -2406,7 +2406,6 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
-- [geospoc/v-mapbox](https://github.com/geospoc/v-mapbox) - A cloned & maintained version of vue-mapbox
 - [SamKirkland/FTP-Deploy-Action](https://github.com/SamKirkland/FTP-Deploy-Action) - Deploys a GitHub project to a FTP server using GitHub actions
 - [m3o/m3o](https://github.com/m3o/m3o) - Everything as a Service
 - [jopemachine/arvis](https://github.com/jopemachine/arvis) - Extendable cross-platform launcher that aims to help you run, edit, create any workflow simply
@@ -2506,6 +2505,7 @@
 - [hay-kot/mealie](https://github.com/hay-kot/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor
 - [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX.
 - [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) - 
+- [geospoc/v-mapbox](https://github.com/geospoc/v-mapbox) - A cloned & maintained version of vue-mapbox
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [vue-leaflet/vue-leaflet](https://github.com/vue-leaflet/vue-leaflet) - vue-leaflet compatible with vue3
