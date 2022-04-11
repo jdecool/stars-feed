@@ -145,7 +145,7 @@
 - [basil00/reqrypt](https://github.com/basil00/reqrypt) - A censorship circumvention tool
 - [krakjoe/autostrict](https://github.com/krakjoe/autostrict) - Automatic strict types in PHP7
 - [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
-- [willdurand/ArvernOS](https://github.com/willdurand/ArvernOS) - :floppy_disk: A minimal and experimental monolithic kernel to learn about OS development // Work In Progress
+- [willdurand/ArvernOS](https://github.com/willdurand/ArvernOS) - :floppy_disk: A minimal, experimental and "toy" monolithic kernel to learn about OS development // Work In Progress
 - [hak5darren/USB-Rubber-Ducky](https://github.com/hak5darren/USB-Rubber-Ducky) - 
 - [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
 - [robertfisk/USG](https://github.com/robertfisk/USG) - The USG is Good, not Bad
@@ -2180,6 +2180,7 @@
 
 ## Rust 
 
+- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [Qovery/replibyte](https://github.com/Qovery/replibyte) - Synchronize your cloud databases and hide sensitive data 🛡
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
