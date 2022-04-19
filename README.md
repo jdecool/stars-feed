@@ -222,7 +222,7 @@
 - [priyankchheda/algorithms](https://github.com/priyankchheda/algorithms) - Data Structure Libraries and Algorithms implementation
 - [unetbootin/unetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive
 - [diasurgical/devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
-- [philosophofee/SBSPSS](https://github.com/philosophofee/SBSPSS) - The source code repository for the PlayStation 1 game, SpongeBob SquarePants: SuperSponge
+- [hazelcode/SBSPSS](https://github.com/hazelcode/SBSPSS) - The source code repository for the PlayStation 1 game, SpongeBob SquarePants: SuperSponge
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
@@ -2268,6 +2268,7 @@
 
 ## Shell 
 
+- [ANSSI-FR/rust-guide](https://github.com/ANSSI-FR/rust-guide) - Recommendations for secure applications development with Rust
 - [jasonmccreary/git-trim](https://github.com/jasonmccreary/git-trim) - 
 - [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - Get started with your own dotfiles.
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
