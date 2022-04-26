@@ -2186,7 +2186,7 @@
 ## Rust 
 
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
-- [Qovery/replibyte](https://github.com/Qovery/replibyte) - Synchronize your cloud databases and hide sensitive data 🛡
+- [Qovery/replibyte](https://github.com/Qovery/replibyte) - Seed your development database with real data ⚡️
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [atlasr-org/atlasr](https://github.com/atlasr-org/atlasr) - Atlasr is a truly open-source and free map browser.
@@ -2416,7 +2416,7 @@
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [SamKirkland/FTP-Deploy-Action](https://github.com/SamKirkland/FTP-Deploy-Action) - Deploys a GitHub project to a FTP server using GitHub actions
-- [m3o/m3o](https://github.com/m3o/m3o) - Universal public API gateway
+- [m3o/m3o](https://github.com/m3o/m3o) - Universal public API interface
 - [jopemachine/arvis](https://github.com/jopemachine/arvis) - Extendable cross-platform launcher that aims to help you run, edit, create any workflow simply
 - [covidpass-org/covidpass](https://github.com/covidpass-org/covidpass) - Web app for adding EU Digital COVID Certificates to your wallet apps
 - [hieunc229/copilot-clone](https://github.com/hieunc229/copilot-clone) - VSCode extension for code suggestion
