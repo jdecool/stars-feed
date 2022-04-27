@@ -155,7 +155,7 @@
 - [Cisco-Talos/MBRFilter](https://github.com/Cisco-Talos/MBRFilter) - Cisco Talos MBR Filter Driver
 - [madler/pigz](https://github.com/madler/pigz) - A parallel implementation of gzip for modern multi-processor, multi-core machines.
 - [Cisco-Talos/clamav](https://github.com/Cisco-Talos/clamav) - ClamAV - Documentation is here: https://docs.clamav.net
-- [balde/balde](https://github.com/balde/balde) - A microframework for C based on GLib and bad intentions.
+- [balde/balde](https://github.com/balde/balde) - A microframework for C based on GLib.
 - [lavabit/magma](https://github.com/lavabit/magma) - The magma server daemon, is an encrypted email system with support for SMTP, POP, IMAP, HTTP and MOLTEN,. Additional support for DMTP and DMAP is currently in active development.
 - [jech/polipo](https://github.com/jech/polipo) - The Polipo caching HTTP proxy
 - [zyantific/zydis](https://github.com/zyantific/zydis) - Fast and lightweight x86/x86-64 disassembler and code generation library
@@ -1956,6 +1956,7 @@
 
 ## Python 
 
+- [cider-security-research/cicd-goat](https://github.com/cider-security-research/cicd-goat) - A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
 - [VHellendoorn/Code-LMs](https://github.com/VHellendoorn/Code-LMs) - Guide to using pre-trained large language models of source code
 - [dynamite-ready/movie-parser-cli](https://github.com/dynamite-ready/movie-parser-cli) - 
