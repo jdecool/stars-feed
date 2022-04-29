@@ -412,7 +412,7 @@
 - [redirect2me/which-dns](https://github.com/redirect2me/which-dns) - Detects which DNS server is being used - https://which.nameserve.rs/
 - [deletescape/goop](https://github.com/deletescape/goop) - Yet another tool to dump a git repository from a website, focused on as-complete-as-possible dumps and handling weird edge-cases.
 - [kkdai/youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
-- [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
+- [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
 - [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more
 - [maxence-charriere/lofimusic](https://github.com/maxence-charriere/lofimusic) - Lofimusic.app is an installable Progressive web app (PWA) that lists and displays famous YouTube Lo-Fi radios.
 - [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
@@ -1742,7 +1742,7 @@
 - [phplang/phack](https://github.com/phplang/phack) - HackLang for PHP Transpiler
 - [ziishaned/git-profile](https://github.com/ziishaned/git-profile) - Utility that helps you switch git configurations with ease.
 - [ovr/phpsa](https://github.com/ovr/phpsa) - Smart/Static Analyzer(sis) for PHP :bowtie::neckbeard:
-- [shivammathur/countrycity](https://github.com/shivammathur/countrycity) - :earth_americas: Geodata API - Get countries, and cities to plug in a select drop-down.
+- [shivammathur/countrycity](https://github.com/shivammathur/countrycity) - :earth_americas: Geodata API - Get countries, and cities to plug in drop-downs.
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
 - [DusanKasan/Knapsack](https://github.com/DusanKasan/Knapsack) - Collection pipeline library for PHP
 - [ramsey/collection](https://github.com/ramsey/collection) - A PHP library for representing and manipulating collections.
@@ -2465,7 +2465,7 @@
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [paulgb/Treeverse](https://github.com/paulgb/Treeverse) - A browser extension for navigating burgeoning Twitter conversations
 - [jakubroztocil/rrule](https://github.com/jakubroztocil/rrule) - JavaScript library for working with recurrence rules for calendar dates as defined in the iCalendar RFC and more.
 - [Atyantik/react-pwa](https://github.com/Atyantik/react-pwa) - An upgradable boilerplate for Progressive web applications (PWA) with server side rendering, build with SEO in mind and achieving max page speed and optimized user experience.
