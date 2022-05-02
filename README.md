@@ -654,7 +654,7 @@
 - [kamilmielnik/scrabble-solver](https://github.com/kamilmielnik/scrabble-solver) - scrabble-solver.org - The ultimate, open-source cheating app for Scrabble and Literaki. Available in English, French, German, Polish & Spanish.
 - [isaaceindhoven/velocita-proxy](https://github.com/isaaceindhoven/velocita-proxy) - Velocita - Composer caching reverse proxy
 - [beberlei/php-rfc-watch](https://github.com/beberlei/php-rfc-watch) - Interactive voting results for PHP RFC process.
-- [BustByte/coronastatus](https://github.com/BustByte/coronastatus) - 🇳🇴🇳🇱🇸🇰🇩🇰🇨🇴🇮🇹🇫🇷🇲🇽🇺🇸🇺🇦🇪🇸🇧🇷🇨🇦🇦🇺🇸🇬🇦🇷🇲🇾🇲🇹🇨🇱🇮🇳🇵🇹🇹🇷🇱🇹🇳🇵🇨🇿🇮🇩🇵🇭🇳🇬🇷🇴Join the fight! Open source webapp that let people report their health status to get overview of COVID-19
+- [BustByte/coronastatus](https://github.com/BustByte/coronastatus) - Anonymous crowd sourcing of COVID-19 symptoms all over the world (with public data sets)!
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [softvar/translatr](https://github.com/softvar/translatr) - :speech_balloon: Translate to multiple languages at once
 - [OpenRCE/Malware-Analysis-Training](https://github.com/OpenRCE/Malware-Analysis-Training) - Retired beginner/intermediate malware analysis training materials from @pedramamini and @erocarrera.
@@ -720,6 +720,7 @@
 
 ## Java 
 
+- [allure-framework/allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of information from the everyday testing process
 - [Haehnchen/idea-php-symfony2-plugin](https://github.com/Haehnchen/idea-php-symfony2-plugin) - IntelliJ IDEA / PhpStorm Symfony Plugin
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [archimatetool/archi](https://github.com/archimatetool/archi) - Archi: ArchiMate Modelling Tool
@@ -1398,6 +1399,8 @@
 
 ## PHP 
 
+- [andreaskweber/php-junit-merge](https://github.com/andreaskweber/php-junit-merge) - PHP J-Unit XML File Merger
+- [allure-framework/allure-php-commons2](https://github.com/allure-framework/allure-php-commons2) - Allure integrations for PHP test frameworks: Commons Module
 - [Hi-Folks/gh-actions-yaml-generator](https://github.com/Hi-Folks/gh-actions-yaml-generator) - Ghygen is a GitHub Actions configurator for your PHP / Laravel project.
 - [hidehalo/nanoid-php](https://github.com/hidehalo/nanoid-php) - PHP implementation of Nanoid, secure URL-friendly unique ID generator
 - [lavary/crunz](https://github.com/lavary/crunz) - A PHP-based job scheduler
