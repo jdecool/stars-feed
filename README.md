@@ -58,6 +58,7 @@
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
+  - [SWIG](#swig)
   - [Scala](#scala)
   - [Scheme](#scheme)
   - [Shell](#shell)
@@ -494,7 +495,7 @@
 - [cristianoliveira/ergo](https://github.com/cristianoliveira/ergo) - The management of multiple apps running over different ports made easy
 - [spiral/php-grpc](https://github.com/spiral/php-grpc) - :electric_plug: Fast and furious GRPC server for PHP applications
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - PhotoPrism® is an AI-powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [aacebedo/dnsdock](https://github.com/aacebedo/dnsdock) - DNS service discovery for Docker containers
 - [orisano/dlayer](https://github.com/orisano/dlayer) - dlayer is docker layer analyzer.
 - [buzzfeed/sso](https://github.com/buzzfeed/sso) - sso, aka S.S.Octopus, aka octoboi, is a single sign-on solution for securing internal services
@@ -1240,7 +1241,6 @@
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
-- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice about software architecture, patterns, and principles.
 - [Clivern/Gauntlet](https://github.com/Clivern/Gauntlet) - 🔖 Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems.
 - [Dashlane/password-changer-well-known](https://github.com/Dashlane/password-changer-well-known) - Documentation for using Dashlane's password changer .well-known
 - [gbprod/stars](https://github.com/gbprod/stars) - 
@@ -2263,6 +2263,10 @@
 - [papercss/papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 - [heroku/starboard](https://github.com/heroku/starboard) - onboarding, offboarding, or crossboarding made easy
 - [BafS/Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.
+
+## SWIG 
+
+- [microsoft/Microsoft-3D-Movie-Maker](https://github.com/microsoft/Microsoft-3D-Movie-Maker) - This is the source code for the original Microsoft 3D Movie Maker released in 1995. This is not supported software.
 
 ## Scala 
 
