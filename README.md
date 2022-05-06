@@ -1291,7 +1291,7 @@
 - [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [j4p3/strimpack](https://github.com/j4p3/strimpack) - A platform for livestreamers to make a home for their audience.
-- [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
 - [rShetty/awesome-distributed-systems](https://github.com/rShetty/awesome-distributed-systems) - Awesome list of distributed systems resources
 - [malk/the-kebab-kata](https://github.com/malk/the-kebab-kata) - Identifying & fighting your team’s systemic issues creating your legacy
@@ -1402,6 +1402,7 @@
 
 ## PHP 
 
+- [bpolaszek/php-iterable-functions](https://github.com/bpolaszek/php-iterable-functions) - Provides functions for iterable variables: iterable_map(, iterable_filter(), iterable_to_array(), ...
 - [andreaskweber/php-junit-merge](https://github.com/andreaskweber/php-junit-merge) - PHP J-Unit XML File Merger
 - [allure-framework/allure-php-commons2](https://github.com/allure-framework/allure-php-commons2) - Allure integrations for PHP test frameworks: Commons Module
 - [Hi-Folks/gh-actions-yaml-generator](https://github.com/Hi-Folks/gh-actions-yaml-generator) - Ghygen is a GitHub Actions configurator for your PHP / Laravel project.
