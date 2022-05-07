@@ -101,7 +101,7 @@
 - [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
 - [QB64Team/qb64](https://github.com/QB64Team/qb64) - BASIC for the modern era.
 - [lpereira/hardinfo](https://github.com/lpereira/hardinfo) - System profiler and benchmark tool for Linux systems
-- [Softmotions/ejdb](https://github.com/Softmotions/ejdb) - :snowboarder: EJDB 2.0 — Embeddable JSON Database engine C library. Simple XPath like query language (JQL). Websockets / Android / iOS / React Native / Flutter / Java / Dart / Node.js bindings. Docker image.
+- [Softmotions/ejdb](https://github.com/Softmotions/ejdb) - :snowboarder: EJDB 2.0 — Embeddable JSON Database engine C library. Simple XPath like query language (JQL). Websockets / Android / iOS / React Native / Flutter / Java / Dart / Node.js bindings. Docker
 - [eduard-permyakov/permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine) - An OpenGL RTS game engine written in C
 - [ant4g0nist/Vulnerable-Kext](https://github.com/ant4g0nist/Vulnerable-Kext) - A WIP "Vulnerable by Design" kext for iOS/macOS to play & learn *OS kernel exploitation
 - [mvp/uhubctl](https://github.com/mvp/uhubctl) - uhubctl - USB hub per-port power control
@@ -184,7 +184,7 @@
 - [devcrafting/architecture-styles](https://github.com/devcrafting/architecture-styles) - Different architecture / domain modelling styles
 - [jtheisen/reconciler](https://github.com/jtheisen/reconciler) - Update an entity graph in store to a given one by inserting, updating and removing the respective entities.
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
-- [OpenSilver/OpenSilver](https://github.com/OpenSilver/OpenSilver) - This repository contains the source of both OpenSilver and CSHTML5. More information is available at: www.opensilver.net and www.cshtml5.com - Read README.md for the instructions on how to build the source code and how to test it.
+- [OpenSilver/OpenSilver](https://github.com/OpenSilver/OpenSilver) - This repository contains the source of both OpenSilver and CSHTML5. More information is available at: www.opensilver.net and www.cshtml5.com - Read README.md for the instructions on how to build the s
 - [spectresystems/jarvis](https://github.com/spectresystems/jarvis) - Your robotic butler.
 - [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
 - [unoplatform/calculator](https://github.com/unoplatform/calculator) - Uno Calculator: A simple yet powerful iOS/Android/WebAssembly/Linux C# port of the calculator that ships with Windows
@@ -196,7 +196,6 @@
 - [LordYui/OpenTorrent](https://github.com/LordYui/OpenTorrent) - A C#, Lidgren-based, P2P-fueled torrent sharing software. Actually just something I made for fun when KAT got shot down.
 - [intel/acat](https://github.com/intel/acat) - Assistive Context-Aware Toolkit (ACAT)
 - [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
-- [Nummer/Destroy-Windows-10-Spying](https://github.com/Nummer/Destroy-Windows-10-Spying) - Destroy Windows Spying tool
 - [telerik/JustDecompileEngine](https://github.com/telerik/JustDecompileEngine) - The decompilation engine of JustDecompile
 - [lenovo-inc/superfishremoval](https://github.com/lenovo-inc/superfishremoval) - Utility to remove SuperFish application
 - [lachesis/scallion](https://github.com/lachesis/scallion) - GPU-based Onion Hash generator
@@ -210,7 +209,6 @@
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows.
 - [k4zmu2a/SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Decompilation of 3D Pinball for Windows – Space Cadet
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
-- [GTAmodding/re3](https://github.com/GTAmodding/re3) - GTA III, Vice City
 - [FD-/RPiPlay](https://github.com/FD-/RPiPlay) - An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [Ethereal-Developers-Inc/OpenScan](https://github.com/Ethereal-Developers-Inc/OpenScan) - A privacy-friendly Document Scanner app
@@ -281,7 +279,7 @@
 
 ## CSS 
 
-- [uxcandy/Label-Free-Bootstrap-Admin-Template](https://github.com/uxcandy/Label-Free-Bootstrap-Admin-Template) - Label admin template is a sophisticated responsive admin dashboard template made on top of Bootstrap 4. It is packed with highly customizable Bootstrap components that help web development easy and faster than ever with the advanced automated Gulp workflow.
+- [uxcandy/Label-Free-Bootstrap-Admin-Template](https://github.com/uxcandy/Label-Free-Bootstrap-Admin-Template) - Label admin template is a sophisticated responsive admin dashboard template made on top of Bootstrap 4. It is packed with highly customizable Bootstrap components that help web development easy and fa
 - [driftphp/demo](https://github.com/driftphp/demo) - Demo for DriftPHP
 - [tabulapdf/tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files
 - [thewhiteh4t/seeker](https://github.com/thewhiteh4t/seeker) - Accurately Locate Smartphones using Social Engineering
@@ -398,12 +396,12 @@
 - [im2nguyen/rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [warrensbox/hubapp](https://github.com/warrensbox/hubapp) - The `hubapp` command line tool lets you install app binaries from github user's releases.
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
 - [enix/x509-certificate-exporter](https://github.com/enix/x509-certificate-exporter) - A Prometheus exporter to monitor x509 certificates expiration in Kubernetes clusters or standalone
 - [sherifabdlnaby/sched](https://github.com/sherifabdlnaby/sched) - In-process Go Job Scheduler. Supports Fixed, Timely, and Cron Expression Intervals. Instrument and Expose Scheduler's Job Metrics.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
-- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative IPS able to analyze visitor behavior & provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global CTI database to protect the user network.
+- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative IPS able to analyze visitor behavior & provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global CTI data
 - [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
 - [fabpot/local-php-security-checker](https://github.com/fabpot/local-php-security-checker) - PHP security vulnerabilities checker
@@ -423,7 +421,7 @@
 - [stapelberg/airscan](https://github.com/stapelberg/airscan) - Go package to scan paper documents 📄 from a scanner 🖨️ via the network 🕸️ using the Apple AirScan (eSCL) protocol.
 - [royalbhati/Foxy](https://github.com/royalbhati/Foxy) - Go based download manager
 - [goadapp/goad](https://github.com/goadapp/goad) - Goad is an AWS Lambda powered, highly distributed, load testing tool
-- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches.
+- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless.
 - [briansorahan/spatialite](https://github.com/briansorahan/spatialite) - database/sql driver for libspatialite
 - [shaxbee/go-spatialite](https://github.com/shaxbee/go-spatialite) - Spatialite SQL Driver for Golang
 - [mdlayher/schedgroup](https://github.com/mdlayher/schedgroup) - Package schedgroup provides a goroutine worker pool which schedules tasks to be performed at or after a specified time. MIT Licensed.
@@ -624,7 +622,7 @@
 - [bazooka-ci/bazooka](https://github.com/bazooka-ci/bazooka) - Continuous Integration and Continuous Deployment Server
 - [zxh0/jvm.go](https://github.com/zxh0/jvm.go) - A toy JVM written in Go
 - [rakyll/boom](https://github.com/rakyll/boom) - HTTP(S) load generator, ApacheBench (ab) replacement, written in Go
-- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
+- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
 - [nwidger/nintengo](https://github.com/nwidger/nintengo) - An NES emulator written in Go
 - [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
 - [nytlabs/hive](https://github.com/nytlabs/hive) - A platform for backing crowdsourcing websites, built in golang for elasticsearch
@@ -722,7 +720,7 @@
 
 ## Java 
 
-- [allure-framework/allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of information from the everyday testing process
+- [allure-framework/allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of infor
 - [Haehnchen/idea-php-symfony2-plugin](https://github.com/Haehnchen/idea-php-symfony2-plugin) - IntelliJ IDEA / PhpStorm Symfony Plugin
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [archimatetool/archi](https://github.com/archimatetool/archi) - Archi: ArchiMate Modelling Tool
@@ -783,6 +781,7 @@
 - [groupon/DotCi](https://github.com/groupon/DotCi) - DotCi Jenkins github integration, .ci.yml http://groupon.github.io/DotCi
 - [jphp-group/jphp](https://github.com/jphp-group/jphp) - JPHP - an implementation of PHP on Java VM
 - [jodoglevy/gargl](https://github.com/jodoglevy/gargl) - Record web requests as they happen and turn them into reusable code in any programming language.
+- [Fuzion24/AndroidZipArbitrage](https://github.com/Fuzion24/AndroidZipArbitrage) - Exploit for Android Zip bugs: 8219321, 9695860, and 9950697
 
 ## JavaScript 
 
@@ -796,7 +795,7 @@
 - [Curvytron/curvytron](https://github.com/Curvytron/curvytron) - A web multiplayer Tron game like with curves
 - [ultrabolido/PrinceJS](https://github.com/ultrabolido/PrinceJS) - Prince of Persia reimplementation written in HTML5/Javascript
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - ↯ Cloud-scale performance testing for DevOps & SRE
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Modern testing for DevOps & SRE
 - [flowwer-dev/pull-request-stats](https://github.com/flowwer-dev/pull-request-stats) - Github action to print relevant stats about Pull Request reviewers
 - [EvilFreelancer/xhprof-ui-js](https://github.com/EvilFreelancer/xhprof-ui-js) - Modern, flexible and mobile friendly application for analyzing PHP XHProf dumps
 - [dalunacrobate/DaProfiler](https://github.com/dalunacrobate/DaProfiler) - DaProfiler allows you to create a profile on your target based in France only. The particularity of this program is its ability to find the e-mail addresses your target.
@@ -810,7 +809,7 @@
 - [eciavatta/caronte](https://github.com/eciavatta/caronte) - A tool to analyze the network flow during attack/defence Capture the Flag competitions
 - [github/github-elements](https://github.com/github/github-elements) - GitHub's Web Component collection.
 - [mdubourg001/glci](https://github.com/mdubourg001/glci) - 🦊 Test your Gitlab CI Pipelines changes locally using Docker.
-- [kee-org/keevault](https://github.com/kee-org/keevault) - Kee Vault is a password manager for your web browser. Password databases (Vaults) are encrypted using the KeePass storage format before being sent to a remote server for synchronisation across any modern device/browser
+- [kee-org/keevault](https://github.com/kee-org/keevault) - Kee Vault is a password manager for your web browser. Password databases (Vaults) are encrypted using the KeePass storage format before being sent to a remote server for synchronisation across any mod
 - [incarnate/curl-to-php](https://github.com/incarnate/curl-to-php) - Convert curl commands to PHP code in your browser
 - [sindresorhus/pid-port](https://github.com/sindresorhus/pid-port) - Get the ID of the process that uses a certain port
 - [axioms-io/axioms-jwt-debugger](https://github.com/axioms-io/axioms-jwt-debugger) - Axioms JWT Debugger
@@ -837,7 +836,7 @@
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
 - [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
-- [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript) - Algorithms implemented in JavaScript for beginners, following best practices.
+- [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
 - [codemirror/codemirror.next](https://github.com/codemirror/codemirror.next) - The next generation of the CodeMirror in-browser editor
 - [gsilvamartin/RTCode](https://github.com/gsilvamartin/RTCode) - Real time code sharing web application
@@ -893,7 +892,7 @@
 - [ghostery/ghostery-extension](https://github.com/ghostery/ghostery-extension) - Ghostery Browser Extension for Firefox, Chrome, Opera and Edge
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [Bishop92/JavaScript-Data-Structures](https://github.com/Bishop92/JavaScript-Data-Structures) - A library for data structure in JavaScript
-- [LINCnil/Cookie-consent_Google-Analytics](https://github.com/LINCnil/Cookie-consent_Google-Analytics) - Code pour mettre Google Analytics en conformité avec la législation française sur les cookies. Attention toutefois, cette version du code ne fonctionne qu'avec les anciennes versions de Google Analytics.
+- [LINCnil/Cookie-consent_Google-Analytics](https://github.com/LINCnil/Cookie-consent_Google-Analytics) - Code pour mettre Google Analytics en conformité avec la législation française sur les cookies. Attention toutefois, cette version du code ne fonctionne qu'avec les anciennes versions de Google Analyti
 - [mholt/curl-to-go](https://github.com/mholt/curl-to-go) - Convert curl commands to Go code in your browser
 - [nitin42/linkify-markdown](https://github.com/nitin42/linkify-markdown) - 🚀  A cli tool which automatically add references to issues, pull requests, user mentions and forks to a markdown file.
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
@@ -1002,7 +1001,7 @@
 - [dthree/cash](https://github.com/dthree/cash) - Cross-platform Linux commands in ES6
 - [brrd/abricotine](https://github.com/brrd/abricotine) - Markdown editor with inline preview
 - [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
-- [jayphelps/core-decorators](https://github.com/jayphelps/core-decorators) - Library of stage-0 JavaScript decorators (aka ES2016/ES7 decorators but not accurate) inspired by languages that come with built-ins like @​override, @​deprecate, @​autobind, @​mixin and more. Popular with React/Angular, but is framework agnostic.
+- [jayphelps/core-decorators](https://github.com/jayphelps/core-decorators) - Library of stage-0 JavaScript decorators (aka ES2016/ES7 decorators but not accurate) inspired by languages that come with built-ins like @​override, @​deprecate, @​autobind, @​mixin and more. Popular
 - [marmelab/ng-admin](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
@@ -1033,7 +1032,7 @@
 - [Yproximite/PRReviewWatcher](https://github.com/Yproximite/PRReviewWatcher) - An open source tool to help code reviewer's to focus on what's important by reminding the developper to check for obvious things first.
 - [allegro/tipboard](https://github.com/allegro/tipboard) - Tipboard - in-house, tasty, local dashboarding system
 - [Tygs/0bin](https://github.com/Tygs/0bin) - Client side encrypted pastebin
-- [micmro/performance-bookmarklet](https://github.com/micmro/performance-bookmarklet) - Performance-Bookmarklet helps to analyze the current page through the Resource Timing API, Navigation Timing API and User-Timing - requests by type, domain, load times, marks and more. Sort of a light live WebPageTest.
+- [micmro/performance-bookmarklet](https://github.com/micmro/performance-bookmarklet) - Performance-Bookmarklet helps to analyze the current page through the Resource Timing API, Navigation Timing API and User-Timing - requests by type, domain, load times, marks and more. Sort of a light
 - [foam-framework/foam](https://github.com/foam-framework/foam) - Feature-Oriented Active Modeller
 - [yohang/satis-admin](https://github.com/yohang/satis-admin) - A web interface for Satis configuration
 - [scottjehl/picturefill](https://github.com/scottjehl/picturefill) - A responsive image polyfill for &lt;picture&gt;, srcset, sizes, and more
@@ -1059,7 +1058,7 @@
 - [danielborowski/jsboard](https://github.com/danielborowski/jsboard) - JavaScript library for easily creating board games
 - [weiland/es6-babel-systemjs-boilerplate](https://github.com/weiland/es6-babel-systemjs-boilerplate) - ES6 babel (formerly 6to5) & SystemJS Boilerplate
 - [superkhau/lice](https://github.com/superkhau/lice) - An open source license generator and license viewer.
-- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
+- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https
 - [englercj/phaser-debug](https://github.com/englercj/phaser-debug) - Simple debug module for phaser
 - [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
 - [enricolucia/pong](https://github.com/enricolucia/pong) - A pure javascript pong game clone based on socket.io and canvas.
@@ -1111,7 +1110,6 @@
 - [substack/invoicer](https://github.com/substack/invoicer) - generate pdf invoices from json
 - [substack/clocker](https://github.com/substack/clocker) - track project hours
 - [appserver-io/appserver](https://github.com/appserver-io/appserver) - A multithreaded application server for PHP, written in PHP.
-- [metaware/angularjs-form-builder](https://github.com/metaware/angularjs-form-builder) - A simple form builder application written with AngularJS.
 - [angular-wizard/angular-wizard](https://github.com/angular-wizard/angular-wizard) - Easy to use Wizard library for AngularJS
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [arachnys/cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
@@ -1132,7 +1130,7 @@
 - [juliangruber/review](https://github.com/juliangruber/review) - Visual regression testing tool for responsive websites
 - [angular/dashboard.angularjs.org](https://github.com/angular/dashboard.angularjs.org) - AngularJS Dashboard
 - [davidgomes/multitaskor](https://github.com/davidgomes/multitaskor) - A simple game about multitasking made in 48 hours for Ludum Dare
-- [wesjones/waitFor](https://github.com/wesjones/waitFor) - Angular Scenario Runner for Karma Additional API WaitFor. This makes it so you don't have to use element which grabs items that are not yet available. WaitFor will wait a specified amont of time while searching for them making the test execution faster because you don't need to use sleeps.
+- [wesjones/waitFor](https://github.com/wesjones/waitFor) - Angular Scenario Runner for Karma Additional API WaitFor. This makes it so you don't have to use element which grabs items that are not yet available. WaitFor will wait a specified amont of time while
 - [mjibson/goread](https://github.com/mjibson/goread) - RSS reader in go on app engine; formerly goread.io
 - [ryanackley/git-html5.js](https://github.com/ryanackley/git-html5.js) - pure Javascript git implementation for your browser
 - [Cobase/cobase](https://github.com/Cobase/cobase) - Open Source Enterprise Social Network - NOTE: This repository is not maintained any more. For latest version of Cobase, check out CobasePRO.
@@ -1141,7 +1139,7 @@
 - [es-analysis/plato](https://github.com/es-analysis/plato) - JavaScript source code visualization, static analysis, and complexity tool
 - [noahblon/animated-climacons](https://github.com/noahblon/animated-climacons) - Animated SVG Climacons
 - [imakewebthings/deck.js](https://github.com/imakewebthings/deck.js) - Modern HTML Presentations
-- [sitespeedio/sitespeed.io](https://github.com/sitespeedio/sitespeed.io) - Sitespeed.io is an open source tool that helps you monitor, analyze and optimize your website speed and performance, based on performance best practices advices from the coach and collecting browser metrics using the Navigation Timing API, User Timings and Visual Metrics (FirstVisualChange, SpeedIndex & LastVisualChange).
+- [sitespeedio/sitespeed.io](https://github.com/sitespeedio/sitespeed.io) - Sitespeed.io is an open source tool that helps you monitor, analyze and optimize your website speed and performance, based on performance best practices advices from the coach and collecting browser m
 
 ## Jinja 
 
@@ -1306,7 +1304,6 @@
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [jgrodziski/learn-computing-directory-data](https://github.com/jgrodziski/learn-computing-directory-data) - 
 - [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source
-- [wtsxDev/Malware-Analysis](https://github.com/wtsxDev/Malware-Analysis) - List of awesome malware analysis tools and resources
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [symfony/lts](https://github.com/symfony/lts) - Enforces Long Term Supported versions of Symfony components
@@ -1387,6 +1384,7 @@
 - [ligurio/software-quality-wiki](https://github.com/ligurio/software-quality-wiki) - Software Quality Wiki
 - [prili/fb-hfc](https://github.com/prili/fb-hfc) - Facebook hidden friends crawler POC
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
+- [metaware/angularjs-form-builder](https://github.com/metaware/angularjs-form-builder) - A simple form builder application written with AngularJS.
 - [mgp/book-notes](https://github.com/mgp/book-notes) - Notes from books and other interesting things that I've read. Table of contents at the end 👇
 - [neiesc/awesome-minimalist](https://github.com/neiesc/awesome-minimalist) - A curated list of awesome minimalist frameworks (simple and lightweight).
 - [limetext/lime](https://github.com/limetext/lime) - Open source API-compatible alternative to the text editor Sublime Text
@@ -1422,7 +1420,7 @@
 - [mateusjunges/laravel-kafka](https://github.com/mateusjunges/laravel-kafka) - Use Kafka Producers and Consumers in your laravel app with ease!
 - [marvinrabe/laravel-wizards](https://github.com/marvinrabe/laravel-wizards) - 🧙‍♂️ Simple Wizard Controller for Laravel.
 - [hmones/laravel-digest](https://github.com/hmones/laravel-digest) - Simple way to convert your emails into configurable digests
-- [jawira/case-converter](https://github.com/jawira/case-converter) - Convert strings between 13 naming conventions: Snake case, Camel case, Kebab case, Pascal case, Ada case, Train case, Cobol case, Macro case, Upper case, Lower case, Title case, Sentence case and Dot notation.
+- [jawira/case-converter](https://github.com/jawira/case-converter) - Convert strings between 13 naming conventions: Snake case, Camel case, Kebab case, Pascal case, Ada case, Train case, Cobol case, Macro case, Upper case, Lower case, Title case, Sentence case and Dot
 - [reliforp/reli-prof](https://github.com/reliforp/reli-prof) - A sampling profiler for PHP written in PHP, which reads information about running PHP VM from outside of the process.
 - [canvural/phpstan-blade-rule](https://github.com/canvural/phpstan-blade-rule) - PHPStan rule for static analysis of Blade templates
 - [spatie/laravel-health](https://github.com/spatie/laravel-health) - Check the health of your Laravel app
@@ -1541,7 +1539,7 @@
 - [the-control-group/voyager](https://github.com/the-control-group/voyager) - Voyager - The Missing Laravel Admin
 - [enumag/no-thanks](https://github.com/enumag/no-thanks) - Prevents symfony/flex from printing thanks reminder.
 - [awes-io/awes-io](https://github.com/awes-io/awes-io) - Awes.io // boilerplate based on Vue, Nuxt, TailwindCSS plus Laravel as a backend. 🤟
-- [domainmod/domainmod](https://github.com/domainmod/domainmod) - DomainMOD is an open source application written in PHP & MySQL used to manage your domains and other internet assets in a central location. DomainMOD also includes a Data Warehouse framework that allows you to import your web server data so that you can view, export, and report on your live data.
+- [domainmod/domainmod](https://github.com/domainmod/domainmod) - DomainMOD is an open source application written in PHP & MySQL used to manage your domains and other internet assets in a central location. DomainMOD also includes a Data Warehouse framework that allo
 - [ergebnis/php-package-template](https://github.com/ergebnis/php-package-template) - :octocat: + :ledger: Provides a GitHub repository template for a PHP package, using GitHub Actions.
 - [B-Galati/monolog-sentry-handler](https://github.com/B-Galati/monolog-sentry-handler) - Monolog handler for Sentry PHP SDK v2 with breadcrumbs support
 - [composer/satis](https://github.com/composer/satis) - Simple static Composer repository generator - For a full private Composer repo use Private Packagist
@@ -1590,7 +1588,7 @@
 - [matthiasnoback/TalisORM](https://github.com/matthiasnoback/TalisORM) - An ORM for "ORMless" persistance of DDD-inspired domain models
 - [webmozarts/assert](https://github.com/webmozarts/assert) - Assertions to validate method input/output with nice error messages.
 - [makasim/php-fpm-queue](https://github.com/makasim/php-fpm-queue) - Use php-fpm as a simple built-in async queue
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from website
 - [Innmind/TimeContinuum](https://github.com/Innmind/TimeContinuum) - 
 - [thephpleague/tactician](https://github.com/thephpleague/tactician) - A small, flexible command bus
 - [thephpleague/tactician-bundle](https://github.com/thephpleague/tactician-bundle) - Bundle to integrate Tactician with Symfony projects
@@ -1598,7 +1596,7 @@
 - [acmephp/acmephp](https://github.com/acmephp/acmephp) - Let's Encrypt/ACME Command Line client written in PHP
 - [clue/socket-raw](https://github.com/clue/socket-raw) - Simple and lightweight OOP wrapper for PHP's low-level sockets extension (ext-sockets)
 - [liip/RMT](https://github.com/liip/RMT) - RMT is a handy tool to help releasing new version of your software
-- [pH7Software/pH7-Social-Dating-CMS](https://github.com/pH7Software/pH7-Social-Dating-CMS) - 😻 pH7Builder (formerly pH7CMS) :couple: is a Professional & Open Source Social Dating CMS written in PHP 8 🚀 This Social Dating Script wants to be low resource-intensive, powerful and secure. pH7CMS is included with 40+ modules and based on pH7Framework. It is also the first Professional, Free & Open Source Social Dating Site Builder Software and the first choice for creating enterprise level Dating Apps/Service or Social Networking Sites
+- [pH7Software/pH7-Social-Dating-CMS](https://github.com/pH7Software/pH7-Social-Dating-CMS) - 😻 pH7Builder (formerly pH7CMS) :couple: is a Professional & Open Source Social Dating CMS written in PHP 8 🚀 This Social Dating Script wants to be low resource-intensive, powerful and secure. pH7CMS i
 - [Rebilly/openapi-php](https://github.com/Rebilly/openapi-php) - OpenAPI Specification SDK for PHP
 - [WandiParis/EasyAdminPlusBundle](https://github.com/WandiParis/EasyAdminPlusBundle) - EasyAdminPlusBundle is a Symfony 4 wrapper for the amazing  EasyCorp/EasyAdminBundle
 - [prolic/fpp](https://github.com/prolic/fpp) - Functional PHP Preprocessor - Generate Immutable Data Types
@@ -1634,7 +1632,7 @@
 - [endroid/qr-code](https://github.com/endroid/qr-code) - QR Code Generator
 - [symplify/symplify](https://github.com/symplify/symplify) - Do you use Symfony, Coding Standards, maintain PHP packages, monorepo, local packages, static websites and most importantly... are you extreemely lazy? You'll love the candies you find here! :)
 - [sirbrillig/phpcs-variable-analysis](https://github.com/sirbrillig/phpcs-variable-analysis) - Find undefined and unused variables with the PHP Codesniffer static analysis tool.
-- [Cocolabs-SAS/cocorico](https://github.com/Cocolabs-SAS/cocorico) - 👐 Cocorico is an open source marketplace solution for services and rentals. More information right here: https://www.cocorico.io/en/ 🚀 Cocorico is also available in an off-the-shelf SaaS package, check out https://www.hatch.li to launch your platform today. 😍 We are hiring (telecommute welcome 🏡): https://www.welcometothejungle.com/en/companies/cocorico/jobs/candidatures-spontanees#apply
+- [Cocolabs-SAS/cocorico](https://github.com/Cocolabs-SAS/cocorico) - 👐 Cocorico is an open source marketplace solution for services and rentals. More information right here: https://www.cocorico.io/en/ 🚀 Cocorico is also available in an off-the-shelf SaaS package, chec
 - [Innmind/Immutable](https://github.com/Innmind/Immutable) - Wrappers for PHP primitives allowing immutable structures
 - [lookyman/phpstan-symfony](https://github.com/lookyman/phpstan-symfony) - *DEPRECATED* Symfony extension for PHPStan
 - [Intracto/SecretSanta](https://github.com/Intracto/SecretSanta) - Secret santa is the #1 online gift exchange organizer. https://www.secretsantaorganizer.com
@@ -1708,7 +1706,7 @@
 - [symfony/flex](https://github.com/symfony/flex) - Composer plugin for Symfony
 - [zendframework/zend-component-installer](https://github.com/zendframework/zend-component-installer) - Composer post-package-(un)install scripts for modules and components.
 - [microformats/php-mf2](https://github.com/microformats/php-mf2) - php-mf2 is a pure, generic microformats-2 parser for PHP. It makes HTML as easy to consume as JSON.
-- [Orbitale/PermissionsBundle](https://github.com/Orbitale/PermissionsBundle) - Use expression based permissions instead of roles or voters to simplify your security in Symfony. Feel free to contribute ! :+1: Project was initiated after this discussion: https://github.com/symfony/symfony/issues/21029
+- [Orbitale/PermissionsBundle](https://github.com/Orbitale/PermissionsBundle) - Use expression based permissions instead of roles or voters to simplify your security in Symfony. Feel free to contribute ! :+1: Project was initiated after this discussion: https://github.com/symfony
 - [mautic/mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.
 - [cpliakas/git-wrapper](https://github.com/cpliakas/git-wrapper) - A PHP wrapper around the Git command line utility.
 - [mindplay-dk/composer-locator](https://github.com/mindplay-dk/composer-locator) - Locate the installation path for any installed Composer package
@@ -1787,7 +1785,7 @@
 - [hoaproject/Dns](https://github.com/hoaproject/Dns) - The Hoa\Dns library.
 - [gbprod/domain-event](https://github.com/gbprod/domain-event) - Library to manage domain events in a DDD application
 - [Attendize/Attendize](https://github.com/Attendize/Attendize) - Attendize is an open-source ticket selling and event management platform built on Laravel.
-- [dddinphp/last-wishes](https://github.com/dddinphp/last-wishes) - Last Wishes is a PHP application written following Domain-Driven Design approach. It's one of the sample applications where you can check the concepts explained in the "Domain-Driven Design in PHP" book.
+- [dddshelf/last-wishes](https://github.com/dddshelf/last-wishes) - Last Wishes is a PHP application written following Domain-Driven Design approach. It's one of the sample applications where you can check the concepts explained in the "Domain-Driven Design in PHP" bo
 - [gbprod/specification](https://github.com/gbprod/specification) - Yet another specification pattern implementation in PHP
 - [andrewvy/HHVMCraft](https://github.com/andrewvy/HHVMCraft) - :package: Minecraft Beta 1.7.3 Server implemented in PHP/HHVM, powered by ReactPHP.
 - [peternijssen/packy](https://github.com/peternijssen/packy) - Packy is an open source tool to validate if your dependencies are up 2 date. Packy is based on the Symfony framework.
@@ -1824,7 +1822,7 @@
 - [pocky/PageBundle](https://github.com/pocky/PageBundle) - [WIP] Page Management
 - [filepreviews/filepreviews-php](https://github.com/filepreviews/filepreviews-php) - PHP client library for FilePreviews.io
 - [broadway/broadway](https://github.com/broadway/broadway) - Infrastructure and testing helpers for creating CQRS and event sourced applications.
-- [dddinphp/blog-cqrs](https://github.com/dddinphp/blog-cqrs) - A blog engine written in PHP and powered with CQRS + Event Sourcing
+- [dddshelf/blog-cqrs](https://github.com/dddshelf/blog-cqrs) - A blog engine written in PHP and powered with CQRS + Event Sourcing
 - [pascaldevink/shortuuid](https://github.com/pascaldevink/shortuuid) - PHP 7.3+ library that generates concise, unambiguous, URL-safe UUIDs
 - [driesvints/vat-calculator](https://github.com/driesvints/vat-calculator) - Handle all the hard stuff related to EU MOSS tax/vat regulations, the way it should be.
 - [fxpio/composer-asset-plugin](https://github.com/fxpio/composer-asset-plugin) - NPM/Bower Dependency Manager for Composer
@@ -1924,7 +1922,7 @@
 - [atoum/atoum-stub-generator](https://github.com/atoum/atoum-stub-generator) - [DEPRECATED] Stub Generator for Atoum
 - [igorw/chicken-php](https://github.com/igorw/chicken-php) - Chicken VM written in PHP.
 - [Pawka/phrozn](https://github.com/Pawka/phrozn) - Phrozn is extremely flexible static site generator in PHP.
-- [lexik/LexikMaintenanceBundle](https://github.com/lexik/LexikMaintenanceBundle) - This Symfony2 bundle allows you to place your website in maintenance mode by calling two commands in your console. A page with status code 503 appears to users, it is possible to authorize certain ips addresses stored in your configuration.
+- [lexik/LexikMaintenanceBundle](https://github.com/lexik/LexikMaintenanceBundle) - This Symfony2 bundle allows you to place your website in maintenance mode by calling two commands in your console. A page with status code 503 appears to users, it is possible to authorize certain ips
 - [youknowriad/anchour](https://github.com/youknowriad/anchour) - A deployment engine for web applications
 - [ddtraceweb/smtp-validator-email](https://github.com/ddtraceweb/smtp-validator-email) - valid your emails with smtp protocol, check mx and more...
 - [sonata-project/composer-archive-creator](https://github.com/sonata-project/composer-archive-creator) - [deprecated] Composer Archive Creator
@@ -1942,7 +1940,7 @@
 ## Perl 
 
 - [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP+SSL VPN tunnel services
-- [OTRS/otrs](https://github.com/OTRS/otrs) - ((OTRS)) Community Edition is one of the most flexible web-based ticketing systems used for Customer Service, Help Desk, IT Service Management. Please note that ((OTRS)) Community Edition offers limited OTRS functionality.
+- [OTRS/otrs](https://github.com/OTRS/otrs) - ((OTRS)) Community Edition is one of the most flexible web-based ticketing systems used for Customer Service, Help Desk, IT Service Management. Please note that ((OTRS)) Community Edition offers limit
 - [Netflix-Skunkworks/jenkins-cli](https://github.com/Netflix-Skunkworks/jenkins-cli) - Simple Jenkins Command Line Interface
 - [ldidry/lstu](https://github.com/ldidry/lstu) - Lightweight URL shortener. Read-only mirror of https://framagit.org/fiat-tux/hat-softwares/lstu
 
@@ -1978,9 +1976,9 @@
 - [samschott/maestral](https://github.com/samschott/maestral) - Open-source Dropbox client for macOS and Linux
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [cpfair/tapiriik](https://github.com/cpfair/tapiriik) - tapiriik keeps your fitness in sync
-- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.7+) and Qt 5 (5.3+) for cross-platform support.
+- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.7+) and Qt 5 (5.3+) for cros
 - [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
-- [KasperskyLab/TinyCheck](https://github.com/KasperskyLab/TinyCheck) - TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In order to make it working, you need a computer with a Debian-like operating system and two Wi-Fi interfaces. The best choice is to use a Raspberry Pi (2+) a Wi-Fi dongle and a small touch screen. This tiny configuration (for less than $50) allows you to tap any Wi-Fi device, anywhere.
+- [KasperskyLab/TinyCheck](https://github.com/KasperskyLab/TinyCheck) - TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to chec
 - [jankrepl/mltype](https://github.com/jankrepl/mltype) - Command line tool for improving typing skills (programmers friendly)
 - [serverscope/serverscope-benchmark](https://github.com/serverscope/serverscope-benchmark) - 
 - [freepn/fpnd](https://github.com/freepn/fpnd) - Python package for freepn network daemon
@@ -2050,7 +2048,7 @@
 - [reddit-archive/reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
 - [StartupsPoleEmploi/labonneboite](https://github.com/StartupsPoleEmploi/labonneboite) - La Bonne Boite : Trouvez les entreprises qui recrutent régulièrement
 - [gitconsensus/GitConsensusCLI](https://github.com/gitconsensus/GitConsensusCLI) - Automate Open Source Governance
-- [RIPE-Atlas-Community/ripe-atlas-community-contrib](https://github.com/RIPE-Atlas-Community/ripe-atlas-community-contrib) - Repository for links towards tools written during hackathons, and a collection of contributions by the community of the RIPE Atlas visualizations, tools for analysing measurements data and other scripts
+- [RIPE-Atlas-Community/ripe-atlas-community-contrib](https://github.com/RIPE-Atlas-Community/ripe-atlas-community-contrib) - Repository for links towards tools written during hackathons, and a collection of contributions by the community of the RIPE Atlas visualizations, tools for analysing measurements data and other scrip
 - [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
 - [smarkets/marge-bot](https://github.com/smarkets/marge-bot) - A merge-bot for GitLab
 - [Blazemeter/taurus](https://github.com/Blazemeter/taurus) - Automation-friendly framework for Continuous Testing by
@@ -2098,7 +2096,7 @@
 - [buckket/twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
 - [eatonphil/vhostm](https://github.com/eatonphil/vhostm) - Manage nginx virtual servers and hosts file entries
 - [fansible/ansible-provisioning-tywin](https://github.com/fansible/ansible-provisioning-tywin) - Generate your Ansible provisioning for Symfony2, Laravel and Node.js projects
-- [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html. Questions? https://forum.stackstorm.com/.
+- [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs wit
 - [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
 - [beeware/voc](https://github.com/beeware/voc) - A transpiler that converts Python code into Java bytecode
 - [TailorDev/Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time!
@@ -2153,7 +2151,7 @@
 - [purban/contrats-francais](https://github.com/purban/contrats-francais) - Contrats français
 - [riggraz/astuto](https://github.com/riggraz/astuto) - A free, open source, self-hosted customer feedback tool 🦊
 - [brotandgames/ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
-- [apisyouwonthate/book-build-apis-2](https://github.com/apisyouwonthate/book-build-apis-2) - Learn how to build and leverage the latest technology in APIs, services, microservices, distributed systems, HATEOAS, query languages, circuit breakers, gateways, discombobulators, flux capacitors, spider monkeys...
+- [apisyouwonthate/book-build-apis-2](https://github.com/apisyouwonthate/book-build-apis-2) - Learn how to build and leverage the latest technology in APIs, services, microservices, distributed systems, HATEOAS, query languages, circuit breakers, gateways, discombobulators, flux capacitors, sp
 - [SteveLTN/https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
 - [Evolix/chexpire](https://github.com/Evolix/chexpire) - A web application to help check for domain or SSL/TLS certificate expirations.
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
@@ -2233,7 +2231,7 @@
 - [jgbyrne/jann](https://github.com/jgbyrne/jann) - jann - configuration deployment tool for *nix
 - [KillingSpark/rustysd](https://github.com/KillingSpark/rustysd) - A service manager that is able to run "traditional" systemd services, written in rust
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
-- [Findomain/Findomain](https://github.com/Findomain/Findomain) - The complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, multiple API Keys for sources and much more.
+- [Findomain/Findomain](https://github.com/Findomain/Findomain) - The complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, multiple API Ke
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [citybound/citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
@@ -2276,7 +2274,6 @@
 - [TheHive-Project/TheHive](https://github.com/TheHive-Project/TheHive) - TheHive: a Scalable, Open Source and Free Security Incident Response Platform
 - [philwantsfish/shard](https://github.com/philwantsfish/shard) - A command line tool to detect shared passwords
 - [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
-- [Fuzion24/AndroidZipArbitrage](https://github.com/Fuzion24/AndroidZipArbitrage) - Exploit for Android Zip bugs: 8219321, 9695860, and 9950697
 
 ## Scheme 
 
@@ -2284,6 +2281,7 @@
 
 ## Shell 
 
+- [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - A handy shell script that enables you to write repeatable demos in a bash environment.
 - [ANSSI-FR/rust-guide](https://github.com/ANSSI-FR/rust-guide) - Recommendations for secure applications development with Rust
 - [jasonmccreary/git-trim](https://github.com/jasonmccreary/git-trim) - 
 - [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - Get started with your own dotfiles.
@@ -2322,7 +2320,7 @@
 - [hraban/tomono](https://github.com/hraban/tomono) - Multi- To Mono-repository
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [laravel/settler](https://github.com/laravel/settler) - 
-- [shopsys/monorepo-tools](https://github.com/shopsys/monorepo-tools) - [READ-ONLY] Tools for building and splitting monolithic repository from existing packages (with their history unchanged). This package is used for splitting our monorepo and we share it with our community as it is. We do not intend to support or develop it any further. Feel free to fork it and adjust for your own need.
+- [shopsys/monorepo-tools](https://github.com/shopsys/monorepo-tools) - [READ-ONLY] Tools for building and splitting monolithic repository from existing packages (with their history unchanged). This package is used for splitting our monorepo and we share it with our commu
 - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [rainglow/iterm](https://github.com/rainglow/iterm) - 320+ color themes for iTerm2.
 - [mko-x/docker-clamav](https://github.com/mko-x/docker-clamav) - Multi-arch dockerized open source antivirus for use with file sharing containers, REST API or TCP.
@@ -2437,7 +2435,7 @@
 - [0b5vr/condition](https://github.com/0b5vr/condition) - A 64KB WebGL Intro. Appeared in Revision 2021, PC 64KB Intro Compo
 - [screensy/screensy](https://github.com/screensy/screensy) - Simple peer-to-peer screen sharing
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [ziulev/spotter](https://github.com/ziulev/spotter) - 🔭 macOS productivity tool to launch everything
 - [2fd/graphdoc](https://github.com/2fd/graphdoc) - Static page generator for documenting GraphQL Schema
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
@@ -2488,7 +2486,7 @@
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [microsoft/TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) - A starter template for TypeScript and React with a detailed README describing how to use the two together.
-- [cupslab/password_meter](https://github.com/cupslab/password_meter) - This project implements a data-driven password meter. Its effects on password security and usability were evaluated in the following publication: http://www.blaseur.com/papers/CHI17meter.pdf and a demo is available at: https://cups.cs.cmu.edu/meter/
+- [cupslab/password_meter](https://github.com/cupslab/password_meter) - This project implements a data-driven password meter. Its effects on password security and usability were evaluated in the following publication: http://www.blaseur.com/papers/CHI17meter.pdf and a dem
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
 - [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 - [paulirish/pwmetrics](https://github.com/paulirish/pwmetrics) - Progressive web metrics at your fingertipz
@@ -2525,7 +2523,7 @@
 
 ## Vue 
 
-- [hay-kot/mealie](https://github.com/hay-kot/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor
+- [hay-kot/mealie](https://github.com/hay-kot/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes
 - [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX.
 - [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) - 
 - [geospoc/v-mapbox](https://github.com/geospoc/v-mapbox) - A cloned & maintained version of vue-mapbox
@@ -2546,7 +2544,7 @@
 
 ## YARA 
 
-- [curated-intel/Ukraine-Cyber-Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations) - Curated Intelligence is working with analysts from around the world to provide useful information to organisations in Ukraine looking for additional free threat intelligence. Slava Ukraini. Glory to Ukraine.
+- [curated-intel/Ukraine-Cyber-Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations) - Curated Intelligence is working with analysts from around the world to provide useful information to organisations in Ukraine looking for additional free threat intelligence. Slava Ukraini. Glory to U
 - [Yara-Rules/rules](https://github.com/Yara-Rules/rules) - Repository of yara rules
 
 
