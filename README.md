@@ -80,6 +80,7 @@
 
 ## Assembly 
 
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 - [nanochess/bootOS](https://github.com/nanochess/bootOS) - bootOS is a monolithic operating system in 512 bytes of x86 machine code.
 
@@ -1233,6 +1234,7 @@
 
 ## Others 
 
+- [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 - [ddbeck/readme-checklist](https://github.com/ddbeck/readme-checklist) - A checklist for writing READMEs
 - [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [coopTilleuls/handbook](https://github.com/coopTilleuls/handbook) - Les Tilleuls handbook
