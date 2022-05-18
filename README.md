@@ -1405,6 +1405,8 @@
 
 ## PHP 
 
+- [longitude-one/doctrine-spatial](https://github.com/longitude-one/doctrine-spatial) - Doctrine extension to persist spatial data objects.
+- [frodeborli/moebius](https://github.com/frodeborli/moebius) - True coroutines for PHP&gt;=8.1 without worrying about event loops and callbacks.
 - [JBZoo/CI-Report-Converter](https://github.com/JBZoo/CI-Report-Converter) - The tool converts different error reporting standards for deep compatibility with popular CI systems (TeamCity, IntelliJ IDEA, GitHub Actions, etc).
 - [mavimo/phpstan-junit](https://github.com/mavimo/phpstan-junit) - PHPStan JUnit error reporter
 - [bpolaszek/php-iterable-functions](https://github.com/bpolaszek/php-iterable-functions) - Provides functions for iterable variables: iterable_map(, iterable_filter(), iterable_to_array(), ...
