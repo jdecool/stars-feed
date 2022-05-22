@@ -80,6 +80,7 @@
 
 ## Assembly 
 
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 - [nanochess/bootOS](https://github.com/nanochess/bootOS) - bootOS is a monolithic operating system in 512 bytes of x86 machine code.
 
@@ -97,7 +98,6 @@
 
 ## C 
 
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [joncampbell123/dosbox-x](https://github.com/joncampbell123/dosbox-x) - DOSBox-X fork of the DOSBox project
 - [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
 - [QB64Team/qb64](https://github.com/QB64Team/qb64) - BASIC for the modern era.
@@ -644,6 +644,7 @@
 
 ## HTML 
 
+- [technext/darkpan](https://github.com/technext/darkpan) - 
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [othyn/php-enum-enhancements](https://github.com/othyn/php-enum-enhancements) - Adds some helpful enum traits to the glorious new PHP Enum type, like value lists and value arrays.
 - [roberto-butti/50-drops-of-php](https://github.com/roberto-butti/50-drops-of-php) - Open source and free e-book, that collects some useful, unknown, underrated PHP functions or stuff discovered, used, learned during the PHP daily use.
@@ -789,6 +790,7 @@
 
 ## JavaScript 
 
+- [gcochard/hibp-downloader](https://github.com/gcochard/hibp-downloader) - Download all the HIBP passwords
 - [robertwt7/meetsy](https://github.com/robertwt7/meetsy) - Open source online booking system
 - [juliuste/direkt.bahn.guru](https://github.com/juliuste/direkt.bahn.guru) - All direct long-distance railway connections for cities in Germany.
 - [bhovhannes/junit-report-merger](https://github.com/bhovhannes/junit-report-merger) - Merges multiple JUnit XML reports into one
