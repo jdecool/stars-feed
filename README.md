@@ -507,7 +507,7 @@
 - [kyleconroy/grain](https://github.com/kyleconroy/grain) - The Entire History of You
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [openfaas/openfaas-cloud](https://github.com/openfaas/openfaas-cloud) - The Multi-user OpenFaaS Platform
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 - [docker/app](https://github.com/docker/app) - Make your Docker Compose applications reusable, and share them on Docker Hub
 - [atlassian/escalator](https://github.com/atlassian/escalator) - Escalator is a batch or job optimized horizontal autoscaler for Kubernetes
 - [src-d/gitbase](https://github.com/src-d/gitbase) - SQL interface to git repositories, written in Go. https://docs.sourced.tech/gitbase
@@ -520,7 +520,7 @@
 - [Aptomi/k8s-app-engine](https://github.com/Aptomi/k8s-app-engine) - Application delivery engine for k8s
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs.
 - [erroneousboat/slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal
-- [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos (or files) for secrets using regex and entropy 🔑
+- [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [algolia/sup3rS3cretMes5age](https://github.com/algolia/sup3rS3cretMes5age) - Simple to use, simple to deploy, one time self destruct messaging service, with hashicorp vault as a backend
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [z7zmey/php-parser](https://github.com/z7zmey/php-parser) - PHP parser written in Go
@@ -1174,6 +1174,7 @@
 
 ## Lua 
 
+- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [Viewtiful/aws-elb-health-state-macosx-menubar](https://github.com/Viewtiful/aws-elb-health-state-macosx-menubar) - 
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) - Open source clone of Theme Hospital
