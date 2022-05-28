@@ -700,7 +700,6 @@
 - [LogIN-/ospnc](https://github.com/LogIN-/ospnc) - Open Source Project Name Checker - OSPNC is a simple web-service that checks if your new project name is already taken on some of most popular open-source communities
 - [kristopolous/BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386) - A vintage 1980s DOS inspired Twitter Bootstrap theme
 - [google/web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
-- [google/WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 - [julien-c/Circular](https://github.com/julien-c/Circular) - An open source Buffer app clone
 - [jglovier/jglovier.github.io](https://github.com/jglovier/jglovier.github.io) - :notebook: Source for joelglovier.com. Built with Jekyll and hosted on GitHub Pages.
 - [metaware/angular-invoicing](https://github.com/metaware/angular-invoicing) - Create free and unlimited one off invoices using this little Invoicing app made with Angular JS
@@ -1104,6 +1103,7 @@
 - [ncuillery/angular-breadcrumb](https://github.com/ncuillery/angular-breadcrumb) - Generate a breadcrumb from ui-router's states
 - [imagemin/imagemin-app](https://github.com/imagemin/imagemin-app) - imagemin as an OS X, Linux and Windows app
 - [dorneanu/netgrafio](https://github.com/dorneanu/netgrafio) - netgrafio - Visualize your network
+- [google/WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 - [Rovak/InlineAttachment](https://github.com/Rovak/InlineAttachment) - Easily paste and upload files/images in plain textareas
 - [soygul/koan](https://github.com/soygul/koan) - KOAN (Koa, Angular, Node, Mongo) starter kit for full-stack JavaScript web development.
 - [tjgq/grunt-throttle](https://github.com/tjgq/grunt-throttle) - A Grunt plugin for testing under a throttled connection.
@@ -1412,7 +1412,7 @@
 - [florianajir/datanova-bundle](https://github.com/florianajir/datanova-bundle) - :notebook: Symfony bundle to fetch data from LaPoste DataNOVA (Open Data API)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - PHPStan based SQL static analysis and type inference for the database access layer
 - [longitude-one/doctrine-spatial](https://github.com/longitude-one/doctrine-spatial) - Doctrine extension to persist spatial data objects.
-- [frodeborli/moebius](https://github.com/frodeborli/moebius) - True coroutines for PHP&gt;=8.1 without worrying about event loops and callbacks.
+- [moebiusphp/moebius](https://github.com/moebiusphp/moebius) - True coroutines for PHP&gt;=8.1 without worrying about event loops and callbacks.
 - [JBZoo/CI-Report-Converter](https://github.com/JBZoo/CI-Report-Converter) - The tool converts different error reporting standards for deep compatibility with popular CI systems (TeamCity, IntelliJ IDEA, GitHub Actions, etc).
 - [mavimo/phpstan-junit](https://github.com/mavimo/phpstan-junit) - PHPStan JUnit error reporter
 - [bpolaszek/php-iterable-functions](https://github.com/bpolaszek/php-iterable-functions) - Provides functions for iterable variables: iterable_map(, iterable_filter(), iterable_to_array(), ...
@@ -2237,7 +2237,7 @@
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
-- [Orbitale/Rymfony](https://github.com/Orbitale/Rymfony) - A work-in-progress CLI tool built in Rust to mimic the Symfony CLI binary
+- [Orbitale/Rymfony](https://github.com/Orbitale/Rymfony) - A command-line tool built in Rust to run an HTTP+PHP server for development (and production? 😉)
 - [endbasic/endbasic](https://github.com/endbasic/endbasic) - BASIC environment with a REPL, a web interface, a graphical console, and RPi support written in Rust
 - [archseer/enigma](https://github.com/archseer/enigma) - An Erlang VM implementation in Rust
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
@@ -2394,6 +2394,7 @@
 
 ## Swift 
 
+- [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
