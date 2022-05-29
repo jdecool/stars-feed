@@ -1184,6 +1184,7 @@
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [akrabat/bref-image-resizer](https://github.com/akrabat/bref-image-resizer) - Serverless PHP (Bref/Lambda) function to resize an image on upload to an S3 bucket
 - [jakzal/phpqa](https://github.com/jakzal/phpqa) - Docker image that provides static analysis tools for PHP
+- [phpbrew/phpbrew](https://github.com/phpbrew/phpbrew) - Brew & manage PHP versions in pure PHP at HOME
 
 ## Markdown 
 
@@ -1240,6 +1241,7 @@
 
 ## Others 
 
+- [TomasVotruba/awesome-php-ast](https://github.com/TomasVotruba/awesome-php-ast) - Awesome sources for amazing AST topic in world PHP
 - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 - [ddbeck/readme-checklist](https://github.com/ddbeck/readme-checklist) - A checklist for writing READMEs
 - [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
@@ -1408,6 +1410,8 @@
 
 ## PHP 
 
+- [xiCO2k/live-scores](https://github.com/xiCO2k/live-scores) - ⚽️ 🏀 🏒 Live scores from Sports!
+- [laravel/vapor-core](https://github.com/laravel/vapor-core) - The core service providers and runtime client for Laravel Vapor.
 - [jmikola/geojson](https://github.com/jmikola/geojson) - GeoJSON implementation for PHP
 - [florianajir/datanova-bundle](https://github.com/florianajir/datanova-bundle) - :notebook: Symfony bundle to fetch data from LaPoste DataNOVA (Open Data API)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - PHPStan based SQL static analysis and type inference for the database access layer
@@ -1788,7 +1792,6 @@
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - Keep your architecture clean.
 - [agallou/unreviewed-pr](https://github.com/agallou/unreviewed-pr) - View your pull requests without any comment directly in hipchat
 - [teamtnt/tntsearch](https://github.com/teamtnt/tntsearch) - A fully featured full text search engine written in PHP
-- [phpbrew/phpbrew](https://github.com/phpbrew/phpbrew) - Brew & manage PHP versions in pure PHP at HOME
 - [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) - Extra security-related features for Symfony2
 - [gabrielrcouto/php-gui](https://github.com/gabrielrcouto/php-gui) - Extensionless PHP Graphic User Interface library
 - [phpdocker-io/phpdocker.io](https://github.com/phpdocker-io/phpdocker.io) - PHPDocker.io website and environment (php and docker based) generator
