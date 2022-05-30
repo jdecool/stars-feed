@@ -1410,7 +1410,7 @@
 
 ## PHP 
 
-- [xiCO2k/live-scores](https://github.com/xiCO2k/live-scores) - ⚽️ 🏀 🏒 Live scores from Sports!
+- [xiCO2k/live-scores](https://github.com/xiCO2k/live-scores) - ⚽️ 🏀 🏒 Live scores for Sports!
 - [laravel/vapor-core](https://github.com/laravel/vapor-core) - The core service providers and runtime client for Laravel Vapor.
 - [jmikola/geojson](https://github.com/jmikola/geojson) - GeoJSON implementation for PHP
 - [florianajir/datanova-bundle](https://github.com/florianajir/datanova-bundle) - :notebook: Symfony bundle to fetch data from LaPoste DataNOVA (Open Data API)
@@ -1842,7 +1842,7 @@
 - [broadway/broadway](https://github.com/broadway/broadway) - Infrastructure and testing helpers for creating CQRS and event sourced applications.
 - [dddshelf/blog-cqrs](https://github.com/dddshelf/blog-cqrs) - A blog engine written in PHP and powered with CQRS + Event Sourcing
 - [pascaldevink/shortuuid](https://github.com/pascaldevink/shortuuid) - PHP 7.3+ library that generates concise, unambiguous, URL-safe UUIDs
-- [driesvints/vat-calculator](https://github.com/driesvints/vat-calculator) - Handle all the hard stuff related to EU MOSS tax/vat regulations, the way it should be.
+- [driesvints/vat-calculator](https://github.com/driesvints/vat-calculator) - Handle all the hard stuff related to EU MOSS tax/vat regulations for digital services, the way it should be.
 - [fxpio/composer-asset-plugin](https://github.com/fxpio/composer-asset-plugin) - NPM/Bower Dependency Manager for Composer
 - [soullivaneuh/composer-versions-check](https://github.com/soullivaneuh/composer-versions-check) - Checks if packages are up to date to last major versions after update
 - [janephp/jane](https://github.com/janephp/jane) - DEPRECATED See https://github.com/janephp/janephp
