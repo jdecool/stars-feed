@@ -205,6 +205,7 @@
 
 ## C++ 
 
+- [Dion-Systems/4coder](https://github.com/Dion-Systems/4coder) - The final version of the official 4coder codebase. (See Also: https://github.com/Dion-Systems/4coder-non-source)
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [ensisoft/gamestudio](https://github.com/ensisoft/gamestudio) - 2D game engine and editor
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows.
@@ -1411,6 +1412,7 @@
 
 ## PHP 
 
+- [sauber-php/command-bus](https://github.com/sauber-php/command-bus) - The Command Bus component for the Sauber PHP framework
 - [xiCO2k/live-scores](https://github.com/xiCO2k/live-scores) - ⚽️ 🏀 🏒 Live scores for Sports!
 - [laravel/vapor-core](https://github.com/laravel/vapor-core) - The core service providers and runtime client for Laravel Vapor.
 - [jmikola/geojson](https://github.com/jmikola/geojson) - GeoJSON implementation for PHP
