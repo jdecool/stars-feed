@@ -41,6 +41,7 @@
 - [Markdown](#markdown)
 - [Mustache](#mustache)
 - [Nginx](#nginx)
+- [Nix](#nix)
 - [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
@@ -376,6 +377,8 @@
 
 ## Go 
 
+- [go-gitea/lgtm](https://github.com/go-gitea/lgtm) - A simple pull request approval system
+- [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [Fusion/kittendns](https://github.com/Fusion/kittendns) - 
 - [alajmo/mani](https://github.com/alajmo/mani) - CLI tool to help you manage multiple repositories
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
@@ -1200,6 +1203,10 @@
 
 - [seblegall/php7-web-app-docker-env](https://github.com/seblegall/php7-web-app-docker-env) - Provide a full PHP7.0 - Nginx development environment using docker and docker-compose.
 - [mediafigaro/docker-symfony](https://github.com/mediafigaro/docker-symfony) - Docker Symfony SOA oriented with NGINX, PHP7-FPM, MySQL, Redis, ELK (Elasticsearch Logstash and Kibana), Varnish and CouchDB
+
+## Nix 
+
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development
 
 ## Nunjucks 
 
