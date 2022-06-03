@@ -726,6 +726,7 @@
 
 ## Java 
 
+- [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
 - [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool.
 - [allure-framework/allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of infor
 - [Haehnchen/idea-php-symfony2-plugin](https://github.com/Haehnchen/idea-php-symfony2-plugin) - IntelliJ IDEA / PhpStorm Symfony Plugin
@@ -1419,6 +1420,8 @@
 
 ## PHP 
 
+- [ryangjchandler/laravel-feature-flags](https://github.com/ryangjchandler/laravel-feature-flags) - An opinionated feature flags package for Laravel.
+- [ScientaNL/DoctrineJsonFunctions](https://github.com/ScientaNL/DoctrineJsonFunctions) - Doctrine DQL functions for SQL JSON data type
 - [sauber-php/command-bus](https://github.com/sauber-php/command-bus) - The Command Bus component for the Sauber PHP framework
 - [xiCO2k/live-scores](https://github.com/xiCO2k/live-scores) - ⚽️ 🏀 🏒 Live scores for Sports!
 - [laravel/vapor-core](https://github.com/laravel/vapor-core) - The core service providers and runtime client for Laravel Vapor.
