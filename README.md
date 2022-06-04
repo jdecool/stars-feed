@@ -1420,6 +1420,7 @@
 
 ## PHP 
 
+- [rowanhill/wiremock-php](https://github.com/rowanhill/wiremock-php) - PHP API for WireMock JSON interface
 - [ryangjchandler/laravel-feature-flags](https://github.com/ryangjchandler/laravel-feature-flags) - An opinionated feature flags package for Laravel.
 - [ScientaNL/DoctrineJsonFunctions](https://github.com/ScientaNL/DoctrineJsonFunctions) - Doctrine DQL functions for SQL JSON data type
 - [sauber-php/command-bus](https://github.com/sauber-php/command-bus) - The Command Bus component for the Sauber PHP framework
