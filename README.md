@@ -726,6 +726,7 @@
 
 ## Java 
 
+- [ff4j/ff4j](https://github.com/ff4j/ff4j) - Feature Flags for Java made easy
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
 - [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool.
 - [allure-framework/allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of infor
@@ -1420,6 +1421,7 @@
 
 ## PHP 
 
+- [phayes/geoPHP](https://github.com/phayes/geoPHP) - Advanced geometry operations in PHP
 - [EventSaucePHP/ObjectHydrator](https://github.com/EventSaucePHP/ObjectHydrator) - Object Hydration library to create Command and Query objects.
 - [rowanhill/wiremock-php](https://github.com/rowanhill/wiremock-php) - PHP API for WireMock JSON interface
 - [ryangjchandler/laravel-feature-flags](https://github.com/ryangjchandler/laravel-feature-flags) - An opinionated feature flags package for Laravel.
