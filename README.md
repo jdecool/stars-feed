@@ -381,7 +381,7 @@
 - [go-gitea/lgtm](https://github.com/go-gitea/lgtm) - A simple pull request approval system
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [Fusion/kittendns](https://github.com/Fusion/kittendns) - 
-- [alajmo/mani](https://github.com/alajmo/mani) - CLI tool to help you manage multiple repositories
+- [alajmo/mani](https://github.com/alajmo/mani) - CLI tool to help you manage repositories
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines
 - [varunu28/graft](https://github.com/varunu28/graft) - From scratch implementation of Raft consensus algorithm in Go
@@ -853,7 +853,7 @@
 - [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
-- [codemirror/codemirror.next](https://github.com/codemirror/codemirror.next) - The next generation of the CodeMirror in-browser editor
+- [codemirror/dev](https://github.com/codemirror/dev) - Develpment repository for the CodeMirror editor project
 - [gsilvamartin/RTCode](https://github.com/gsilvamartin/RTCode) - Real time code sharing web application
 - [zaygozi/zeeka](https://github.com/zaygozi/zeeka) - Secure global file sharing using tcp tunnels. Currently tunneling through localtunnel's public servers. Zeeka dedicated servers coming soon.
 - [fabienvauchelles/scrapoxy](https://github.com/fabienvauchelles/scrapoxy) - Scrapoxy hides your scraper behind a cloud. It starts a pool of proxies to send your requests. Now, you can crawl without thinking about blacklisting!
@@ -1424,6 +1424,7 @@
 
 ## PHP 
 
+- [Halleck45/livre-developpement-pilote-comportement](https://github.com/Halleck45/livre-developpement-pilote-comportement) - Sources du livre sur Développement piloté par le comportement
 - [phayes/geoPHP](https://github.com/phayes/geoPHP) - Advanced geometry operations in PHP
 - [EventSaucePHP/ObjectHydrator](https://github.com/EventSaucePHP/ObjectHydrator) - Object Hydration library to create Command and Query objects.
 - [rowanhill/wiremock-php](https://github.com/rowanhill/wiremock-php) - PHP API for WireMock JSON interface
@@ -1674,7 +1675,7 @@
 - [Cocolabs-SAS/cocorico](https://github.com/Cocolabs-SAS/cocorico) - 👐 Cocorico is an open source marketplace solution for services and rentals. More information right here: https://www.cocorico.io/en/ 🚀 Cocorico is also available in an off-the-shelf SaaS package, chec
 - [Innmind/Immutable](https://github.com/Innmind/Immutable) - Wrappers for PHP primitives allowing immutable structures
 - [lookyman/phpstan-symfony](https://github.com/lookyman/phpstan-symfony) - *DEPRECATED* Symfony extension for PHPStan
-- [Intracto/SecretSanta](https://github.com/Intracto/SecretSanta) - Secret santa is the #1 online gift exchange organizer. https://www.secretsantaorganizer.com
+- [iodigital-com/SecretSanta](https://github.com/iodigital-com/SecretSanta) - Secret santa is the #1 online gift exchange organizer. https://www.secretsantaorganizer.com
 - [LePetitBloc/LaPetiteChaine](https://github.com/LePetitBloc/LaPetiteChaine) - :link: Blockchain project in PHP
 - [deprecated-packages/Monorepo](https://github.com/deprecated-packages/Monorepo) - [READ-ONLY] Build and maintain monorepo (monolithic repository) like a boss
 - [kburnik/php_codebase](https://github.com/kburnik/php_codebase) - A bazel-based PHP codebase
@@ -2569,7 +2570,7 @@
 
 ## Vue 
 
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX.
 - [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) - 
 - [geospoc/v-mapbox](https://github.com/geospoc/v-mapbox) - A cloned & maintained version of vue-mapbox
