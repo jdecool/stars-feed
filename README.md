@@ -383,6 +383,7 @@
 
 ## Go 
 
+- [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol.
 - [go-gitea/lgtm](https://github.com/go-gitea/lgtm) - A simple pull request approval system
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [Fusion/kittendns](https://github.com/Fusion/kittendns) - 
@@ -1643,7 +1644,7 @@
 - [acmephp/acmephp](https://github.com/acmephp/acmephp) - Let's Encrypt/ACME Command Line client written in PHP
 - [clue/socket-raw](https://github.com/clue/socket-raw) - Simple and lightweight OOP wrapper for PHP's low-level sockets extension (ext-sockets)
 - [liip/RMT](https://github.com/liip/RMT) - RMT is a handy tool to help releasing new version of your software
-- [pH7Software/pH7-Social-Dating-CMS](https://github.com/pH7Software/pH7-Social-Dating-CMS) - 😻 pH7Builder (formerly pH7CMS) :couple: is a Professional & Open Source Social Dating CMS written in PHP 8 🚀 This Social Dating Script wants to be low resource-intensive, powerful and secure. pH7CMS i
+- [pH7Software/pH7-Social-Dating-CMS](https://github.com/pH7Software/pH7-Social-Dating-CMS) - 😻 pH7Builder (formerly pH7CMS) :couple: is a Professional & Open Source Social Dating CMS written in PHP 8 🚀 This Social Dating Script wants to be low resource-intensive, powerful and secure. pH7Build
 - [Rebilly/openapi-php](https://github.com/Rebilly/openapi-php) - OpenAPI Specification SDK for PHP
 - [WandiParis/EasyAdminPlusBundle](https://github.com/WandiParis/EasyAdminPlusBundle) - EasyAdminPlusBundle is a Symfony 4 wrapper for the amazing  EasyCorp/EasyAdminBundle
 - [prolic/fpp](https://github.com/prolic/fpp) - Functional PHP Preprocessor - Generate Immutable Data Types
