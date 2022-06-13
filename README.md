@@ -657,7 +657,6 @@
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [othyn/php-enum-enhancements](https://github.com/othyn/php-enum-enhancements) - Adds some helpful enum traits to the glorious new PHP Enum type, like value lists and value arrays.
 - [roberto-butti/50-drops-of-php](https://github.com/roberto-butti/50-drops-of-php) - Open source and free e-book, that collects some useful, unknown, underrated PHP functions or stuff discovered, used, learned during the PHP daily use.
-- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [jbrains/trivia](https://github.com/jbrains/trivia) - Legacy Code Retreat - Trivia Game codebase
 - [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing for Rust
 - [learning-rust/learning-rust.github.io](https://github.com/learning-rust/learning-rust.github.io) - Original repo: https://github.com/learning-rust/site
@@ -1432,6 +1431,7 @@
 
 ## PHP 
 
+- [jupeter/clean-code-php](https://github.com/jupeter/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
 - [Halleck45/livre-developpement-pilote-comportement](https://github.com/Halleck45/livre-developpement-pilote-comportement) - Sources du livre sur Développement piloté par le comportement
 - [phayes/geoPHP](https://github.com/phayes/geoPHP) - Advanced geometry operations in PHP
 - [EventSaucePHP/ObjectHydrator](https://github.com/EventSaucePHP/ObjectHydrator) - Object Hydration library to create Command and Query objects.
@@ -2196,7 +2196,6 @@
 - [eXolnet/homebrew-deprecated](https://github.com/eXolnet/homebrew-deprecated) - eXolnet's Homebrew tap for deprecated formulae.
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation. For product feedback see: https://github.com/github/feedback/discussions/categories/dependabot-feedback
 - [purban/contrats-francais](https://github.com/purban/contrats-francais) - Contrats français
-- [riggraz/astuto](https://github.com/riggraz/astuto) - A free, open source, self-hosted customer feedback tool 🦊
 - [brotandgames/ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
 - [apisyouwonthate/book-build-apis-2](https://github.com/apisyouwonthate/book-build-apis-2) - Learn how to build and leverage the latest technology in APIs, services, microservices, distributed systems, HATEOAS, query languages, circuit breakers, gateways, discombobulators, flux capacitors, sp
 - [SteveLTN/https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
@@ -2477,6 +2476,7 @@
 - [dynamite-ready/movie-parser](https://github.com/dynamite-ready/movie-parser) - NWJS wrapper for a wider project.
 - [QingWei-Li/notea](https://github.com/QingWei-Li/notea) - 📒 Self hosted note taking app stored on S3
 - [antonmedv/numbr](https://github.com/antonmedv/numbr) - Notepad + calculator
+- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
@@ -2504,6 +2504,7 @@
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [peter-evans/dockerhub-description](https://github.com/peter-evans/dockerhub-description) - A GitHub action to update a Docker Hub repository description from README.md
 - [axa-group/oauth2-mock-server](https://github.com/axa-group/oauth2-mock-server) - A development and test oriented OAuth2 mock server
+- [riggraz/astuto](https://github.com/riggraz/astuto) - A free, open source, self-hosted customer feedback tool 🦊
 - [shivammathur/setup-php](https://github.com/shivammathur/setup-php) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
 - [vpj/annotate](https://github.com/vpj/annotate) - Annotate python source code
 - [TankerHQ/sdk-js](https://github.com/TankerHQ/sdk-js) - Tanker client-side encryption SDK for JavaScript
