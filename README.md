@@ -383,7 +383,7 @@
 
 ## Go 
 
-- [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol.
+- [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.
 - [go-gitea/lgtm](https://github.com/go-gitea/lgtm) - A simple pull request approval system
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [Fusion/kittendns](https://github.com/Fusion/kittendns) - 
@@ -432,7 +432,7 @@
 - [stapelberg/airscan](https://github.com/stapelberg/airscan) - Go package to scan paper documents 📄 from a scanner 🖨️ via the network 🕸️ using the Apple AirScan (eSCL) protocol.
 - [royalbhati/Foxy](https://github.com/royalbhati/Foxy) - Go based download manager
 - [goadapp/goad](https://github.com/goadapp/goad) - Goad is an AWS Lambda powered, highly distributed, load testing tool
-- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless.
+- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recover
 - [briansorahan/spatialite](https://github.com/briansorahan/spatialite) - database/sql driver for libspatialite
 - [shaxbee/go-spatialite](https://github.com/shaxbee/go-spatialite) - Spatialite SQL Driver for Golang
 - [mdlayher/schedgroup](https://github.com/mdlayher/schedgroup) - Package schedgroup provides a goroutine worker pool which schedules tasks to be performed at or after a specified time. MIT Licensed.
@@ -799,6 +799,7 @@
 
 ## JavaScript 
 
+- [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [Mermade/openapi-gui](https://github.com/Mermade/openapi-gui) - GUI / visual editor for creating and editing OpenAPI / Swagger definitions
 - [insin/tweak-new-twitter](https://github.com/insin/tweak-new-twitter) - Browser extension which removes algorithmic content from Twitter, hides news & trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements
 - [gcochard/hibp-downloader](https://github.com/gcochard/hibp-downloader) - Download all the HIBP passwords
