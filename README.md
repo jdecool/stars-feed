@@ -1432,6 +1432,7 @@
 
 ## PHP 
 
+- [spatie/laravel-rdap](https://github.com/spatie/laravel-rdap) - Perform RDAP queries in a Laravel app
 - [jupeter/clean-code-php](https://github.com/jupeter/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
 - [Halleck45/livre-developpement-pilote-comportement](https://github.com/Halleck45/livre-developpement-pilote-comportement) - Sources du livre sur Développement piloté par le comportement
 - [phayes/geoPHP](https://github.com/phayes/geoPHP) - Advanced geometry operations in PHP
