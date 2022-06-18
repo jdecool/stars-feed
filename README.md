@@ -955,6 +955,7 @@
 - [speedtracker/speedtracker](https://github.com/speedtracker/speedtracker) - 📉 Visualisation layer and data store for SpeedTracker
 - [wix/import-cost](https://github.com/wix/import-cost) - displays the import size of the package you are importing inside the code editor
 - [TailorDev/crick](https://github.com/TailorDev/crick) - 📊 Crick is a backend for the Watson time-tracker.
+- [WPO-Foundation/webpagetest](https://github.com/WPO-Foundation/webpagetest) - Official repository for WebPagetest
 - [Azure-Samples/raspberry-pi-web-simulator](https://github.com/Azure-Samples/raspberry-pi-web-simulator) - Raspberry Pi web simulator. Demo address:
 - [danielbayerlein/dashboard](https://github.com/danielbayerlein/dashboard) - 📺 Create your own team dashboard with custom widgets. Built with Next.js, React, styled-components and polished.
 - [dascritch/ondemiroir-audio-tag](https://github.com/dascritch/ondemiroir-audio-tag) - An evolution to timecodehash for a enhanced audio tag
@@ -1433,6 +1434,7 @@
 
 ## PHP 
 
+- [laravel/valet](https://github.com/laravel/valet) - A more enjoyable local development experience for Mac.
 - [PrinsFrank/standards](https://github.com/PrinsFrank/standards) - A collection of standards as PHP Enums: ISO3166, ISO4217, ISO639...
 - [spatie/laravel-rdap](https://github.com/spatie/laravel-rdap) - Perform RDAP queries in a Laravel app
 - [jupeter/clean-code-php](https://github.com/jupeter/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
@@ -1529,7 +1531,7 @@
 - [j6s/shape-up-downloader](https://github.com/j6s/shape-up-downloader) - 
 - [Tobion/retry](https://github.com/Tobion/retry) - A generic library to retry an operation in case of an error. You can configure the behavior like the exceptions to retry on.
 - [stechstudio/backoff](https://github.com/stechstudio/backoff) - PHP library providing retry functionality with multiple backoff strategies and jitter support
-- [CodelyTV/php-ddd-example](https://github.com/CodelyTV/php-ddd-example) - 🐘🎯 Hexagonal Architecture + DDD + CQRS in PHP using Symfony 5
+- [CodelyTV/php-ddd-example](https://github.com/CodelyTV/php-ddd-example) - 🐘🎯 Hexagonal Architecture + DDD + CQRS in PHP using Symfony 6
 - [globalis-ms/mysql-data-anonymizer](https://github.com/globalis-ms/mysql-data-anonymizer) - 
 - [JessPinkman/Pure](https://github.com/JessPinkman/Pure) - Library to create, use and reuse components to generate html.
 - [scrumble-nl/laravel-model-ts-type](https://github.com/scrumble-nl/laravel-model-ts-type) - Generate TypeScript types based on your models.
@@ -1740,7 +1742,6 @@
 - [coderabbi/phpumoji](https://github.com/coderabbi/phpumoji) - PHPUnit Emoji Result Printer
 - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
 - [jakeasmith/commit](https://github.com/jakeasmith/commit) - 
-- [WPO-Foundation/webpagetest](https://github.com/WPO-Foundation/webpagetest) - Official repository for WebPagetest
 - [phpactor/code-builder](https://github.com/phpactor/code-builder) - Build or modify source code
 - [aurimasniekis/flex-server](https://github.com/aurimasniekis/flex-server) - The Symfony.sh proxy with custom recipes for use instead of original endpoint
 - [kreta/Kreta](https://github.com/kreta/Kreta) - Modern project management solution
