@@ -9,7 +9,6 @@
 - [Assembly](#assembly)
 - [Batchfile](#batchfile)
 - [Blade](#blade)
-- [Bluespec](#bluespec)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -93,10 +92,6 @@
 ## Blade 
 
 - [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
-
-## Bluespec 
-
-- [B-Lang-org/bsc](https://github.com/B-Lang-org/bsc) - Bluespec Compiler (BSC)
 
 ## C 
 
@@ -720,6 +715,7 @@
 
 ## Haskell 
 
+- [B-Lang-org/bsc](https://github.com/B-Lang-org/bsc) - Bluespec Compiler (BSC)
 - [fossas/fossa-cli](https://github.com/fossas/fossa-cli) - Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems.
 - [sakari/hgit](https://github.com/sakari/hgit) - Git for Haskell
 - [krispo/awesome-haskell](https://github.com/krispo/awesome-haskell) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
