@@ -382,7 +382,7 @@
 - [go-gitea/lgtm](https://github.com/go-gitea/lgtm) - A simple pull request approval system
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [Fusion/kittendns](https://github.com/Fusion/kittendns) - 
-- [alajmo/mani](https://github.com/alajmo/mani) - CLI tool to help you manage repositories
+- [alajmo/mani](https://github.com/alajmo/mani) - :robot: CLI tool to help you manage repositories
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [varunu28/graft](https://github.com/varunu28/graft) - From scratch implementation of Raft consensus algorithm in Go
 - [adamgordonbell/cloudservices](https://github.com/adamgordonbell/cloudservices) - 
@@ -812,7 +812,7 @@
 - [infosecstreams/infosecstreams.github.io](https://github.com/infosecstreams/infosecstreams.github.io) - A (hopefully) actively maintained activity-based-autosorted list of InfoSec Streamers
 - [ultrabolido/PrinceJS](https://github.com/ultrabolido/PrinceJS) - Prince of Persia reimplementation written in HTML5/Javascript
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Modern testing for DevOps & SRE
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale performance testing. Keep your app fast & reliable. Loved by developers & SREs.
 - [flowwer-dev/pull-request-stats](https://github.com/flowwer-dev/pull-request-stats) - Github action to print relevant stats about Pull Request reviewers
 - [EvilFreelancer/xhprof-ui-js](https://github.com/EvilFreelancer/xhprof-ui-js) - Modern, flexible and mobile friendly application for analyzing PHP XHProf dumps
 - [dalunacrobate/DaProfiler](https://github.com/dalunacrobate/DaProfiler) - DaProfiler allows you to create a profile on your target based in France only. The particularity of this program is its ability to find the e-mail addresses your target.
@@ -2011,7 +2011,7 @@
 ## Python 
 
 - [cquest/annuaire-services-publics](https://github.com/cquest/annuaire-services-publics) - 
-- [dmerejkowsky/tsrc](https://github.com/dmerejkowsky/tsrc) - Manage groups of git repositories
+- [your-tools/tsrc](https://github.com/your-tools/tsrc) - Manage groups of git repositories
 - [cider-security-research/cicd-goat](https://github.com/cider-security-research/cicd-goat) - A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
 - [hay-kot/mealie](https://github.com/hay-kot/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
