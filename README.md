@@ -482,7 +482,6 @@
 - [jolicode/pomdok](https://github.com/jolicode/pomdok) - 🍏 Simple wrapper to Symfony Go Binary for multi-app
 - [vishnudxb/docker-mkcert](https://github.com/vishnudxb/docker-mkcert) - Docker container for creating valid local ssl certificates
 - [rtr7/router7](https://github.com/rtr7/router7) - a small home internet router completely written in Go
-- [mlabouardy/komiser](https://github.com/mlabouardy/komiser) - Cloud Environment Inspector 👮:lock: :moneybag:
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [mkrou/geonames](https://github.com/mkrou/geonames) - Golang parsing library for the geonames.org database dump
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
@@ -794,6 +793,8 @@
 
 ## JavaScript 
 
+- [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system.
+- [tentacode/ireadit](https://github.com/tentacode/ireadit) - 
 - [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [Mermade/openapi-gui](https://github.com/Mermade/openapi-gui) - GUI / visual editor for creating and editing OpenAPI / Swagger definitions
 - [insin/tweak-new-twitter](https://github.com/insin/tweak-new-twitter) - Browser extension which removes algorithmic content from Twitter, hides news & trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements
@@ -2514,6 +2515,7 @@
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [jasperapp/jasper](https://github.com/jasperapp/jasper) - Jasper - A flexible and powerful issue reader for GitHub
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
+- [mlabouardy/komiser](https://github.com/mlabouardy/komiser) - Cloud Environment Inspector 👮:lock: :moneybag:
 - [Godefroy/carte-dvf](https://github.com/Godefroy/carte-dvf) - Carte de valeurs foncières
 - [sharenowTech/birdperson](https://github.com/sharenowTech/birdperson) - GitLab monitor for open merge requests and pipeline status. Originally intended to be used as a dashboard in a big screen TV.
 - [rpgeeganage/ifto](https://github.com/rpgeeganage/ifto) - A simple debugging module for AWS Lambda (λ) timeout
