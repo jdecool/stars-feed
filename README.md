@@ -378,6 +378,7 @@
 
 ## Go 
 
+- [redhuntlabs/HTTPLoot](https://github.com/redhuntlabs/HTTPLoot) - An automated tool which can simultaneously crawl, fill forms, trigger error/debug pages and "loot" secrets out of the client-facing code of sites.
 - [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.
 - [go-gitea/lgtm](https://github.com/go-gitea/lgtm) - A simple pull request approval system
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
@@ -454,7 +455,7 @@
 - [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 - [bogdanovich/dns_resolver](https://github.com/bogdanovich/dns_resolver) - Simple dns resolver in Go based on miekg/dns.
 - [koding/koding](https://github.com/koding/koding) - The Simplest Way to Manage Your Entire Dev Infrastructure!
-- [Charliekenney23/dockerhub-update](https://github.com/Charliekenney23/dockerhub-update) - Update your Dockerhub repository description, readme and vcs repo link
+- [0xch4z/dockerhub-update](https://github.com/0xch4z/dockerhub-update) - Update your Dockerhub repository description, readme and vcs repo link
 - [elazarl/goproxy](https://github.com/elazarl/goproxy) - An HTTP proxy library for Go
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [rhaidiz/broxy](https://github.com/rhaidiz/broxy) - An HTTP/HTTPS intercept proxy written in Go.
@@ -646,6 +647,7 @@
 
 ## HTML 
 
+- [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [technext/darkpan](https://github.com/technext/darkpan) - 
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [othyn/php-enum-enhancements](https://github.com/othyn/php-enum-enhancements) - Adds some helpful enum traits to the glorious new PHP Enum type, like value lists and value arrays.
