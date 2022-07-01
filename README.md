@@ -1435,6 +1435,8 @@
 
 ## PHP 
 
+- [bvtterfly/replay](https://github.com/bvtterfly/replay) - Laravel middleware for idempotency
+- [mnapoli/gitstats](https://github.com/mnapoli/gitstats) - Iterate through git commits to gather statistics
 - [dauxio/daux.io](https://github.com/dauxio/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer f
 - [laravel/pint](https://github.com/laravel/pint) - Laravel Pint is an opinionated PHP code style fixer for minimalists.
 - [repman-io/repman](https://github.com/repman-io/repman) - Repman - PHP Repository Manager: packagist proxy and host for private packages
@@ -2494,7 +2496,7 @@
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [SamKirkland/FTP-Deploy-Action](https://github.com/SamKirkland/FTP-Deploy-Action) - Deploys a GitHub project to a FTP server using GitHub actions
-- [m3o/m3o](https://github.com/m3o/m3o) - Universal Micro Services Gateway
+- [m3o/m3o](https://github.com/m3o/m3o) - Universal micro services gateway
 - [jopemachine-arvis/arvis](https://github.com/jopemachine-arvis/arvis) - Extendable cross-platform launcher that aims to help you run, edit, create any workflow simply
 - [covidpass-org/covidpass](https://github.com/covidpass-org/covidpass) - Web app for adding EU Digital COVID Certificates to your wallet apps
 - [hieunc229/copilot-clone](https://github.com/hieunc229/copilot-clone) - VSCode extension for code suggestion
@@ -2506,7 +2508,7 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [thecodingmachine/workadventure](https://github.com/thecodingmachine/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
 - [stoplightio/prism](https://github.com/stoplightio/prism) - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open-source low-code platform for your backend. Airtable-like UI for your database meets cloud functions workflows, all in your browser ⚡️✨ Code in JS/TS, use any NPM, API.
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open-source low-code platform for Firebase and Firestore. Airtable-like UI with cloud functions workflows in JS/TS, all in your browser.
 - [betagouv/mon-entreprise](https://github.com/betagouv/mon-entreprise) - L'assistant officiel des entrepreneurs
 - [bt0r/NoteFlix](https://github.com/bt0r/NoteFlix) - Permet d'avoir un score Allociné et SensCritique sur les films/séries Netflix
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
