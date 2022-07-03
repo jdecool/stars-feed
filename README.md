@@ -346,6 +346,7 @@
 - [OskarStark/php-cs-fixer-ga](https://github.com/OskarStark/php-cs-fixer-ga) - GithubAction for PHP-CS-Fixer
 - [grpc/grpc-docker-library](https://github.com/grpc/grpc-docker-library) - Contains dockerfiles for gRPC in different languages
 - [MilesChou/docker-phalcon](https://github.com/MilesChou/docker-phalcon) - Dockerized Phalcon
+- [jakzal/phpqa](https://github.com/jakzal/phpqa) - Docker image that provides static analysis tools for PHP
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`.
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 - [zoobab/vagrant-inside-docker](https://github.com/zoobab/vagrant-inside-docker) - vagrant-inside-docker
@@ -1201,7 +1202,6 @@
 
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [akrabat/bref-image-resizer](https://github.com/akrabat/bref-image-resizer) - Serverless PHP (Bref/Lambda) function to resize an image on upload to an S3 bucket
-- [jakzal/phpqa](https://github.com/jakzal/phpqa) - Docker image that provides static analysis tools for PHP
 - [phpbrew/phpbrew](https://github.com/phpbrew/phpbrew) - Brew & manage PHP versions in pure PHP at HOME
 
 ## Markdown 
@@ -1602,7 +1602,7 @@
 - [awes-io/awes-io](https://github.com/awes-io/awes-io) - Awes.io // boilerplate based on Vue, Nuxt, TailwindCSS plus Laravel as a backend. 🤟
 - [domainmod/domainmod](https://github.com/domainmod/domainmod) - DomainMOD is an open source application written in PHP & MySQL used to manage your domains and other internet assets in a central location. DomainMOD also includes a Data Warehouse framework that allo
 - [ergebnis/php-package-template](https://github.com/ergebnis/php-package-template) - :octocat: + :ledger: Provides a GitHub repository template for a PHP package, using GitHub Actions.
-- [B-Galati/monolog-sentry-handler](https://github.com/B-Galati/monolog-sentry-handler) - Monolog handler for Sentry PHP SDK v2 with breadcrumbs support
+- [B-Galati/monolog-sentry-handler](https://github.com/B-Galati/monolog-sentry-handler) - Monolog handler for Sentry PHP SDK v2/v3 with breadcrumbs support
 - [composer/satis](https://github.com/composer/satis) - Simple static Composer repository generator - For a full private Composer repo use Private Packagist
 - [Swop/github-webhook-middleware](https://github.com/Swop/github-webhook-middleware) - PSR-7 style & PSR-15 compatible middleware which will verify if the incoming GitHub web hook request is correctly signed.
 - [sebastianfeldmann/phpbu](https://github.com/sebastianfeldmann/phpbu) - PHP Backup Utility - Creates and encrypts database and file backups, syncs your backups to other servers or cloud services and assists you monitor your backup process
