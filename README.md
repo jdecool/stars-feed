@@ -68,6 +68,7 @@
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
+- [Twig](#twig)
 - [TypeScript](#typescript)
 - [Vala](#vala)
 - [Vim script](#vim-script)
@@ -1297,7 +1298,7 @@
 - [teivah/algodeck](https://github.com/teivah/algodeck) - An Open-Source Collection of 200+ Algorithmic Flash Cards to Help you Preparing your Algorithm & Data Structure Interview 💯
 - [kamranahmedse/roadmap.sh](https://github.com/kamranahmedse/roadmap.sh) - Community driven roadmaps, articles and resources for developers
 - [justinamiller/SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect) - Path to a Software Architect
-- [basecamp/policies](https://github.com/basecamp/policies) - Basecamp policies, terms, and legal. Share them; reuse them; contribute to them.
+- [basecamp/policies](https://github.com/basecamp/policies) - 37signals policies, terms, and legal. Share them; reuse them; contribute to them.
 - [ivRodriguezCA/RE-iOS-Apps](https://github.com/ivRodriguezCA/RE-iOS-Apps) - A completely free, open source and online course about Reverse Engineering iOS Applications.
 - [yeahhub/Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks) - Top 100 Hacking & Security E-Books (Free Download)
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
@@ -1442,7 +1443,6 @@
 - [dauxio/daux.io](https://github.com/dauxio/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer f
 - [laravel/pint](https://github.com/laravel/pint) - Laravel Pint is an opinionated PHP code style fixer for minimalists.
 - [repman-io/repman](https://github.com/repman-io/repman) - Repman - PHP Repository Manager: packagist proxy and host for private packages
-- [tentacode/ireadit](https://github.com/tentacode/ireadit) - 
 - [laravel/valet](https://github.com/laravel/valet) - A more enjoyable local development experience for Mac.
 - [PrinsFrank/standards](https://github.com/PrinsFrank/standards) - A collection of standards as PHP Enums: ISO3166, ISO4217, ISO639...
 - [spatie/laravel-rdap](https://github.com/spatie/laravel-rdap) - Perform RDAP queries in a Laravel app
@@ -2023,6 +2023,7 @@
 
 ## Python 
 
+- [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
 - [cquest/annuaire-services-publics](https://github.com/cquest/annuaire-services-publics) - 
 - [your-tools/tsrc](https://github.com/your-tools/tsrc) - Manage groups of git repositories
 - [cider-security-research/cicd-goat](https://github.com/cider-security-research/cicd-goat) - A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
@@ -2059,7 +2060,7 @@
 - [Eerovil/TrackLater](https://github.com/Eerovil/TrackLater) - TrackLater helps you track time after-the-fact by combining clues and showing your day on a simple timeline view.
 - [axi0mX/ipwndfu](https://github.com/axi0mX/ipwndfu) - open-source jailbreaking tool for many iOS devices
 - [lean-delivery/ansible-role-gitlab-runner](https://github.com/lean-delivery/ansible-role-gitlab-runner) - Ansible Role - GitLab Runner
-- [m8r0wn/CrossLinked](https://github.com/m8r0wn/CrossLinked) - LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping
+- [m8sec/CrossLinked](https://github.com/m8sec/CrossLinked) - LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping
 - [TomAnthony/itermocil](https://github.com/TomAnthony/itermocil) - Create pre-defined window/pane layouts and run commands in iTerm
 - [jolicode/docker-starter](https://github.com/jolicode/docker-starter) - 🏗️ A skeleton to start a new web project with PHP, Docker and Invoke
 - [renatomefi/php-fpm-healthcheck](https://github.com/renatomefi/php-fpm-healthcheck) - A POSIX compliant sh script to healthcheck PHP fpm status, can be used only for pinging or check for specific metrics
@@ -2480,6 +2481,10 @@
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [haifengl/bigdata](https://github.com/haifengl/bigdata) - Introduction to Big Data
 - [tlhunter/consumer-centric-api-design](https://github.com/tlhunter/consumer-centric-api-design) - Book on HTTP API Design, LaTeX, Creative Commons
+
+## Twig 
+
+- [tentacode/ireadit](https://github.com/tentacode/ireadit) - 
 
 ## TypeScript 
 
