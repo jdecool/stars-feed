@@ -68,7 +68,6 @@
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
-- [Twig](#twig)
 - [TypeScript](#typescript)
 - [Vala](#vala)
 - [Vim script](#vim-script)
@@ -1113,7 +1112,7 @@
 - [rtc-io/demo-quickconnect](https://github.com/rtc-io/demo-quickconnect) - EXAMPLE: A simple video conferencing example using rtc-quickconnect
 - [sorellabs/fuck-you](https://github.com/sorellabs/fuck-you) - ⚠[unmaintained]⚠ (╯°□°）╯︵sǝssǝɔoɹd oʎ llɐ llıʞǝɓɐɹ
 - [stefanjudis/perf-tooling](https://github.com/stefanjudis/perf-tooling) - List of performance analysis, monitoring and optimization tools
-- [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: GDevelop is an open-source, cross-platform game engine designed to be used by everyone.
+- [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: Open-source, cross-platform game engine designed to be used by everyone.
 - [sbstjn/timesheet.js](https://github.com/sbstjn/timesheet.js) - JavaScript library for HTML5 & CSS3 time sheets
 - [facebook/flux](https://github.com/facebook/flux) - Application Architecture for Building User Interfaces
 - [audreyt/500lines](https://github.com/audreyt/500lines) - 500 Lines or Less
@@ -1437,12 +1436,15 @@
 
 ## PHP 
 
+- [JBZoo/Composer-Diff](https://github.com/JBZoo/Composer-Diff) - See what packages have changed after `composer update`
+- [zenstruck/browser](https://github.com/zenstruck/browser) - A fluent interface for your Symfony functional tests.
 - [dantleech/gherkin-lint-php](https://github.com/dantleech/gherkin-lint-php) - PHP Gherkin Linter
 - [bvtterfly/replay](https://github.com/bvtterfly/replay) - Laravel middleware for idempotency
 - [mnapoli/gitstats](https://github.com/mnapoli/gitstats) - Iterate through git commits to gather statistics
 - [dauxio/daux.io](https://github.com/dauxio/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer f
 - [laravel/pint](https://github.com/laravel/pint) - Laravel Pint is an opinionated PHP code style fixer for minimalists.
 - [repman-io/repman](https://github.com/repman-io/repman) - Repman - PHP Repository Manager: packagist proxy and host for private packages
+- [tentacode/ireadit](https://github.com/tentacode/ireadit) - 
 - [laravel/valet](https://github.com/laravel/valet) - A more enjoyable local development experience for Mac.
 - [PrinsFrank/standards](https://github.com/PrinsFrank/standards) - A collection of standards as PHP Enums: ISO3166, ISO4217, ISO639...
 - [spatie/laravel-rdap](https://github.com/spatie/laravel-rdap) - Perform RDAP queries in a Laravel app
@@ -2481,10 +2483,6 @@
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [haifengl/bigdata](https://github.com/haifengl/bigdata) - Introduction to Big Data
 - [tlhunter/consumer-centric-api-design](https://github.com/tlhunter/consumer-centric-api-design) - Book on HTTP API Design, LaTeX, Creative Commons
-
-## Twig 
-
-- [tentacode/ireadit](https://github.com/tentacode/ireadit) - 
 
 ## TypeScript 
 
