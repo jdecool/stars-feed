@@ -2026,6 +2026,7 @@
 
 ## Python 
 
+- [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer) - Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser!
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
 - [cquest/annuaire-services-publics](https://github.com/cquest/annuaire-services-publics) - 
 - [your-tools/tsrc](https://github.com/your-tools/tsrc) - Manage groups of git repositories
