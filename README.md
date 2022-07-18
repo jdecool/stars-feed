@@ -2368,7 +2368,7 @@
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [swarmlet/swarmlet](https://github.com/swarmlet/swarmlet) - A self-hosted, open-source Platform as a Service that enables easy swarm deployments, load balancing, automatic SSL, metrics, analytics and more.
 - [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Local ad blocker. Like Pi-hole but local and using your operating system.
-- [yne/dzr](https://github.com/yne/dzr) - Command Line deezer.com Player for Linux, BSD, Android
+- [yne/dzr](https://github.com/yne/dzr) - Command Line deezer.com Player for Linux, BSD, Android, Windows
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [insideapp-oss/xcode-gitlab-runner](https://github.com/insideapp-oss/xcode-gitlab-runner) - Vagrantfile to build a fully functional macOS / Xcode GitLab runner
