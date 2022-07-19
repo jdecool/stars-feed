@@ -799,6 +799,7 @@
 
 ## JavaScript 
 
+- [tropy/tropy](https://github.com/tropy/tropy) - Research photo management
 - [onlywei/explain-git-with-d3](https://github.com/onlywei/explain-git-with-d3) - Use D3 to visualize simple git branching operations.
 - [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
@@ -1438,6 +1439,7 @@
 
 ## PHP 
 
+- [norberttech/static-content-generator-bundle](https://github.com/norberttech/static-content-generator-bundle) - Generate static html pages from your symfony application
 - [JBZoo/Composer-Diff](https://github.com/JBZoo/Composer-Diff) - See what packages have changed after `composer update`
 - [zenstruck/browser](https://github.com/zenstruck/browser) - A fluent interface for your Symfony functional tests.
 - [dantleech/gherkin-lint-php](https://github.com/dantleech/gherkin-lint-php) - PHP Gherkin Linter
@@ -2259,6 +2261,7 @@
 
 ## Rust 
 
+- [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
 - [joaoh82/rust_sqlite](https://github.com/joaoh82/rust_sqlite) - SQLRite - Simple embedded database modeled off SQLite in Rust
 - [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
@@ -2444,6 +2447,7 @@
 
 ## Swift 
 
+- [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
 - [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
