@@ -96,6 +96,7 @@
 
 ## C 
 
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [joncampbell123/dosbox-x](https://github.com/joncampbell123/dosbox-x) - DOSBox-X fork of the DOSBox project
 - [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
 - [QB64Team/qb64](https://github.com/QB64Team/qb64) - BASIC for the modern era.
@@ -1439,6 +1440,8 @@
 
 ## PHP 
 
+- [IonBazan/composer-diff](https://github.com/IonBazan/composer-diff) - Compares composer.lock changes and generates Markdown report so you can use it in PR description.
+- [Skillshare/formatphp](https://github.com/Skillshare/formatphp) - 🌍 Internationalize PHP apps. This library provides an API to format dates, numbers, and strings, including pluralization and handling translations.
 - [norberttech/static-content-generator-bundle](https://github.com/norberttech/static-content-generator-bundle) - Generate static html pages from your symfony application
 - [JBZoo/Composer-Diff](https://github.com/JBZoo/Composer-Diff) - See what packages have changed after `composer update`
 - [zenstruck/browser](https://github.com/zenstruck/browser) - A fluent interface for your Symfony functional tests.
