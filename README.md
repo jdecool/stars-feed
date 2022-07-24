@@ -2394,7 +2394,7 @@
 - [cytopia/awesome-ci](https://github.com/cytopia/awesome-ci) - Awesome Continuous Integration - Lot's of tools for git, file and static source code analysis.
 - [pyaillet/conf-linuxkit](https://github.com/pyaillet/conf-linuxkit) - Projects used in demos of our linuxkit talk
 - [hraban/tomono](https://github.com/hraban/tomono) - Multi- To Mono-repository migration
-- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [laravel/settler](https://github.com/laravel/settler) - 
 - [shopsys/monorepo-tools](https://github.com/shopsys/monorepo-tools) - [READ-ONLY] Tools for building and splitting monolithic repository from existing packages (with their history unchanged). This package is used for splitting our monorepo and we share it with our commu
 - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
