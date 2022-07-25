@@ -800,6 +800,7 @@
 
 ## JavaScript 
 
+- [mholt/json-to-go](https://github.com/mholt/json-to-go) - Translates JSON into a Go type in your browser instantly (original)
 - [tropy/tropy](https://github.com/tropy/tropy) - Research photo management
 - [onlywei/explain-git-with-d3](https://github.com/onlywei/explain-git-with-d3) - Use D3 to visualize simple git branching operations.
 - [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system.
@@ -1702,7 +1703,7 @@
 - [jubianchi/prof-it](https://github.com/jubianchi/prof-it) - Profile & Profit!
 - [micheh/psr7-cache](https://github.com/micheh/psr7-cache) - Cache and conditional request helpers for PSR-7 HTTP Messages
 - [endroid/qr-code](https://github.com/endroid/qr-code) - QR Code Generator
-- [symplify/symplify](https://github.com/symplify/symplify) - Do you use Symfony, Coding Standards, maintain PHP packages, monorepo, local packages, static websites and most importantly... are you extreemely lazy? You'll love the candies you find here! :)
+- [symplify/symplify](https://github.com/symplify/symplify) - Do you use Symfony, coding standards, PHPStan rule, maintain PHP packages, monorepo... and do you like to be lazy? You'll love the toolkits here! :)
 - [sirbrillig/phpcs-variable-analysis](https://github.com/sirbrillig/phpcs-variable-analysis) - Find undefined and unused variables with the PHP Codesniffer static analysis tool.
 - [Cocolabs-SAS/cocorico](https://github.com/Cocolabs-SAS/cocorico) - 👐 Cocorico is an open source marketplace solution for services and rentals. More information right here: https://www.cocorico.io/en/ 🚀 Cocorico is also available in an off-the-shelf SaaS package, chec
 - [Innmind/Immutable](https://github.com/Innmind/Immutable) - Wrappers for PHP primitives allowing immutable structures
