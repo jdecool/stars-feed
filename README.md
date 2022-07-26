@@ -204,6 +204,7 @@
 
 ## C++ 
 
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [Dion-Systems/4coder](https://github.com/Dion-Systems/4coder) - The final version of the official 4coder codebase. (See Also: https://github.com/Dion-Systems/4coder-non-source)
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [ensisoft/gamestudio](https://github.com/ensisoft/gamestudio) - 2D game engine and editor
@@ -2501,7 +2502,7 @@
 - [afup/pufa](https://github.com/afup/pufa) - 
 - [nohello-net/site](https://github.com/nohello-net/site) - 
 - [mihaip/infinite-mac](https://github.com/mihaip/infinite-mac) - A Mac with everything you'd want in 1995.
-- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - Next version of massCode. A free and open source code snippets manager for developers
+- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [CarterLi/vue3-ace-editor](https://github.com/CarterLi/vue3-ace-editor) - Like vue2-ace-editor but more functional and supports Vue 3
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Generate code from cURL commands
