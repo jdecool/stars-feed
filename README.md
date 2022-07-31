@@ -39,6 +39,7 @@
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Mathematica](#mathematica)
 - [Mustache](#mustache)
 - [Nginx](#nginx)
 - [Nix](#nix)
@@ -813,7 +814,7 @@
 - [insin/tweak-new-twitter](https://github.com/insin/tweak-new-twitter) - Browser extension which removes algorithmic content from Twitter, hides news & trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements
 - [gcochard/hibp-downloader](https://github.com/gcochard/hibp-downloader) - Download all the HIBP passwords
 - [robertwt7/meetsy](https://github.com/robertwt7/meetsy) - Open source online booking system
-- [juliuste/direkt.bahn.guru](https://github.com/juliuste/direkt.bahn.guru) - All direct long-distance railway connections for cities in Germany.
+- [juliuste/direkt.bahn.guru](https://github.com/juliuste/direkt.bahn.guru) - All direct long-distance railway connections for cities in and beyond Germany.
 - [bhovhannes/junit-report-merger](https://github.com/bhovhannes/junit-report-merger) - Merges multiple JUnit XML reports into one
 - [hbendalibraham/number-to-letters](https://github.com/hbendalibraham/number-to-letters) - Convert a number to letters
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system
@@ -1215,6 +1216,10 @@
 ## Markdown 
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+
+## Mathematica 
+
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 
 ## Mustache 
 
@@ -2149,7 +2154,6 @@
 - [google/glazier](https://github.com/google/glazier) - A tool for automating the installation of the Microsoft Windows operating system on various device platforms.
 - [arecarn/dploy](https://github.com/arecarn/dploy) - Provides the functionality of GNU Stow in a cross platform CLI tool and python module
 - [achilikin/cdtea](https://github.com/achilikin/cdtea) - Tea brewing machine
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [foxmask/django-th](https://github.com/foxmask/django-th) - :snake: Trigger Happy - The bus :bus: for your internet services
 - [cmheisel/pywatch](https://github.com/cmheisel/pywatch) - Runs an arbitrary command if files specified to be watched change. It's good for automatically running unit tests when your code changes, similar to Ruby's ZenTest.
 - [tonybaloney/mocker](https://github.com/tonybaloney/mocker) - A Docker-type runtime, written in 100% Python
