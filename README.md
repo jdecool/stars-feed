@@ -382,7 +382,7 @@
 
 ## Go 
 
-- [hktalent/scan4all](https://github.com/hktalent/scan4all) - Vulnerabilities Scan: 15000+PoCs; 21 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty...
+- [hktalent/scan4all](https://github.com/hktalent/scan4all) - vuls Scan: 15000+PoCs; 21 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
 - [inkeliz/karmem](https://github.com/inkeliz/karmem) - Karmem is a fast binary serialization format, faster than Google Flatbuffers and optimized for TinyGo and WASM.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [riza/linx](https://github.com/riza/linx) - Reveals invisible links within JavaScript files
@@ -2516,7 +2516,7 @@
 - [snyk/release-notes-preview](https://github.com/snyk/release-notes-preview) - GitHub Action for providing release notes preview for semantic releases
 - [afup/pufa](https://github.com/afup/pufa) - 
 - [nohello-net/site](https://github.com/nohello-net/site) - 
-- [mihaip/infinite-mac](https://github.com/mihaip/infinite-mac) - A Mac with everything you'd want in 1995.
+- [mihaip/infinite-mac](https://github.com/mihaip/infinite-mac) - A Mac with everything you'd want in 1995, all in your web browser.
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [CarterLi/vue3-ace-editor](https://github.com/CarterLi/vue3-ace-editor) - Like vue2-ace-editor but more functional and supports Vue 3
