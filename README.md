@@ -382,6 +382,7 @@
 
 ## Go 
 
+- [Phantas0s/devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers and Creators
 - [hktalent/scan4all](https://github.com/hktalent/scan4all) - vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
 - [inkeliz/karmem](https://github.com/inkeliz/karmem) - Karmem is a fast binary serialization format, faster than Google Flatbuffers and optimized for TinyGo and WASM.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -1580,7 +1581,7 @@
 - [meabed/php-parallel-soap](https://github.com/meabed/php-parallel-soap) - Asynchronous, Parallel, Multi-Curl PHP SoapClient
 - [tchwork/bootstrapper](https://github.com/tchwork/bootstrapper) - Takes care of booting your app from global state provided by the engine
 - [amenophis/csv2json](https://github.com/amenophis/csv2json) - A little tool to parse CSV file using type mapping and export to JSON
-- [DobryProgramator/DoctrineSafeTypes](https://github.com/DobryProgramator/DoctrineSafeTypes) - Doctrine types for thecodingmachine/safe package
+- [Holicz/DoctrineSafeTypes](https://github.com/Holicz/DoctrineSafeTypes) - Doctrine types for thecodingmachine/safe package
 - [crf-devs/resop](https://github.com/crf-devs/resop) - ResOp is a management, planning and projection tool for human and operational resources in a crisis context.
 - [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - Simple wireless AP setup & management for Debian-based devices
 - [rybakit/msgpack.php](https://github.com/rybakit/msgpack.php) - A pure PHP implementation of the MessagePack serialization format / msgpack.org[PHP]
