@@ -820,7 +820,7 @@
 - [insin/tweak-new-twitter](https://github.com/insin/tweak-new-twitter) - Browser extension which removes algorithmic content from Twitter, hides news & trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements
 - [gcochard/hibp-downloader](https://github.com/gcochard/hibp-downloader) - Download all the HIBP passwords
 - [robertwt7/meetsy](https://github.com/robertwt7/meetsy) - Open source online booking system
-- [juliuste/direkt.bahn.guru](https://github.com/juliuste/direkt.bahn.guru) - All direct long-distance railway connections for cities in and beyond Germany.
+- [juliuste/direkt.bahn.guru](https://github.com/juliuste/direkt.bahn.guru) - All direct long-distance railway connections for cities in and beyond central Europe.
 - [bhovhannes/junit-report-merger](https://github.com/bhovhannes/junit-report-merger) - Merges multiple JUnit XML reports into one
 - [hbendalibraham/number-to-letters](https://github.com/hbendalibraham/number-to-letters) - Convert a number to letters
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system
@@ -1136,7 +1136,7 @@
 - [ncuillery/angular-breadcrumb](https://github.com/ncuillery/angular-breadcrumb) - Generate a breadcrumb from ui-router's states
 - [imagemin/imagemin-app](https://github.com/imagemin/imagemin-app) - imagemin as an OS X, Linux and Windows app
 - [dorneanu/netgrafio](https://github.com/dorneanu/netgrafio) - netgrafio - Visualize your network
-- [google/WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
+- [google/WebFundamentals](https://github.com/google/WebFundamentals) - Former git repo for WebFundamentals on developers.google.com
 - [Rovak/InlineAttachment](https://github.com/Rovak/InlineAttachment) - Easily paste and upload files/images in plain textareas
 - [soygul/koan](https://github.com/soygul/koan) - KOAN (Koa, Angular, Node, Mongo) starter kit for full-stack JavaScript web development.
 - [tjgq/grunt-throttle](https://github.com/tjgq/grunt-throttle) - A Grunt plugin for testing under a throttled connection.
@@ -2519,7 +2519,6 @@
 - [afup/pufa](https://github.com/afup/pufa) - 
 - [nohello-net/site](https://github.com/nohello-net/site) - 
 - [mihaip/infinite-mac](https://github.com/mihaip/infinite-mac) - A Mac with everything you'd want in 1995, all in your web browser.
-- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [CarterLi/vue3-ace-editor](https://github.com/CarterLi/vue3-ace-editor) - Like vue2-ace-editor but more functional and supports Vue 3
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to Python, JavaScript, PHP, R, Go, Rust, Elixir, Java, MATLAB, Dart and more
@@ -2628,6 +2627,7 @@
 
 - [krystalcampioni/vue-hotel-datepicker](https://github.com/krystalcampioni/vue-hotel-datepicker) - Vue date range picker component
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX.
 - [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) - 
 - [geospoc/v-mapbox](https://github.com/geospoc/v-mapbox) - A cloned & maintained version of vue-mapbox
