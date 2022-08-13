@@ -368,6 +368,7 @@
 
 ## Elm 
 
+- [n1k0/monkeypox-stats](https://github.com/n1k0/monkeypox-stats) - Experiments with open data & dataviz about the monkeypox pandemic
 - [rtfeldman/elm-spa-example](https://github.com/rtfeldman/elm-spa-example) - A Single Page Application written in Elm
 
 ## F# # 
@@ -1278,6 +1279,7 @@
 
 ## Others 
 
+- [mnishihan/laravel-docs-in-pdf](https://github.com/mnishihan/laravel-docs-in-pdf) - Up-to-date Laravel documentation in PDF format (all versions)
 - [rootkit-io/awesome-malware-development](https://github.com/rootkit-io/awesome-malware-development) - Organized list of my malware development resources
 - [rubymorillo/pocket-tech-writing-list](https://github.com/rubymorillo/pocket-tech-writing-list) - A small but formidable list of technical writing resources for developers
 - [bmoeskau/engineering-ladders](https://github.com/bmoeskau/engineering-ladders) - A collection of engineering ladders for reference and inspiration
@@ -2048,6 +2050,7 @@
 
 ## Python 
 
+- [0xricksanchez/like-dbg](https://github.com/0xricksanchez/like-dbg) - Fully dockerized Linux kernel debugging environment
 - [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer) - Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser!
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
 - [cquest/annuaire-services-publics](https://github.com/cquest/annuaire-services-publics) - 
@@ -2513,12 +2516,14 @@
 
 ## TypeScript 
 
+- [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
 - [premieroctet/training-platform](https://github.com/premieroctet/training-platform) - A tool to build courses and training decks.
 - [snoopForms/snoopHub](https://github.com/snoopForms/snoopHub) - The Open-Source Typeform Alternative
 - [snyk/release-notes-preview](https://github.com/snyk/release-notes-preview) - GitHub Action for providing release notes preview for semantic releases
 - [afup/pufa](https://github.com/afup/pufa) - 
 - [nohello-net/site](https://github.com/nohello-net/site) - 
 - [mihaip/infinite-mac](https://github.com/mihaip/infinite-mac) - A Mac with everything you'd want in 1995, all in your web browser.
+- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [CarterLi/vue3-ace-editor](https://github.com/CarterLi/vue3-ace-editor) - Like vue2-ace-editor but more functional and supports Vue 3
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to Python, JavaScript, PHP, R, Go, Rust, Elixir, Java, MATLAB, Dart and more
@@ -2627,7 +2632,6 @@
 
 - [krystalcampioni/vue-hotel-datepicker](https://github.com/krystalcampioni/vue-hotel-datepicker) - Vue date range picker component
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
-- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX.
 - [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) - 
 - [geospoc/v-mapbox](https://github.com/geospoc/v-mapbox) - A cloned & maintained version of vue-mapbox
