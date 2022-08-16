@@ -1454,6 +1454,7 @@
 
 ## PHP 
 
+- [Adesin-fr/valet-linux-ng](https://github.com/Adesin-fr/valet-linux-ng) - A fork of Laravel Valet to work in Linux.
 - [statix-php/server](https://github.com/statix-php/server) - An object oriented wrapper around PHP's built-in server.
 - [parsica-php/parsica](https://github.com/parsica-php/parsica) - Parsica - PHP Parser Combinators - The easiest way to build robust parsers.
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - PHP library that helps to map any input into a strongly-typed value object structure.
@@ -2326,7 +2327,7 @@
 - [jgbyrne/jann](https://github.com/jgbyrne/jann) - jann - configuration deployment tool for *nix
 - [KillingSpark/rustysd](https://github.com/KillingSpark/rustysd) - A service manager that is able to run "traditional" systemd services, written in rust
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
-- [Findomain/Findomain](https://github.com/Findomain/Findomain) - The complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, multiple API Ke
+- [Findomain/Findomain](https://github.com/Findomain/Findomain) - The fastest and complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, mul
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [citybound/citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
@@ -2518,7 +2519,7 @@
 
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
 - [premieroctet/training-platform](https://github.com/premieroctet/training-platform) - A tool to build courses and training decks.
-- [snoopForms/snoopHub](https://github.com/snoopForms/snoopHub) - The Open-Source Typeform Alternative
+- [snoopForms/snoopforms](https://github.com/snoopForms/snoopforms) - The Open-Source Typeform Alternative
 - [snyk/release-notes-preview](https://github.com/snyk/release-notes-preview) - GitHub Action for providing release notes preview for semantic releases
 - [afup/pufa](https://github.com/afup/pufa) - 
 - [nohello-net/site](https://github.com/nohello-net/site) - 
