@@ -147,7 +147,6 @@
 - [krakjoe/autostrict](https://github.com/krakjoe/autostrict) - Automatic strict types in PHP7
 - [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 - [willdurand/ArvernOS](https://github.com/willdurand/ArvernOS) - :floppy_disk: A minimal, experimental and "toy" monolithic kernel to learn about OS development // Work In Progress
-- [hak5darren/USB-Rubber-Ducky](https://github.com/hak5darren/USB-Rubber-Ducky) - 
 - [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
 - [robertfisk/USG](https://github.com/robertfisk/USG) - The USG is Good, not Bad
 - [tideways/php-xhprof-extension](https://github.com/tideways/php-xhprof-extension) - Modern XHProf compatible PHP Profiler for PHP 7
@@ -1278,6 +1277,7 @@
 
 ## Others 
 
+- [Twipped/InterviewThis](https://github.com/Twipped/InterviewThis) - An open source list of developer questions to ask prospective employers
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [oliverbenns/john-carmack-plan](https://github.com/oliverbenns/john-carmack-plan) - An archive of John Carmack’s .plan files in readable markdown format
 - [mnishihan/laravel-docs-in-pdf](https://github.com/mnishihan/laravel-docs-in-pdf) - Up-to-date Laravel documentation in PDF format (all versions)
@@ -1372,6 +1372,7 @@
 - [hobby-kube/guide](https://github.com/hobby-kube/guide) - Kubernetes clusters for the hobbyist.
 - [basecamp/handbook](https://github.com/basecamp/handbook) - Basecamp Employee Handbook
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
+- [hak5darren/USB-Rubber-Ducky](https://github.com/hak5darren/USB-Rubber-Ducky) - 
 - [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
 - [forter/security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups) - security tips for startups
 - [gamontal/awesome-katas](https://github.com/gamontal/awesome-katas) - A curated list of code katas
