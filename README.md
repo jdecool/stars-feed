@@ -1277,6 +1277,7 @@
 
 ## Others 
 
+- [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
 - [Twipped/InterviewThis](https://github.com/Twipped/InterviewThis) - An open source list of developer questions to ask prospective employers
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [oliverbenns/john-carmack-plan](https://github.com/oliverbenns/john-carmack-plan) - An archive of John Carmack’s .plan files in readable markdown format
