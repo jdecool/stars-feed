@@ -384,6 +384,7 @@
 
 ## Go 
 
+- [itchyny/gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
 - [Phantas0s/devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers and Creators
 - [hktalent/scan4all](https://github.com/hktalent/scan4all) - vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
 - [inkeliz/karmem](https://github.com/inkeliz/karmem) - Karmem is a fast binary serialization format, faster than Google Flatbuffers and optimized for TinyGo and WASM.
@@ -410,7 +411,7 @@
 - [symfony-cli/console](https://github.com/symfony-cli/console) - 
 - [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
-- [m3o/m3o](https://github.com/m3o/m3o) - Universal public cloud services
+- [m3o/m3o](https://github.com/m3o/m3o) - Universal micro services
 - [librespeed/speedtest-cli](https://github.com/librespeed/speedtest-cli) - Command line client for LibreSpeed
 - [im2nguyen/rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
