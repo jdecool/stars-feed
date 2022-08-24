@@ -367,6 +367,7 @@
 
 ## Elm 
 
+- [alexislozano/salaires.dev](https://github.com/alexislozano/salaires.dev) - 
 - [n1k0/monkeypox-stats](https://github.com/n1k0/monkeypox-stats) - Experiments with open data & dataviz about the monkeypox pandemic
 - [rtfeldman/elm-spa-example](https://github.com/rtfeldman/elm-spa-example) - A Single Page Application written in Elm
 
@@ -2290,6 +2291,7 @@
 
 ## Rust 
 
+- [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done API specifications! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by validating your API specifications.
 - [ryangjchandler/trunk](https://github.com/ryangjchandler/trunk) - A set of libraries for working with PHP in Rust.
 - [phiresky/sqlite-zstd](https://github.com/phiresky/sqlite-zstd) - Transparent dictionary-based row-level compression for SQLite
 - [nunomaduro/nunomaduro.com](https://github.com/nunomaduro/nunomaduro.com) - 
