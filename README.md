@@ -413,7 +413,7 @@
 - [symfony-cli/console](https://github.com/symfony-cli/console) - 
 - [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
-- [m3o/m3o](https://github.com/m3o/m3o) - Universal micro services
+- [m3o/m3o](https://github.com/m3o/m3o) - Serverless cloud gateway
 - [librespeed/speedtest-cli](https://github.com/librespeed/speedtest-cli) - Command line client for LibreSpeed
 - [im2nguyen/rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
@@ -1461,6 +1461,7 @@
 
 ## PHP 
 
+- [Crell/Serde](https://github.com/Crell/Serde) - Robust Serde (serialization/deserialization) library for PHP 8.
 - [micheh/phpcs-gitlab](https://github.com/micheh/phpcs-gitlab) - Gitlab Report for PHP_CodeSniffer (display the violations in the Gitlab CI/CD Code Quality Report)
 - [phabelio/phabel](https://github.com/phabelio/phabel) - PHP transpiler - Write and deploy modern PHP 8 code, today.
 - [Adesin-fr/valet-linux-ng](https://github.com/Adesin-fr/valet-linux-ng) - A fork of Laravel Valet to work in Linux.
