@@ -816,6 +816,7 @@
 
 ## JavaScript 
 
+- [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [rajeshkhadka200/collab](https://github.com/rajeshkhadka200/collab) - A realtime code-sync tool, Collab is the platform for any developer or a code enthusiasts who wants to collaborate with other developer around the globe.
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, and Fly.io
 - [mholt/json-to-go](https://github.com/mholt/json-to-go) - Translates JSON into a Go type in your browser instantly (original)
@@ -882,7 +883,7 @@
 - [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
-- [codemirror/dev](https://github.com/codemirror/dev) - Develpment repository for the CodeMirror editor project
+- [codemirror/dev](https://github.com/codemirror/dev) - Development repository for the CodeMirror editor project
 - [gsilvamartin/RTCode](https://github.com/gsilvamartin/RTCode) - Real time code sharing web application
 - [zaygozi/zeeka](https://github.com/zaygozi/zeeka) - Secure global file sharing using tcp tunnels. Currently tunneling through localtunnel's public servers. Zeeka dedicated servers coming soon.
 - [fabienvauchelles/scrapoxy](https://github.com/fabienvauchelles/scrapoxy) - Scrapoxy hides your scraper behind a cloud. It starts a pool of proxies to send your requests. Now, you can crawl without thinking about blacklisting!
@@ -1466,6 +1467,7 @@
 
 ## PHP 
 
+- [spatie/laravel-feed](https://github.com/spatie/laravel-feed) - Easily generate RSS feeds
 - [opcodesio/log-viewer](https://github.com/opcodesio/log-viewer) - Fast and beautiful Log Viewer for Laravel
 - [Crell/Serde](https://github.com/Crell/Serde) - Robust Serde (serialization/deserialization) library for PHP 8.
 - [micheh/phpcs-gitlab](https://github.com/micheh/phpcs-gitlab) - Gitlab Report for PHP_CodeSniffer (display the violations in the Gitlab CI/CD Code Quality Report)
@@ -2347,7 +2349,7 @@
 - [biscuit-auth/biscuit](https://github.com/biscuit-auth/biscuit) - delegated, decentralized, capabilities based authorization token
 - [jgbyrne/jann](https://github.com/jgbyrne/jann) - jann - configuration deployment tool for *nix
 - [KillingSpark/rustysd](https://github.com/KillingSpark/rustysd) - A service manager that is able to run "traditional" systemd services, written in rust
-- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary in your terminal
 - [Findomain/Findomain](https://github.com/Findomain/Findomain) - The fastest and complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, mul
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
