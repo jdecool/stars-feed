@@ -345,6 +345,7 @@
 
 ## Dart 
 
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [redstone-dart/redstone](https://github.com/redstone-dart/redstone) - A metadata driven microframework for Dart.
 
@@ -1473,6 +1474,7 @@
 
 ## PHP 
 
+- [Sammyjo20/laravel-haystack](https://github.com/Sammyjo20/laravel-haystack) - 👩‍🌾 Beautifully simple but powerful database-driven job chains.
 - [matthiasnoback/php-ast-inspector](https://github.com/matthiasnoback/php-ast-inspector) - Kind of a step-debugger for your Abstract Syntrax Tree
 - [spatie/laravel-feed](https://github.com/spatie/laravel-feed) - Easily generate RSS feeds
 - [opcodesio/log-viewer](https://github.com/opcodesio/log-viewer) - Fast and beautiful Log Viewer for Laravel
