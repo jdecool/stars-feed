@@ -2312,6 +2312,7 @@
 
 ## Rust 
 
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done API specifications! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by validating your API specifications.
 - [ryangjchandler/trunk](https://github.com/ryangjchandler/trunk) - A set of libraries for working with PHP in Rust.
