@@ -2131,7 +2131,7 @@
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [SebastienReuiller/teleinfo-linky-with-raspberry](https://github.com/SebastienReuiller/teleinfo-linky-with-raspberry) - Surveiller sa consommation électrique en temps réel avec un compteur Linky et un Raspberry
 - [Kinto/kinto](https://github.com/Kinto/kinto) - A generic JSON document store with sharing and synchronisation capabilities.
-- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [Evs91/HealthkitImportInfluxDB](https://github.com/Evs91/HealthkitImportInfluxDB) - Script to process your Healthkit "export.xml" to InfluxDB.
 - [twstokes/healthdata_influx](https://github.com/twstokes/healthdata_influx) - Imports Apple Health Data into InfluxDB
 - [opsdisk/pagodo](https://github.com/opsdisk/pagodo) - pagodo (Passive Google Dork) - Automate Google Hacking Database scraping and searching
