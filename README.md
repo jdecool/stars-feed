@@ -1165,8 +1165,7 @@
 - [BlueSpire/Durandal](https://github.com/BlueSpire/Durandal) - Durandal has evolved to the next generation: Aurelia.
 - [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
-- [substack/invoicer](https://github.com/substack/invoicer) - generate pdf invoices from json
-- [substack/clocker](https://github.com/substack/clocker) - track project hours
+- [fnogatz/clocker](https://github.com/fnogatz/clocker) - track project hours
 - [appserver-io/appserver](https://github.com/appserver-io/appserver) - A multithreaded application server for PHP, written in PHP.
 - [angular-wizard/angular-wizard](https://github.com/angular-wizard/angular-wizard) - Easy to use Wizard library for AngularJS
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
