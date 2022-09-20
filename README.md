@@ -393,6 +393,8 @@
 
 ## Go 
 
+- [bulwarkid/virtual-fido](https://github.com/bulwarkid/virtual-fido) - A Virtual FIDO2 USB Device
+- [baris-inandi/brainfuck-go](https://github.com/baris-inandi/brainfuck-go) - A fast, optimizing, brainfuck compiler, interpreter, and REPL. Also includes a Brainfuck formatter and minifier! Implemented in Go. Batteries included.
 - [flemzord/gh-manager](https://github.com/flemzord/gh-manager) - Github Manager allows you to manage your Github organizations
 - [BedrockStreaming/prescaling-exporter](https://github.com/BedrockStreaming/prescaling-exporter) - Prometheus Exporter to scale plateform
 - [google/go-licenses](https://github.com/google/go-licenses) - Reports on the licenses used by a Go package and its dependencies.
@@ -1478,6 +1480,8 @@
 
 ## PHP 
 
+- [Pierstoval/SmokeTesting](https://github.com/Pierstoval/SmokeTesting) - 
+- [Sammyjo20/laravel-chunkable-jobs](https://github.com/Sammyjo20/laravel-chunkable-jobs) - 📑 Split Laravel jobs into multiple separate job chunks
 - [zenstruck/foundry](https://github.com/zenstruck/foundry) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
 - [Sammyjo20/laravel-haystack](https://github.com/Sammyjo20/laravel-haystack) - 👩‍🌾 Beautifully simple but powerful database-driven job chains.
 - [matthiasnoback/php-ast-inspector](https://github.com/matthiasnoback/php-ast-inspector) - Kind of a step-debugger for your Abstract Syntrax Tree
@@ -2083,6 +2087,7 @@
 
 ## Python 
 
+- [public-apis-dev/public-apis](https://github.com/public-apis-dev/public-apis) - A collaborative list of public APIs for developers
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 - [lanmaster53/recon-ng](https://github.com/lanmaster53/recon-ng) - Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources.
 - [0xricksanchez/like-dbg](https://github.com/0xricksanchez/like-dbg) - Fully dockerized Linux kernel debugging environment
