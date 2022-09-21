@@ -210,6 +210,7 @@
 
 ## C++ 
 
+- [nuttyartist/notes](https://github.com/nuttyartist/notes) - Note-taking application, write down your thoughts.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [Dion-Systems/4coder](https://github.com/Dion-Systems/4coder) - The final version of the official 4coder codebase. (See Also: https://github.com/Dion-Systems/4coder-non-source)
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
@@ -2270,6 +2271,7 @@
 
 ## Ruby 
 
+- [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [yongfook/zipsell](https://github.com/yongfook/zipsell) - A free open source platform for selling digital downloads such as ebooks
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
@@ -2562,6 +2564,7 @@
 
 ## TypeScript 
 
+- [mb21/panwriter](https://github.com/mb21/panwriter) - Markdown editor with pandoc integration and paginated preview.
 - [france-connect/sources](https://github.com/france-connect/sources) - 
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
@@ -2574,7 +2577,7 @@
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [CarterLi/vue3-ace-editor](https://github.com/CarterLi/vue3-ace-editor) - Like vue2-ace-editor but more functional and supports Vue 3
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to Python, JavaScript, PHP, R, Go, Ruby, Rust, Elixir, Java, MATLAB, Dart and more
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to Python, JavaScript, PHP, R, Go, Ruby, Rust, Elixir, Java, MATLAB, C#, Dart and more
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [dynamite-ready/movie-parser](https://github.com/dynamite-ready/movie-parser) - NWJS wrapper for a wider project.
 - [notea-org/notea](https://github.com/notea-org/notea) - 📒 Self hosted note taking app stored on S3
