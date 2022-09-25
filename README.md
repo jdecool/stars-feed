@@ -2519,6 +2519,7 @@
 
 ## Swift 
 
+- [tjpetz/macBLEScanner](https://github.com/tjpetz/macBLEScanner) - Simple BLE scanner for macOS build with Swift and SwiftUI
 - [menubar-apps/PullBar](https://github.com/menubar-apps/PullBar) - GitHub pull requests in your menubar!
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
