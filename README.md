@@ -353,6 +353,7 @@
 
 ## Dockerfile 
 
+- [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [serversideup/docker-php](https://github.com/serversideup/docker-php) - Production-ready Docker images for PHP. Optimized for Laravel, WordPress, and more!
 - [Zenika/alpine-chrome](https://github.com/Zenika/alpine-chrome) - Chrome Headless docker images built upon alpine official image
 - [OskarStark/phpstan-ga](https://github.com/OskarStark/phpstan-ga) - GithubAction for PHPStan
@@ -427,7 +428,7 @@
 - [symfony-cli/console](https://github.com/symfony-cli/console) - 
 - [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
-- [m3o/m3o](https://github.com/m3o/m3o) - Serverless cloud services (SCS)
+- [m3o/m3o](https://github.com/m3o/m3o) - Serverless cloud provider
 - [librespeed/speedtest-cli](https://github.com/librespeed/speedtest-cli) - Command line client for LibreSpeed
 - [im2nguyen/rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
@@ -1858,7 +1859,7 @@
 - [jmikola/AutoLogin](https://github.com/jmikola/AutoLogin) - Faciliates automatic login via a single token for Symfony's Security component.
 - [shipping-docker/dockerized-app](https://github.com/shipping-docker/dockerized-app) - Example repository for Dockerizing Your Application preview module
 - [webmozart/symfony-forms-workshop-websc16](https://github.com/webmozart/symfony-forms-workshop-websc16) - The Symfony Forms workshop at the Web Summer Camp 2016
-- [gitscrum-ce/laravel-gitscrum](https://github.com/gitscrum-ce/laravel-gitscrum) - GitScrum is a Project Management Tool, developed to help entrepreneurs, freelancers, managers, and teams Skyrocket their Productivity with the Agile methodology and Gamification.
+- [gitscrum-team/laravel-gitscrum](https://github.com/gitscrum-team/laravel-gitscrum) - GitScrum is a Project Management Tool, developed to help entrepreneurs, freelancers, managers, and teams Skyrocket their Productivity with the Agile methodology and Gamification.
 - [davidrjonas/composer-lock-diff](https://github.com/davidrjonas/composer-lock-diff) - See what has changed after a composer update
 - [maknz/slack](https://github.com/maknz/slack) - A simple PHP package for sending messages to Slack, with a focus on ease of use and elegant syntax.
 - [aszone/avenger-sh](https://github.com/aszone/avenger-sh) - Project for finding vunerabilities in mass.
@@ -2089,6 +2090,7 @@
 
 ## Python 
 
+- [elesiuta/picosnitch](https://github.com/elesiuta/picosnitch) - Monitor network traffic per executable using BPF
 - [public-apis-dev/public-apis](https://github.com/public-apis-dev/public-apis) - A collaborative list of public APIs for developers
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 - [lanmaster53/recon-ng](https://github.com/lanmaster53/recon-ng) - Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources.
@@ -2326,6 +2328,7 @@
 
 ## Rust 
 
+- [hakoerber/git-repo-manager](https://github.com/hakoerber/git-repo-manager) - A git tool to manage worktrees and integrate with GitHub and GitLab
 - [simeg/eureka](https://github.com/simeg/eureka) - 💡 CLI tool to input and store your ideas without leaving the terminal
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
