@@ -1304,6 +1304,7 @@
 
 ## Others 
 
+- [brendt/phpstorm-light-lite-theme](https://github.com/brendt/phpstorm-light-lite-theme) - Minimalistic Light colour scheme for PhpStorm
 - [boxyhq/awesome-oss-devsec](https://github.com/boxyhq/awesome-oss-devsec) - An awesome list of OSS developer-first security tools
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [joaocarvalhoopen/How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust) - A guide to the adventurer.
@@ -1486,6 +1487,10 @@
 
 ## PHP 
 
+- [TheAlgorithms/PHP](https://github.com/TheAlgorithms/PHP) - All Algorithms implemented in PHP
+- [seferov/composer-env-script](https://github.com/seferov/composer-env-script) - Composer script for handling gitignored env files
+- [giuseppe998e/syringe](https://github.com/giuseppe998e/syringe) - Dependency Injection Framework for PHP8
+- [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [Pierstoval/SmokeTesting](https://github.com/Pierstoval/SmokeTesting) - 
 - [Sammyjo20/laravel-chunkable-jobs](https://github.com/Sammyjo20/laravel-chunkable-jobs) - 📑 Split Laravel jobs into multiple separate job chunks
 - [zenstruck/foundry](https://github.com/zenstruck/foundry) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
