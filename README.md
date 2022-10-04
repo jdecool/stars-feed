@@ -1246,6 +1246,7 @@
 ## Markdown 
 
 - [apple/swift-book](https://github.com/apple/swift-book) - The Swift Programming Language book
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Mustache 
@@ -1333,7 +1334,6 @@
 - [ValveSoftware/steamlink-sdk](https://github.com/ValveSoftware/steamlink-sdk) - 
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [Penetrum-Security/Security-List](https://github.com/Penetrum-Security/Security-List) - Penetrum LLC opensource security tool list.
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
@@ -2612,9 +2612,9 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [thecodingmachine/workadventure](https://github.com/thecodingmachine/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
 - [stoplightio/prism](https://github.com/stoplightio/prism) - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open-source low-code platform for Firebase and Firestore. Airtable-like UI with cloud functions workflows in JS/TS, all in your browser.
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open-source low-code platform. Airtable-like UI for managing your database with cloud functions workflows in JS/TS, all in your browser.
 - [betagouv/mon-entreprise](https://github.com/betagouv/mon-entreprise) - L'assistant officiel des entrepreneurs
-- [SensCritique/NoteFlix](https://github.com/SensCritique/NoteFlix) - Permet d'avoir un score Allociné et SensCritique sur les films/séries Netflix
+- [SensCritique/SensCritique-extension](https://github.com/SensCritique/SensCritique-extension) - Permet d'avoir un score SensCritique sur les films/séries Netflix
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [alibaba/lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
