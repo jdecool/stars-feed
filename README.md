@@ -679,6 +679,7 @@
 
 ## HTML 
 
+- [F0cuser/focuser](https://github.com/F0cuser/focuser) - A free & opensource distraction-reducing app for maximizing your productivity - built in electronJS!
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
 - [jobbsy-dev/jobbsy](https://github.com/jobbsy-dev/jobbsy) - Jobbsy - Job Board for Symfony
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
@@ -693,7 +694,6 @@
 - [screensy/screensy](https://github.com/screensy/screensy) - Simple peer-to-peer screen sharing
 - [berzniz/github_pr_tree](https://github.com/berzniz/github_pr_tree) - Add a file tree to GitHub's Pull Request
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
-- [kamilmielnik/scrabble-solver](https://github.com/kamilmielnik/scrabble-solver) - scrabble-solver.org - The ultimate, open-source cheating app for Scrabble and Literaki. Available in English, French, German, Polish & Spanish.
 - [isaaceindhoven/velocita-proxy](https://github.com/isaaceindhoven/velocita-proxy) - Velocita - Composer caching reverse proxy
 - [beberlei/php-rfc-watch](https://github.com/beberlei/php-rfc-watch) - Interactive voting results for PHP RFC process.
 - [BustByte/coronastatus](https://github.com/BustByte/coronastatus) - Anonymous crowd sourcing of COVID-19 symptoms all over the world (with public data sets)!
@@ -1494,7 +1494,7 @@
 - [Pierstoval/SmokeTesting](https://github.com/Pierstoval/SmokeTesting) - 
 - [Sammyjo20/laravel-chunkable-jobs](https://github.com/Sammyjo20/laravel-chunkable-jobs) - 📑 Split Laravel jobs into multiple separate job chunks
 - [zenstruck/foundry](https://github.com/zenstruck/foundry) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
-- [Sammyjo20/laravel-haystack](https://github.com/Sammyjo20/laravel-haystack) - 👩‍🌾 Beautifully simple but powerful database-driven job chains.
+- [Sammyjo20/laravel-haystack](https://github.com/Sammyjo20/laravel-haystack) - ⚡️  Supercharged job chains for Laravel
 - [matthiasnoback/php-ast-inspector](https://github.com/matthiasnoback/php-ast-inspector) - Kind of a step-debugger for your Abstract Syntrax Tree
 - [spatie/laravel-feed](https://github.com/spatie/laravel-feed) - Easily generate RSS feeds
 - [opcodesio/log-viewer](https://github.com/opcodesio/log-viewer) - Fast and beautiful Log Viewer for Laravel
@@ -2615,6 +2615,7 @@
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open-source low-code platform. Airtable-like UI for managing your database with cloud functions workflows in JS/TS, all in your browser.
 - [betagouv/mon-entreprise](https://github.com/betagouv/mon-entreprise) - L'assistant officiel des entrepreneurs
 - [SensCritique/SensCritique-extension](https://github.com/SensCritique/SensCritique-extension) - Permet d'avoir un score SensCritique sur les films/séries Netflix
+- [kamilmielnik/scrabble-solver](https://github.com/kamilmielnik/scrabble-solver) - scrabble-solver.org - The ultimate, open-source cheating app for Scrabble and Literaki. Available in English, French, German, Polish & Spanish.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [alibaba/lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
