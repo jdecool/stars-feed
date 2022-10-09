@@ -430,7 +430,6 @@
 - [symfony-cli/console](https://github.com/symfony-cli/console) - 
 - [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
-- [m3o/m3o](https://github.com/m3o/m3o) - Universal Micro Services
 - [librespeed/speedtest-cli](https://github.com/librespeed/speedtest-cli) - Command line client for LibreSpeed
 - [im2nguyen/rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
@@ -764,6 +763,7 @@
 
 ## Java 
 
+- [hvdwolf/jExifToolGUI](https://github.com/hvdwolf/jExifToolGUI) - jExifToolGUI is a multi-platform java/Swing graphical frontend for the excellent command-line ExifTool application by Phil Harvey
 - [structurizr/dsl](https://github.com/structurizr/dsl) - Structurizr DSL
 - [ff4j/ff4j](https://github.com/ff4j/ff4j) - Feature Flags for Java made easy
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
@@ -2098,6 +2098,8 @@
 
 ## Python 
 
+- [thesaderror/vector](https://github.com/thesaderror/vector) - Open source osint intellegence.
+- [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [elesiuta/picosnitch](https://github.com/elesiuta/picosnitch) - Monitor network traffic per executable using BPF
 - [public-apis-dev/public-apis](https://github.com/public-apis-dev/public-apis) - A collaborative list of public APIs for developers
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
@@ -2593,7 +2595,7 @@
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [CarterLi/vue3-ace-editor](https://github.com/CarterLi/vue3-ace-editor) - Like vue2-ace-editor but more functional and supports Vue 3
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to Python, JavaScript, PHP, R, Go, Ruby, Rust, Elixir, Java, MATLAB, C#, Dart and more
-- [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets. The name comes from mushing grid and list together. Yes we know it sounds like gristle.
+- [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [dynamite-ready/movie-parser](https://github.com/dynamite-ready/movie-parser) - NWJS wrapper for a wider project.
 - [notea-org/notea](https://github.com/notea-org/notea) - 📒 Self hosted note taking app stored on S3
 - [antonmedv/numbr](https://github.com/antonmedv/numbr) - Notepad + calculator
@@ -2602,6 +2604,7 @@
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [SamKirkland/FTP-Deploy-Action](https://github.com/SamKirkland/FTP-Deploy-Action) - Deploys a GitHub project to a FTP server using GitHub actions
+- [m3o/m3o](https://github.com/m3o/m3o) - Universal Micro Services
 - [jopemachine-arvis/arvis](https://github.com/jopemachine-arvis/arvis) - Extendable cross-platform launcher that aims to help you run, edit, create any workflow simply
 - [covidpass-org/covidpass](https://github.com/covidpass-org/covidpass) - Web app for adding EU Digital COVID Certificates to your wallet apps
 - [hieunc229/copilot-clone](https://github.com/hieunc229/copilot-clone) - VSCode extension for code suggestion
@@ -2616,7 +2619,7 @@
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open-source low-code platform. Airtable-like UI for managing your database with cloud functions workflows in JS/TS, all in your browser.
 - [betagouv/mon-entreprise](https://github.com/betagouv/mon-entreprise) - L'assistant officiel des entrepreneurs
 - [SensCritique/SensCritique-extension](https://github.com/SensCritique/SensCritique-extension) - Permet d'avoir un score SensCritique sur les films/séries Netflix
-- [kamilmielnik/scrabble-solver](https://github.com/kamilmielnik/scrabble-solver) - scrabble-solver.org - The ultimate, open-source cheating app for Scrabble and Literaki. Available in English, French, German, Polish & Spanish.
+- [kamilmielnik/scrabble-solver](https://github.com/kamilmielnik/scrabble-solver) - Free and open-source analysis tool for Scrabble and Literaki. Quickly find top scoring words using given letters and board state. Available in English, French, German, Polish & Spanish.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [alibaba/lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
