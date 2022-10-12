@@ -1132,7 +1132,7 @@
 - [jolicode/generator-joli-symfony](https://github.com/jolicode/generator-joli-symfony) - :man: Yeoman Generator for Symfony2 projects with sensible defaults and frontend tools.
 - [jdorn/json-editor](https://github.com/jdorn/json-editor) - JSON Schema Based Editor
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [vvo/gifify](https://github.com/vvo/gifify) - 😻 Convert any video file to an optimized animated GIF.
 - [robotlolita/raven](https://github.com/robotlolita/raven) - (hiatus) Raven is a minimal, distraction-free text editor with good typography.
 - [addyosmani/tmi](https://github.com/addyosmani/tmi) - TMI (Too Many Images) - discover your image weight on the web
@@ -1487,6 +1487,8 @@
 
 ## PHP 
 
+- [getparthenon/monorepo](https://github.com/getparthenon/monorepo) - Monorepo for Parthenon development
+- [CHStudio/Raven](https://github.com/CHStudio/Raven) - Testing your OpenApi documentation and your code easily.
 - [TheAlgorithms/PHP](https://github.com/TheAlgorithms/PHP) - All Algorithms implemented in PHP
 - [seferov/composer-env-script](https://github.com/seferov/composer-env-script) - Composer script for handling gitignored env files
 - [giuseppe998e/syringe](https://github.com/giuseppe998e/syringe) - Dependency Injection Framework for PHP8
@@ -2098,7 +2100,7 @@
 
 ## Python 
 
-- [thesaderror/vector](https://github.com/thesaderror/vector) - Open source osint intellegence.
+- [thesaderror/vector](https://github.com/thesaderror/vector) - Open source osint project.
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [elesiuta/picosnitch](https://github.com/elesiuta/picosnitch) - Monitor network traffic per executable using BPF
 - [public-apis-dev/public-apis](https://github.com/public-apis-dev/public-apis) - A collaborative list of public APIs for developers
