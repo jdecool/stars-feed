@@ -1003,7 +1003,7 @@
 - [danielbayerlein/dashboard](https://github.com/danielbayerlein/dashboard) - 📺 Create your own team dashboard with custom widgets. Built with Next.js, React, styled-components and polished.
 - [dascritch/ondemiroir-audio-tag](https://github.com/dascritch/ondemiroir-audio-tag) - An evolution to timecodehash for a enhanced audio tag
 - [hectorguo/CKEditor-Markdown-Plugin](https://github.com/hectorguo/CKEditor-Markdown-Plugin) - Markdown Plugin for CKEditor
-- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
 - [djenriquez/vault-ui](https://github.com/djenriquez/vault-ui) - Vault-UI — A beautiful UI to manage your Vault, written in React
 - [dhruv-kumar-jha/productivity-frontend](https://github.com/dhruv-kumar-jha/productivity-frontend) - Productivity Application - Kanban Style Productivity Management Application with Customizable Boards, Lists and Cards to Make You More Productive.
 - [jdan/cleaver](https://github.com/jdan/cleaver) - 30-second slideshows for hackers
@@ -1487,6 +1487,7 @@
 
 ## PHP 
 
+- [Jibbarth/slacknewsletter](https://github.com/Jibbarth/slacknewsletter) - A Symfony Project to build a newsletter from slack workspace.
 - [getparthenon/monorepo](https://github.com/getparthenon/monorepo) - Monorepo for Parthenon development
 - [CHStudio/Raven](https://github.com/CHStudio/Raven) - Testing your OpenApi documentation and your code easily.
 - [TheAlgorithms/PHP](https://github.com/TheAlgorithms/PHP) - All Algorithms implemented in PHP
