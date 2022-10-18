@@ -444,7 +444,7 @@
 - [geohot/minikeyvalue](https://github.com/geohot/minikeyvalue) - A distributed key value store in under 1000 lines. Used in production at comma.ai
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) - A Golang Job Scheduling Package.
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated service health dashboard
 - [redirect2me/which-dns](https://github.com/redirect2me/which-dns) - Detects which DNS server is being used - https://which.nameserve.rs/
 - [nyancrimew/goop](https://github.com/nyancrimew/goop) - Yet another tool to dump a git repository from a website, focused on as-complete-as-possible dumps and handling weird edge-cases.
 - [kkdai/youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
@@ -2230,7 +2230,7 @@
 - [ghostsquad/swarmci](https://github.com/ghostsquad/swarmci) - Swarm CI - Docker Swarm-based CI system or enhancement to existing systems.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [getsentry/docker-sentry](https://github.com/getsentry/docker-sentry) - Docker Official Image packaging for Sentry
-- [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
+- [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [abdulfatir/ZipBomb](https://github.com/abdulfatir/ZipBomb) - A simple implementation of ZipBomb in Python
 - [floydhub/dl-docker](https://github.com/floydhub/dl-docker) - An all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 - [mustafaIhssan/Deep-learning-Image-Classification-Caffe](https://github.com/mustafaIhssan/Deep-learning-Image-Classification-Caffe) - Deep learning Image Classification on Pascal Voc Dataset using Caffe
