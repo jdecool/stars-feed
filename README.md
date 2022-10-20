@@ -87,7 +87,6 @@
 
 - [AmiBlitz/AmiBlitz3](https://github.com/AmiBlitz/AmiBlitz3) - Complete package of AmiBlitz3 including all sources.
 - [nanochess/bootBASIC](https://github.com/nanochess/bootBASIC) - bootBASIC is a BASIC language in 512 bytes of x86 machine code.
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 - [nanochess/bootOS](https://github.com/nanochess/bootOS) - bootOS is a monolithic operating system in 512 bytes of x86 machine code.
 
@@ -104,6 +103,7 @@
 - [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [MyOwnClone/quake_watch](https://github.com/MyOwnClone/quake_watch) - Quake 1 game port to Apple Watch
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [joncampbell123/dosbox-x](https://github.com/joncampbell123/dosbox-x) - DOSBox-X fork of the DOSBox project
 - [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
 - [QB64Team/qb64](https://github.com/QB64Team/qb64) - BASIC for the modern era.
