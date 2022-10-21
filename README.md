@@ -413,7 +413,7 @@
 - [Fusion/kittendns](https://github.com/Fusion/kittendns) - 
 - [alajmo/mani](https://github.com/alajmo/mani) - :robot: CLI tool to help you manage repositories
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
-- [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines
+- [dagger/dagger](https://github.com/dagger/dagger) - A cross-platform CI/CD engine that is programmable and container-native
 - [varunu28/graft](https://github.com/varunu28/graft) - From scratch implementation of Raft consensus algorithm in Go
 - [adamgordonbell/cloudservices](https://github.com/adamgordonbell/cloudservices) - 
 - [winfsp/hubfs](https://github.com/winfsp/hubfs) - File system for GitHub & GitLab
@@ -1303,12 +1303,12 @@
 
 ## Others 
 
+- [jotak/full-stack-pastry](https://github.com/jotak/full-stack-pastry) - Quelques recettes open-source (MIT), pull-requests bienvenues!
 - [YuzukiHD/YuzukiLOHCC-PRO](https://github.com/YuzukiHD/YuzukiLOHCC-PRO) - Low cost USB3.2Gen1 HDMI-USB Video Acquisition With Loop Out (Loop Out HDMI Capture Card) base on MS2130 & MS9332
 - [brendt/phpstorm-light-lite-theme](https://github.com/brendt/phpstorm-light-lite-theme) - Minimalistic Light colour scheme for PhpStorm
 - [boxyhq/awesome-oss-devsec](https://github.com/boxyhq/awesome-oss-devsec) - An awesome list of OSS developer-first security tools
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [joaocarvalhoopen/How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust) - A guide to the adventurer.
-- [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
 - [Twipped/InterviewThis](https://github.com/Twipped/InterviewThis) - An open source list of developer questions to ask prospective employers
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [oliverbenns/john-carmack-plan](https://github.com/oliverbenns/john-carmack-plan) - An archive of John Carmack’s .plan files in readable markdown format
@@ -1486,6 +1486,7 @@
 
 ## PHP 
 
+- [jakzal/phpunit-globals](https://github.com/jakzal/phpunit-globals) - Allows to use annotations to define global variables in PHPUnit test cases
 - [datenbrei/blogless](https://github.com/datenbrei/blogless) - The Blogless publishing system is for web writers. Just publish, share your texts with friends and don't think about the rest.
 - [Jibbarth/slacknewsletter](https://github.com/Jibbarth/slacknewsletter) - A Symfony Project to build a newsletter from slack workspace.
 - [getparthenon/monorepo](https://github.com/getparthenon/monorepo) - Monorepo for Parthenon development
@@ -2101,6 +2102,7 @@
 
 ## Python 
 
+- [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [etalab/prix-carburants-data](https://github.com/etalab/prix-carburants-data) - 
 - [thesaderror/vector](https://github.com/thesaderror/vector) - Open source osint project.
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
@@ -2108,6 +2110,7 @@
 - [public-apis-dev/public-apis](https://github.com/public-apis-dev/public-apis) - A collaborative list of public APIs for developers
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 - [lanmaster53/recon-ng](https://github.com/lanmaster53/recon-ng) - Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources.
+- [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
 - [0xricksanchez/like-dbg](https://github.com/0xricksanchez/like-dbg) - Fully dockerized Linux kernel debugging environment
 - [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer) - Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser!
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
@@ -2441,6 +2444,7 @@
 
 ## Shell 
 
+- [freekmurze/dotfiles](https://github.com/freekmurze/dotfiles) - My personal dotfiles
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Usage-Based Billing
 - [coderofsalvation/kanban.bash](https://github.com/coderofsalvation/kanban.bash) - commandline asciii kanban board for minimalist productivity hackers & managers (csv-based) #scriptable #nestable #statistics #singlefile #shellscript
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
