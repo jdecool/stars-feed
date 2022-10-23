@@ -1493,7 +1493,7 @@
 - [CHStudio/Raven](https://github.com/CHStudio/Raven) - Testing your OpenApi documentation and your code easily.
 - [TheAlgorithms/PHP](https://github.com/TheAlgorithms/PHP) - All Algorithms implemented in PHP
 - [seferov/composer-env-script](https://github.com/seferov/composer-env-script) - Composer script for handling gitignored env files
-- [giuseppe998e/syringe](https://github.com/giuseppe998e/syringe) - Dependency Injection Framework for PHP8
+- [giuseppe998e/syringe](https://github.com/giuseppe998e/syringe) - Dependency injection library for PHP8
 - [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [Pierstoval/SmokeTesting](https://github.com/Pierstoval/SmokeTesting) - 
 - [Sammyjo20/laravel-chunkable-jobs](https://github.com/Sammyjo20/laravel-chunkable-jobs) - 📑 Split Laravel jobs into multiple separate job chunks
