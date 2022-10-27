@@ -392,7 +392,7 @@
 
 ## Go 
 
-- [cshum/imagorvideo](https://github.com/cshum/imagorvideo) - imagor video thumbnail server in Go and ffmpeg C bindings
+- [cshum/imagorvideo](https://github.com/cshum/imagorvideo) - imagor video thumbnail server in Go and FFmpeg C bindings
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
@@ -1488,6 +1488,7 @@
 
 ## PHP 
 
+- [erichard/elasticsearch-query-builder](https://github.com/erichard/elasticsearch-query-builder) - Build query for an ElasticSearch client using a fluent interface
 - [jakzal/phpunit-globals](https://github.com/jakzal/phpunit-globals) - Allows to use annotations to define global variables in PHPUnit test cases
 - [datenbrei/blogless](https://github.com/datenbrei/blogless) - The Blogless publishing system is for web writers. Just publish, share your texts with friends and don't think about the rest.
 - [Jibbarth/slacknewsletter](https://github.com/Jibbarth/slacknewsletter) - A Symfony Project to build a newsletter from slack workspace.
