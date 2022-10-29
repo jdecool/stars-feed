@@ -392,6 +392,7 @@
 
 ## Go 
 
+- [adhocore/chin](https://github.com/adhocore/chin) - A GO lang library to show a spinner as user waits for any long running jobs to finish.
 - [cshum/imagorvideo](https://github.com/cshum/imagorvideo) - imagor video thumbnail server in Go and ffmpeg C bindings
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server
@@ -2348,6 +2349,7 @@
 
 ## Rust 
 
+- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems
 - [hakoerber/git-repo-manager](https://github.com/hakoerber/git-repo-manager) - A git tool to manage worktrees and integrate with GitHub and GitLab
 - [simeg/eureka](https://github.com/simeg/eureka) - 💡 CLI tool to input and store your ideas without leaving the terminal
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
