@@ -87,6 +87,7 @@
 
 - [AmiBlitz/AmiBlitz3](https://github.com/AmiBlitz/AmiBlitz3) - Complete package of AmiBlitz3 including all sources.
 - [nanochess/bootBASIC](https://github.com/nanochess/bootBASIC) - bootBASIC is a BASIC language in 512 bytes of x86 machine code.
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 - [nanochess/bootOS](https://github.com/nanochess/bootOS) - bootOS is a monolithic operating system in 512 bytes of x86 machine code.
 
@@ -104,7 +105,6 @@
 - [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [MyOwnClone/quake_watch](https://github.com/MyOwnClone/quake_watch) - Quake 1 game port to Apple Watch
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [joncampbell123/dosbox-x](https://github.com/joncampbell123/dosbox-x) - DOSBox-X fork of the DOSBox project
 - [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
 - [QB64Team/qb64](https://github.com/QB64Team/qb64) - BASIC for the modern era.
@@ -2129,7 +2129,7 @@
 - [dynamite-ready/movie-parser-cli](https://github.com/dynamite-ready/movie-parser-cli) - 
 - [SuoraGmbH/build-php-extension](https://github.com/SuoraGmbH/build-php-extension) - Develop, Build and Test PHP Extensions
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
-- [swisskyrepo/GraphQLmap](https://github.com/swisskyrepo/GraphQLmap) - GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes.
+- [swisskyrepo/GraphQLmap](https://github.com/swisskyrepo/GraphQLmap) - GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes. - Do not use for illegal testing ;)
 - [knadh/tg-archive](https://github.com/knadh/tg-archive) - A tool for exporting Telegram group chats into static websites like mailing list archives.
 - [samschott/maestral](https://github.com/samschott/maestral) - Open-source Dropbox client for macOS and Linux
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -2619,7 +2619,7 @@
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [SamKirkland/FTP-Deploy-Action](https://github.com/SamKirkland/FTP-Deploy-Action) - Deploys a GitHub project to a FTP server using GitHub actions
-- [m3o/m3o](https://github.com/m3o/m3o) - Universal micro services gateway
+- [m3o/m3o](https://github.com/m3o/m3o) - Shared infrastructure & cloud services
 - [jopemachine-arvis/arvis](https://github.com/jopemachine-arvis/arvis) - Extendable cross-platform launcher that aims to help you run, edit, create any workflow simply
 - [covidpass-org/covidpass](https://github.com/covidpass-org/covidpass) - Web app for adding EU Digital COVID Certificates to your wallet apps
 - [hieunc229/copilot-clone](https://github.com/hieunc229/copilot-clone) - VSCode extension for code suggestion
