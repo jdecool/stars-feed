@@ -290,6 +290,7 @@
 
 ## CSS 
 
+- [emr-dev/sf-bug-bundle](https://github.com/emr-dev/sf-bug-bundle) - Package for share symfony profiler pages
 - [uxcandy/Label-Free-Bootstrap-Admin-Template](https://github.com/uxcandy/Label-Free-Bootstrap-Admin-Template) - Label admin template is a sophisticated responsive admin dashboard template made on top of Bootstrap 4. It is packed with highly customizable Bootstrap components that help web development easy and fa
 - [driftphp/demo](https://github.com/driftphp/demo) - Demo for DriftPHP
 - [tabulapdf/tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files
@@ -1490,6 +1491,7 @@
 
 ## PHP 
 
+- [odolbeau/phone-number-bundle](https://github.com/odolbeau/phone-number-bundle) - Integrates libphonenumber into your Symfony application
 - [Flowframe/laravel-trend](https://github.com/Flowframe/laravel-trend) - Generate trends for your models. Easily generate charts or reports.
 - [erichard/elasticsearch-query-builder](https://github.com/erichard/elasticsearch-query-builder) - Build query for an ElasticSearch client using a fluent interface
 - [jakzal/phpunit-globals](https://github.com/jakzal/phpunit-globals) - Allows to use annotations to define global variables in PHPUnit test cases
@@ -2596,6 +2598,7 @@
 
 ## TypeScript 
 
+- [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [mb21/panwriter](https://github.com/mb21/panwriter) - Markdown editor with pandoc integration and paginated preview.
 - [france-connect/sources](https://github.com/france-connect/sources) - 
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
