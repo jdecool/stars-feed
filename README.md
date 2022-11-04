@@ -394,7 +394,7 @@
 
 ## Go 
 
-- [adhocore/chin](https://github.com/adhocore/chin) - A GO lang library to show a spinner as user waits for any long running jobs to finish.
+- [adhocore/chin](https://github.com/adhocore/chin) - A Go lang library to show a spinner as user waits for any long running jobs to finish.
 - [cshum/imagorvideo](https://github.com/cshum/imagorvideo) - imagor video thumbnail server in Go and ffmpeg C bindings
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server
@@ -1491,6 +1491,7 @@
 
 ## PHP 
 
+- [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php) - PHP version of mysqldump cli that comes with MySQL
 - [odolbeau/phone-number-bundle](https://github.com/odolbeau/phone-number-bundle) - Integrates libphonenumber into your Symfony application
 - [Flowframe/laravel-trend](https://github.com/Flowframe/laravel-trend) - Generate trends for your models. Easily generate charts or reports.
 - [erichard/elasticsearch-query-builder](https://github.com/erichard/elasticsearch-query-builder) - Build query for an ElasticSearch client using a fluent interface
@@ -2719,6 +2720,7 @@
 
 ## Vue 
 
+- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-first web HTTP client
 - [ZestfulNation/vue-hotel-datepicker](https://github.com/ZestfulNation/vue-hotel-datepicker) - Vue date range picker component
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
