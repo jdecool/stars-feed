@@ -100,6 +100,7 @@
 
 ## C 
 
+- [armink/FlashDB](https://github.com/armink/FlashDB) - An ultra-lightweight database that supports key-value and time series data |  一款支持 KV 数据和时序数据的超轻量级数据库
 - [open-telemetry/opentelemetry-php-instrumentation](https://github.com/open-telemetry/opentelemetry-php-instrumentation) - OpenTelemetry PHP auto-instrumentation extension
 - [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [MyOwnClone/quake_watch](https://github.com/MyOwnClone/quake_watch) - Quake 1 game port to Apple Watch
@@ -836,6 +837,7 @@
 
 ## JavaScript 
 
+- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp client(linux, mac, win)
 - [Halleck45/captain-dys](https://github.com/Halleck45/captain-dys) - A text editor for dyslexic child
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [1024pix/pix](https://github.com/1024pix/pix) - Service public d'évaluation et de certification des compétences numériques pour tous.
@@ -1493,6 +1495,7 @@
 
 ## PHP 
 
+- [crew-cr/Crew](https://github.com/crew-cr/Crew) - Code review tool for git projects
 - [flow-php/etl](https://github.com/flow-php/etl) - [READ-ONLY] PHP - ETL (Extract Transform Load) data processing library
 - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php) - PHP version of mysqldump cli that comes with MySQL
 - [odolbeau/phone-number-bundle](https://github.com/odolbeau/phone-number-bundle) - Integrates libphonenumber into your Symfony application
