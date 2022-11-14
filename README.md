@@ -87,6 +87,7 @@
 
 - [AmiBlitz/AmiBlitz3](https://github.com/AmiBlitz/AmiBlitz3) - Complete package of AmiBlitz3 including all sources.
 - [nanochess/bootBASIC](https://github.com/nanochess/bootBASIC) - bootBASIC is a BASIC language in 512 bytes of x86 machine code.
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 - [nanochess/bootOS](https://github.com/nanochess/bootOS) - bootOS is a monolithic operating system in 512 bytes of x86 machine code.
 
@@ -105,7 +106,6 @@
 - [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [MyOwnClone/quake_watch](https://github.com/MyOwnClone/quake_watch) - Quake 1 game port to Apple Watch
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [joncampbell123/dosbox-x](https://github.com/joncampbell123/dosbox-x) - DOSBox-X fork of the DOSBox project
 - [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
 - [QB64Team/qb64](https://github.com/QB64Team/qb64) - BASIC for the modern era.
@@ -838,6 +838,7 @@
 
 ## JavaScript 
 
+- [pulse-browser/browser](https://github.com/pulse-browser/browser) - An experimental firefox fork
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp client(linux, mac, win)
 - [Halleck45/captain-dys](https://github.com/Halleck45/captain-dys) - A text editor for dyslexic child
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
@@ -921,7 +922,6 @@
 - [FaisalUmair/udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
 - [marmelab/comfygure](https://github.com/marmelab/comfygure) - Encrypted and versioned configuration store built with collaboration in mind
-- [arturbien/React95](https://github.com/arturbien/React95) - 🌈🕹   Refreshed Windows 95 style UI components for your React app
 - [ziishaned/deployer](https://github.com/ziishaned/deployer) - Cross-platform application to deploy your applications through Jenkins.
 - [MAIF/cards](https://github.com/MAIF/cards) - A deck of cards enumerating simple rules to design all new digital products at MAIF
 - [magicmark/composerize](https://github.com/magicmark/composerize) - 🏃→🎼  docker run asdlksjfksdf &gt; docker-composerize up
@@ -2118,6 +2118,7 @@
 
 ## Python 
 
+- [florianbeer/grafana-netatmo](https://github.com/florianbeer/grafana-netatmo) - Netatmo Weather Station dashboard for Grafana
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [etalab/prix-carburants-data](https://github.com/etalab/prix-carburants-data) - 
 - [thesaderror/vector](https://github.com/thesaderror/vector) - Open source osint project.
@@ -2663,6 +2664,7 @@
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [HelloOraculi/komiser](https://github.com/HelloOraculi/komiser) - The open-source cloud environment inspector 👮
 - [Godefroy/carte-dvf](https://github.com/Godefroy/carte-dvf) - Carte de valeurs foncières
+- [react95-io/React95](https://github.com/react95-io/React95) - 🌈🕹  Windows 95 style UI component library for React
 - [sharenowTech/birdperson](https://github.com/sharenowTech/birdperson) - GitLab monitor for open merge requests and pipeline status. Originally intended to be used as a dashboard in a big screen TV.
 - [rpgeeganage/ifto](https://github.com/rpgeeganage/ifto) - A simple debugging module for AWS Lambda (λ) timeout
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
