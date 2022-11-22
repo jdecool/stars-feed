@@ -19,6 +19,7 @@
 - [Common Lisp](#common-lisp)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [EJS](#ejs)
 - [Elixir](#elixir)
 - [Elm](#elm)
 - [F#](#f#)
@@ -370,6 +371,10 @@
 - [zoobab/vagrant-inside-docker](https://github.com/zoobab/vagrant-inside-docker) - vagrant-inside-docker
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [eko/docker-symfony](https://github.com/eko/docker-symfony) - Run a Symfony application using Docker & docker-compose
+
+## EJS 
+
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
 ## Elixir 
 
@@ -840,7 +845,6 @@
 
 ## JavaScript 
 
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [pulse-browser/browser](https://github.com/pulse-browser/browser) - Pulse Browser: An experimental firefox fork
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp client(linux, mac, win)
 - [Halleck45/captain-dys](https://github.com/Halleck45/captain-dys) - A text editor for dyslexic child
@@ -2367,6 +2371,7 @@
 
 ## Rust 
 
+- [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems
 - [hakoerber/git-repo-manager](https://github.com/hakoerber/git-repo-manager) - A git tool to manage worktrees and integrate with GitHub and GitLab
 - [simeg/eureka](https://github.com/simeg/eureka) - 💡 CLI tool to input and store your ideas without leaving the terminal
@@ -2565,6 +2570,7 @@
 
 ## Swift 
 
+- [Bogdanp/neko](https://github.com/Bogdanp/neko) - A tiny kitten follows your mouse on macOS.
 - [tjpetz/macBLEScanner](https://github.com/tjpetz/macBLEScanner) - Simple BLE scanner for macOS build with Swift and SwiftUI
 - [menubar-apps/PullBar](https://github.com/menubar-apps/PullBar) - GitHub pull requests in your menubar!
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
@@ -2612,6 +2618,7 @@
 
 ## TypeScript 
 
+- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2)
 - [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Monitoring
 - [anymaniax/orval](https://github.com/anymaniax/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
