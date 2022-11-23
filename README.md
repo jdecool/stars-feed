@@ -19,7 +19,6 @@
 - [Common Lisp](#common-lisp)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
-- [EJS](#ejs)
 - [Elixir](#elixir)
 - [Elm](#elm)
 - [F#](#f#)
@@ -371,10 +370,6 @@
 - [zoobab/vagrant-inside-docker](https://github.com/zoobab/vagrant-inside-docker) - vagrant-inside-docker
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [eko/docker-symfony](https://github.com/eko/docker-symfony) - Run a Symfony application using Docker & docker-compose
-
-## EJS 
-
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
 ## Elixir 
 
@@ -845,6 +840,7 @@
 
 ## JavaScript 
 
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [pulse-browser/browser](https://github.com/pulse-browser/browser) - Pulse Browser: An experimental firefox fork
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp client(linux, mac, win)
 - [Halleck45/captain-dys](https://github.com/Halleck45/captain-dys) - A text editor for dyslexic child
@@ -2527,7 +2523,7 @@
 - [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
 - [TheNewNormal/kube-solo-osx](https://github.com/TheNewNormal/kube-solo-osx) - Local development Kubernetes Solo Cluster for macOS made very simple
-- [Coding/WebIDE](https://github.com/Coding/WebIDE) - Coding WebIDE Community Edition
+- [coding/WebIDE](https://github.com/coding/WebIDE) - Coding WebIDE Community Edition
 - [BedrockStreaming/Coke](https://github.com/BedrockStreaming/Coke) - :no_entry: DEPRECATED - PHP Code Sniffer configurator
 - [rauchg/wifi-password](https://github.com/rauchg/wifi-password) - Get the password of the wifi you're on (bash)
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
@@ -2645,7 +2641,7 @@
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [SamKirkland/FTP-Deploy-Action](https://github.com/SamKirkland/FTP-Deploy-Action) - Deploys a GitHub project to a FTP server using GitHub actions
-- [m3o/m3o](https://github.com/m3o/m3o) - Universal Micro Services
+- [m3o/m3o](https://github.com/m3o/m3o) - Universal micro services gateway
 - [jopemachine-arvis/arvis](https://github.com/jopemachine-arvis/arvis) - Extendable cross-platform launcher that aims to help you run, edit, create any workflow simply
 - [covidpass-org/covidpass](https://github.com/covidpass-org/covidpass) - Web app for adding EU Digital COVID Certificates to your wallet apps
 - [hieunc229/copilot-clone](https://github.com/hieunc229/copilot-clone) - VSCode extension for code suggestion
