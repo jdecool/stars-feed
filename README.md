@@ -2270,7 +2270,7 @@
 - [buckket/twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
 - [eatonphil/vhostm](https://github.com/eatonphil/vhostm) - Manage nginx virtual servers and hosts file entries
 - [fansible/ansible-provisioning-tywin](https://github.com/fansible/ansible-provisioning-tywin) - Generate your Ansible provisioning for Symfony2, Laravel and Node.js projects
-- [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs wit
+- [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i
 - [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
 - [beeware/voc](https://github.com/beeware/voc) - A transpiler that converts Python code into Java bytecode
 - [TailorDev/Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time!
