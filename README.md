@@ -2375,7 +2375,7 @@
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.
-- [ryangjchandler/trunk](https://github.com/ryangjchandler/trunk) - A collection of modern libraries and tools for working with PHP.
+- [ryangjchandler/php-parser-rs](https://github.com/ryangjchandler/php-parser-rs) - A handwritten recursive-descent parser for PHP written in Rust, for fun.
 - [phiresky/sqlite-zstd](https://github.com/phiresky/sqlite-zstd) - Transparent dictionary-based row-level compression for SQLite
 - [nunomaduro/nunomaduro.com](https://github.com/nunomaduro/nunomaduro.com) - 
 - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
@@ -2616,7 +2616,7 @@
 ## TypeScript 
 
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2)
-- [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Monitoring
+- [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance
 - [anymaniax/orval](https://github.com/anymaniax/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [mb21/panwriter](https://github.com/mb21/panwriter) - Markdown editor with pandoc integration and paginated preview.
