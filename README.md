@@ -178,6 +178,7 @@
 - [krakjoe/pthreads](https://github.com/krakjoe/pthreads) - Threading for PHP - Share Nothing, Do Everything :)
 - [CTurt/PS4-SDK](https://github.com/CTurt/PS4-SDK) - Open source PS4 SDK
 - [rieck/malheur](https://github.com/rieck/malheur) - A Tool for Automatic Analysis of Malware Behavior
+- [microsoft/WinObjC](https://github.com/microsoft/WinObjC) - Objective-C for Windows
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [wolfcw/libfaketime](https://github.com/wolfcw/libfaketime) - libfaketime modifies the system time for a single application
 - [Olde-Skuul/doom3do](https://github.com/Olde-Skuul/doom3do) - The complete archive for DOOM for the 3DO
@@ -235,7 +236,7 @@
 - [priyankchheda/algorithms](https://github.com/priyankchheda/algorithms) - Data Structure Libraries and Algorithms implementation
 - [unetbootin/unetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive
 - [diasurgical/devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
-- [hazelcode/SBSPSS](https://github.com/hazelcode/SBSPSS) - The source code repository for the PlayStation 1 game, SpongeBob SquarePants: SuperSponge
+- [hellfire3d/SBSPSS](https://github.com/hellfire3d/SBSPSS) - The source code repository for the PlayStation 1 game, SpongeBob SquarePants: SuperSponge
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
@@ -1308,7 +1309,6 @@
 
 - [textmate/textmate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS 10.12 or later
 - [shaqian/Not-Hotdog](https://github.com/shaqian/Not-Hotdog) - Built with TensorFlow, Yolov2 Tiny and React Native | Flutter | Javascript
-- [microsoft/WinObjC](https://github.com/microsoft/WinObjC) - Objective-C for Windows
 
 ## OpenSCAD 
 
@@ -2127,7 +2127,7 @@
 - [florianbeer/grafana-netatmo](https://github.com/florianbeer/grafana-netatmo) - Netatmo Weather Station dashboard for Grafana
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [etalab/prix-carburants-data](https://github.com/etalab/prix-carburants-data) - 
-- [thesaderror/vector](https://github.com/thesaderror/vector) - Open source osint project.
+- [redc86/vector](https://github.com/redc86/vector) - Open source osint project.
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [elesiuta/picosnitch](https://github.com/elesiuta/picosnitch) - Monitor network traffic per executable using BPF
 - [public-apis-dev/public-apis](https://github.com/public-apis-dev/public-apis) - A collaborative list of public APIs for developers
