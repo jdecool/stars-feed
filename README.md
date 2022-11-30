@@ -101,6 +101,7 @@
 
 ## C 
 
+- [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
 - [ByteOverlord/Watch_Quake](https://github.com/ByteOverlord/Watch_Quake) - Quake 1 port for Apple Watch
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform
 - [armink/FlashDB](https://github.com/armink/FlashDB) - An ultra-lightweight database that supports key-value and time series data |  一款支持 KV 数据和时序数据的超轻量级数据库
@@ -1498,6 +1499,7 @@
 
 ## PHP 
 
+- [laravel-workflow/laravel-workflow](https://github.com/laravel-workflow/laravel-workflow) - Durable workflow engine that allows users to write long running persistent distributed workflows (orchestrations) in PHP powered by Laravel Queues. Inspired by Temporal and Azure Durable Functions.
 - [heiglandreas/holidayChecker](https://github.com/heiglandreas/holidayChecker) - Check for holidays - locale-aware
 - [crew-cr/Crew](https://github.com/crew-cr/Crew) - Code review tool for git projects
 - [flow-php/etl](https://github.com/flow-php/etl) - [READ-ONLY] PHP - ETL (Extract Transform Load) data processing library
@@ -2740,6 +2742,7 @@
 
 ## Vue 
 
+- [laravel-workflow/waterline](https://github.com/laravel-workflow/waterline) - An elegant UI for monitoring Laravel Workflows.
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-first web HTTP client
 - [ZestfulNation/vue-hotel-datepicker](https://github.com/ZestfulNation/vue-hotel-datepicker) - Vue date range picker component
