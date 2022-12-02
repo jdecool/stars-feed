@@ -688,6 +688,7 @@
 
 ## HTML 
 
+- [SelrahcD/burritalks](https://github.com/SelrahcD/burritalks) - 
 - [F0cuser/focuser](https://github.com/F0cuser/focuser) - A free & opensource distraction-reducing app for maximizing your productivity - built in electronJS!
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
 - [jobbsy-dev/jobbsy](https://github.com/jobbsy-dev/jobbsy) - Jobbsy - Job Board for Symfony
@@ -842,6 +843,7 @@
 
 ## JavaScript 
 
+- [alkemist/cloud](https://github.com/alkemist/cloud) - Administration de mon CV ainsi que de mon activité de freelance
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [pulse-browser/browser](https://github.com/pulse-browser/browser) - Pulse Browser: An experimental firefox fork
@@ -1499,6 +1501,7 @@
 
 ## PHP 
 
+- [claudiodekker/laravel-auth](https://github.com/claudiodekker/laravel-auth) - Rich authentication logic for your Laravel applications; not intended for direct use.
 - [friendsoftwig/twigcs](https://github.com/friendsoftwig/twigcs) - The missing checkstyle for twig!
 - [php-fig/clock](https://github.com/php-fig/clock) - PSR-20 repository
 - [laravel-workflow/laravel-workflow](https://github.com/laravel-workflow/laravel-workflow) - Durable workflow engine that allows users to write long running persistent distributed workflows (orchestrations) in PHP powered by Laravel Queues. Inspired by Temporal and Azure Durable Functions.
@@ -2126,6 +2129,7 @@
 
 ## Python 
 
+- [timhutton/twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) - Python code to parse a Twitter archive and output in various ways
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, offline capable and easy to setup.
 - [pruvisto/debirdify](https://github.com/pruvisto/debirdify) - 
 - [florianbeer/grafana-netatmo](https://github.com/florianbeer/grafana-netatmo) - Netatmo Weather Station dashboard for Grafana
