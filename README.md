@@ -202,7 +202,7 @@
 - [unoplatform/calculator](https://github.com/unoplatform/calculator) - Uno Calculator: A simple yet powerful iOS/Android/WebAssembly/Linux C# port of the calculator that ships with Windows
 - [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
-- [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app) - Example Docker Compose app
+- [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app) - Example distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes
 - [cliftonm/FlowSharp](https://github.com/cliftonm/FlowSharp) - A WinForm Diagramming Tool
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [LordYui/OpenTorrent](https://github.com/LordYui/OpenTorrent) - A C#, Lidgren-based, P2P-fueled torrent sharing software. Actually just something I made for fun when KAT got shot down.
