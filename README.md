@@ -8,7 +8,6 @@
 - [ActionScript](#actionscript)
 - [Adblock Filter List](#adblock-filter-list)
 - [Assembly](#assembly)
-- [Astro](#astro)
 - [Batchfile](#batchfile)
 - [Blade](#blade)
 - [C](#c)
@@ -91,10 +90,6 @@
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 - [nanochess/bootOS](https://github.com/nanochess/bootOS) - bootOS is a monolithic operating system in 512 bytes of x86 machine code.
-
-## Astro 
-
-- [okikio/inthistweet](https://github.com/okikio/inthistweet) - Quick and easy twitter image/video downloader.  Enter a Tweet URL, click search, and download the image/videos in it.
 
 ## Batchfile 
 
@@ -410,6 +405,7 @@
 
 ## Go 
 
+- [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [adhocore/chin](https://github.com/adhocore/chin) - A Go lang library to show a spinner as user waits for any long running jobs to finish.
 - [cshum/imagorvideo](https://github.com/cshum/imagorvideo) - imagor video thumbnail server in Go and ffmpeg C bindings
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
@@ -851,6 +847,7 @@
 
 ## JavaScript 
 
+- [okikio/inthistweet](https://github.com/okikio/inthistweet) - Quick and easy twitter image/video downloader.  Enter a Tweet URL, click search, and download the image/videos in it.
 - [tinkerun/tinkerun](https://github.com/tinkerun/tinkerun) - A new way of Running Tinker. Simplify the Web Artisan's workflow.
 - [alkemist/cloud](https://github.com/alkemist/cloud) - Administration de mon CV ainsi que de mon activité de freelance
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
@@ -1327,6 +1324,7 @@
 
 ## Others 
 
+- [sarven/unit-testing-tips](https://github.com/sarven/unit-testing-tips) - Unit testing tips by examples in PHP
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [jotak/full-stack-pastry](https://github.com/jotak/full-stack-pastry) - Quelques recettes open-source (MIT), pull-requests bienvenues!
 - [YuzukiHD/YuzukiLOHCC-PRO](https://github.com/YuzukiHD/YuzukiLOHCC-PRO) - Low cost USB3.2Gen1 HDMI-USB Video Acquisition With Loop Out (Loop Out HDMI Capture Card) base on MS2130 & MS9332
@@ -1509,6 +1507,7 @@
 
 ## PHP 
 
+- [lightswitch05/php-version-audit](https://github.com/lightswitch05/php-version-audit) - Audit your PHP version for known CVEs and patches
 - [maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to check whether a specific composer package uses imported symbols that aren't part of its direct composer dependencies
 - [brendt/php-sparkline](https://github.com/brendt/php-sparkline) - Generate GitHub style sparkline graphs with PHP
 - [vimeo/php-mysql-engine](https://github.com/vimeo/php-mysql-engine) - A MySQL engine written in pure PHP
@@ -1871,7 +1870,7 @@
 - [phpactor/code-builder](https://github.com/phpactor/code-builder) - Build or modify source code
 - [aurimasniekis/flex-server](https://github.com/aurimasniekis/flex-server) - The Symfony.sh proxy with custom recipes for use instead of original endpoint
 - [kreta/Kreta](https://github.com/kreta/Kreta) - Modern project management solution
-- [flyimg/flyimg](https://github.com/flyimg/flyimg) - Dockerized PHP application runs as a Microservice to resize and crop images on the fly. Get optimised images with MozJPEG, WebP or PNG using ImageMagick, with an efficient caching system.
+- [flyimg/flyimg](https://github.com/flyimg/flyimg) - Dockerized PHP application to resize and crop images on the fly. Get optimised images with MozJPEG, WebP or PNG using ImageMagick, with an efficient caching system.
 - [Stampie/Stampie](https://github.com/Stampie/Stampie) - Library for using online Email providers
 - [the-badger/badger](https://github.com/the-badger/badger) - Gamification platform to motivate your team with badges, adventures & other cool stuff!
 - [slince/spike](https://github.com/slince/spike) - :mega: A fast reverse proxy written in PHP that helps to expose local services to the internet
