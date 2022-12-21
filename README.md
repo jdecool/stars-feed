@@ -777,6 +777,7 @@
 
 ## Java 
 
+- [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) - Digitally sign PDF files from your commandline
 - [hvdwolf/jExifToolGUI](https://github.com/hvdwolf/jExifToolGUI) - jExifToolGUI is a multi-platform java/Swing graphical frontend for the excellent command-line ExifTool application by Phil Harvey
 - [structurizr/dsl](https://github.com/structurizr/dsl) - Structurizr DSL
 - [ff4j/ff4j](https://github.com/ff4j/ff4j) - Feature Flags for Java made easy
@@ -1324,6 +1325,8 @@
 
 ## Others 
 
+- [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) - I am trying to describe complex matters in simple doodles!
+- [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments
 - [sarven/unit-testing-tips](https://github.com/sarven/unit-testing-tips) - Unit testing tips by examples in PHP
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [jotak/full-stack-pastry](https://github.com/jotak/full-stack-pastry) - Quelques recettes open-source (MIT), pull-requests bienvenues!
@@ -1507,6 +1510,7 @@
 
 ## PHP 
 
+- [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [lightswitch05/php-version-audit](https://github.com/lightswitch05/php-version-audit) - Audit your PHP version for known CVEs and patches
 - [maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to check whether a specific composer package uses imported symbols that aren't part of its direct composer dependencies
 - [brendt/php-sparkline](https://github.com/brendt/php-sparkline) - Generate GitHub style sparkline graphs with PHP
@@ -2595,6 +2599,7 @@
 
 ## Swift 
 
+- [rileytestut/AltStore](https://github.com/rileytestut/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [Bogdanp/neko](https://github.com/Bogdanp/neko) - A tiny kitten follows your mouse on macOS.
 - [tjpetz/macBLEScanner](https://github.com/tjpetz/macBLEScanner) - Simple BLE scanner for macOS build with Swift and SwiftUI
 - [menubar-apps/PullBar](https://github.com/menubar-apps/PullBar) - GitHub pull requests in your menubar!
