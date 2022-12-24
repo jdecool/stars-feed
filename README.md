@@ -405,6 +405,7 @@
 
 ## Go 
 
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [adhocore/chin](https://github.com/adhocore/chin) - A Go lang library to show a spinner as user waits for any long running jobs to finish.
 - [cshum/imagorvideo](https://github.com/cshum/imagorvideo) - imagor video thumbnail server in Go and ffmpeg C bindings
@@ -1325,6 +1326,7 @@
 
 ## Others 
 
+- [michael-rubel/livewire-best-practices](https://github.com/michael-rubel/livewire-best-practices) - Laravel Livewire Best Practices
 - [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) - I am trying to describe complex matters in simple doodles!
 - [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments
 - [sarven/unit-testing-tips](https://github.com/sarven/unit-testing-tips) - Unit testing tips by examples in PHP
@@ -1510,6 +1512,7 @@
 
 ## PHP 
 
+- [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - Phel is a functional programming language that compiles to PHP. It is a dialect of Lisp inspired by Clojure and Janet.
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [lightswitch05/php-version-audit](https://github.com/lightswitch05/php-version-audit) - Audit your PHP version for known CVEs and patches
 - [maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to check whether a specific composer package uses imported symbols that aren't part of its direct composer dependencies
@@ -2599,6 +2602,7 @@
 
 ## Swift 
 
+- [iglance/iGlance](https://github.com/iglance/iGlance) - Free system monitor for OSX and macOS. See all system information at a glance in the menu bar.
 - [rileytestut/AltStore](https://github.com/rileytestut/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [Bogdanp/neko](https://github.com/Bogdanp/neko) - A tiny kitten follows your mouse on macOS.
 - [tjpetz/macBLEScanner](https://github.com/tjpetz/macBLEScanner) - Simple BLE scanner for macOS build with Swift and SwiftUI
@@ -2773,6 +2777,7 @@
 
 ## Vue 
 
+- [JhumanJ/OpnForm](https://github.com/JhumanJ/OpnForm) - Simple and open-source form builder
 - [laravel-workflow/waterline](https://github.com/laravel-workflow/waterline) - An elegant UI for monitoring Laravel Workflows.
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-first web HTTP client
