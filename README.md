@@ -405,6 +405,8 @@
 
 ## Go 
 
+- [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development
+- [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [adhocore/chin](https://github.com/adhocore/chin) - A Go lang library to show a spinner as user waits for any long running jobs to finish.
@@ -2408,7 +2410,7 @@
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.
-- [php-rust-tools/parser](https://github.com/php-rust-tools/parser) - A PHP parser for Rust.
+- [php-rust-tools/parser](https://github.com/php-rust-tools/parser) - A handwritten fault-tolerant, recursive-descent parser for PHP written in Rust.
 - [phiresky/sqlite-zstd](https://github.com/phiresky/sqlite-zstd) - Transparent dictionary-based row-level compression for SQLite
 - [nunomaduro/nunomaduro.com](https://github.com/nunomaduro/nunomaduro.com) - 
 - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
