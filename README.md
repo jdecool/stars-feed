@@ -231,7 +231,7 @@
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [FD-/RPiPlay](https://github.com/FD-/RPiPlay) - An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-- [Ethereal-Developers-Inc/OpenScan](https://github.com/Ethereal-Developers-Inc/OpenScan) - A privacy-friendly Document Scanner app
+- [ethereal-developers/OpenScan](https://github.com/ethereal-developers/OpenScan) - A privacy-friendly Document Scanner app
 - [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) - :wrench: Cross-platform Developer GUI for Redis
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [francescmm/GitQlient](https://github.com/francescmm/GitQlient) - GitQlient: Multi-platform Git client written with Qt.
@@ -851,6 +851,7 @@
 
 ## JavaScript 
 
+- [sturdy-dev/codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) - Reviews your Pull Requests using ChatGPT so that you can pretend to work.
 - [okikio/inthistweet](https://github.com/okikio/inthistweet) - Quick and easy twitter image/video downloader.  Enter a Tweet URL, click search, and download the image/videos in it.
 - [tinkerun/tinkerun](https://github.com/tinkerun/tinkerun) - A new way of Running Tinker. Simplify the Web Artisan's workflow.
 - [alkemist/cloud](https://github.com/alkemist/cloud) - Administration de mon CV ainsi que de mon activité de freelance
@@ -1515,6 +1516,7 @@
 
 ## PHP 
 
+- [anystack-sh/porter](https://github.com/anystack-sh/porter) - Spin up your development background processes with ease 🪄
 - [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - Phel is a functional programming language that compiles to PHP. It is a dialect of Lisp inspired by Clojure and Janet.
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [lightswitch05/php-version-audit](https://github.com/lightswitch05/php-version-audit) - Audit your PHP version for known CVEs and patches
@@ -2471,7 +2473,7 @@
 - [martinhath/jpeg-rust](https://github.com/martinhath/jpeg-rust) - JPEG decoder/encoder written in Rust
 - [tagua-vm/parser](https://github.com/tagua-vm/parser) - Safe, fast and memory efficient PHP parser (lexical and syntactic analysers, and the Abstract Syntax Tree)
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
-- [Geal/nom](https://github.com/Geal/nom) - Rust parser combinator framework
+- [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
 - [tailhook/vagga](https://github.com/tailhook/vagga) - Vagga is a containerization tool without daemons
 - [tagua-vm/tagua-vm](https://github.com/tagua-vm/tagua-vm) - Tagua VM is an experimental PHP Virtual Machine that guarantees safety and quality by removing large classes of vulnerabilities thanks to the Rust language and the LLVM Compiler Infrastructure.
 - [autumnai/leaf](https://github.com/autumnai/leaf) - Open Machine Intelligence Framework for Hackers. (GPU/CPU)
@@ -2655,6 +2657,7 @@
 
 ## TypeScript 
 
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Pro has limited accuracy (40 - 60%), but is fully open source.
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2)
 - [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance
 - [anymaniax/orval](https://github.com/anymaniax/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
