@@ -194,6 +194,7 @@
 
 ## C# # 
 
+- [ardalis/kata-catalog](https://github.com/ardalis/kata-catalog) - My list of code katas
 - [unfrl/dug](https://github.com/unfrl/dug) - A global DNS propagation checker that gives pretty output. Written in dotnet core
 - [Rebalanser/rebalanser-net](https://github.com/Rebalanser/rebalanser-net) - Rebalanser for .NET
 - [devcrafting/architecture-styles](https://github.com/devcrafting/architecture-styles) - Different architecture / domain modelling styles
@@ -1516,6 +1517,7 @@
 
 ## PHP 
 
+- [SymfonyTest/symfony-bundle-test](https://github.com/SymfonyTest/symfony-bundle-test) - Smoke test your Symfony bundle
 - [hammerstonedev/sidecar](https://github.com/hammerstonedev/sidecar) - Deploy and execute AWS Lambda functions from your Laravel application.
 - [vinkla/hashids](https://github.com/vinkla/hashids) - A small PHP library to generate YouTube-like ids from numbers. Use it when you don't want to expose your database ids to the user.
 - [anystack-sh/porter](https://github.com/anystack-sh/porter) - Spin up your development background processes with ease 🪄
@@ -1766,7 +1768,7 @@
 - [akondas/php-grandmaster](https://github.com/akondas/php-grandmaster) - Chess engine written in PHP
 - [leomarquine/php-etl](https://github.com/leomarquine/php-etl) - Extract, Transform and Load data using PHP.
 - [influxdata/influxdb-php](https://github.com/influxdata/influxdb-php) - influxdb-php: A PHP Client for InfluxDB, a time series database
-- [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - [READ-ONLY] Not only Composer tools to build a Monorepo - Init, Split and Release Monorepo
+- [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo
 - [mathiasverraes/kildoc](https://github.com/mathiasverraes/kildoc) - Declarative interfaces &gt; documentation
 - [dantleech/fink](https://github.com/dantleech/fink) - PHP Link Checker
 - [php-deal/framework](https://github.com/php-deal/framework) - Design by Contract framework for PHP
