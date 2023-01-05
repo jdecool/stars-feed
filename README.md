@@ -1300,6 +1300,7 @@
 
 ## Objective-C 
 
+- [tidev/titanium_mobile](https://github.com/tidev/titanium_mobile) - 🚀 Native iOS and Android Apps with JavaScript
 - [sfsam/Itsycal](https://github.com/sfsam/Itsycal) - Itsycal is a tiny calendar for your Mac's menu bar. http://www.mowglii.com/itsycal
 - [newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep.
 - [google/santa](https://github.com/google/santa) - A binary authorization system for macOS
@@ -2165,7 +2166,7 @@
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [mxrch/GitFive](https://github.com/mxrch/GitFive) - 🐙 Track down GitHub users.
 - [timhutton/twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) - Python code to parse a Twitter archive and output in various ways
-- [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, offline capable and easy to setup.
+- [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [pruvisto/debirdify](https://github.com/pruvisto/debirdify) - 
 - [florianbeer/grafana-netatmo](https://github.com/florianbeer/grafana-netatmo) - Netatmo Weather Station dashboard for Grafana
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
@@ -2728,7 +2729,7 @@
 - [rpgeeganage/ifto](https://github.com/rpgeeganage/ifto) - A simple debugging module for AWS Lambda (λ) timeout
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
-- [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - GUI Client for GRPC Services
+- [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - Former GUI client for gRPC services. No longer maintained.
 - [Azure/oav](https://github.com/Azure/oav) - Tools for validating OpenAPI (Swagger) files.
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [rikukissa/stacker](https://github.com/rikukissa/stacker) - 🥞 Chrome extension for managing stacked pull requests
