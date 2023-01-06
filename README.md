@@ -8,6 +8,7 @@
 - [ActionScript](#actionscript)
 - [Adblock Filter List](#adblock-filter-list)
 - [Assembly](#assembly)
+- [Astro](#astro)
 - [Batchfile](#batchfile)
 - [Blade](#blade)
 - [C](#c)
@@ -90,6 +91,10 @@
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 - [nanochess/bootOS](https://github.com/nanochess/bootOS) - bootOS is a monolithic operating system in 512 bytes of x86 machine code.
+
+## Astro 
+
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## Batchfile 
 
@@ -1519,6 +1524,7 @@
 
 ## PHP 
 
+- [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) - :musical_note: Provides a composer plugin for normalizing composer.json.
 - [SymfonyTest/symfony-bundle-test](https://github.com/SymfonyTest/symfony-bundle-test) - Smoke test your Symfony bundle
 - [hammerstonedev/sidecar](https://github.com/hammerstonedev/sidecar) - Deploy and execute AWS Lambda functions from your Laravel application.
 - [vinkla/hashids](https://github.com/vinkla/hashids) - A small PHP library to generate YouTube-like ids from numbers. Use it when you don't want to expose your database ids to the user.
@@ -2753,7 +2759,6 @@
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [microsoft/TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) - A starter template for TypeScript and React with a detailed README describing how to use the two together.
 - [cupslab/password_meter](https://github.com/cupslab/password_meter) - This project implements a data-driven password meter. Its effects on password security and usability were evaluated in the following publication: http://www.blaseur.com/papers/CHI17meter.pdf and a dem
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 - [paulirish/pwmetrics](https://github.com/paulirish/pwmetrics) - Progressive web metrics at your fingertipz
 - [eclipse/che](https://github.com/eclipse/che) - The Kubernetes-Native IDE for Developer Teams
