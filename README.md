@@ -225,6 +225,7 @@
 
 ## C++ 
 
+- [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [VKCOM/kphp](https://github.com/VKCOM/kphp) - KPHP — a PHP compiler
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Note-taking application, write down your thoughts.
@@ -859,7 +860,6 @@
 ## JavaScript 
 
 - [sturdy-dev/codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) - Reviews your Pull Requests using ChatGPT so that you can pretend to work.
-- [okikio/inthistweet](https://github.com/okikio/inthistweet) - Quick and easy twitter image/video downloader.  Enter a Tweet URL, click search, and download the image/videos in it.
 - [tinkerun/tinkerun](https://github.com/tinkerun/tinkerun) - A new way of Running Tinker. Simplify the Web Artisan's workflow.
 - [alkemist/cloud](https://github.com/alkemist/cloud) - Administration de mon CV ainsi que de mon activité de freelance
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
@@ -2613,6 +2613,7 @@
 
 ## Svelte 
 
+- [okikio/inthistweet](https://github.com/okikio/inthistweet) - ✨ Futuristic ✨ twitter image, gif and video downloader.  Enter a Tweet URL, click search, and download the image/videos in it.
 - [richshaw2015/dino-rss-electron](https://github.com/richshaw2015/dino-rss-electron) - A simple, efficient, open source RSS reader service
 - [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio unlike any other.
 - [Orbitale/Compotes](https://github.com/Orbitale/Compotes) - A small app to manage bank account operations and display rich analytics. Demo app credentials are admin/admin. [In development]
