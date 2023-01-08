@@ -72,6 +72,7 @@
 - [TypeScript](#typescript)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
+- [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 - [YAML](#yaml)
 - [YARA](#yara)
@@ -228,7 +229,7 @@
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [VKCOM/kphp](https://github.com/VKCOM/kphp) - KPHP — a PHP compiler
-- [nuttyartist/notes](https://github.com/nuttyartist/notes) - Note-taking application, write down your thoughts.
+- [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [Dion-Systems/4coder](https://github.com/Dion-Systems/4coder) - The final version of the official 4coder codebase. (See Also: https://github.com/Dion-Systems/4coder-non-source)
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
@@ -711,7 +712,7 @@
 - [technext/darkpan](https://github.com/technext/darkpan) - 
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [othyn/php-enum-enhancements](https://github.com/othyn/php-enum-enhancements) - Adds some helpful enum traits to the glorious new PHP Enum type, like value lists and value arrays.
-- [roberto-butti/50-drops-of-php](https://github.com/roberto-butti/50-drops-of-php) - Open source and free e-book, that collects some useful, unknown, underrated PHP functions or stuff discovered, used, learned during the PHP daily use.
+- [roberto-butti/50-drops-of-php](https://github.com/roberto-butti/50-drops-of-php) - Open source and free e-book, that collects collects more than 50 useful, unknown, underrated PHP functions or stuff discovered, used, and learned during PHP's daily use.
 - [jbrains/trivia](https://github.com/jbrains/trivia) - Legacy Code Retreat - Trivia Game codebase
 - [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing for Rust
 - [learning-rust/learning-rust.github.io](https://github.com/learning-rust/learning-rust.github.io) - Original repo: https://github.com/learning-rust/site
@@ -911,7 +912,7 @@
 - [kee-org/keevault](https://github.com/kee-org/keevault) - Kee Vault is a password manager for your web browser. Password databases (Vaults) are encrypted using the KeePass storage format before being sent to a remote server for synchronisation across any mod
 - [incarnate/curl-to-php](https://github.com/incarnate/curl-to-php) - Convert curl commands to PHP code in your browser
 - [sindresorhus/pid-port](https://github.com/sindresorhus/pid-port) - Get the ID of the process that uses a certain port
-- [axioms-io/axioms-jwt-debugger](https://github.com/axioms-io/axioms-jwt-debugger) - Axioms JWT Debugger
+- [abhishektiwari/axioms-jwt-debugger](https://github.com/abhishektiwari/axioms-jwt-debugger) - Axioms JWT Debugger
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app
 - [fregante/github-issue-link-status](https://github.com/fregante/github-issue-link-status) - Colorize issue and PR links to see their status (open, closed, merged)
 - [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys.
@@ -2418,6 +2419,7 @@
 
 ## Rust 
 
+- [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems
 - [hakoerber/git-repo-manager](https://github.com/hakoerber/git-repo-manager) - A git tool to manage worktrees and integrate with GitHub and GitLab
@@ -2793,6 +2795,10 @@
 ## Vim Script 
 
 - [rhysd/vim.wasm](https://github.com/rhysd/vim.wasm) - Vim editor ported to WebAssembly
+
+## Visual Basic .NET 
+
+- [VBAndCs/sVB-Small-Visual-Basic](https://github.com/VBAndCs/sVB-Small-Visual-Basic) - An enhanced compiler (yet easier for children and beginners) based on Small Basic, with a form designer and a mini Winforms lib. In short, I made small basic visual , so it became Visual small Basic, 
 
 ## Vue 
 
