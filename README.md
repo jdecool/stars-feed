@@ -111,7 +111,7 @@
 - [dekuNukem/daytripper](https://github.com/dekuNukem/daytripper) - Hide-My-Windows Laser Tripwire
 - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
 - [ByteOverlord/Watch_Quake](https://github.com/ByteOverlord/Watch_Quake) - Quake 1 port for Apple Watch
-- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform
+- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [armink/FlashDB](https://github.com/armink/FlashDB) - An ultra-lightweight database that supports key-value and time series data |  一款支持 KV 数据和时序数据的超轻量级数据库
 - [open-telemetry/opentelemetry-php-instrumentation](https://github.com/open-telemetry/opentelemetry-php-instrumentation) - OpenTelemetry PHP auto-instrumentation extension
 - [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
@@ -539,7 +539,7 @@
 - [CovenantSQL/CookieScanner](https://github.com/CovenantSQL/CookieScanner) - Cookie Scanner for GDPR compliance
 - [jolicode/pomdok](https://github.com/jolicode/pomdok) - 🍏 Simple wrapper to Symfony Go Binary for multi-app
 - [vishnudxb/docker-mkcert](https://github.com/vishnudxb/docker-mkcert) - Docker container for creating valid local ssl certificates
-- [rtr7/router7](https://github.com/rtr7/router7) - a small home internet router completely written in Go
+- [rtr7/router7](https://github.com/rtr7/router7) - router7 is a small home internet router completely written in Go. It is implemented as a gokrazy appliance.
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [mkrou/geonames](https://github.com/mkrou/geonames) - Golang parsing library for the geonames.org database dump
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
@@ -738,6 +738,7 @@
 - [froala/design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
 - [yegor256/elegantobjects.github.io](https://github.com/yegor256/elegantobjects.github.io) - Fan club for Elegant Objects programmers
 - [solid/solid](https://github.com/solid/solid) - Solid - Re-decentralizing the web (project directory)
+- [jlondiche/job-board-php](https://github.com/jlondiche/job-board-php) - 
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [stefanbauer/pingping](https://github.com/stefanbauer/pingping) - Building a real world SaaS with Laravel, TailwindCSS and VueJS
@@ -1410,7 +1411,6 @@
 - [Porges/programming-history](https://github.com/Porges/programming-history) - Inspired by Cajori’s A History of Mathematical Notations, and/or TV Tropes.
 - [InterviewMap/CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
 - [awesome-inc/hello.gitlab.monorepo](https://github.com/awesome-inc/hello.gitlab.monorepo) - A simple script helping towards using GitLab CI with Monorepos
-- [jlondiche/job-board-php](https://github.com/jlondiche/job-board-php) - 
 - [mdiplo/Medias_francais](https://github.com/mdiplo/Medias_francais) - Qui possède quoi ?
 - [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
@@ -1916,7 +1916,7 @@
 - [mindplay-dk/composer-locator](https://github.com/mindplay-dk/composer-locator) - Locate the installation path for any installed Composer package
 - [opensourcepos/opensourcepos](https://github.com/opensourcepos/opensourcepos) - Open Source Point of Sale is a web based point of sale application written in PHP using CodeIgniter framework. It uses MySQL as the data back end and has a Bootstrap 3 based user interface.
 - [ReactiveX/RxPHP](https://github.com/ReactiveX/RxPHP) - Reactive extensions for PHP
-- [webonyx/graphql-php](https://github.com/webonyx/graphql-php) - PHP implementation of the GraphQL specification based on the reference implementation graphql-js
+- [webonyx/graphql-php](https://github.com/webonyx/graphql-php) - PHP implementation of the GraphQL specification based on the reference implementation in JavaScript
 - [divarvel/PHPZ](https://github.com/divarvel/PHPZ) - Functional programming in PHP
 - [phpflo/phpflo](https://github.com/phpflo/phpflo) - Flow-based programming for PHP
 - [violet-php/streaming-json-encoder](https://github.com/violet-php/streaming-json-encoder) - PHP library for iteratively encoding large JSON documents piece by piece
