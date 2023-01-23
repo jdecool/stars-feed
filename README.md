@@ -234,7 +234,7 @@
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [Dion-Systems/4coder](https://github.com/Dion-Systems/4coder) - The final version of the official 4coder codebase. (See Also: https://github.com/Dion-Systems/4coder-non-source)
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
-- [ensisoft/gamestudio](https://github.com/ensisoft/gamestudio) - 2D game engine and editor
+- [ensisoft/detonator](https://github.com/ensisoft/detonator) - 2D game engine and editor
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [k4zmu2a/SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Decompilation of 3D Pinball for Windows – Space Cadet
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
@@ -863,6 +863,7 @@
 
 ## JavaScript 
 
+- [tech-conferences/conference-data](https://github.com/tech-conferences/conference-data) - Conference data for www.confs.tech
 - [zehfernandes/pliim](https://github.com/zehfernandes/pliim) - One click and be ready to go up on stage and shine!
 - [sturdy-dev/codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) - Reviews your Pull Requests using ChatGPT so that you can pretend to work.
 - [tinkerun/tinkerun](https://github.com/tinkerun/tinkerun) - A new way of Running Tinker. Simplify the Web Artisan's workflow.
@@ -1276,7 +1277,7 @@
 
 ## Makefile 
 
-- [incentive-factory/iletaitunefoisundev](https://github.com/incentive-factory/iletaitunefoisundev) - La formation dont vous êtes le héros !
+- [TBoileau/iletaitunefoisundev](https://github.com/TBoileau/iletaitunefoisundev) - La formation dont vous êtes le héros !
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [akrabat/bref-image-resizer](https://github.com/akrabat/bref-image-resizer) - Serverless PHP (Bref/Lambda) function to resize an image on upload to an S3 bucket
 - [phpbrew/phpbrew](https://github.com/phpbrew/phpbrew) - Brew & manage PHP versions in pure PHP at HOME
