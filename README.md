@@ -416,6 +416,7 @@
 
 ## Go 
 
+- [eatonphil/livescheme](https://github.com/eatonphil/livescheme) - Building a scheme live on Twitch in Golang
 - [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
