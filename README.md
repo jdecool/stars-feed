@@ -322,7 +322,6 @@
 - [twbs/ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
 - [usetania/tania](https://github.com/usetania/tania) - A PHP based, free, and open source farming management system.
 - [manton/JSONFeed](https://github.com/manton/JSONFeed) - The JSONFeed.org website
-- [astefanutti/decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations
 - [rekihattori/awesome-programmers](https://github.com/rekihattori/awesome-programmers) - A list of history's greatest software engineers and tech pioneers
 - [mnapoli/workshop-middlewares](https://github.com/mnapoli/workshop-middlewares) - 
 - [pmartin/slides-introduction-sysdig](https://github.com/pmartin/slides-introduction-sysdig) - Quelques slides d'introduction à sysdig
@@ -416,6 +415,7 @@
 
 ## Go 
 
+- [depot/cli](https://github.com/depot/cli) - 🖥️ Depot CLI, build your Docker images in the cloud
 - [eatonphil/livescheme](https://github.com/eatonphil/livescheme) - Building a scheme live on Twitch in Golang
 - [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
@@ -1057,6 +1057,7 @@
 - [Song-Li/cross_browser](https://github.com/Song-Li/cross_browser) - This is a project for a browser fingerprinting technique that can track users not only within a single browser but also across different browsers on the same machine.
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [perftools/xhgui](https://github.com/perftools/xhgui) - Web interface for XHProf profiling data can store data in MongoDB or PDO database
+- [astefanutti/decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [pinterest/teletraan](https://github.com/pinterest/teletraan) - Teletraan is Pinterest's deploy system.
@@ -2741,7 +2742,7 @@
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [jasperapp/jasper](https://github.com/jasperapp/jasper) - Jasper - A flexible and powerful issue reader for GitHub
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
-- [tailwarden/komiser](https://github.com/tailwarden/komiser) - The open-source cloud environment inspector 👮
+- [tailwarden/komiser](https://github.com/tailwarden/komiser) - The open-source cloud resource manager
 - [Godefroy/carte-dvf](https://github.com/Godefroy/carte-dvf) - Carte de valeurs foncières
 - [react95-io/React95](https://github.com/react95-io/React95) - 🌈🕹  Windows 95 style UI component library for React
 - [sharenowTech/birdperson](https://github.com/sharenowTech/birdperson) - GitLab monitor for open merge requests and pipeline status. Originally intended to be used as a dashboard in a big screen TV.
