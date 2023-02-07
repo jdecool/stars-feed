@@ -415,6 +415,7 @@
 
 ## Go 
 
+- [gschier/analytics](https://github.com/gschier/analytics) - Analytics
 - [depot/cli](https://github.com/depot/cli) - 🖥️ Depot CLI, build your Docker images in the cloud
 - [eatonphil/livescheme](https://github.com/eatonphil/livescheme) - Building a scheme live on Twitch in Golang
 - [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development
@@ -946,7 +947,7 @@
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
 - [codemirror/dev](https://github.com/codemirror/dev) - Development repository for the CodeMirror editor project
 - [gsilvamartin/RTCode](https://github.com/gsilvamartin/RTCode) - Real time code sharing web application
-- [zaygozi/zeeka](https://github.com/zaygozi/zeeka) - Secure global file sharing using tcp tunnels. Currently tunneling through localtunnel's public servers. Zeeka dedicated servers coming soon.
+- [zelaxo/zeeka](https://github.com/zelaxo/zeeka) - Secure global file sharing using tcp tunnels. Currently tunneling through localtunnel's public servers. Zeeka dedicated servers coming soon.
 - [fabienvauchelles/scrapoxy](https://github.com/fabienvauchelles/scrapoxy) - Scrapoxy hides your scraper behind a cloud. It starts a pool of proxies to send your requests. Now, you can crawl without thinking about blacklisting!
 - [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
 - [riju/WebCamera](https://github.com/riju/WebCamera) - Camera controls for the Web
@@ -2038,7 +2039,7 @@
 - [filepreviews/filepreviews-php](https://github.com/filepreviews/filepreviews-php) - PHP client library for FilePreviews.io
 - [broadway/broadway](https://github.com/broadway/broadway) - Infrastructure and testing helpers for creating CQRS and event sourced applications.
 - [dddshelf/blog-cqrs](https://github.com/dddshelf/blog-cqrs) - A blog engine written in PHP and powered with CQRS + Event Sourcing
-- [pascaldevink/shortuuid](https://github.com/pascaldevink/shortuuid) - PHP 7.3+ library that generates concise, unambiguous, URL-safe UUIDs
+- [pascaldevink/shortuuid](https://github.com/pascaldevink/shortuuid) - PHP 7.4+ library that generates concise, unambiguous, URL-safe UUIDs
 - [driesvints/vat-calculator](https://github.com/driesvints/vat-calculator) - Handle all the hard stuff related to EU MOSS tax/vat regulations, the way it should be.
 - [fxpio/composer-asset-plugin](https://github.com/fxpio/composer-asset-plugin) - NPM/Bower Dependency Manager for Composer
 - [soullivaneuh/composer-versions-check](https://github.com/soullivaneuh/composer-versions-check) - Checks if packages are up to date to last major versions after update
