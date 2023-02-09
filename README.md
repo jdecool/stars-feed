@@ -115,7 +115,6 @@
 - [ByteOverlord/Watch_Quake](https://github.com/ByteOverlord/Watch_Quake) - Quake 1 port for Apple Watch
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [armink/FlashDB](https://github.com/armink/FlashDB) - An ultra-lightweight database that supports key-value and time series data |  一款支持 KV 数据和时序数据的超轻量级数据库
-- [open-telemetry/opentelemetry-php-instrumentation](https://github.com/open-telemetry/opentelemetry-php-instrumentation) - OpenTelemetry PHP auto-instrumentation extension
 - [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [bulwarkid/virtual-fido](https://github.com/bulwarkid/virtual-fido) - A Virtual FIDO2 USB Device
 - [MyOwnClone/quake_watch](https://github.com/MyOwnClone/quake_watch) - Quake 1 game port to Apple Watch
@@ -1561,6 +1560,7 @@
 - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php) - PHP version of mysqldump cli that comes with MySQL
 - [odolbeau/phone-number-bundle](https://github.com/odolbeau/phone-number-bundle) - Integrates libphonenumber into your Symfony application
 - [Flowframe/laravel-trend](https://github.com/Flowframe/laravel-trend) - Generate trends for your models. Easily generate charts or reports.
+- [open-telemetry/opentelemetry-php-instrumentation](https://github.com/open-telemetry/opentelemetry-php-instrumentation) - OpenTelemetry PHP auto-instrumentation extension
 - [erichard/elasticsearch-query-builder](https://github.com/erichard/elasticsearch-query-builder) - Build query for an ElasticSearch client using a fluent interface
 - [jakzal/phpunit-globals](https://github.com/jakzal/phpunit-globals) - Allows to use annotations to define global variables in PHPUnit test cases
 - [datenbrei/blogless](https://github.com/datenbrei/blogless) - The Blogless publishing system is for web writers. Just publish, share your texts with friends and don't think about the rest.
@@ -1847,7 +1847,7 @@
 - [jubianchi/prof-it](https://github.com/jubianchi/prof-it) - Profile & Profit!
 - [micheh/psr7-cache](https://github.com/micheh/psr7-cache) - Cache and conditional request helpers for PSR-7 HTTP Messages
 - [endroid/qr-code](https://github.com/endroid/qr-code) - QR Code Generator
-- [symplify/symplify](https://github.com/symplify/symplify) - Do you use Symfony, coding standards, PHPStan rule, maintain PHP packages, monorepo... and do you like to be lazy? You'll love the toolkits here! :)
+- [symplify/symplify](https://github.com/symplify/symplify) - [DISCONTINUED] Check split packages in their own repositories :)
 - [sirbrillig/phpcs-variable-analysis](https://github.com/sirbrillig/phpcs-variable-analysis) - Find undefined and unused variables with the PHP Codesniffer static analysis tool.
 - [Cocolabs-SAS/cocorico](https://github.com/Cocolabs-SAS/cocorico) - 👐 Cocorico is an open source marketplace solution for services and rentals. More information right here: https://www.cocorico.io/ 🚀 Cocorico is also available in an off-the-shelf SaaS package, check o
 - [Innmind/Immutable](https://github.com/Innmind/Immutable) - Wrappers for PHP primitives allowing immutable structures
@@ -2690,6 +2690,7 @@
 
 ## TypeScript 
 
+- [Basedash/dockhunt](https://github.com/Basedash/dockhunt) - Discover the apps everyone is docking about. Made by the team at @Basedash.
 - [Blagues-API/blagues-api](https://github.com/Blagues-API/blagues-api) - 😂 API de Blagues française et Open Source
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code.
 - [RomanHotsiy/commitgpt](https://github.com/RomanHotsiy/commitgpt) - Automatically generate commit messages using ChatGPT
@@ -2735,7 +2736,7 @@
 - [stoplightio/prism](https://github.com/stoplightio/prism) - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open-source low-code platform. Airtable-like UI for managing your database with cloud functions workflows in JS/TS, all in your browser.
 - [betagouv/mon-entreprise](https://github.com/betagouv/mon-entreprise) - L'assistant officiel des entrepreneurs
-- [SensCritique/SensCritique-extension](https://github.com/SensCritique/SensCritique-extension) - Permet d'avoir un score SensCritique sur les films/séries Netflix
+- [SensCritique/browser-extension](https://github.com/SensCritique/browser-extension) - Permet d'avoir un score SensCritique sur les films/séries Netflix
 - [kamilmielnik/scrabble-solver](https://github.com/kamilmielnik/scrabble-solver) - Free and open-source analysis tool for Scrabble and Literaki. Quickly find top scoring words using given letters and board state. Available in English, French, German, Persian, Polish & Spanish.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [alibaba/lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
