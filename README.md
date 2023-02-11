@@ -414,6 +414,7 @@
 
 ## Go 
 
+- [noborus/ov](https://github.com/noborus/ov) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
 - [gschier/analytics](https://github.com/gschier/analytics) - Analytics
 - [depot/cli](https://github.com/depot/cli) - 🖥️ Depot CLI, build your Docker images in the cloud
 - [eatonphil/livescheme](https://github.com/eatonphil/livescheme) - Building a scheme live on Twitch in Golang
@@ -555,7 +556,7 @@
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [genuinetools/binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
 - [aziule/exercism](https://github.com/aziule/exercism) - 
-- [bechurch/reverse-proxy-demo](https://github.com/bechurch/reverse-proxy-demo) - 🛰A demo of how you can easily create a conditional reverse proxy in GO
+- [bnchrch/reverse-proxy-demo](https://github.com/bnchrch/reverse-proxy-demo) - 🛰A demo of how you can easily create a conditional reverse proxy in GO
 - [cristianoliveira/ergo](https://github.com/cristianoliveira/ergo) - The management of multiple apps running over different ports made easy
 - [spiral/php-grpc](https://github.com/spiral/php-grpc) - :electric_plug: Fast and furious GRPC server for PHP applications
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
@@ -2433,6 +2434,7 @@
 
 ## Rust 
 
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [pxp-lang/pxp](https://github.com/pxp-lang/pxp) - A superset of PHP with extended syntax and runtime capabilities.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
