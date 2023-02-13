@@ -414,6 +414,7 @@
 
 ## Go 
 
+- [scaleway/scaleway-sdk-go](https://github.com/scaleway/scaleway-sdk-go) - Integrate Scaleway with your Go application
 - [noborus/ov](https://github.com/noborus/ov) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
 - [gschier/analytics](https://github.com/gschier/analytics) - Analytics
 - [depot/cli](https://github.com/depot/cli) - 🖥️ Depot CLI, build your Docker images in the cloud
@@ -1898,7 +1899,7 @@
 - [spatie/image-optimizer](https://github.com/spatie/image-optimizer) - Easily optimize images using PHP
 - [AdamCox9/nickelbot](https://github.com/AdamCox9/nickelbot) - nickelbot
 - [bmitch/churn-php](https://github.com/bmitch/churn-php) - Discover files in need of refactoring.
-- [phpactor/phpactor](https://github.com/phpactor/phpactor) - PHP completion, refactoring, introspection tool and language server.
+- [phpactor/phpactor](https://github.com/phpactor/phpactor) - Mainly a PHP Language Server
 - [Ph3nol/Docker-Arch](https://github.com/Ph3nol/Docker-Arch) - Generate Web/CLI projects Dockerized development environments, from 1 simple YAML file.
 - [hollodotme/fast-cgi-client](https://github.com/hollodotme/fast-cgi-client) - A PHP fast CGI client for sending requests (a)synchronously to PHP-FPM
 - [weprovide/valet-plus](https://github.com/weprovide/valet-plus) - Blazing fast macOS PHP development environment
@@ -2715,7 +2716,7 @@
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [CarterLi/vue3-ace-editor](https://github.com/CarterLi/vue3-ace-editor) - Like vue2-ace-editor but more functional and supports Vue 3
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to Python, JavaScript, Java, C#, PHP, Go, Dart, R, Ruby, Rust, MATLAB, Elixir, CFML, Ansible or JSON
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to code
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [dynamite-ready/movie-parser](https://github.com/dynamite-ready/movie-parser) - NWJS wrapper for a wider project.
 - [notea-org/notea](https://github.com/notea-org/notea) - 📒 Self hosted note taking app stored on S3
