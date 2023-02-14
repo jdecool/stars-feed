@@ -867,6 +867,7 @@
 
 ## JavaScript 
 
+- [Delegation-numerique-en-sante/mesconseilscovid](https://github.com/Delegation-numerique-en-sante/mesconseilscovid) - Isolement, tests, vaccins… tout savoir pour prendre soin de votre santé
 - [tech-conferences/conference-data](https://github.com/tech-conferences/conference-data) - Conference data for www.confs.tech
 - [zehfernandes/pliim](https://github.com/zehfernandes/pliim) - One click and be ready to go up on stage and shine!
 - [sturdy-dev/codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) - Reviews your Pull Requests using ChatGPT so that you can pretend to work.
