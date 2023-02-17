@@ -1993,7 +1993,7 @@
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - Keep your architecture clean.
 - [agallou/unreviewed-pr](https://github.com/agallou/unreviewed-pr) - View your pull requests without any comment directly in hipchat
 - [teamtnt/tntsearch](https://github.com/teamtnt/tntsearch) - A fully featured full text search engine written in PHP
-- [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) - Extra security-related features for Symfony2
+- [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) - Adds extra security-related features in your Symfony application
 - [gabrielrcouto/php-gui](https://github.com/gabrielrcouto/php-gui) - Extensionless PHP Graphic User Interface library
 - [phpdocker-io/phpdocker.io](https://github.com/phpdocker-io/phpdocker.io) - PHPDocker.io website and environment (php and docker based) generator
 - [jubianchi/tml](https://github.com/jubianchi/tml) - TML - Ten Minutes Language
