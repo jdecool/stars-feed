@@ -932,7 +932,7 @@
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [chrnorm/deployment-action](https://github.com/chrnorm/deployment-action) - GitHub action to create a Deployment
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
-- [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into beautiful, readable PDF, EPUB, or HTML docs.
+- [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or MD docs.
 - [jsonwebtoken/jsonwebtoken.github.io](https://github.com/jsonwebtoken/jsonwebtoken.github.io) - 
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [EmailThis/extension-boilerplate](https://github.com/EmailThis/extension-boilerplate) - ⚡️ A template for building cross browser extensions for Chrome, Opera & Firefox.
