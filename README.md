@@ -866,6 +866,7 @@
 
 ## JavaScript 
 
+- [Petit-Lutin/Dachshund-snake-JavaScript](https://github.com/Petit-Lutin/Dachshund-snake-JavaScript) - Snake game with Dachshund ("sausage dog") in JavaScript :dog:
 - [Delegation-numerique-en-sante/mesconseilscovid](https://github.com/Delegation-numerique-en-sante/mesconseilscovid) - Isolement, tests, vaccins… tout savoir pour prendre soin de votre santé
 - [tech-conferences/conference-data](https://github.com/tech-conferences/conference-data) - Conference data for www.confs.tech
 - [zehfernandes/pliim](https://github.com/zehfernandes/pliim) - One click and be ready to go up on stage and shine!
@@ -1052,7 +1053,7 @@
 - [TailorDev/assignees](https://github.com/TailorDev/assignees) - :eyeglasses: Code reviews for everyone.
 - [ziishaned/opus](https://github.com/ziishaned/opus) - Open source knowledge base application for Teams
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
-- [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - Open-source productivity booster with a brain
+- [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
 - [vadimdemedes/trevor](https://github.com/vadimdemedes/trevor) - 🚦 Your own mini Travis CI to run tests locally
 - [Staffjoy/v2](https://github.com/Staffjoy/v2) - Staffjoy V2 - all microservices in a monorepo
 - [bilbof/purser](https://github.com/bilbof/purser) - A lightweight JavaScript library for preserving user data from first website visit to signup.
@@ -2644,6 +2645,7 @@
 
 ## Swift 
 
+- [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client
 - [iglance/iGlance](https://github.com/iglance/iGlance) - Free system monitor for OSX and macOS. See all system information at a glance in the menu bar.
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [Bogdanp/neko](https://github.com/Bogdanp/neko) - A tiny kitten follows your mouse on macOS.
