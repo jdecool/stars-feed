@@ -364,6 +364,7 @@
 
 ## Dart 
 
+- [ubuntu-flutter-community/software](https://github.com/ubuntu-flutter-community/software) - Software App for Ubuntu made with Flutter 🧡 💙
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [spotter-application/spotter](https://github.com/spotter-application/spotter) - 🔭 Productivity tool to launch everything
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -2542,6 +2543,7 @@
 
 ## Shell 
 
+- [BalliAsghar/killport](https://github.com/BalliAsghar/killport) - Kill The Port
 - [n3tsky/Pentest-Tools](https://github.com/n3tsky/Pentest-Tools) - A quick script to install "all required" tools (Kali-like) for penetration tests
 - [freekmurze/dotfiles](https://github.com/freekmurze/dotfiles) - My personal dotfiles
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing
@@ -2742,7 +2744,7 @@
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open-source low-code platform. Airtable-like UI for managing your database with cloud functions workflows in JS/TS, all in your browser.
 - [betagouv/mon-entreprise](https://github.com/betagouv/mon-entreprise) - L'assistant officiel des entrepreneurs
 - [SensCritique/browser-extension](https://github.com/SensCritique/browser-extension) - Permet d'avoir un score SensCritique sur les films/séries Netflix
-- [kamilmielnik/scrabble-solver](https://github.com/kamilmielnik/scrabble-solver) - Free, open-source, and cross-platform analysis tool for Scrabble and Literaki. Quickly find top scoring words using given letters and board state. Available in English, French, German, Persian, Polish
+- [kamilmielnik/scrabble-solver](https://github.com/kamilmielnik/scrabble-solver) - Free, open-source, and cross-platform analysis tool for Scrabble & Literaki. Quickly find top scoring words using given letters and board state. Available in English, French, German, Persian, Polish &
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [alibaba/lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
