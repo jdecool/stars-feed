@@ -1542,6 +1542,7 @@
 
 ## PHP 
 
+- [amphp/parallel](https://github.com/amphp/parallel) - Parallel processing for PHP based on Amp.
 - [sourceability/openai-client](https://github.com/sourceability/openai-client) - PHP 8.0+ OpenAI API client with fully typed/documented requests+responses models, guzzle and symfony/http-client support and async/parallel requests
 - [ssddanbrown/rss](https://github.com/ssddanbrown/rss) - A simple twitter-feed-style RSS aggregator written in PHP, Laravel, Inertia.js, Tailwind and Vue.js
 - [williarin/cook](https://github.com/williarin/cook) - Composer plugin to execute recipes embedded in packages
@@ -2837,6 +2838,7 @@
 
 ## Vue 
 
+- [hlassiege/eventuallycoding](https://github.com/hlassiege/eventuallycoding) - 
 - [JhumanJ/OpnForm](https://github.com/JhumanJ/OpnForm) - Simple and open-source form builder
 - [laravel-workflow/waterline](https://github.com/laravel-workflow/waterline) - An elegant UI for monitoring Laravel Workflows.
 - [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-first web HTTP client
