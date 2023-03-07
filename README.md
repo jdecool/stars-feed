@@ -919,6 +919,7 @@
 - [crisdosyago/jspaint.exe](https://github.com/crisdosyago/jspaint.exe) - 🌂JS Paint ~~ as a cross-platform native desktop app. In other words, the "🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras".exe hehe
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
 - [ajpharrelo/MacInfo](https://github.com/ajpharrelo/MacInfo) - Basic API to retrieve information about an MAC address
 - [eciavatta/caronte](https://github.com/eciavatta/caronte) - A tool to analyze the network flow during attack/defence Capture the Flag competitions
