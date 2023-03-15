@@ -1554,7 +1554,7 @@
 - [ssddanbrown/rss](https://github.com/ssddanbrown/rss) - A simple twitter-feed-style RSS aggregator written in PHP, Laravel, Inertia.js, Tailwind and Vue.js
 - [williarin/cook](https://github.com/williarin/cook) - Composer plugin to execute recipes embedded in packages
 - [VincentLanglet/Twig-CS-Fixer](https://github.com/VincentLanglet/Twig-CS-Fixer) - A tool to automatically fix Twig Coding Standards issues
-- [CodeRevolutionPlugins/GPT-3-Encoder-PHP](https://github.com/CodeRevolutionPlugins/GPT-3-Encoder-PHP) - PHP BPE Text Encoder for GPT-2 / GPT-3
+- [CodeRevolutionPlugins/GPT-3-Encoder-PHP](https://github.com/CodeRevolutionPlugins/GPT-3-Encoder-PHP) - PHP BPE Text Encoder / Decoder for GPT-2 / GPT-3
 - [schranz-search/schranz-search](https://github.com/schranz-search/schranz-search) - Search abstraction over different search engines written in PHP. Currently implemented Elasticsearch, Opensearch, Algolia, Meilisearch, RediSearch, Solr, Typesense.
 - [voku/Arrayy](https://github.com/voku/Arrayy) - 🗃 Array manipulation library for PHP, called Arrayy!
 - [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) - :musical_note: Provides a composer plugin for normalizing composer.json.
@@ -1580,7 +1580,7 @@
 - [odolbeau/phone-number-bundle](https://github.com/odolbeau/phone-number-bundle) - Integrates libphonenumber into your Symfony application
 - [Flowframe/laravel-trend](https://github.com/Flowframe/laravel-trend) - Generate trends for your models. Easily generate charts or reports.
 - [erichard/elasticsearch-query-builder](https://github.com/erichard/elasticsearch-query-builder) - Build query for an ElasticSearch client using a fluent interface
-- [jakzal/phpunit-globals](https://github.com/jakzal/phpunit-globals) - Allows to use annotations to define global variables in PHPUnit test cases
+- [jakzal/phpunit-globals](https://github.com/jakzal/phpunit-globals) - Allows to use attributes to define global variables in PHPUnit test cases
 - [datenbrei/blogless](https://github.com/datenbrei/blogless) - The Blogless publishing system is for web writers. Just publish, share your texts with friends and don't think about the rest.
 - [Jibbarth/slacknewsletter](https://github.com/Jibbarth/slacknewsletter) - A Symfony Project to build a newsletter from slack workspace.
 - [getparthenon/monorepo](https://github.com/getparthenon/monorepo) - Monorepo for Parthenon development
@@ -2450,7 +2450,7 @@
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [stringer-rss/stringer](https://github.com/stringer-rss/stringer) - A self-hosted, anti-social RSS reader.
 - [Arachni/arachni](https://github.com/Arachni/arachni) - Web Application Security Scanner Framework
-- [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites.
+- [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com
 
 ## Rust 
 
