@@ -1724,7 +1724,7 @@
 - [spatie/tinker.app](https://github.com/spatie/tinker.app) - Instant shareable Laravel Tinker sessions in your browser.
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) - cs2pr - Annotate a GitHub Pull Request based on a Checkstyle XML-report within your GitHub Action
 - [beyondcode/expose](https://github.com/beyondcode/expose) - A beautiful, fully open-source, tunneling service - written in pure PHP
-- [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP Testing Framework with a focus on simplicity
+- [pestphp/pest](https://github.com/pestphp/pest) - Pest is a testing framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - Map nested JSON structures to PHP classes
 - [cweagans/composer-patches](https://github.com/cweagans/composer-patches) - Simple patches plugin for Composer
 - [matthiasnoback/symfony-console-form](https://github.com/matthiasnoback/symfony-console-form) - Use Symfony forms for Console command input
@@ -2751,7 +2751,7 @@
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [SamKirkland/FTP-Deploy-Action](https://github.com/SamKirkland/FTP-Deploy-Action) - Deploys a GitHub project to a FTP server using GitHub actions
-- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services gateway
+- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services API gateway
 - [jopemachine-arvis/arvis](https://github.com/jopemachine-arvis/arvis) - Extendable cross-platform launcher that aims to help you run, edit, create any workflow simply
 - [covidpass-org/covidpass](https://github.com/covidpass-org/covidpass) - Web app for adding EU Digital COVID Certificates to your wallet apps
 - [hieunc229/copilot-clone](https://github.com/hieunc229/copilot-clone) - VSCode extension for code suggestion
