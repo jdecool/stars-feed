@@ -1004,7 +1004,7 @@
 - [jaredreich/pell](https://github.com/jaredreich/pell) - 📝 the simplest and smallest WYSIWYG text editor for web, with no dependencies
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [friedrith/node-wifi](https://github.com/friedrith/node-wifi) - 📶 NodeJS tool to manage wifi (connections, scans)
-- [ghostery/ghostery-extension](https://github.com/ghostery/ghostery-extension) - Ghostery Browser Extension for Firefox, Chrome, Opera and Edge
+- [ghostery/ghostery-extension](https://github.com/ghostery/ghostery-extension) - Ghostery Browser Extension for Firefox, Chrome, Opera, Edge and Safari
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [Bishop92/JavaScript-Data-Structures](https://github.com/Bishop92/JavaScript-Data-Structures) - A library for data structure in JavaScript
 - [LINCnil/Cookie-consent_Google-Analytics](https://github.com/LINCnil/Cookie-consent_Google-Analytics) - Code pour mettre Google Analytics en conformité avec la législation française sur les cookies. Attention toutefois, cette version du code ne fonctionne qu'avec les anciennes versions de Google Analyti
