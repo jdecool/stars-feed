@@ -38,6 +38,7 @@
 - [Kotlin](#kotlin)
 - [Less](#less)
 - [Lua](#lua)
+- [M4](#m4)
 - [MATLAB](#matlab)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
@@ -1286,6 +1287,10 @@
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) - Open source clone of Theme Hospital
 
+## M4 
+
+- [matejak/argbash](https://github.com/matejak/argbash) - Bash argument parsing code generator
+
 ## MATLAB 
 
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
@@ -1724,7 +1729,7 @@
 - [spatie/tinker.app](https://github.com/spatie/tinker.app) - Instant shareable Laravel Tinker sessions in your browser.
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) - cs2pr - Annotate a GitHub Pull Request based on a Checkstyle XML-report within your GitHub Action
 - [beyondcode/expose](https://github.com/beyondcode/expose) - A beautiful, fully open-source, tunneling service - written in pure PHP
-- [pestphp/pest](https://github.com/pestphp/pest) - Pest is a testing framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
+- [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - Map nested JSON structures to PHP classes
 - [cweagans/composer-patches](https://github.com/cweagans/composer-patches) - Simple patches plugin for Composer
 - [matthiasnoback/symfony-console-form](https://github.com/matthiasnoback/symfony-console-form) - Use Symfony forms for Console command input
@@ -1987,7 +1992,7 @@
 - [shivammathur/countrycity](https://github.com/shivammathur/countrycity) - :earth_americas: Geodata API - Get countries, and cities to plug in drop-downs.
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
 - [DusanKasan/Knapsack](https://github.com/DusanKasan/Knapsack) - Collection pipeline library for PHP
-- [ramsey/collection](https://github.com/ramsey/collection) - A PHP library for representing and manipulating collections.
+- [ramsey/collection](https://github.com/ramsey/collection) - :card_index_dividers: A PHP library for representing and manipulating collections.
 - [fonsecas72/behat-giffy-extension](https://github.com/fonsecas72/behat-giffy-extension) - Behat extension that generates an animated gif with the complete interaction of tagged scenarios
 - [EasyCorp/easy-log-handler](https://github.com/EasyCorp/easy-log-handler) - Human-friendly log files that make you more productive
 - [joindin/joindin-vm](https://github.com/joindin/joindin-vm) - Prefer Vagrant over Docker? New Contributors Start Here!
@@ -2716,6 +2721,7 @@
 
 ## TypeScript 
 
+- [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
 - [Basedash/dockhunt](https://github.com/Basedash/dockhunt) - Discover the apps everyone is docking about. Made by the team at @Basedash.
