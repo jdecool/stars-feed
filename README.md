@@ -1131,7 +1131,6 @@
 - [benoitvallon/react-native-nw-react-calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) - Mobile, desktop and website Apps with the same code
 - [Yomguithereal/react-blessed](https://github.com/Yomguithereal/react-blessed) - A react renderer for blessed.
 - [google/eslint-config-google](https://github.com/google/eslint-config-google) - ESLint shareable config for the Google JavaScript style guide
-- [react-ui-builder/structor](https://github.com/react-ui-builder/structor) - Structor - React UI Builder [DEPRECATED]
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [toddmotto/echo](https://github.com/toddmotto/echo) - Lazy-loading images with data-* attributes
 - [jolicode/JoliToken](https://github.com/jolicode/JoliToken) - :mag: Elasticsearch plugin to visualize field tokens as analyzed by Lucene
@@ -1709,7 +1708,7 @@
 - [Toxantron/scrumonline](https://github.com/Toxantron/scrumonline) - PHP web app for planning poker
 - [remotelyliving/php-dns](https://github.com/remotelyliving/php-dns) - A DNS abstraction for PHP
 - [FakerPHP/Faker](https://github.com/FakerPHP/Faker) - Faker is a PHP library that generates fake data for you
-- [fxpio/foxy](https://github.com/fxpio/foxy) - A fast, reliable, and secure NPM/Yarn bridge for Composer
+- [fxpio/foxy](https://github.com/fxpio/foxy) - A fast, reliable, and secure NPM/Yarn/pnpm bridge for Composer
 - [zircote/swagger-php](https://github.com/zircote/swagger-php) - A php swagger annotation and parsing library
 - [aws-samples/php-examples-for-aws-lambda](https://github.com/aws-samples/php-examples-for-aws-lambda) - Demo serverless applications, examples code snippets and resources for PHP
 - [badoo/phpcf](https://github.com/badoo/phpcf) - PHP Code Formatter
@@ -2204,7 +2203,7 @@
 
 ## Python 
 
-- [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
+- [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [RhetTbull/osxphotos](https://github.com/RhetTbull/osxphotos) - Python app to export pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
 - [asg017/sqlite-ulid](https://github.com/asg017/sqlite-ulid) - A SQLite extension for generating and working with ULIDs
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface.
