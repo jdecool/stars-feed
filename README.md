@@ -44,7 +44,6 @@
 - [Mustache](#mustache)
 - [Nginx](#nginx)
 - [Nix](#nix)
-- [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
@@ -97,6 +96,7 @@
 ## Astro 
 
 - [yoanbernabeu/LinkTreeFreeClone](https://github.com/yoanbernabeu/LinkTreeFreeClone) - LinkTreeFreeClone is a LinkTree clone built with Astro and Tailwind
+- [roadmapsh/next.roadmap.sh](https://github.com/roadmapsh/next.roadmap.sh) - Next version of roadmap.sh
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## Batchfile 
@@ -110,6 +110,7 @@
 
 ## C 
 
+- [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
 - [IvorySQL/IvorySQL](https://github.com/IvorySQL/IvorySQL) - Open Source Oracle Compatible PostgreSQL.
 - [dekuNukem/daytripper](https://github.com/dekuNukem/daytripper) - Hide-My-Windows Laser Tripwire
 - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
@@ -1314,10 +1315,6 @@
 
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development
 
-## Nunjucks 
-
-- [roadmapsh/next.roadmap.sh](https://github.com/roadmapsh/next.roadmap.sh) - Next version of roadmap.sh
-
 ## OCaml 
 
 - [batsh-dev-team/Batsh](https://github.com/batsh-dev-team/Batsh) - A language that compiles to Bash and Windows Batch
@@ -1544,6 +1541,7 @@
 
 ## PHP 
 
+- [spatie/ssl-certificate](https://github.com/spatie/ssl-certificate) - A class to validate SSL certificates
 - [123inkt/123view](https://github.com/123inkt/123view) - A code review and commit notifications Symfony application
 - [selency/openapi](https://github.com/selency/openapi) - Provides a user-friendly, object-oriented API to build OpenAPI specifications using PHP
 - [DeepLcom/deepl-php](https://github.com/DeepLcom/deepl-php) - Official PHP library for the DeepL language translation API.
@@ -2554,6 +2552,7 @@
 
 ## Scala 
 
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [prisma/prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]
 - [softwaremill/codebrag](https://github.com/softwaremill/codebrag) - Your daily code review tool
 - [TheHive-Project/TheHive](https://github.com/TheHive-Project/TheHive) - TheHive: a Scalable, Open Source and Free Security Incident Response Platform
