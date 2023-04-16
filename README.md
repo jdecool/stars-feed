@@ -2002,7 +2002,7 @@
 - [Tolerance/Tolerance](https://github.com/Tolerance/Tolerance) - Fault tolerance library and micro-services helpers
 - [qandidate-labs/qandidate-toggle](https://github.com/qandidate-labs/qandidate-toggle) - Feature toggling for your PHP application
 - [jubianchi/async-generator](https://github.com/jubianchi/async-generator) - Non-blocking tasks with only PHP and generators
-- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt CE Backend, a JSON API written with Cakephp
+- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt CE Backend, a JSON API written with CakePHP
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - Keep your architecture clean.
 - [agallou/unreviewed-pr](https://github.com/agallou/unreviewed-pr) - View your pull requests without any comment directly in hipchat
 - [teamtnt/tntsearch](https://github.com/teamtnt/tntsearch) - A fully featured full text search engine written in PHP
