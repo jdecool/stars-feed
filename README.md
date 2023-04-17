@@ -713,6 +713,7 @@
 
 ## HTML 
 
+- [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 - [fivefilters/readability.php](https://github.com/fivefilters/readability.php) - PHP port of Mozilla's Readability.js
 - [sarven/unit-testing-tips](https://github.com/sarven/unit-testing-tips) - Unit testing tips by examples in PHP
 - [SelrahcD/burritalks](https://github.com/SelrahcD/burritalks) - 
@@ -871,6 +872,7 @@
 
 ## JavaScript 
 
+- [ColonelParrot/jscanify](https://github.com/ColonelParrot/jscanify) - Open-source Javascript mobile document scanner.
 - [Petit-Lutin/Dachshund-snake-JavaScript](https://github.com/Petit-Lutin/Dachshund-snake-JavaScript) - Snake game with Dachshund ("sausage dog") in JavaScript :dog:
 - [Delegation-numerique-en-sante/mesconseilscovid](https://github.com/Delegation-numerique-en-sante/mesconseilscovid) - Isolement, tests, vaccins… tout savoir pour prendre soin de votre santé
 - [tech-conferences/conference-data](https://github.com/tech-conferences/conference-data) - Conference data for www.confs.tech
