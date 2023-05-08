@@ -1549,6 +1549,7 @@
 
 ## PHP 
 
+- [qdequippe/pappers-php-api](https://github.com/qdequippe/pappers-php-api) - PHP client for Pappers's API
 - [open-feature/php-sdk](https://github.com/open-feature/php-sdk) - PHP implementation of the OpenFeature SDK
 - [qmachard/atomic-design-bundle](https://github.com/qmachard/atomic-design-bundle) - Atomic Design is a Storybook like made for Symfony and Twig
 - [robiningelbrecht/phpunit-pretty-print](https://github.com/robiningelbrecht/phpunit-pretty-print) - Better PHPUnit CLI output with Collision
