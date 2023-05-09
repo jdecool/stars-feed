@@ -487,7 +487,7 @@
 - [redirect2me/which-dns](https://github.com/redirect2me/which-dns) - Detects which DNS server is being used - https://which.nameserve.rs/
 - [nyancrimew/goop](https://github.com/nyancrimew/goop) - Yet another tool to dump a git repository from a website, focused on as-complete-as-possible dumps and handling weird edge-cases.
 - [kkdai/youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
-- [earthly/earthly](https://github.com/earthly/earthly) - Super simple CI/CD framework with repeatable builds that you write once and run anywhere – laptop, remote, or any CI
+- [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more
 - [maxence-charriere/lofimusic](https://github.com/maxence-charriere/lofimusic) - Lofimusic.app is an installable Progressive web app (PWA) that lists and displays famous YouTube Lo-Fi radios.
 - [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
@@ -716,6 +716,7 @@
 
 ## HTML 
 
+- [InnerSourceCommons/InnerSourcePatterns](https://github.com/InnerSourceCommons/InnerSourcePatterns) - Proven approaches that can guide you through applying open source best practices within your organization
 - [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 - [fivefilters/readability.php](https://github.com/fivefilters/readability.php) - PHP port of Mozilla's Readability.js
 - [sarven/unit-testing-tips](https://github.com/sarven/unit-testing-tips) - Unit testing tips by examples in PHP
@@ -1549,6 +1550,7 @@
 
 ## PHP 
 
+- [pdepend/pdepend](https://github.com/pdepend/pdepend) - PHP_Depend is an adaptation of the established Java development tool JDepend. This tool shows you the quality of your design in terms of extensibility, reusability and maintainability.
 - [qdequippe/pappers-php-api](https://github.com/qdequippe/pappers-php-api) - PHP client for Pappers's API
 - [open-feature/php-sdk](https://github.com/open-feature/php-sdk) - PHP implementation of the OpenFeature SDK
 - [qmachard/atomic-design-bundle](https://github.com/qmachard/atomic-design-bundle) - Atomic Design is a Storybook like made for Symfony and Twig
