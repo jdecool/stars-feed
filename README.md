@@ -2203,7 +2203,7 @@
 
 ## PowerShell 
 
-- [improved-php-library/skeleton-php-ext](https://github.com/improved-php-library/skeleton-php-ext) - Skeleton project for PHP extension (written in C)
+- [jasny/skeleton-php-ext](https://github.com/jasny/skeleton-php-ext) - Skeleton project for PHP extension (written in C)
 
 ## Puppet 
 
@@ -2252,7 +2252,6 @@
 - [swisskyrepo/GraphQLmap](https://github.com/swisskyrepo/GraphQLmap) - GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes. - Do not use for illegal testing ;)
 - [knadh/tg-archive](https://github.com/knadh/tg-archive) - A tool for exporting Telegram group chats into static websites like mailing list archives.
 - [samschott/maestral](https://github.com/samschott/maestral) - Open-source Dropbox client for macOS and Linux
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [cpfair/tapiriik](https://github.com/cpfair/tapiriik) - tapiriik keeps your fitness in sync
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.7+) and Qt 5 (5.10+) for cro
 - [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
@@ -2777,7 +2776,7 @@
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [SamKirkland/FTP-Deploy-Action](https://github.com/SamKirkland/FTP-Deploy-Action) - Deploys a GitHub project to a FTP server using GitHub actions
-- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services gateway
+- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services cloud
 - [jopemachine-arvis/arvis](https://github.com/jopemachine-arvis/arvis) - Extendable cross-platform launcher that aims to help you run, edit, create any workflow simply
 - [covidpass-org/covidpass](https://github.com/covidpass-org/covidpass) - Web app for adding EU Digital COVID Certificates to your wallet apps
 - [hieunc229/copilot-clone](https://github.com/hieunc229/copilot-clone) - VSCode extension for code suggestion
