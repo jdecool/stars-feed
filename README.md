@@ -417,6 +417,7 @@
 
 ## Go 
 
+- [hekmon/edfbleu](https://github.com/hekmon/edfbleu) - Compute the price of a user hourly consommation from Enedis data export in the 3 regulated prices of EDF (tarif bleu)
 - [release-argus/Argus](https://github.com/release-argus/Argus) - Argus is a lightweight monitor to notify of new software releases via Gotify/Slack/other messages and/or WebHooks.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
@@ -1551,6 +1552,7 @@
 
 ## PHP 
 
+- [ismail1432/safe-migrations-bundle](https://github.com/ismail1432/safe-migrations-bundle) - Warn you when a migration is unsafe
 - [pdepend/pdepend](https://github.com/pdepend/pdepend) - PHP_Depend is an adaptation of the established Java development tool JDepend. This tool shows you the quality of your design in terms of extensibility, reusability and maintainability.
 - [qdequippe/pappers-php-api](https://github.com/qdequippe/pappers-php-api) - PHP client for Pappers's API
 - [open-feature/php-sdk](https://github.com/open-feature/php-sdk) - PHP implementation of the OpenFeature SDK
