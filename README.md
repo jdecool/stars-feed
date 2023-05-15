@@ -97,7 +97,6 @@
 
 - [yoanbernabeu/LinkTreeFreeClone](https://github.com/yoanbernabeu/LinkTreeFreeClone) - LinkTreeFreeClone is a LinkTree clone built with Astro and Tailwind
 - [roadmapsh/next.roadmap.sh](https://github.com/roadmapsh/next.roadmap.sh) - Next version of roadmap.sh
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## Batchfile 
 
@@ -2217,7 +2216,7 @@
 
 ## Python 
 
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Build your own virtual developer. e2b lets you build & deploy specialized AI agents that build software for you based on your instructions.
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Vercel for AI agents. We help developers to build, deploy, and monitor AI agents.  Focusing on specialized AI agents that build software for you - your personal software developers.
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [RhetTbull/osxphotos](https://github.com/RhetTbull/osxphotos) - Python app to export pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
 - [asg017/sqlite-ulid](https://github.com/asg017/sqlite-ulid) - A SQLite extension for generating and working with ULIDs
@@ -2839,6 +2838,7 @@
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [microsoft/TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) - A starter template for TypeScript and React with a detailed README describing how to use the two together.
 - [cupslab/password_meter](https://github.com/cupslab/password_meter) - This project implements a data-driven password meter. Its effects on password security and usability were evaluated in the following publication: http://www.blaseur.com/papers/CHI17meter.pdf and a dem
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 - [paulirish/pwmetrics](https://github.com/paulirish/pwmetrics) - Progressive web metrics at your fingertipz
 - [eclipse/che](https://github.com/eclipse/che) - The Kubernetes-Native IDE for Developer Teams
