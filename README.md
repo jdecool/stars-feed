@@ -416,6 +416,7 @@
 
 ## Go 
 
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) - DevPod is a client-only tool to create developer environments based on a devcontainer.json on any backend
 - [hekmon/edfbleu](https://github.com/hekmon/edfbleu) - Compute the price of a user hourly consommation from Enedis data export in the 3 regulated prices of EDF (tarif bleu)
 - [release-argus/Argus](https://github.com/release-argus/Argus) - Argus is a lightweight monitor to notify of new software releases via Gotify/Slack/other messages and/or WebHooks.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
