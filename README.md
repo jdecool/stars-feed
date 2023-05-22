@@ -1551,6 +1551,7 @@
 
 ## PHP 
 
+- [laradumps/laradumps](https://github.com/laradumps/laradumps) - 🛻 LaraDumps is a friendly app designed to boost your Laravel PHP coding and debugging experience.
 - [ismail1432/safe-migrations-bundle](https://github.com/ismail1432/safe-migrations-bundle) - Warn you when a migration is unsafe
 - [pdepend/pdepend](https://github.com/pdepend/pdepend) - PHP_Depend is an adaptation of the established Java development tool JDepend. This tool shows you the quality of your design in terms of extensibility, reusability and maintainability.
 - [qdequippe/pappers-php-api](https://github.com/qdequippe/pappers-php-api) - PHP client for Pappers's API
@@ -2584,6 +2585,7 @@
 
 ## Shell 
 
+- [laradumps/laradumps-docs](https://github.com/laradumps/laradumps-docs) - 📚 LaraDumps Docs
 - [BalliAsghar/killport](https://github.com/BalliAsghar/killport) - Kill The Port
 - [n3tsky/Pentest-Tools](https://github.com/n3tsky/Pentest-Tools) - A quick script to install "all required" tools (Kali-like) for penetration tests
 - [freekmurze/dotfiles](https://github.com/freekmurze/dotfiles) - My personal dotfiles
