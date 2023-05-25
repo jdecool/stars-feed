@@ -416,6 +416,7 @@
 
 ## Go 
 
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Spin up dev environments in any infra. Dev-environments-as-code like Terraform but for dev environments. Like Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you
 - [hekmon/edfbleu](https://github.com/hekmon/edfbleu) - Compute the price of a user hourly consommation from Enedis data export in the 3 regulated prices of EDF (tarif bleu)
 - [release-argus/Argus](https://github.com/release-argus/Argus) - Argus is a lightweight monitor to notify of new software releases via Gotify/Slack/other messages and/or WebHooks.
@@ -504,7 +505,7 @@
 - [michelin/ChopChop](https://github.com/michelin/ChopChop) - ChopChop is a CLI to help developers scanning endpoints and identifying exposition of sensitive services/files/folders.
 - [go-micro/go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
-- [github/go-fault](https://github.com/github/go-fault) - Fault injection library in Go using standard http middleware
+- [lingrino/go-fault](https://github.com/lingrino/go-fault) - Fault injection library in Go using standard http middleware
 - [RussellLuo/micron](https://github.com/RussellLuo/micron) - A minimal implementation of the fault-tolerant job scheduler.
 - [prometheus/pushgateway](https://github.com/prometheus/pushgateway) - Push acceptor for ephemeral and batch jobs.
 - [smileisak/go-training](https://github.com/smileisak/go-training) - Go Training Repositories regroups some useful resources to learn Go Programming Language
@@ -2217,7 +2218,7 @@
 
 ## Python 
 
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Vercel for AI agents. We help developers to build, deploy, and monitor AI agents.  Focusing on specialized AI agents that build software for you - your personal software developers.
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Vercel for AI agents. We're a platform for developers that helps them with building & deploying AI agents.
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [RhetTbull/osxphotos](https://github.com/RhetTbull/osxphotos) - Python app to export pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
 - [asg017/sqlite-ulid](https://github.com/asg017/sqlite-ulid) - A SQLite extension for generating and working with ULIDs
@@ -2401,7 +2402,6 @@
 - [undercase/FlappyKivy](https://github.com/undercase/FlappyKivy) - Flappy Bird clone programming in Python + Kivy!
 - [fgaudin/aemanager](https://github.com/fgaudin/aemanager) - Outil de gestion pour auto-entrepreneur
 - [groveco/django-sql-explorer](https://github.com/groveco/django-sql-explorer) - Easily share data across your company via SQL queries. From Grove Collab.
-- [athrun/dropbox-backup](https://github.com/athrun/dropbox-backup) - Small script to backup content from Dropbox
 - [elvanderb/TCP-32764](https://github.com/elvanderb/TCP-32764) - some codes and notes about the backdoor listening on TCP-32764 in linksys WAG200G.
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [buzzfeed/caliendo](https://github.com/buzzfeed/caliendo) - caliendo
