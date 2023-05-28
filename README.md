@@ -1934,7 +1934,7 @@
 - [spatie/image-optimizer](https://github.com/spatie/image-optimizer) - Easily optimize images using PHP
 - [AdamCox9/nickelbot](https://github.com/AdamCox9/nickelbot) - nickelbot
 - [bmitch/churn-php](https://github.com/bmitch/churn-php) - Discover files in need of refactoring.
-- [phpactor/phpactor](https://github.com/phpactor/phpactor) - Mainly a PHP Language Server
+- [phpactor/phpactor](https://github.com/phpactor/phpactor) - Mainly a PHP Language Server with more features than you can shake a stick at
 - [Ph3nol/Docker-Arch](https://github.com/Ph3nol/Docker-Arch) - Generate Web/CLI projects Dockerized development environments, from 1 simple YAML file.
 - [hollodotme/fast-cgi-client](https://github.com/hollodotme/fast-cgi-client) - A PHP fast CGI client for sending requests (a)synchronously to PHP-FPM
 - [weprovide/valet-plus](https://github.com/weprovide/valet-plus) - Blazing fast macOS PHP development environment
