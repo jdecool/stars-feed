@@ -906,6 +906,7 @@
 - [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers
 - [gcochard/hibp-downloader](https://github.com/gcochard/hibp-downloader) - Download all the HIBP passwords
 - [juliuste/direkt.bahn.guru](https://github.com/juliuste/direkt.bahn.guru) - All direct long-distance railway connections for cities in and beyond central Europe.
+- [mihaip/infinite-mac](https://github.com/mihaip/infinite-mac) - A classic Mac loaded with everything you'd want
 - [bhovhannes/junit-report-merger](https://github.com/bhovhannes/junit-report-merger) - Merges multiple JUnit XML reports into one
 - [hbendalibraham/number-to-letters](https://github.com/hbendalibraham/number-to-letters) - Convert a number to letters
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system
@@ -2765,7 +2766,6 @@
 - [afup/pufa](https://github.com/afup/pufa) - 
 - [nohello-net/site](https://github.com/nohello-net/site) - 
 - [robertwt7/meetsy](https://github.com/robertwt7/meetsy) - Open source online booking system
-- [mihaip/infinite-mac](https://github.com/mihaip/infinite-mac) - A classic Mac loaded with everything you'd want
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [CarterLi/vue3-ace-editor](https://github.com/CarterLi/vue3-ace-editor) - Like vue2-ace-editor but more functional and supports Vue 3
@@ -2779,7 +2779,7 @@
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [SamKirkland/FTP-Deploy-Action](https://github.com/SamKirkland/FTP-Deploy-Action) - Deploys a GitHub project to a FTP server using GitHub actions
-- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services cloud
+- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services gateway
 - [jopemachine-arvis/arvis](https://github.com/jopemachine-arvis/arvis) - Extendable cross-platform launcher that aims to help you run, edit, create any workflow simply
 - [covidpass-org/covidpass](https://github.com/covidpass-org/covidpass) - Web app for adding EU Digital COVID Certificates to your wallet apps
 - [hieunc229/copilot-clone](https://github.com/hieunc229/copilot-clone) - VSCode extension for code suggestion
