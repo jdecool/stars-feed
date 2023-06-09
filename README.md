@@ -416,6 +416,7 @@
 
 ## Go 
 
+- [ofabricio/capture](https://github.com/ofabricio/capture) - Capture is a reverse proxy that shows HTTP requests and responses in a dashboard
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Spin up dev environments in any infra. Dev-environments-as-code like Terraform but for dev environments. Like Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you
 - [hekmon/edfbleu](https://github.com/hekmon/edfbleu) - Compute the price of a user hourly consommation from Enedis data export in the 3 regulated prices of EDF (tarif bleu)
@@ -878,6 +879,7 @@
 
 ## JavaScript 
 
+- [makaroni4/focused_youtube](https://github.com/makaroni4/focused_youtube) - Chrome Extension to be more focused on Youtube.
 - [ColonelParrot/jscanify](https://github.com/ColonelParrot/jscanify) - Open-source Javascript mobile document scanner.
 - [Petit-Lutin/Dachshund-snake-JavaScript](https://github.com/Petit-Lutin/Dachshund-snake-JavaScript) - Snake game with Dachshund ("sausage dog") in JavaScript :dog:
 - [Delegation-numerique-en-sante/mesconseilscovid](https://github.com/Delegation-numerique-en-sante/mesconseilscovid) - Isolement, tests, vaccins… tout savoir pour prendre soin de votre santé
