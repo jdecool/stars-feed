@@ -702,7 +702,7 @@
 - [rakyll/boom](https://github.com/rakyll/boom) - HTTP(S) load generator, ApacheBench (ab) replacement, written in Go
 - [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
 - [nwidger/nintengo](https://github.com/nwidger/nintengo) - An NES emulator written in Go
-- [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
+- [GrantBirki/hub](https://github.com/GrantBirki/hub) - A command-line tool that makes git easier to use with GitHub.
 - [nytlabs/hive](https://github.com/nytlabs/hive) - A platform for backing crowdsourcing websites, built in golang for elasticsearch
 - [docker/machine](https://github.com/docker/machine) - Machine management for a container-centric world
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
