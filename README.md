@@ -1010,6 +1010,7 @@
 - [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
 - [timezoneio/timezoneio](https://github.com/timezoneio/timezoneio) - :clock8: :clock12: :clock2: Official repo of the app that helps you stay in sync with your globally distributed team
 - [sigalor/whatsapp-web-reveng](https://github.com/sigalor/whatsapp-web-reveng) - Reverse engineering WhatsApp Web.
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [jdittrich/quickMockup](https://github.com/jdittrich/quickMockup) - HTML based interface mockups
 - [egoist/vue-content-loader](https://github.com/egoist/vue-content-loader) - SVG component to create placeholder loading, like Facebook cards loading.
 - [jaredreich/pell](https://github.com/jaredreich/pell) - 📝 the simplest and smallest WYSIWYG text editor for web, with no dependencies
@@ -2638,7 +2639,6 @@
 - [awesome-inc/monorepo.gitlab](https://github.com/awesome-inc/monorepo.gitlab) - Scripts helping towards monorepos with GitLab CI.
 - [cytopia/awesome-ci](https://github.com/cytopia/awesome-ci) - Awesome Continuous Integration - Lot's of tools for git, file and static source code analysis.
 - [pyaillet/conf-linuxkit](https://github.com/pyaillet/conf-linuxkit) - Projects used in demos of our linuxkit talk
-- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [laravel/settler](https://github.com/laravel/settler) - 
 - [shopsys/monorepo-tools](https://github.com/shopsys/monorepo-tools) - [READ-ONLY] Tools for building and splitting monolithic repository from existing packages (with their history unchanged). This package is used for splitting our monorepo and we share it with our commu
 - [jlesage/docker-baseimage-gui](https://github.com/jlesage/docker-baseimage-gui) - A minimal docker baseimage to ease creation of X graphical application containers
