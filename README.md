@@ -366,7 +366,7 @@
 
 ## Dart 
 
-- [ubuntu-flutter-community/software](https://github.com/ubuntu-flutter-community/software) - Software App for Ubuntu made with Flutter 🧡 💙
+- [ubuntu/software](https://github.com/ubuntu/software) - Software App for Ubuntu made with Flutter 🧡 💙
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [spotter-application/spotter](https://github.com/spotter-application/spotter) - 🔭 Productivity tool to launch everything
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -1558,6 +1558,8 @@
 
 ## PHP 
 
+- [cerbero90/json-parser](https://github.com/cerbero90/json-parser) - 🧩 Zero-dependencies pull parser to read large JSON from any source in a memory-efficient way.
+- [oroinc/twig-inspector](https://github.com/oroinc/twig-inspector) - 
 - [debesha/DoctrineProfileExtraBundle](https://github.com/debesha/DoctrineProfileExtraBundle) - Bundle to get information about doctrine hydration performance
 - [php-defer/php-defer](https://github.com/php-defer/php-defer) - Golang's defer statement for PHP
 - [laradumps/laradumps](https://github.com/laradumps/laradumps) - 🛻 LaraDumps is a friendly app designed to boost your Laravel PHP coding and debugging experience.
