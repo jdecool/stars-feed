@@ -969,6 +969,7 @@
 - [zelaxo/zeeka](https://github.com/zelaxo/zeeka) - Secure global file sharing using tcp tunnels. Currently tunneling through localtunnel's public servers. Zeeka dedicated servers coming soon.
 - [fabienvauchelles/scrapoxy](https://github.com/fabienvauchelles/scrapoxy) - Scrapoxy hides your scraper behind a cloud. It starts a pool of proxies to send your requests. Now, you can crawl without thinking about blacklisting!
 - [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [riju/WebCamera](https://github.com/riju/WebCamera) - Camera controls for the Web
 - [estrada9166/issue-assigner](https://github.com/estrada9166/issue-assigner) - 
 - [jc21/docker-registry-ui](https://github.com/jc21/docker-registry-ui) - 😎 A nice web interface for managing your Docker Registry images
@@ -1558,6 +1559,7 @@
 
 ## PHP 
 
+- [flavioheleno/interrupt](https://github.com/flavioheleno/interrupt) - PSR-18 compliant Circuit Breaker wrapper
 - [cerbero90/json-parser](https://github.com/cerbero90/json-parser) - 🧩 Zero-dependencies pull parser to read large JSON from any source in a memory-efficient way.
 - [oroinc/twig-inspector](https://github.com/oroinc/twig-inspector) - 
 - [debesha/DoctrineProfileExtraBundle](https://github.com/debesha/DoctrineProfileExtraBundle) - Bundle to get information about doctrine hydration performance
@@ -2817,7 +2819,6 @@
 - [shivammathur/setup-php](https://github.com/shivammathur/setup-php) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
 - [vpj/annotate](https://github.com/vpj/annotate) - Annotate python source code
 - [TankerHQ/sdk-js](https://github.com/TankerHQ/sdk-js) - Tanker client-side encryption SDK for JavaScript
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [jasperapp/jasper](https://github.com/jasperapp/jasper) - Jasper - A flexible and powerful issue reader for GitHub
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
