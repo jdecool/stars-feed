@@ -1558,6 +1558,7 @@
 
 ## PHP 
 
+- [billabear/billabear](https://github.com/billabear/billabear) - SaaS Subscription Management and Billing System
 - [alexandre-daubois/lazy-stream](https://github.com/alexandre-daubois/lazy-stream) - Write and read data to and from streams, only when it is really needed to
 - [nitotm/efficient-language-detector](https://github.com/nitotm/efficient-language-detector) - Fast and accurate natural language detection. Detector written in PHP. Nito-ELD, ELD.
 - [flavioheleno/interrupt](https://github.com/flavioheleno/interrupt) - PSR-18 compliant Circuit Breaker wrapper
@@ -2236,7 +2237,7 @@
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [RhetTbull/osxphotos](https://github.com/RhetTbull/osxphotos) - Python app to export pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
 - [asg017/sqlite-ulid](https://github.com/asg017/sqlite-ulid) - A SQLite extension for generating and working with ULIDs
-- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution -- all with a simple interface.
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
 - [miniflux/python-client](https://github.com/miniflux/python-client) - Python client for Miniflux API
 - [ActiveState/OpenKomodoIDE](https://github.com/ActiveState/OpenKomodoIDE) - Open Komodo IDE is a fast and free multi-language code editor. Written in JS, Python, C++ and based on the Mozilla platform.
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
