@@ -921,7 +921,7 @@
 - [infosecstreams/infosecstreams.github.io](https://github.com/infosecstreams/infosecstreams.github.io) - A (hopefully) actively maintained activity-based-autosorted list of InfoSec Streamers
 - [ultrabolido/PrinceJS](https://github.com/ultrabolido/PrinceJS) - Prince of Persia reimplementation written in HTML5/Javascript
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale serverless load testing, as easy as 1-2-3. Never fail to scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale serverless load testing, as easy as 1-2-3. No DevOps needed. Never fail to scale!
 - [flowwer-dev/pull-request-stats](https://github.com/flowwer-dev/pull-request-stats) - Github action to print relevant stats about Pull Request reviewers
 - [EvilFreelancer/xhprof-ui-js](https://github.com/EvilFreelancer/xhprof-ui-js) - Modern, flexible and mobile friendly application for analyzing PHP XHProf dumps
 - [dalunacrobate/DaProfiler](https://github.com/dalunacrobate/DaProfiler) - DaProfiler allows you to create a profile on your target based in France only. The particularity of this program is its ability to find the e-mail addresses your target.
@@ -2700,7 +2700,7 @@
 
 - [okikio/inthistweet](https://github.com/okikio/inthistweet) - ✨ Futuristic ✨ twitter image, gif and video downloader.  Enter a Tweet URL, click search, and download the image/videos in it.
 - [richshaw2015/dino-rss-electron](https://github.com/richshaw2015/dino-rss-electron) - A simple, efficient, open source RSS reader service
-- [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio unlike any other.
+- [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio, an open source alternative to Docker desktop
 - [Orbitale/Compotes](https://github.com/Orbitale/Compotes) - A small app to manage bank account operations and display rich analytics. Demo app credentials are admin/admin. [In development]
 
 ## Swift 
