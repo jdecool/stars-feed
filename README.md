@@ -501,7 +501,7 @@
 - [stapelberg/airscan](https://github.com/stapelberg/airscan) - Go package to scan paper documents 📄 from a scanner 🖨️ via the network 🕸️ using the Apple AirScan (eSCL) protocol.
 - [royalbhati/Foxy](https://github.com/royalbhati/Foxy) - Go based download manager
 - [goadapp/goad](https://github.com/goadapp/goad) - Goad is an AWS Lambda powered, highly distributed, load testing tool
-- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recover
+- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, PassKeys, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, accou
 - [briansorahan/spatialite](https://github.com/briansorahan/spatialite) - database/sql driver for libspatialite
 - [shaxbee/go-spatialite](https://github.com/shaxbee/go-spatialite) - Spatialite SQL Driver for Golang
 - [mdlayher/schedgroup](https://github.com/mdlayher/schedgroup) - Package schedgroup provides a goroutine worker pool which schedules tasks to be performed at or after a specified time. MIT Licensed.
@@ -1559,7 +1559,7 @@
 ## PHP 
 
 - [NoiseByNorthwest/term-asteroids](https://github.com/NoiseByNorthwest/term-asteroids) - An Asteroids-like game, running in a terminal, written in PHP
-- [billabear/billabear](https://github.com/billabear/billabear) - SaaS Subscription Management and Billing System
+- [billabear/billabear](https://github.com/billabear/billabear) - Subscription Management and Billing System
 - [alexandre-daubois/lazy-stream](https://github.com/alexandre-daubois/lazy-stream) - Write and read data to and from streams, only when it is really needed to
 - [nitotm/efficient-language-detector](https://github.com/nitotm/efficient-language-detector) - Fast and accurate natural language detection. Detector written in PHP. Nito-ELD, ELD.
 - [flavioheleno/interrupt](https://github.com/flavioheleno/interrupt) - PSR-18 compliant Circuit Breaker wrapper
