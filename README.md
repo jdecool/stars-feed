@@ -1564,7 +1564,7 @@
 - [alexandre-daubois/lazy-stream](https://github.com/alexandre-daubois/lazy-stream) - Write and read data to and from streams, only when it is really needed to
 - [nitotm/efficient-language-detector](https://github.com/nitotm/efficient-language-detector) - Fast and accurate natural language detection. Detector written in PHP. Nito-ELD, ELD.
 - [flavioheleno/interrupt](https://github.com/flavioheleno/interrupt) - PSR-18 compliant Circuit Breaker wrapper
-- [cerbero90/json-parser](https://github.com/cerbero90/json-parser) - 🧩 Zero-dependencies pull parser to read large JSON from any source in a memory-efficient way.
+- [cerbero90/json-parser](https://github.com/cerbero90/json-parser) - 🧩 Zero-dependencies lazy parser to read JSON of any dimension and from any source in a memory-efficient way.
 - [oroinc/twig-inspector](https://github.com/oroinc/twig-inspector) - 
 - [debesha/DoctrineProfileExtraBundle](https://github.com/debesha/DoctrineProfileExtraBundle) - Bundle to get information about doctrine hydration performance
 - [php-defer/php-defer](https://github.com/php-defer/php-defer) - Golang's defer statement for PHP
