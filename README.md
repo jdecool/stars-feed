@@ -596,7 +596,7 @@
 - [hasura/gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [Aptomi/k8s-app-engine](https://github.com/Aptomi/k8s-app-engine) - Application delivery engine for k8s
-- [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs.
+- [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs
 - [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [algolia/sup3rS3cretMes5age](https://github.com/algolia/sup3rS3cretMes5age) - Simple to use, simple to deploy, one time self destruct messaging service, with hashicorp vault as a backend
@@ -1557,6 +1557,7 @@
 
 ## PHP 
 
+- [howtomakeaturn/easy-coverage](https://github.com/howtomakeaturn/easy-coverage) - A simple package to encourage/force developers to write tests.
 - [NoiseByNorthwest/term-asteroids](https://github.com/NoiseByNorthwest/term-asteroids) - An Asteroids-like game, running in a terminal, written in PHP
 - [billabear/billabear](https://github.com/billabear/billabear) - Subscription Management and Billing System
 - [alexandre-daubois/lazy-stream](https://github.com/alexandre-daubois/lazy-stream) - Write and read data to and from streams, only when it is really needed to
