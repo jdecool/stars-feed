@@ -1881,7 +1881,7 @@
 - [amphp/amp](https://github.com/amphp/amp) - A non-blocking concurrency framework for PHP applications. 🐘
 - [krakjoe/idbg](https://github.com/krakjoe/idbg) - Inspector Debugger
 - [rlanvin/php-rrule](https://github.com/rlanvin/php-rrule) - Lightweight and fast recurring dates library for PHP (RFC 5545)
-- [symfony/psr-http-message-bridge](https://github.com/symfony/psr-http-message-bridge) - PSR-7 Bridge
+- [symfony/psr-http-message-bridge](https://github.com/symfony/psr-http-message-bridge) - PSR HTTP message bridge
 - [melbahja/semver](https://github.com/melbahja/semver) - Simple PHP Semantic Versioning Parser and Comparator
 - [PoweredLocal/vrata](https://github.com/PoweredLocal/vrata) - API gateway implemented in PHP and Lumen
 - [philkra/elastic-apm-php-agent](https://github.com/philkra/elastic-apm-php-agent) - PHP Agent for Elastic APM
