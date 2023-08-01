@@ -367,6 +367,7 @@
 ## Dart 
 
 - [ubuntu/app-store](https://github.com/ubuntu/app-store) - App Store for Ubuntu made with Flutter 🧡 💙
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [spotter-application/spotter](https://github.com/spotter-application/spotter) - 🔭 Productivity tool to launch everything
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [redstone-dart/redstone](https://github.com/redstone-dart/redstone) - A metadata driven microframework for Dart.
@@ -758,7 +759,6 @@
 - [froala/design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
 - [yegor256/elegantobjects.github.io](https://github.com/yegor256/elegantobjects.github.io) - Fan club for Elegant Objects programmers
 - [solid/solid](https://github.com/solid/solid) - Solid - Re-decentralizing the web (project directory)
-- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [stefanbauer/pingping](https://github.com/stefanbauer/pingping) - Building a real world SaaS with Laravel, TailwindCSS and VueJS
 - [WebReflection/hyperHTML](https://github.com/WebReflection/hyperHTML) - A Fast & Light Virtual DOM Alternative
@@ -1338,7 +1338,7 @@
 - [sfsam/Itsycal](https://github.com/sfsam/Itsycal) - Itsycal is a tiny calendar for your Mac's menu bar. http://www.mowglii.com/itsycal
 - [newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep.
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
-- [google/santa](https://github.com/google/santa) - A binary authorization system for macOS
+- [google/santa](https://github.com/google/santa) - A binary authorization and monitoring system for macOS
 - [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [brunophilipe/Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew.
 - [kasper/phoenix](https://github.com/kasper/phoenix) - A lightweight macOS window and app manager scriptable with JavaScript
@@ -1878,6 +1878,7 @@
 - [AOEpeople/composer-satis-builder](https://github.com/AOEpeople/composer-satis-builder) - 
 - [leproxy/leproxy](https://github.com/leproxy/leproxy) - LeProxy is the HTTP/SOCKS proxy server for everybody!
 - [mediact/dependency-guard](https://github.com/mediact/dependency-guard) - Static production dependency analysis.
+- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [amphp/amp](https://github.com/amphp/amp) - A non-blocking concurrency framework for PHP applications. 🐘
 - [krakjoe/idbg](https://github.com/krakjoe/idbg) - Inspector Debugger
 - [rlanvin/php-rrule](https://github.com/rlanvin/php-rrule) - Lightweight and fast recurring dates library for PHP (RFC 5545)
@@ -2779,7 +2780,6 @@
 - [anymaniax/orval](https://github.com/anymaniax/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [mb21/panwriter](https://github.com/mb21/panwriter) - Markdown editor with pandoc integration and paginated preview.
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [france-connect/sources](https://github.com/france-connect/sources) - 
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
