@@ -367,7 +367,6 @@
 ## Dart 
 
 - [ubuntu/app-store](https://github.com/ubuntu/app-store) - App Store for Ubuntu made with Flutter 🧡 💙
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [spotter-application/spotter](https://github.com/spotter-application/spotter) - 🔭 Productivity tool to launch everything
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [redstone-dart/redstone](https://github.com/redstone-dart/redstone) - A metadata driven microframework for Dart.
@@ -1202,7 +1201,7 @@
 - [maqetta/maqetta](https://github.com/maqetta/maqetta) - Maqetta Designer
 - [maryrosecook/asteroids](https://github.com/maryrosecook/asteroids) - A simple version of Asteroids that I might livecode at Front-Trends 2014
 - [zeman/perfmap](https://github.com/zeman/perfmap) - Front-end performance heatmap bookmarklet.
-- [segmentio/nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
+- [segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare) - A high-level browser automation library.
 - [karol-f/ngMario](https://github.com/karol-f/ngMario) - Learn AngularJS playing Super Mario Brothers
 - [young-steveo/bottlejs](https://github.com/young-steveo/bottlejs) - A powerful dependency injection micro container for JavaScript applications
 - [tenjou/dopple](https://github.com/tenjou/dopple) - Dopple is compiler that generates C++ source code from JavaScript code.
@@ -2780,6 +2779,7 @@
 - [anymaniax/orval](https://github.com/anymaniax/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [mb21/panwriter](https://github.com/mb21/panwriter) - Markdown editor with pandoc integration and paginated preview.
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [france-connect/sources](https://github.com/france-connect/sources) - 
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
