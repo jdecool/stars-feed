@@ -1560,6 +1560,7 @@
 
 ## PHP 
 
+- [CuyZ/Valinor-Bundle](https://github.com/CuyZ/Valinor-Bundle) - Symfony integration of `cuyz/valinor` — a PHP library that helps to map any input into a strongly-typed value object structure.
 - [cspray/architectural-decision](https://github.com/cspray/architectural-decision) - A PHP8 library for documenting Architectural Decisions with Attributes!
 - [howtomakeaturn/easy-coverage](https://github.com/howtomakeaturn/easy-coverage) - A simple package to encourage/force developers to write tests.
 - [NoiseByNorthwest/term-asteroids](https://github.com/NoiseByNorthwest/term-asteroids) - An Asteroids-like game, running in a terminal, written in PHP
@@ -2694,7 +2695,6 @@
 - [agallou/docker-symfony-phpunit](https://github.com/agallou/docker-symfony-phpunit) - 
 - [agallou/docker-aperophp](https://github.com/agallou/docker-aperophp) - 
 - [thoughtbot/laptop](https://github.com/thoughtbot/laptop) - A shell script to set up a macOS laptop for web and mobile development.
-- [ffuenf/vagrant-boxes](https://github.com/ffuenf/vagrant-boxes) - baseboxes build with packer.io for use with vagrant
 - [chilimangoes/vagrant-mono-nginx](https://github.com/chilimangoes/vagrant-mono-nginx) - Vagrant box running an ASP.NET web server under Mono on Ubuntu
 
 ## Standard ML 
