@@ -2000,7 +2000,7 @@
 - [felixfbecker/php-language-server](https://github.com/felixfbecker/php-language-server) - PHP Implementation of the VS Code Language Server Protocol 🆚↔🖥
 - [patrickschur/stanford-nlp-tagger](https://github.com/patrickschur/stanford-nlp-tagger) - PHP wrapper for the Stanford Natural Language Processing library. Supports POSTagger and CRFClassifier.
 - [patrickschur/language-detection](https://github.com/patrickschur/language-detection) - A language detection library for PHP. Detects the language from a given text string.
-- [EnMarche/en-marche.fr](https://github.com/EnMarche/en-marche.fr) - Le site principal du mouvement En Marche !
+- [parti-renaissance/espace-adherent](https://github.com/parti-renaissance/espace-adherent) - Le site principal du parti Renaissance
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - [agallou/git-php-diff](https://github.com/agallou/git-php-diff) - Display the git diff of your PHP files using an AST.
 - [microsoft/tolerant-php-parser](https://github.com/microsoft/tolerant-php-parser) - An early-stage PHP parser designed for IDE usage scenarios.
@@ -2243,7 +2243,7 @@
 ## Python 
 
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—a VS Code extension that brings the power of ChatGPT to your IDE
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Monorepo for E2B - Operating System for AI Agents
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Monorepo for E2B - Cloud Operating System for AI Agents
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [RhetTbull/osxphotos](https://github.com/RhetTbull/osxphotos) - Python app to export pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
 - [asg017/sqlite-ulid](https://github.com/asg017/sqlite-ulid) - A SQLite extension for generating and working with ULIDs
