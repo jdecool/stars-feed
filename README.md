@@ -915,7 +915,6 @@
 - [juliuste/direkt.bahn.guru](https://github.com/juliuste/direkt.bahn.guru) - All direct long-distance railway connections for cities in and beyond central Europe.
 - [bhovhannes/junit-report-merger](https://github.com/bhovhannes/junit-report-merger) - Merges multiple JUnit XML reports into one
 - [hbend1li/number-to-letters](https://github.com/hbend1li/number-to-letters) - Convert a number to letters
-- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [frncsdrk/avatar](https://github.com/frncsdrk/avatar) - Self-hosted service for creating random avatars
 - [rohanrhu/gdb-frontend](https://github.com/rohanrhu/gdb-frontend) - ☕ GDBFrontend is an easy, flexible and extensible gui debugger. Try it on https://debugme.dev
@@ -2793,6 +2792,7 @@
 - [nohello-net/site](https://github.com/nohello-net/site) - 
 - [robertwt7/meetsy](https://github.com/robertwt7/meetsy) - Open source online booking system
 - [mihaip/infinite-mac](https://github.com/mihaip/infinite-mac) - A classic Mac loaded with everything you'd want
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [CarterLi/vue3-ace-editor](https://github.com/CarterLi/vue3-ace-editor) - Like vue2-ace-editor but more functional and supports Vue 3
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Generate code from cURL commands
