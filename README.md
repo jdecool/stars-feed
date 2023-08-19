@@ -1588,7 +1588,7 @@
 - [openai-php/symfony](https://github.com/openai-php/symfony) - ⚡️ OpenAI PHP for Symfony is a supercharged PHP API client that allows you to interact with OpenAI API
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) - Find Unused Public Elements in Your Code
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
-- [amphp/parallel](https://github.com/amphp/parallel) - Parallel processing for PHP based on Amp.
+- [amphp/parallel](https://github.com/amphp/parallel) - An advanced parallelization library for PHP, enabling efficient multitasking, optimizing resource use, and application responsiveness through multiple CPU threads.
 - [sourceability/openai-client](https://github.com/sourceability/openai-client) - PHP 8.0+ OpenAI API client with fully typed/documented requests+responses models, guzzle and symfony/http-client support and async/parallel requests
 - [ssddanbrown/rss](https://github.com/ssddanbrown/rss) - A simple twitter-feed-style RSS aggregator written in PHP, Laravel, Inertia.js, Tailwind and Vue.js
 - [williarin/cook](https://github.com/williarin/cook) - Composer plugin to execute recipes embedded in packages
@@ -1612,7 +1612,7 @@
 - [claudiodekker/laravel-auth](https://github.com/claudiodekker/laravel-auth) - Rich authentication logic for your Laravel applications.
 - [friendsoftwig/twigcs](https://github.com/friendsoftwig/twigcs) - The missing checkstyle for twig!
 - [php-fig/clock](https://github.com/php-fig/clock) - PSR-20 repository
-- [laravel-workflow/laravel-workflow](https://github.com/laravel-workflow/laravel-workflow) - Durable workflow engine that allows users to track job status and write long running persistent distributed workflows (orchestrations) in PHP powered by Laravel Queues. Inspired by Temporal and Azure 
+- [laravel-workflow/laravel-workflow](https://github.com/laravel-workflow/laravel-workflow) - Durable workflow engine that allows users to track job status, orchestrate microservices and write long running persistent distributed workflows in PHP powered by Laravel Queues. Inspired by Temporal 
 - [heiglandreas/holidayChecker](https://github.com/heiglandreas/holidayChecker) - Check for holidays - locale-aware
 - [crew-cr/Crew](https://github.com/crew-cr/Crew) - Code review tool for git projects
 - [flow-php/etl](https://github.com/flow-php/etl) - [READ-ONLY] PHP - ETL (Extract Transform Load) data processing library
@@ -2241,7 +2241,7 @@
 
 ## Python 
 
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—a VS Code extension that brings the power of ChatGPT to your IDE
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source coding copilot—bring the power of ChatGPT to VS Code
 - [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Monorepo for E2B - Cloud Operating System for AI Agents
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [RhetTbull/osxphotos](https://github.com/RhetTbull/osxphotos) - Python app to export pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
