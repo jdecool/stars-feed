@@ -1311,7 +1311,6 @@
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [akrabat/bref-image-resizer](https://github.com/akrabat/bref-image-resizer) - Serverless PHP (Bref/Lambda) function to resize an image on upload to an S3 bucket
 - [phpbrew/phpbrew](https://github.com/phpbrew/phpbrew) - Brew & manage PHP versions in pure PHP at HOME
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## Markdown 
 
@@ -1514,6 +1513,7 @@
 - [utkusen/hidden-tear](https://github.com/utkusen/hidden-tear) - an open source ransomware honeypot
 - [danluu/debugging-stories](https://github.com/danluu/debugging-stories) - A collection of debugging stories. PRs welcome (sorry for the backlog) :-)
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [google/deepdream](https://github.com/google/deepdream) - 
 - [servergrove/ansible-symfony2](https://github.com/servergrove/ansible-symfony2) - Ansible role to deploy Symfony2 applications
@@ -1563,6 +1563,7 @@
 
 ## PHP 
 
+- [brendt/rfc-vote](https://github.com/brendt/rfc-vote) - A community project for voting on PHP RFCs
 - [CuyZ/Valinor-Bundle](https://github.com/CuyZ/Valinor-Bundle) - Symfony integration of `cuyz/valinor` — a PHP library that helps to map any input into a strongly-typed value object structure.
 - [cspray/architectural-decision](https://github.com/cspray/architectural-decision) - A PHP8 library for documenting Architectural Decisions with Attributes!
 - [howtomakeaturn/easy-coverage](https://github.com/howtomakeaturn/easy-coverage) - A simple package to encourage/force developers to write tests.
@@ -2731,7 +2732,7 @@
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-- [davidwernhart/AlDente-Charge-Limiter](https://github.com/davidwernhart/AlDente-Charge-Limiter) - macOS tool to limit maximum charging percentage
+- [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - macOS menubar tool to set Charge Limits and prolong battery lifespan
 - [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - DevToys For mac
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 - [Mortennn/Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
@@ -2768,6 +2769,7 @@
 
 ## TypeScript 
 
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - The open-source monitoring service
 - [thomvaill/log4brains](https://github.com/thomvaill/log4brains) - ✍️ Log and publish your architecture decisions (ADR)
 - [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v3.1, v3.0, and v2.0 as well as AsyncAPI v2.x.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
