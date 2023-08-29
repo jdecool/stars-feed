@@ -369,6 +369,7 @@
 ## Dart 
 
 - [ubuntu/app-store](https://github.com/ubuntu/app-store) - App Store for Ubuntu made with Flutter 🧡 💙
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [spotter-application/spotter](https://github.com/spotter-application/spotter) - 🔭 Productivity tool to launch everything
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [redstone-dart/redstone](https://github.com/redstone-dart/redstone) - A metadata driven microframework for Dart.
@@ -1564,6 +1565,7 @@
 
 ## PHP 
 
+- [formal-php/orm](https://github.com/formal-php/orm) - 
 - [emreyarligan/enum-concern](https://github.com/emreyarligan/enum-concern) - A PHP package for effortless Enumeration handling with Laravel Collections 📦 ✨
 - [brendt/rfc-vote](https://github.com/brendt/rfc-vote) - A community project for voting on PHP RFCs
 - [CuyZ/Valinor-Bundle](https://github.com/CuyZ/Valinor-Bundle) - Symfony integration of `cuyz/valinor` — a PHP library that helps to map any input into a strongly-typed value object structure.
@@ -1888,7 +1890,7 @@
 - [AOEpeople/composer-satis-builder](https://github.com/AOEpeople/composer-satis-builder) - 
 - [leproxy/leproxy](https://github.com/leproxy/leproxy) - LeProxy is the HTTP/SOCKS proxy server for everybody!
 - [mediact/dependency-guard](https://github.com/mediact/dependency-guard) - Static production dependency analysis.
-- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
+- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [amphp/amp](https://github.com/amphp/amp) - A non-blocking concurrency framework for PHP applications. 🐘
 - [krakjoe/idbg](https://github.com/krakjoe/idbg) - Inspector Debugger
 - [rlanvin/php-rrule](https://github.com/rlanvin/php-rrule) - Lightweight and fast recurring dates library for PHP (RFC 5545)
@@ -2791,7 +2793,6 @@
 - [anymaniax/orval](https://github.com/anymaniax/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [mb21/panwriter](https://github.com/mb21/panwriter) - Markdown editor with pandoc integration and paginated preview.
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [france-connect/sources](https://github.com/france-connect/sources) - 
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy 🍑🍆
