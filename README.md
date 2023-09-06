@@ -354,7 +354,6 @@
 
 - [msolters/wifi-control-node](https://github.com/msolters/wifi-control-node) - A NodeJS module that allows you to scan for, connect to and disconnect from wireless access points near the server. Great for offline or local apps.
 - [JoelBesada/activate-power-mode](https://github.com/JoelBesada/activate-power-mode) - Atom package - Activate POWER MODE to write your code in style.
-- [ctate/autocode](https://github.com/ctate/autocode) - spec-driven code generator
 - [ichord/At.js](https://github.com/ichord/At.js) - Add Github like mentions autocomplete to your application.
 - [appuri/mock-http-server](https://github.com/appuri/mock-http-server) - Generic HTTP Server that can record requests as a proxy and playback as an HTTP server.
 - [dmackerman/angular-better-placeholders](https://github.com/dmackerman/angular-better-placeholders) - Angular directive for enhanced placeholders that easily integrate with Bootstrap form fields.
@@ -368,7 +367,7 @@
 
 ## Dart 
 
-- [ubuntu/app-store](https://github.com/ubuntu/app-store) - App Store for Ubuntu made with Flutter 🧡 💙
+- [ubuntu/app-center](https://github.com/ubuntu/app-center) - App Store for Ubuntu made with Flutter 🧡 💙
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [spotter-application/spotter](https://github.com/spotter-application/spotter) - 🔭 Productivity tool to launch everything
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -2899,6 +2898,7 @@
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [phiresky/nmap-log-parse](https://github.com/phiresky/nmap-log-parse) - Logs which devices are in your local network and draws graphs
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code.
+- [zappjs/zappjs](https://github.com/zappjs/zappjs) - spec-driven code generator
 - [FlorianRappl/Mario5TS](https://github.com/FlorianRappl/Mario5TS) - The TypeScript version of the Mario5 demo application.
 - [aksharpatel47/Phaser-Typescript-Tutorials-Code](https://github.com/aksharpatel47/Phaser-Typescript-Tutorials-Code) - This repository contains code written in typescript for various tutorials found online for Phaser Game Framework.
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
