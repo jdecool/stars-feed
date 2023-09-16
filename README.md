@@ -203,6 +203,7 @@
 
 ## C# # 
 
+- [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith application with Domain-Driven Design approach.
 - [ardalis/kata-catalog](https://github.com/ardalis/kata-catalog) - My list of code katas
 - [unfrl/dug](https://github.com/unfrl/dug) - A global DNS propagation checker that gives pretty output. Written in dotnet core
 - [Rebalanser/rebalanser-net](https://github.com/Rebalanser/rebalanser-net) - Rebalanser for .NET
