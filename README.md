@@ -2623,6 +2623,7 @@
 
 ## Shell 
 
+- [wireghoul/graudit](https://github.com/wireghoul/graudit) - grep rough audit - source code auditing tool
 - [digitalpulp/pre-commit-php](https://github.com/digitalpulp/pre-commit-php) - Pre-commit scripts appropiate for *any* PHP project. These hooks are made as custom plugins under the [pre-commit](http://pre-commit.com/#new-hooks) git hook framework.
 - [laradumps/laradumps-docs](https://github.com/laradumps/laradumps-docs) - 📚 LaraDumps Docs
 - [BalliAsghar/killport](https://github.com/BalliAsghar/killport) - Kill The Port
@@ -2924,6 +2925,7 @@
 
 ## Vue 
 
+- [jbuget/threadr-app](https://github.com/jbuget/threadr-app) - A micro-blogging threads editor (compatible with Bluesky, Mastodon and Twitter)
 - [hlassiege/eventuallycoding](https://github.com/hlassiege/eventuallycoding) - 
 - [JhumanJ/OpnForm](https://github.com/JhumanJ/OpnForm) - Beautiful Open-Source Form Builder
 - [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-first web HTTP client
