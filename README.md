@@ -2152,7 +2152,7 @@
 - [rezzza/mock-extension](https://github.com/rezzza/mock-extension) - [Deprecated] Add possibility to define several mock engine for your behat tests
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) - EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.
 - [sciactive/hookphp](https://github.com/sciactive/hookphp) - Method hooking in PHP.
-- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
 - [simshaun/recurr](https://github.com/simshaun/recurr) - PHP library for working with recurrence rules (RRULE); meant to help with recurring calendar events.
 - [sampart/BreadcrumbsBundle](https://github.com/sampart/BreadcrumbsBundle) - A small breadcrumbs bundle for Symfony
 - [nodesocket/dogpatch](https://github.com/nodesocket/dogpatch) - An HTTP API testing framework, written in PHP using curl.
@@ -2205,7 +2205,7 @@
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
 - [jakubledl/dissect](https://github.com/jakubledl/dissect) - A set of tools for lexical and syntactical analysis written in pure PHP.
 - [elastic/elasticsearch-php](https://github.com/elastic/elasticsearch-php) - Official PHP client for Elasticsearch.
-- [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - sample code for several design patterns in PHP 8
+- [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - Sample code for several design patterns in PHP 8.x
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
 - [rezzza/jobflow](https://github.com/rezzza/jobflow) - Makes batch jobs creation Simpler, Easier, Faster.
 - [atoum/atoum-stub-generator](https://github.com/atoum/atoum-stub-generator) - [DEPRECATED] Stub Generator for Atoum
