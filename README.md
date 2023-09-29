@@ -186,7 +186,6 @@
 - [badlee/PHPJS](https://github.com/badlee/PHPJS) - Run javascript inside PHP (powered by duktape.org)
 - [php-ds/ext-ds](https://github.com/php-ds/ext-ds) - An extension providing efficient data structures for PHP 7
 - [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
-- [bwall/pemcracker](https://github.com/bwall/pemcracker) - Tool to crack encrypted PEM files
 - [guillaumechereau/goxel](https://github.com/guillaumechereau/goxel) - Goxel: Free and Open Source 3D Voxel Editor
 - [krakjoe/pthreads](https://github.com/krakjoe/pthreads) - Threading for PHP - Share Nothing, Do Everything :)
 - [CTurt/PS4-SDK](https://github.com/CTurt/PS4-SDK) - Open source PS4 SDK
@@ -1566,6 +1565,9 @@
 
 ## PHP 
 
+- [loupe-php/loupe](https://github.com/loupe-php/loupe) - A full text search engine with tokenization, stemming, typo tolerance, filters and geo support based on only PHP and SQLite.
+- [TomasVotruba/lines](https://github.com/TomasVotruba/lines) - CLI tool for quick size measure of PHP project, runs anywhere
+- [zenstruck/messenger-monitor-bundle](https://github.com/zenstruck/messenger-monitor-bundle) - Batteries included UI to monitor your Messenger workers, transports, schedules, and messages.
 - [AvaiBookSports/DoctrineMigrationsMultipleDatabaseBundle](https://github.com/AvaiBookSports/DoctrineMigrationsMultipleDatabaseBundle) - This bundle extends the DoctrineMigrationsBundle functionality to support migrations for multiple entity managers
 - [koolreport/core](https://github.com/koolreport/core) - An Open Source PHP Reporting Framework that helps you to write perfect data reports or to construct awesome dashboards in PHP. Working great with all PHP versions from 5.6 to latest 8.0. Fully compati
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build single static PHP binary, with PHP project together, with popular extensions included.
@@ -2256,7 +2258,7 @@
 
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform
 - [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—bring the power of ChatGPT to VS Code
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—bring the power of ChatGPT to VS Code and JetBrains
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [RhetTbull/osxphotos](https://github.com/RhetTbull/osxphotos) - Python app to export pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
 - [asg017/sqlite-ulid](https://github.com/asg017/sqlite-ulid) - A SQLite extension for generating and working with ULIDs
