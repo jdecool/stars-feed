@@ -312,6 +312,7 @@
 
 ## CSS 
 
+- [makaroni4/focused_youtube](https://github.com/makaroni4/focused_youtube) - Chrome Extension to be more focused on Youtube.
 - [Probesys/agentj](https://github.com/Probesys/agentj) - AgentJ is a free software anti-spam solution with human authentication and admin panel
 - [laravel-workflow/waterline](https://github.com/laravel-workflow/waterline) - An elegant UI for monitoring Laravel Workflows.
 - [SymfonyCasts/messenger-monitor-bundle](https://github.com/SymfonyCasts/messenger-monitor-bundle) - Visual Monitoring & Retries for Symfony Messenger!
@@ -885,7 +886,6 @@
 
 - [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back
 - [adr/adr-log](https://github.com/adr/adr-log) - Generate an architectural decision record log (adr-log) out of architectural decision records (ADRs)
-- [makaroni4/focused_youtube](https://github.com/makaroni4/focused_youtube) - Chrome Extension to be more focused on Youtube.
 - [ColonelParrot/jscanify](https://github.com/ColonelParrot/jscanify) - Open-source Javascript mobile document scanner.
 - [Petit-Lutin/Dachshund-snake-JavaScript](https://github.com/Petit-Lutin/Dachshund-snake-JavaScript) - Snake game with Dachshund ("sausage dog") in JavaScript :dog:
 - [Delegation-numerique-en-sante/mesconseilscovid](https://github.com/Delegation-numerique-en-sante/mesconseilscovid) - Isolement, tests, vaccins… tout savoir pour prendre soin de votre santé
@@ -1566,6 +1566,7 @@
 
 ## PHP 
 
+- [vcian/php-db-auditor](https://github.com/vcian/php-db-auditor) - Audit your mysql database -Database DB Auditor provide leverage to audit your MySql database standards and also provide options to add constraints in table
 - [loupe-php/loupe](https://github.com/loupe-php/loupe) - A full text search engine with tokenization, stemming, typo tolerance, filters and geo support based on only PHP and SQLite.
 - [TomasVotruba/lines](https://github.com/TomasVotruba/lines) - CLI tool for quick size measure of PHP project, runs anywhere
 - [zenstruck/messenger-monitor-bundle](https://github.com/zenstruck/messenger-monitor-bundle) - Batteries included UI to monitor your Messenger workers, transports, schedules, and messages.
@@ -2783,6 +2784,7 @@
 
 ## TypeScript 
 
+- [Web-SyncPlay/Web-SyncPlay](https://github.com/Web-SyncPlay/Web-SyncPlay) - Watch online media like YouTube, Vimeo, Soundcloud or video/audio files in sync.
 - [spatie/fatten](https://github.com/spatie/fatten) - Transform dot-notation-like objects into optimised nested objects.
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - The open-source monitoring platform
 - [thomvaill/log4brains](https://github.com/thomvaill/log4brains) - ✍️ Log and publish your architecture decisions (ADR)
