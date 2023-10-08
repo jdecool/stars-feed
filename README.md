@@ -57,6 +57,7 @@
 - [Puppet](#puppet)
 - [PureScript](#purescript)
 - [Python](#python)
+- [Racket](#racket)
 - [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -173,7 +174,7 @@
 - [willdurand/ArvernOS](https://github.com/willdurand/ArvernOS) - :floppy_disk: A minimal, experimental and "toy" monolithic kernel to learn about OS development // Work In Progress
 - [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
 - [robertfisk/USG](https://github.com/robertfisk/USG) - The USG is Good, not Bad
-- [tideways/php-xhprof-extension](https://github.com/tideways/php-xhprof-extension) - Modern XHProf compatible PHP Profiler for PHP 7
+- [tideways/php-xhprof-extension](https://github.com/tideways/php-xhprof-extension) - This XHProf PHP extension fork has outlived its purpose and is archived in favor of the revitalized https://github.com/longxinH/xhprof
 - [qeedquan/gosubc](https://github.com/qeedquan/gosubc) - An implementation of the SubC language in Go
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [Cisco-Talos/MBRFilter](https://github.com/Cisco-Talos/MBRFilter) - Cisco Talos MBR Filter Driver
@@ -768,7 +769,6 @@
 - [CodeValet/codevalet](https://github.com/CodeValet/codevalet) - Radically transparent
 - [GoogleCloudPlatform/podcast](https://github.com/GoogleCloudPlatform/podcast) - The Google Cloud Platform Podcast
 - [potch/unmaintained.tech](https://github.com/potch/unmaintained.tech) - No Maintenance Intended
-- [ThomasBerends/symfony-certification-preparation-list](https://github.com/ThomasBerends/symfony-certification-preparation-list) - List of topic-specific resources to help you prepare for Symfony certification
 - [microformats/tests](https://github.com/microformats/tests) - Microformats test suite
 - [ovh/overthebox-feeds](https://github.com/ovh/overthebox-feeds) - OverTheBox - LEDE/OpenWrt feed
 - [pubsubhubbub/PubSubHubbub](https://github.com/pubsubhubbub/PubSubHubbub) - The PubSubHubbub protocol specification.
@@ -883,6 +883,7 @@
 
 ## JavaScript 
 
+- [guillaume-rygn/octodoc](https://github.com/guillaume-rygn/octodoc) - Gather all the documentation for your dependencies in one place instantly! 🪄
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back
 - [adr/adr-log](https://github.com/adr/adr-log) - Generate an architectural decision record log (adr-log) out of architectural decision records (ADRs)
@@ -1480,6 +1481,7 @@
 - [Roave/SecurityAdvisories](https://github.com/Roave/SecurityAdvisories) - :closed_lock_with_key: Security advisories as a simple composer exclusion list, updated daily
 - [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 - [berzerk0/Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
+- [ThomasBerends/symfony-certification-preparation-list](https://github.com/ThomasBerends/symfony-certification-preparation-list) - List of topic-specific resources to help you prepare for Symfony certification
 - [hobby-kube/guide](https://github.com/hobby-kube/guide) - Kubernetes clusters for the hobbyist.
 - [basecamp/handbook](https://github.com/basecamp/handbook) - Basecamp Employee Handbook
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
@@ -1633,7 +1635,7 @@
 - [laravel-workflow/laravel-workflow](https://github.com/laravel-workflow/laravel-workflow) - Durable workflow engine that allows users to track job status, orchestrate microservices and write long running persistent distributed workflows in PHP powered by Laravel Queues. Inspired by Temporal 
 - [heiglandreas/holidayChecker](https://github.com/heiglandreas/holidayChecker) - Check for holidays - locale-aware
 - [crew-cr/Crew](https://github.com/crew-cr/Crew) - Code review tool for git projects
-- [flow-php/etl](https://github.com/flow-php/etl) - [READ-ONLY] PHP - ETL (Extract Transform Load) data processing library
+- [flow-php/etl](https://github.com/flow-php/etl) - PHP - ETL (Extract Transform Load) data processing library
 - [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php) - PHP version of mysqldump cli that comes with MySQL
 - [odolbeau/phone-number-bundle](https://github.com/odolbeau/phone-number-bundle) - Integrates libphonenumber into your Symfony application
 - [Flowframe/laravel-trend](https://github.com/Flowframe/laravel-trend) - Generate trends for your models. Easily generate charts or reports.
@@ -2457,6 +2459,10 @@
 - [edas/webperf-book](https://github.com/edas/webperf-book) - Livre : Performance des sites web
 - [ColinGarrigaSalaun/rss2reddit](https://github.com/ColinGarrigaSalaun/rss2reddit) - 
 
+## Racket 
+
+- [Bogdanp/Franz](https://github.com/Bogdanp/Franz) - A desktop client for Apache Kafka.
+
 ## Roff 
 
 - [mist64/cbmsrc](https://github.com/mist64/cbmsrc) - Original source code of various Commodore computers and peripherals.
@@ -2734,7 +2740,6 @@
 
 ## Swift 
 
-- [Bogdanp/Franz](https://github.com/Bogdanp/Franz) - A desktop client for Apache Kafka.
 - [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client
 - [iglance/iGlance](https://github.com/iglance/iGlance) - Free system monitor for OSX and macOS. See all system information at a glance in the menu bar.
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
@@ -2824,7 +2829,6 @@
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [dynamite-ready/movie-parser](https://github.com/dynamite-ready/movie-parser) - NWJS wrapper for a wider project.
 - [notea-org/notea](https://github.com/notea-org/notea) - 📒 Self hosted note taking app stored on S3
-- [antonmedv/numbr](https://github.com/antonmedv/numbr) - Notepad + calculator
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
