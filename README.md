@@ -1950,7 +1950,6 @@
 - [4xxi/skeleton](https://github.com/4xxi/skeleton) - 4xxi Symfony Skeleton is an extension for the official Symfony Skeleton with symfony flex used in 4xxi
 - [f500/elewant](https://github.com/f500/elewant) - 
 - [php-composter/php-composter](https://github.com/php-composter/php-composter) - Git Hooks Management through Composer
-- [park-manager/park-manager](https://github.com/park-manager/park-manager) - Park-Manager - a full-stack hosting-management system
 - [mikeerickson/phpunit-pretty-result-printer](https://github.com/mikeerickson/phpunit-pretty-result-printer) - PHPUnit Pretty Result Printer -- make your PHPUnit tests look pretty!
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library
 - [edyan/neuralyzer](https://github.com/edyan/neuralyzer) - Neuralyzer is a library and a command line tool to anonymize databases (by updating existing data or populating a table with fake data)
