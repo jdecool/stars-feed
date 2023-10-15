@@ -419,6 +419,7 @@
 
 ## Go 
 
+- [tonywangcn/distributed-web-crawler](https://github.com/tonywangcn/distributed-web-crawler) - The Architecture of a Web Crawler: Building a Google-Inspired Distributed Web Crawler
 - [nalgeon/sqlpkg-cli](https://github.com/nalgeon/sqlpkg-cli) - SQLite package manager
 - [malbertzard/repowatcher](https://github.com/malbertzard/repowatcher) - A Cli tool that manages and updates all your repos
 - [christianselig/apollo-backend](https://github.com/christianselig/apollo-backend) - Apollo backend server
@@ -1568,6 +1569,7 @@
 
 ## PHP 
 
+- [chevere/xrdebug](https://github.com/chevere/xrdebug) - Lightweight debug utility
 - [pmjones/php-styler](https://github.com/pmjones/php-styler) - Rebuilds PHP code from an abstract syntax tree.
 - [hazaveh/verify-domain](https://github.com/hazaveh/verify-domain) - Verify Domain Ownership in PHP
 - [vcian/php-db-auditor](https://github.com/vcian/php-db-auditor) - Audit your mysql database -Database DB Auditor provide leverage to audit your MySql database standards and also provide options to add constraints in table
