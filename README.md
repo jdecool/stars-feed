@@ -1375,6 +1375,7 @@
 
 ## Others 
 
+- [httpie/desktop](https://github.com/httpie/desktop) - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs.
 - [chanakaudaya/solution-architecture-patterns](https://github.com/chanakaudaya/solution-architecture-patterns) - Reusable, vendor-neutral, industry-specific, vendor-specific solution architecture patterns for enterprise
 - [alan2207/awesome-codebases](https://github.com/alan2207/awesome-codebases) - A collection of awesome open-source codebases worth exploring.
 - [domenicosolazzo/awesome-okr](https://github.com/domenicosolazzo/awesome-okr) - A curated list about OKR (Objective - Key Results)
@@ -1569,6 +1570,7 @@
 
 ## PHP 
 
+- [doctrine/deprecations](https://github.com/doctrine/deprecations) - Thin library around different deprecation strategies
 - [chevere/xrdebug](https://github.com/chevere/xrdebug) - Lightweight debug utility
 - [pmjones/php-styler](https://github.com/pmjones/php-styler) - Rebuilds PHP code from an abstract syntax tree.
 - [hazaveh/verify-domain](https://github.com/hazaveh/verify-domain) - Verify Domain Ownership in PHP
@@ -1805,7 +1807,6 @@
 - [loophp/mock-soapclient](https://github.com/loophp/mock-soapclient) - A fake and predictable SOAP client, useful for your unit tests.
 - [ovh/php-ovh](https://github.com/ovh/php-ovh) - Lightweight PHP wrapper for OVH APIs. That's the easiest way to use OVH.com APIs in your PHP applications.
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - :computer: Parallel testing for PHPUnit
-- [Harborn-digital/cookie-consent-bundle](https://github.com/Harborn-digital/cookie-consent-bundle) - Symfony bundle to append Cookie Consent to your website to comply to AVG/GDPR for cookies.
 - [malc0mn/vultr-api-client](https://github.com/malc0mn/vultr-api-client) - API Client for Vultr.com
 - [akaunting/akaunting](https://github.com/akaunting/akaunting) - Online Accounting Software
 - [liip/LiipMonitorBundle](https://github.com/liip/LiipMonitorBundle) - Integrates the LiipMonitor library into Symfony
