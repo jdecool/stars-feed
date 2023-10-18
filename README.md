@@ -1068,7 +1068,7 @@
 - [danielbayerlein/dashboard](https://github.com/danielbayerlein/dashboard) - 📺 Create your own team dashboard with custom widgets. Built with Next.js, React, styled-components and polished.
 - [dascritch/ondemiroir-audio-tag](https://github.com/dascritch/ondemiroir-audio-tag) - An evolution to timecodehash for a enhanced audio tag
 - [hectorguo/CKEditor-Markdown-Plugin](https://github.com/hectorguo/CKEditor-Markdown-Plugin) - Markdown Plugin for CKEditor
-- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [djenriquez/vault-ui](https://github.com/djenriquez/vault-ui) - Vault-UI — A beautiful UI to manage your Vault, written in React
 - [dhruv-kumar-jha/productivity-frontend](https://github.com/dhruv-kumar-jha/productivity-frontend) - Productivity Application - Kanban Style Productivity Management Application with Customizable Boards, Lists and Cards to Make You More Productive.
 - [jdan/cleaver](https://github.com/jdan/cleaver) - 30-second slideshows for hackers
@@ -1570,6 +1570,9 @@
 
 ## PHP 
 
+- [benholmen/defrag](https://github.com/benholmen/defrag) - Disk defrag output for PHPUnit tests
+- [hazaveh/php-link-preview](https://github.com/hazaveh/php-link-preview) - PHP Link Preview
+- [bootgly/bootgly](https://github.com/bootgly/bootgly) - Base PHP Framework for Multi Projects
 - [doctrine/deprecations](https://github.com/doctrine/deprecations) - Thin library around different deprecation strategies
 - [chevere/xrdebug](https://github.com/chevere/xrdebug) - Lightweight debug utility
 - [pmjones/php-styler](https://github.com/pmjones/php-styler) - Rebuilds PHP code from an abstract syntax tree.
@@ -1840,7 +1843,7 @@
 - [awes-io/awes-io](https://github.com/awes-io/awes-io) - Awes.io // boilerplate based on Vue, Nuxt, TailwindCSS plus Laravel as a backend. 🤟
 - [domainmod/domainmod](https://github.com/domainmod/domainmod) - DomainMOD is an open source application written in PHP & MySQL used to manage your domains and other internet assets in a central location. DomainMOD also includes a Data Warehouse framework that allo
 - [ergebnis/php-package-template](https://github.com/ergebnis/php-package-template) - :octocat: + :ledger: Provides a GitHub repository template for a PHP package with GitHub Actions workflows using standard PHP development tools.
-- [jolicode/docker-starter](https://github.com/jolicode/docker-starter) - 🏗️ A skeleton to start a new web project with PHP, Docker and Invoke
+- [jolicode/docker-starter](https://github.com/jolicode/docker-starter) - 🏗️ A skeleton to start a new web project with PHP, Docker and Castor
 - [B-Galati/monolog-sentry-handler](https://github.com/B-Galati/monolog-sentry-handler) - Monolog handler for Sentry PHP SDK v2/v3 with breadcrumbs support
 - [composer/satis](https://github.com/composer/satis) - Simple static Composer repository generator - For a full private Composer repo use Private Packagist
 - [Swop/github-webhook-middleware](https://github.com/Swop/github-webhook-middleware) - PSR-7 style & PSR-15 compatible middleware which will verify if the incoming GitHub web hook request is correctly signed.
