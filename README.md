@@ -464,7 +464,7 @@
 - [Fusion/kittendns](https://github.com/Fusion/kittendns) - 
 - [alajmo/mani](https://github.com/alajmo/mani) - :robot: CLI tool to help you manage repositories
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
-- [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers
+- [dagger/dagger](https://github.com/dagger/dagger) - Dagger is an integrated platform to orchestrate the delivery of applications
 - [varunu28/graft](https://github.com/varunu28/graft) - 🪵 From scratch implementation of Raft consensus algorithm in Go
 - [adamgordonbell/cloudservices](https://github.com/adamgordonbell/cloudservices) - 
 - [winfsp/hubfs](https://github.com/winfsp/hubfs) - File system for GitHub & GitLab
@@ -564,6 +564,7 @@
 - [jolicode/pomdok](https://github.com/jolicode/pomdok) - 🍏 Simple wrapper to Symfony Go Binary for multi-app
 - [vishnudxb/docker-mkcert](https://github.com/vishnudxb/docker-mkcert) - Docker container for creating valid local ssl certificates
 - [rtr7/router7](https://github.com/rtr7/router7) - router7 is a small home internet router completely written in Go. It is implemented as a gokrazy appliance.
+- [tailwarden/komiser](https://github.com/tailwarden/komiser) - Build your cloud asset inventory and break down your cost at the resource level 💰
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [mkrou/geonames](https://github.com/mkrou/geonames) - Golang parsing library for the geonames.org database dump
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
@@ -1616,7 +1617,7 @@
 - [DeepLcom/deepl-php](https://github.com/DeepLcom/deepl-php) - Official PHP library for the DeepL language translation API.
 - [openai-php/symfony](https://github.com/openai-php/symfony) - ⚡️ OpenAI PHP for Symfony is a supercharged PHP API client that allows you to interact with OpenAI API
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) - Find Unused Public Elements in Your Code
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative. Cloud version available here -&gt; https://app.coolify.io
 - [amphp/parallel](https://github.com/amphp/parallel) - An advanced parallelization library for PHP, enabling efficient multitasking, optimizing resource use, and application responsiveness through multiple CPU threads.
 - [sourceability/openai-client](https://github.com/sourceability/openai-client) - PHP 8.0+ OpenAI API client with fully typed/documented requests+responses models, guzzle and symfony/http-client support and async/parallel requests
 - [ssddanbrown/rss](https://github.com/ssddanbrown/rss) - A simple twitter-feed-style RSS aggregator written in PHP, Laravel, Inertia.js, Tailwind and Vue.js
@@ -2823,7 +2824,7 @@
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy 🍑🍆
 - [premieroctet/training-platform](https://github.com/premieroctet/training-platform) - A tool to build courses and training decks.
-- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Surveys & Experience Management Solution
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Toolbox
 - [snyk/release-notes-preview](https://github.com/snyk/release-notes-preview) - GitHub Action for providing release notes preview for semantic releases
 - [afup/pufa](https://github.com/afup/pufa) - 
 - [nohello-net/site](https://github.com/nohello-net/site) - 
@@ -2872,7 +2873,6 @@
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [jasperapp/jasper](https://github.com/jasperapp/jasper) - Jasper - A flexible and powerful issue reader for GitHub
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
-- [tailwarden/komiser](https://github.com/tailwarden/komiser) - Build your cloud asset inventory and break down your cost at the resource level 💰
 - [Godefroy/carte-dvf](https://github.com/Godefroy/carte-dvf) - Carte de valeurs foncières
 - [react95-io/React95](https://github.com/react95-io/React95) - 🌈🕹  Windows 95 style UI component library for React
 - [sharenowTech/birdperson](https://github.com/sharenowTech/birdperson) - GitLab monitor for open merge requests and pipeline status. Originally intended to be used as a dashboard in a big screen TV.
