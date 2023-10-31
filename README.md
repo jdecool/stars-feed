@@ -29,6 +29,7 @@
 - [Groovy](#groovy)
 - [HTML](#html)
 - [Hack](#hack)
+- [Handlebars](#handlebars)
 - [Haskell](#haskell)
 - [Inno Setup](#inno-setup)
 - [Java](#java)
@@ -802,6 +803,10 @@
 - [hhvm/hack-codegen](https://github.com/hhvm/hack-codegen) - Library to programatically generate Hack code and write it to signed files
 - [titon/framework](https://github.com/titon/framework) - A modular Hack framework that runs on HHVM.
 
+## Handlebars 
+
+- [zappjs/zappjs](https://github.com/zappjs/zappjs) - Continuous code generation ⚡️
+
 ## Haskell 
 
 - [B-Lang-org/bsc](https://github.com/B-Lang-org/bsc) - Bluespec Compiler (BSC)
@@ -886,6 +891,7 @@
 
 ## JavaScript 
 
+- [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
 - [guillaume-rygn/octodoc](https://github.com/guillaume-rygn/octodoc) - Gather all the documentation for your dependencies in one place instantly! 🪄
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back
@@ -2804,7 +2810,7 @@
 - [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v3.1, v3.0, and v2.0 as well as AsyncAPI v2.x.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [motifland/markprompt](https://github.com/motifland/markprompt) - Enterprise-grade AI chatbots for your website and docs
+- [motifland/markprompt](https://github.com/motifland/markprompt) - AI for customer support
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
@@ -2924,7 +2930,6 @@
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [phiresky/nmap-log-parse](https://github.com/phiresky/nmap-log-parse) - Logs which devices are in your local network and draws graphs
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code.
-- [zappjs/zappjs](https://github.com/zappjs/zappjs) - Continuous code generation ⚡️
 - [FlorianRappl/Mario5TS](https://github.com/FlorianRappl/Mario5TS) - The TypeScript version of the Mario5 demo application.
 - [aksharpatel47/Phaser-Typescript-Tutorials-Code](https://github.com/aksharpatel47/Phaser-Typescript-Tutorials-Code) - This repository contains code written in typescript for various tutorials found online for Phaser Game Framework.
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
