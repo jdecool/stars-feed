@@ -465,7 +465,7 @@
 - [Fusion/kittendns](https://github.com/Fusion/kittendns) - 
 - [alajmo/mani](https://github.com/alajmo/mani) - :robot: CLI tool to help you manage repositories
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
-- [dagger/dagger](https://github.com/dagger/dagger) - Dagger is an integrated platform to orchestrate the delivery of applications
+- [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
 - [varunu28/graft](https://github.com/varunu28/graft) - 🪵 From scratch implementation of Raft consensus algorithm in Go
 - [adamgordonbell/cloudservices](https://github.com/adamgordonbell/cloudservices) - 
 - [winfsp/hubfs](https://github.com/winfsp/hubfs) - File system for GitHub & GitLab
