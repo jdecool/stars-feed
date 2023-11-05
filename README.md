@@ -1340,6 +1340,7 @@
 
 ## Nix 
 
+- [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development
 
 ## OCaml 
