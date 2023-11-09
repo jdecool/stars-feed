@@ -29,7 +29,6 @@
 - [Groovy](#groovy)
 - [HTML](#html)
 - [Hack](#hack)
-- [Handlebars](#handlebars)
 - [Haskell](#haskell)
 - [Inno Setup](#inno-setup)
 - [Java](#java)
@@ -803,10 +802,6 @@
 - [hhvm/hack-codegen](https://github.com/hhvm/hack-codegen) - Library to programatically generate Hack code and write it to signed files
 - [titon/framework](https://github.com/titon/framework) - A modular Hack framework that runs on HHVM.
 
-## Handlebars 
-
-- [zappjs/zappjs](https://github.com/zappjs/zappjs) - Continuous code generation ⚡️
-
 ## Haskell 
 
 - [B-Lang-org/bsc](https://github.com/B-Lang-org/bsc) - Bluespec Compiler (BSC)
@@ -1579,6 +1574,7 @@
 
 ## PHP 
 
+- [php-youtubers/directory](https://github.com/php-youtubers/directory) - Curated a list of PHP YouTubers. 📋
 - [benholmen/defrag](https://github.com/benholmen/defrag) - Disk defrag output for PHPUnit tests
 - [hazaveh/php-link-preview](https://github.com/hazaveh/php-link-preview) - PHP Link Preview
 - [bootgly/bootgly](https://github.com/bootgly/bootgly) - Base PHP Framework for Multi Projects
@@ -2253,7 +2249,7 @@
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [symkat/MyJekyllBlog](https://github.com/symkat/MyJekyllBlog) - This is a multi-user CMS and hosting platform for Jekyll blogs.
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses.
-- [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP+SSL VPN tunnel services
+- [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP+TLS VPN tunnel services
 - [OTRS/otrs](https://github.com/OTRS/otrs) - ((OTRS)) Community Edition is one of the most flexible web-based ticketing systems used for Customer Service, Help Desk, IT Service Management. Please note that ((OTRS)) Community Edition offers limit
 - [Netflix-Skunkworks/jenkins-cli](https://github.com/Netflix-Skunkworks/jenkins-cli) - Simple Jenkins Command Line Interface
 - [ldidry/lstu](https://github.com/ldidry/lstu) - Lightweight URL shortener. Read-only mirror of https://framagit.org/fiat-tux/hat-softwares/lstu
@@ -2931,6 +2927,7 @@
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [phiresky/nmap-log-parse](https://github.com/phiresky/nmap-log-parse) - Logs which devices are in your local network and draws graphs
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code.
+- [zappjs/zappjs](https://github.com/zappjs/zappjs) - Continuous code generation ⚡️
 - [FlorianRappl/Mario5TS](https://github.com/FlorianRappl/Mario5TS) - The TypeScript version of the Mario5 demo application.
 - [aksharpatel47/Phaser-Typescript-Tutorials-Code](https://github.com/aksharpatel47/Phaser-Typescript-Tutorials-Code) - This repository contains code written in typescript for various tutorials found online for Phaser Game Framework.
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
