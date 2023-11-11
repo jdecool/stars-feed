@@ -2275,7 +2275,7 @@
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform
 - [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—bring the power of ChatGPT to VS Code and JetBrains
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Sandboxed cloud environments for AI agents & apps with a single line of code
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure sandboxed cloud environments made for AI agents and AI apps
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [RhetTbull/osxphotos](https://github.com/RhetTbull/osxphotos) - Python app to export pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
 - [asg017/sqlite-ulid](https://github.com/asg017/sqlite-ulid) - A SQLite extension for generating and working with ULIDs
