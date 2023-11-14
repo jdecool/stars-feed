@@ -744,7 +744,7 @@
 - [roberto-butti/50-drops-of-php](https://github.com/roberto-butti/50-drops-of-php) - Open source and free e-book, that collects collects more than 50 useful, unknown, underrated PHP functions or stuff discovered, used, and learned during PHP's daily use.
 - [jbrains/trivia](https://github.com/jbrains/trivia) - Legacy Code Retreat - Trivia Game codebase
 - [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing for Rust
-- [learning-rust/learning-rust.github.io](https://github.com/learning-rust/learning-rust.github.io) - Original repo: https://github.com/learning-rust/site
+- [learning-rust/learning-rust.github.io-pre](https://github.com/learning-rust/learning-rust.github.io-pre) - Original repo: https://github.com/learning-rust/site
 - [warrensbox/terraform-switcher](https://github.com/warrensbox/terraform-switcher) - A command line tool to switch between different versions of terraform  (install with homebrew and more)
 - [screensy/screensy](https://github.com/screensy/screensy) - Simple peer-to-peer screen sharing
 - [berzniz/github_pr_tree](https://github.com/berzniz/github_pr_tree) - Add a file tree to GitHub's Pull Request
@@ -1336,7 +1336,6 @@
 
 ## Nix 
 
-- [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development
 
 ## OCaml 
@@ -1729,7 +1728,7 @@
 - [marvinrabe/laravel-wizards](https://github.com/marvinrabe/laravel-wizards) - 🧙‍♂️ Simple Wizard Controller for Laravel.
 - [hmones/laravel-digest](https://github.com/hmones/laravel-digest) - Simple way to convert your emails into configurable digests
 - [jawira/case-converter](https://github.com/jawira/case-converter) - Convert strings between 13 naming conventions: Snake case, Camel case, Kebab case, Pascal case, Ada case, Train case, Cobol case, Macro case, Upper case, Lower case, Title case, Sentence case and Dot 
-- [reliforp/reli-prof](https://github.com/reliforp/reli-prof) - A sampling profiler for PHP written in PHP, which reads information about running PHP VM from outside of the process.
+- [reliforp/reli-prof](https://github.com/reliforp/reli-prof) - A sampling profiler or a memory profiler for PHP written in PHP, which reads information about running PHP VM from outside of the process.
 - [canvural/phpstan-blade-rule](https://github.com/canvural/phpstan-blade-rule) - PHPStan rule for static analysis of Blade templates
 - [spatie/laravel-health](https://github.com/spatie/laravel-health) - Check the health of your Laravel app
 - [Hi-Folks/statistics](https://github.com/Hi-Folks/statistics) - PHP package that provides functions for calculating mathematical statistics of numeric data.
@@ -2800,6 +2799,7 @@
 
 ## TypeScript 
 
+- [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
 - [Web-SyncPlay/Web-SyncPlay](https://github.com/Web-SyncPlay/Web-SyncPlay) - Watch online media like YouTube, Vimeo, Soundcloud or video/audio files in sync.
 - [spatie/fatten](https://github.com/spatie/fatten) - Transform dot-notation-like objects into optimised nested objects.
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source monitoring platform with incident management  🏓
