@@ -1573,6 +1573,7 @@
 
 ## PHP 
 
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - Analyzes PHPStan baseline files and creates aggregated error trend-reports
 - [php-youtubers/directory](https://github.com/php-youtubers/directory) - Curated a list of PHP YouTubers. 📋
 - [benholmen/defrag](https://github.com/benholmen/defrag) - Disk defrag output for PHPUnit tests
 - [hazaveh/php-link-preview](https://github.com/hazaveh/php-link-preview) - PHP Link Preview
@@ -2922,7 +2923,7 @@
 - [sebholstein/angular-google-maps](https://github.com/sebholstein/angular-google-maps) - Angular 2+ Google Maps Components
 - [superpowers/superpowers-core](https://github.com/superpowers/superpowers-core) - :octopus: Superpowers — Extensible HTML5 app for real-time collaborative projects
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
+- [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [phiresky/nmap-log-parse](https://github.com/phiresky/nmap-log-parse) - Logs which devices are in your local network and draws graphs
