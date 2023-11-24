@@ -323,7 +323,7 @@
 - [tabulapdf/tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files
 - [thewhiteh4t/seeker](https://github.com/thewhiteh4t/seeker) - Accurately Locate Smartphones using Social Engineering
 - [green7ea/cpp-compilation](https://github.com/green7ea/cpp-compilation) - A short description of the C++ build process
-- [maxogden/screencat](https://github.com/maxogden/screencat) - :cat2: webrtc screensharing electron app for mac os (Alpha)
+- [max-mapper/screencat](https://github.com/max-mapper/screencat) - :cat2: webrtc screensharing electron app for mac os (Alpha)
 - [hraban/tomono](https://github.com/hraban/tomono) - Multi- To Mono-repository merge
 - [ConnorAtherton/loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations.
 - [twbs/ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
@@ -1628,7 +1628,6 @@
 - [VincentLanglet/Twig-CS-Fixer](https://github.com/VincentLanglet/Twig-CS-Fixer) - A tool to automatically fix Twig Coding Standards issues
 - [CodeRevolutionPlugins/GPT-3-Encoder-PHP](https://github.com/CodeRevolutionPlugins/GPT-3-Encoder-PHP) - PHP BPE Text Encoder / Decoder for GPT-2 / GPT-3
 - [schranz-search/schranz-search](https://github.com/schranz-search/schranz-search) - Search abstraction over different search engines written in PHP. Currently implemented Elasticsearch, Opensearch, Algolia, Meilisearch, RediSearch, Solr, Typesense. Documentation: https://schranz-sear
-- [pxp-lang/pxp](https://github.com/pxp-lang/pxp) - A superset of PHP with extended syntax and runtime capabilities.
 - [voku/Arrayy](https://github.com/voku/Arrayy) - 🗃 Array manipulation library for PHP, called Arrayy!
 - [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) - :musical_note: Provides a composer plugin for normalizing composer.json.
 - [SymfonyTest/symfony-bundle-test](https://github.com/SymfonyTest/symfony-bundle-test) - Smoke test your Symfony bundle
@@ -2490,7 +2489,7 @@
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [Shopify/shipit-engine](https://github.com/Shopify/shipit-engine) - Deployment coordination
 - [TypoCI/Marketplace-App](https://github.com/TypoCI/Marketplace-App) - Find Spelling errors in files within PRs
-- [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.4. PHP 8.3 and PHP 8.4 are built nightly.
+- [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.4. PHP 8.4 is built nightly.
 - [eXolnet/homebrew-deprecated](https://github.com/eXolnet/homebrew-deprecated) - eXolnet's Homebrew tap for deprecated formulae.
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
 - [purban/contrats-francais](https://github.com/purban/contrats-francais) - Contrats français
@@ -2541,6 +2540,7 @@
 - [jkfran/killport](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
+- [pxp-lang/pxp](https://github.com/pxp-lang/pxp) - A suite of high-performance tools for PHP developers – includes a code formatter, static analyser, language server and superset language.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
