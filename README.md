@@ -420,6 +420,7 @@
 
 ## Go 
 
+- [hasura/go-graphql-client](https://github.com/hasura/go-graphql-client) - Package graphql provides a GraphQL client implementation.
 - [tonywangcn/distributed-web-crawler](https://github.com/tonywangcn/distributed-web-crawler) - The Architecture of a Web Crawler: Building a Google-Inspired Distributed Web Crawler
 - [nalgeon/sqlpkg-cli](https://github.com/nalgeon/sqlpkg-cli) - SQLite package manager
 - [malbertzard/repowatcher](https://github.com/malbertzard/repowatcher) - A Cli tool that manages and updates all your repos
@@ -962,7 +963,7 @@
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [EmailThis/extension-boilerplate](https://github.com/EmailThis/extension-boilerplate) - ⚡️ A template for building cross browser extensions for Chrome, Opera & Firefox.
 - [google/voice-builder](https://github.com/google/voice-builder) - An opensource text-to-speech (TTS) voice building tool
-- [yne/dzr](https://github.com/yne/dzr) - Accountless deezer.com Player
+- [yne/dzr](https://github.com/yne/dzr) - Accountless deezer.com Player (CLI & VSCode)
 - [mariusandra/insights](https://github.com/mariusandra/insights) - Open Source Self-Hosted Business Intelligence Platform
 - [VGraupera/1on1-questions](https://github.com/VGraupera/1on1-questions) - Mega list of 1 on 1 meeting questions compiled from a variety to sources
 - [handshake-org/hsd](https://github.com/handshake-org/hsd) - Handshake Daemon & Full Node
@@ -1572,6 +1573,7 @@
 
 ## PHP 
 
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - Todo comments with expiration date/version
 - [mr-punyapal/basic-crud](https://github.com/mr-punyapal/basic-crud) - Example of crud operations best practices for beginner
 - [driftingly/rector-laravel](https://github.com/driftingly/rector-laravel) - Rector upgrades rules for Laravel
 - [RamyHakam/multi_tenancy_bundle](https://github.com/RamyHakam/multi_tenancy_bundle) - Symfony 5 /6 bundle to support multi-tenants
@@ -2804,6 +2806,7 @@
 
 ## TypeScript 
 
+- [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
 - [BedrockStreaming/pr-size-labeler](https://github.com/BedrockStreaming/pr-size-labeler) - Github action to automatically add label on PR to define size (based on line diff and file modified)
 - [louisgrasset/touitomamout](https://github.com/louisgrasset/touitomamout) - Touitomamout is an easy way to synchronize your Twitter's tweets 🦤 to Mastodon 🦣 and Bluesky post ☁️ (also known as Twitter to Mastodon & Bluesky crossposter)
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
