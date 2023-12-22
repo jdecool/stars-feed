@@ -1269,7 +1269,7 @@
 - [es-analysis/plato](https://github.com/es-analysis/plato) - JavaScript source code visualization, static analysis, and complexity tool
 - [noahblon/animated-climacons](https://github.com/noahblon/animated-climacons) - Animated SVG Climacons
 - [imakewebthings/deck.js](https://github.com/imakewebthings/deck.js) - Modern HTML Presentations
-- [sitespeedio/sitespeed.io](https://github.com/sitespeedio/sitespeed.io) - Sitespeed.io is an open source tool that helps you monitor, analyze and optimize your website speed and performance, based on performance best practices advices from the coach and collecting browser m
+- [sitespeedio/sitespeed.io](https://github.com/sitespeedio/sitespeed.io) - sitespeed.io is an open-source tool for comprehensive web performance analysis, enabling you to test, monitor, and optimize your website’s speed using real browsers in various environments.
 
 ## Jinja 
 
@@ -1573,8 +1573,8 @@
 
 ## PHP 
 
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - Todo comments with expiration date/version
-- [MrPunyapal/basic-crud](https://github.com/MrPunyapal/basic-crud) - Example of crud operations best practices for beginner
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - Todo comments with expiration
+- [MrPunyapal/basic-crud](https://github.com/MrPunyapal/basic-crud) - Example of crud operations best practices for beginner to advanced
 - [driftingly/rector-laravel](https://github.com/driftingly/rector-laravel) - Rector upgrades rules for Laravel
 - [RamyHakam/multi_tenancy_bundle](https://github.com/RamyHakam/multi_tenancy_bundle) - Symfony 5 /6 bundle to support multi-tenants
 - [cerbero90/lazy-json](https://github.com/cerbero90/lazy-json) - 🐼 Framework-agnostic package to load JSON of any dimension and from any source into Laravel lazy collections recursively.
@@ -1626,7 +1626,7 @@
 - [DeepLcom/deepl-php](https://github.com/DeepLcom/deepl-php) - Official PHP library for the DeepL language translation API.
 - [openai-php/symfony](https://github.com/openai-php/symfony) - ⚡️ OpenAI PHP for Symfony is a supercharged PHP API client that allows you to interact with OpenAI API
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) - Find Unused Public Elements in Your Code
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative. Cloud version available here -&gt; https://app.coolify.io
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [amphp/parallel](https://github.com/amphp/parallel) - An advanced parallelization library for PHP, enabling efficient multitasking, optimizing resource use, and application responsiveness through multiple CPU threads.
 - [sourceability/openai-client](https://github.com/sourceability/openai-client) - PHP 8.0+ OpenAI API client with fully typed/documented requests+responses models, guzzle and symfony/http-client support and async/parallel requests
 - [ssddanbrown/rss](https://github.com/ssddanbrown/rss) - A simple twitter-feed-style RSS aggregator written in PHP, Laravel, Inertia.js, Tailwind and Vue.js
