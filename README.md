@@ -225,7 +225,6 @@
 - [LordYui/OpenTorrent](https://github.com/LordYui/OpenTorrent) - A C#, Lidgren-based, P2P-fueled torrent sharing software. Actually just something I made for fun when KAT got shot down.
 - [intel/acat](https://github.com/intel/acat) - Assistive Context-Aware Toolkit (ACAT)
 - [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
-- [telerik/JustDecompileEngine](https://github.com/telerik/JustDecompileEngine) - The decompilation engine of JustDecompile
 - [lenovo-inc/superfishremoval](https://github.com/lenovo-inc/superfishremoval) - Utility to remove SuperFish application
 - [lachesis/scallion](https://github.com/lachesis/scallion) - GPU-based Onion Hash generator
 - [brandonlw/Psychson](https://github.com/brandonlw/Psychson) - Phison 2251-03 (2303) Custom Firmware & Existing Firmware Patches (BadUSB)
@@ -889,6 +888,7 @@
 
 ## JavaScript 
 
+- [CrazyTim/spin-wheel](https://github.com/CrazyTim/spin-wheel) - An easy to use, themeable component for randomising choices and prizes.
 - [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [jeb5/YouTube-Subscriptions-RSS](https://github.com/jeb5/YouTube-Subscriptions-RSS) - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
