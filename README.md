@@ -1577,6 +1577,7 @@
 
 ## PHP 
 
+- [coralsio/laraship](https://github.com/coralsio/laraship) - Laraship is a Platform built on Laravel for Rapid Development, it helps Agents, Startups, and even individuals to save time building their Web Applications and websites using well-structured code.
 - [Hi-Folks/ibis-next](https://github.com/Hi-Folks/ibis-next) - A PHP tool that helps you write eBooks in markdown and convert to PDF and EPUB
 - [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) - Ollama-Laravel is a Laravel package providing seamless integration with the Ollama API.
 - [typhoon-php/overloading](https://github.com/typhoon-php/overloading) - The missing method overloading feature for PHP.
@@ -1643,7 +1644,7 @@
 - [CodeRevolutionPlugins/GPT-3-Encoder-PHP](https://github.com/CodeRevolutionPlugins/GPT-3-Encoder-PHP) - PHP BPE Text Encoder / Decoder for GPT-2 / GPT-3
 - [schranz-search/schranz-search](https://github.com/schranz-search/schranz-search) - Search abstraction over different search engines written in PHP. Currently implemented Elasticsearch, Opensearch, Algolia, Meilisearch, RediSearch, Solr, Typesense. Documentation: https://schranz-sear
 - [voku/Arrayy](https://github.com/voku/Arrayy) - 🗃 Array manipulation library for PHP, called Arrayy!
-- [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) - :musical_note: Provides a composer plugin for normalizing composer.json.
+- [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) - 🎵 Provides a composer plugin for normalizing composer.json.
 - [SymfonyTest/symfony-bundle-test](https://github.com/SymfonyTest/symfony-bundle-test) - Smoke test your Symfony bundle
 - [hammerstonedev/sidecar](https://github.com/hammerstonedev/sidecar) - Deploy and execute AWS Lambda functions from your Laravel application.
 - [vinkla/hashids](https://github.com/vinkla/hashids) - A small PHP library to generate YouTube-like ids from numbers. Use it when you don't want to expose your database ids to the user.
@@ -2616,7 +2617,7 @@
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [Findomain/Findomain](https://github.com/Findomain/Findomain) - The fastest and complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, mul
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
 - [citybound/citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
@@ -2818,6 +2819,7 @@
 
 ## TypeScript 
 
+- [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
 - [BedrockStreaming/pr-size-labeler](https://github.com/BedrockStreaming/pr-size-labeler) - Github action to automatically add label on PR to define size (based on line diff and file modified)
 - [louisgrasset/touitomamout](https://github.com/louisgrasset/touitomamout) - Touitomamout is an easy way to synchronize your Twitter's tweets 🦤 to Mastodon 🦣 and Bluesky post ☁️ (also known as Twitter to Mastodon & Bluesky crossposter)
