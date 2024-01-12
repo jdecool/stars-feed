@@ -421,7 +421,7 @@
 
 ## Go 
 
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
 - [hasura/go-graphql-client](https://github.com/hasura/go-graphql-client) - Package graphql provides a GraphQL client implementation.
 - [tonywangcn/distributed-web-crawler](https://github.com/tonywangcn/distributed-web-crawler) - The Architecture of a Web Crawler: Building a Google-Inspired Distributed Web Crawler
 - [nalgeon/sqlpkg-cli](https://github.com/nalgeon/sqlpkg-cli) - SQLite package manager
@@ -1577,6 +1577,7 @@
 
 ## PHP 
 
+- [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa) - PHP library for generating a full featured PWA manifest
 - [coralsio/laraship](https://github.com/coralsio/laraship) - Laraship is a Platform built on Laravel for Rapid Development, it helps Agents, Startups, and even individuals to save time building their Web Applications and websites using well-structured code.
 - [Hi-Folks/ibis-next](https://github.com/Hi-Folks/ibis-next) - A PHP tool that helps you write eBooks in markdown and convert to PDF and EPUB
 - [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) - Ollama-Laravel is a Laravel package providing seamless integration with the Ollama API.
@@ -2433,7 +2434,6 @@
 - [mozilla/http-observatory](https://github.com/mozilla/http-observatory) - Mozilla HTTP Observatory
 - [funkwerk/compose_plantuml](https://github.com/funkwerk/compose_plantuml) - Generate Plantuml graphs from docker-compose files
 - [ghostsquad/swarmci](https://github.com/ghostsquad/swarmci) - Swarm CI - Docker Swarm-based CI system or enhancement to existing systems.
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [getsentry/docker-sentry](https://github.com/getsentry/docker-sentry) - Docker Official Image packaging for Sentry
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [abdulfatir/ZipBomb](https://github.com/abdulfatir/ZipBomb) - A simple implementation of ZipBomb in Python
@@ -2630,6 +2630,7 @@
 - [mmstick/parallel](https://github.com/mmstick/parallel) - This project now lives on in a rewrite at https://gitlab.redox-os.org/redox-os/parallel
 - [martinhath/jpeg-rust](https://github.com/martinhath/jpeg-rust) - JPEG decoder/encoder written in Rust
 - [tagua-vm/parser](https://github.com/tagua-vm/parser) - Safe, fast and memory efficient PHP parser (lexical and syntactic analysers, and the Abstract Syntax Tree)
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 - [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
 - [tailhook/vagga](https://github.com/tailhook/vagga) - Vagga is a containerization tool without daemons
