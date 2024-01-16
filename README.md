@@ -1326,7 +1326,7 @@
 ## Markdown 
 
 - [apple/swift-book](https://github.com/apple/swift-book) - The Swift Programming Language book
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Mustache 
@@ -1653,6 +1653,7 @@
 - [hammerstonedev/sidecar](https://github.com/hammerstonedev/sidecar) - Deploy and execute AWS Lambda functions from your Laravel application.
 - [vinkla/hashids](https://github.com/vinkla/hashids) - A small PHP library to generate YouTube-like ids from numbers. Use it when you don't want to expose your database ids to the user.
 - [anystack-sh/porter](https://github.com/anystack-sh/porter) - Spin up your development background processes with ease 🪄
+- [JhumanJ/OpnForm](https://github.com/JhumanJ/OpnForm) - Beautiful Open-Source Form Builder
 - [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - Phel is a functional programming language that compiles to PHP. A Lisp dialect inspired by Clojure and Janet.
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [lightswitch05/php-version-audit](https://github.com/lightswitch05/php-version-audit) - Audit your PHP version for known CVEs and patches
@@ -2825,6 +2826,7 @@
 
 ## TypeScript 
 
+- [szimek/signature_pad](https://github.com/szimek/signature_pad) - HTML5 canvas based smooth signature drawing
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
 - [BedrockStreaming/pr-size-labeler](https://github.com/BedrockStreaming/pr-size-labeler) - Github action to automatically add label on PR to define size (based on line diff and file modified)
@@ -2984,8 +2986,7 @@
 
 - [jbuget/threadr-app](https://github.com/jbuget/threadr-app) - A micro-blogging threads editor (compatible with Bluesky, Mastodon and Twitter)
 - [hlassiege/eventuallycoding](https://github.com/hlassiege/eventuallycoding) - 
-- [JhumanJ/OpnForm](https://github.com/JhumanJ/OpnForm) - Beautiful Open-Source Form Builder
-- [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Minimalist HTTP client for the Web & Desktop
+- [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop
 - [ZestfulNation/vue-hotel-datepicker](https://github.com/ZestfulNation/vue-hotel-datepicker) - Vue date range picker component
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
