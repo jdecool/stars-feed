@@ -421,6 +421,7 @@
 
 ## Go 
 
+- [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
 - [hasura/go-graphql-client](https://github.com/hasura/go-graphql-client) - Package graphql provides a GraphQL client implementation.
 - [tonywangcn/distributed-web-crawler](https://github.com/tonywangcn/distributed-web-crawler) - The Architecture of a Web Crawler: Building a Google-Inspired Distributed Web Crawler
@@ -2777,6 +2778,7 @@
 
 ## Swift 
 
+- [timfraedrich/OutRun](https://github.com/timfraedrich/OutRun) - OutRun is an open-source, privacy oriented, outdoor fitness tracker.
 - [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client
 - [iglance/iGlance](https://github.com/iglance/iGlance) - Free system monitor for OSX and macOS. See all system information at a glance in the menu bar.
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
