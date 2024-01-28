@@ -888,6 +888,7 @@
 
 ## JavaScript 
 
+- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
 - [JC144/EDF_Simulateur_Prix](https://github.com/JC144/EDF_Simulateur_Prix) - Un outil pour simuler les différents Tarifs EDF depuis un export de la consommation.
 - [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commits specification
 - [CrazyTim/spin-wheel](https://github.com/CrazyTim/spin-wheel) - An easy to use, themeable component for randomising choices and prizes.
@@ -1384,6 +1385,7 @@
 
 ## Others 
 
+- [mgreiler/code-review-checklist](https://github.com/mgreiler/code-review-checklist) - This code review checklist helps you be a more effective and efficient code reviewer.
 - [aleixmorgadas/awesome-engineering-strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy) - 🎉 How to design and execute engineering strategies for tech leadership.
 - [MrPunyapal/go-get-laravel](https://github.com/MrPunyapal/go-get-laravel) - Explore and contribute to the Laravel Best Practices Examples repository! A community-driven collection of real-world examples showcasing best practices for Laravel development. Elevate your coding st
 - [restcase/apibldr](https://github.com/restcase/apibldr) - Bugs, Issues and Info about ApiBldr
@@ -1579,6 +1581,8 @@
 
 ## PHP 
 
+- [Yousign/zdd-message-bundle](https://github.com/Yousign/zdd-message-bundle) - A Symfony Bundle to use when you want to assert that messages used with Message brokers such like RabbitMQ are compliant with the Zero Downtime Deployment.
+- [benconda/collection](https://github.com/benconda/collection) - Collection library powered by generators, with generics, memory friendly and easily extendable
 - [dagger/dagger-php-sdk](https://github.com/dagger/dagger-php-sdk) - A read-only mirror of the Dagger PHP SDK. Do not use directly! To contribute, see https://github.com/dagger/dagger/tree/main/sdk/php
 - [theodo-group/LLPhant](https://github.com/theodo-group/LLPhant) - LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain and LLamaIndex
 - [balbuf/composer-git-merge-driver](https://github.com/balbuf/composer-git-merge-driver) - Custom git merge driver to minimize merge conflicts in composer.json and composer.lock files
@@ -1766,7 +1770,7 @@
 - [ramsey/php-rfcs](https://github.com/ramsey/php-rfcs) - 
 - [marcocesarato/PHP-Antimalware-Scanner](https://github.com/marcocesarato/PHP-Antimalware-Scanner) - AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it.
 - [mrsuh/php-generics](https://github.com/mrsuh/php-generics) - PHP generics written in PHP
-- [ergebnis/factory-bot](https://github.com/ergebnis/factory-bot) - :robot: Provides a fixture factory for doctrine/orm entities.
+- [ergebnis/factory-bot](https://github.com/ergebnis/factory-bot) - 🤖 Provides a composer package with a fixture factory for doctrine/orm entities.
 - [scheb/2fa-bundle](https://github.com/scheb/2fa-bundle) - [READ ONLY] A generic interface to implement two-factor authentication in Symfony applications
 - [chrome-php/chrome](https://github.com/chrome-php/chrome) - Instrument headless chrome/chromium instances from PHP
 - [lsalp/Simple-Status-Page](https://github.com/lsalp/Simple-Status-Page) - Simple Status Page for PHP Server Monitor
@@ -2832,7 +2836,7 @@
 
 - [ollama/ollama-js](https://github.com/ollama/ollama-js) - Ollama JavaScript library
 - [placemark/placemark](https://github.com/placemark/placemark) - A flexible web-based editor, converter, visualization tool, for geospatial data
-- [srikanth235/privy](https://github.com/srikanth235/privy) - A privacy centric alternative to GitHub co-pilot.
+- [srikanth235/privy](https://github.com/srikanth235/privy) - An open-source alternative to GitHub copilot that runs locally.
 - [szimek/signature_pad](https://github.com/szimek/signature_pad) - HTML5 canvas based smooth signature drawing
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
@@ -2936,7 +2940,7 @@
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [paulgb/Treeverse](https://github.com/paulgb/Treeverse) - A browser extension for navigating burgeoning Twitter conversations
