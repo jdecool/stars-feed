@@ -316,7 +316,6 @@
 
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [Probesys/agentj](https://github.com/Probesys/agentj) - AgentJ is a free software anti-spam solution with human authentication and admin panel
-- [laravel-workflow/waterline](https://github.com/laravel-workflow/waterline) - An elegant UI for monitoring Laravel Workflows.
 - [SymfonyCasts/messenger-monitor-bundle](https://github.com/SymfonyCasts/messenger-monitor-bundle) - Visual Monitoring & Retries for Symfony Messenger!
 - [uxcandy/Label-Free-Bootstrap-Admin-Template](https://github.com/uxcandy/Label-Free-Bootstrap-Admin-Template) - Label admin template is a sophisticated responsive admin dashboard template made on top of Bootstrap 4. It is packed with highly customizable Bootstrap components that help web development easy and fa
 - [driftphp/demo](https://github.com/driftphp/demo) - Demo for DriftPHP
@@ -1671,6 +1670,7 @@
 - [claudiodekker/laravel-auth](https://github.com/claudiodekker/laravel-auth) - Rich authentication logic for your Laravel applications.
 - [friendsoftwig/twigcs](https://github.com/friendsoftwig/twigcs) - The missing checkstyle for twig!
 - [php-fig/clock](https://github.com/php-fig/clock) - PSR-20 repository
+- [laravel-workflow/waterline](https://github.com/laravel-workflow/waterline) - An elegant UI for monitoring Laravel Workflows.
 - [laravel-workflow/laravel-workflow](https://github.com/laravel-workflow/laravel-workflow) - Durable workflow engine that allows users to track job status, orchestrate microservices and write long running persistent distributed workflows in PHP powered by Laravel Queues. Inspired by Temporal 
 - [heiglandreas/holidayChecker](https://github.com/heiglandreas/holidayChecker) - Check for holidays - locale-aware
 - [crew-cr/Crew](https://github.com/crew-cr/Crew) - Code review tool for git projects
