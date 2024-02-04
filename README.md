@@ -27,6 +27,7 @@
 - [GCC Machine Description](#gcc-machine-description)
 - [Go](#go)
 - [Groovy](#groovy)
+- [HCL](#hcl)
 - [HTML](#html)
 - [Hack](#hack)
 - [Haskell](#haskell)
@@ -308,7 +309,7 @@
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [breach/thrust](https://github.com/breach/thrust) - Chromium-based cross-platform / cross-language application framework
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game engine with easy modding and game creation
+- [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game-creation platform with easy modding and game creation
 - [ewimberley/AdvancedMemoryChallenges](https://github.com/ewimberley/AdvancedMemoryChallenges) - Advanced buffer overflow and memory corruption security challenges
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 
@@ -728,6 +729,10 @@
 
 - [Praqma/JenkinsAsCodeReference](https://github.com/Praqma/JenkinsAsCodeReference) - This repository is intended for the reference Jenkins configuration as code as well as JobDSL library
 - [jessfraz/jenkins-dsl](https://github.com/jessfraz/jenkins-dsl) - Jenkins DSLs for my Jenkins instance, keeps forks up to date, mirrors repositories to private git, builds all Dockerfiles and more.
+
+## HCL 
+
+- [scaleway/serverless-examples](https://github.com/scaleway/serverless-examples) - Example projects and patterns for use with Scaleway's serverless products
 
 ## HTML 
 
@@ -2542,7 +2547,6 @@
 - [jamesrwhite/minicron](https://github.com/jamesrwhite/minicron) - 🕰️ Monitor your cron jobs
 - [bborn/lewsnetter](https://github.com/bborn/lewsnetter) - E-mail marketing application (create and send e-mail newsletter via SES). Includes subscription management, delivery, bounce and complaint notification, templates, and some stats.
 - [dreikanter/ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) - Ruby and Ruby on Rails bookmarks collection
-- [defunkt/dotjs](https://github.com/defunkt/dotjs) - ~/.js
 - [devopsgroup-io/vagrant-hostmanager](https://github.com/devopsgroup-io/vagrant-hostmanager) - :pencil: A Vagrant plugin that manages hosts files within a multi-machine environment.
 - [pcreux/facturation-pro-paybox](https://github.com/pcreux/facturation-pro-paybox) - Integrate Facturation.pro with Paybox
 - [ndeloof/apache-maven-book](https://github.com/ndeloof/apache-maven-book) - Apache Maven (le livre)
