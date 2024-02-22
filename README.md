@@ -1935,7 +1935,7 @@
 - [matthiasnoback/TalisORM](https://github.com/matthiasnoback/TalisORM) - An ORM for "ORMless" persistance of DDD-inspired domain models
 - [webmozarts/assert](https://github.com/webmozarts/assert) - Assertions to validate method input/output with nice error messages.
 - [makasim/php-fpm-queue](https://github.com/makasim/php-fpm-queue) - Use php-fpm as a simple built-in async queue
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from website
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
 - [Innmind/TimeContinuum](https://github.com/Innmind/TimeContinuum) - 
 - [thephpleague/tactician](https://github.com/thephpleague/tactician) - A small, flexible command bus
 - [thephpleague/tactician-bundle](https://github.com/thephpleague/tactician-bundle) - Bundle to integrate Tactician with Symfony projects
