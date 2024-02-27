@@ -381,7 +381,6 @@
 ## Dockerfile 
 
 - [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
-- [Zenika/alpine-chrome](https://github.com/Zenika/alpine-chrome) - Chrome Headless docker images built upon alpine official image
 - [OskarStark/phpstan-ga](https://github.com/OskarStark/phpstan-ga) - GithubAction for PHPStan
 - [jaem3l/php1-docker-image](https://github.com/jaem3l/php1-docker-image) - Docker image which provides basic installation of PHP in version 1.0.8
 - [OskarStark/php-cs-fixer-ga](https://github.com/OskarStark/php-cs-fixer-ga) - GithubAction for PHP-CS-Fixer
@@ -985,6 +984,7 @@
 - [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs.
 - [jsonwebtoken/jsonwebtoken.github.io](https://github.com/jsonwebtoken/jsonwebtoken.github.io) - 
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+- [Zenika/alpine-chrome](https://github.com/Zenika/alpine-chrome) - Chrome Headless docker images built upon alpine official image
 - [EmailThis/extension-boilerplate](https://github.com/EmailThis/extension-boilerplate) - ⚡️ A template for building cross browser extensions for Chrome, Opera & Firefox.
 - [google/voice-builder](https://github.com/google/voice-builder) - An opensource text-to-speech (TTS) voice building tool
 - [yne/dzr](https://github.com/yne/dzr) - Accountless deezer.com Player (CLI & VSCode)
@@ -2315,7 +2315,7 @@
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
 - [getmoss/pullama](https://github.com/getmoss/pullama) - A Pull Request summarizer powered by Ollama and Llama2
 - [apeatling/ollama-voice-mac](https://github.com/apeatling/ollama-voice-mac) - Mac compatible Ollama Voice
-- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and automation platform
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [RhetTbull/osxphotos](https://github.com/RhetTbull/osxphotos) - Python app to export pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
