@@ -2521,7 +2521,6 @@
 ## Ruby 
 
 - [bullet-train-co/bullet_train](https://github.com/bullet-train-co/bullet_train) - The Open Source Ruby on Rails SaaS Template
-- [philippe-nougaillon/Planning_IAE](https://github.com/philippe-nougaillon/Planning_IAE) - Application web de planification de cours. Collaborative, flexible et simple d'utilisation
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [yongfook/zipsell](https://github.com/yongfook/zipsell) - A free open source platform for selling digital downloads such as ebooks
