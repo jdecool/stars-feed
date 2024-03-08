@@ -80,6 +80,7 @@
 - [Vue](#vue)
 - [YAML](#yaml)
 - [YARA](#yara)
+- [Zig](#zig)
 
 ## ActionScript 
 
@@ -3047,6 +3048,10 @@
 
 - [curated-intel/Ukraine-Cyber-Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations) - Curated Intelligence is working with analysts from around the world to provide useful information to organisations in Ukraine looking for additional free threat intelligence. Slava Ukraini. Glory to U
 - [Yara-Rules/rules](https://github.com/Yara-Rules/rules) - Repository of yara rules
+
+## Zig 
+
+- [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) - container image to single executable compiler
 
 
 ## License
