@@ -2804,6 +2804,7 @@
 
 ## Swift 
 
+- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [timfraedrich/OutRun](https://github.com/timfraedrich/OutRun) - OutRun is an open-source, privacy oriented, outdoor fitness tracker.
 - [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client
 - [iglance/iGlance](https://github.com/iglance/iGlance) - Free system monitor for OSX and macOS. See all system information at a glance in the menu bar.
