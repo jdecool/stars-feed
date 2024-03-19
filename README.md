@@ -2314,6 +2314,7 @@
 
 ## Python 
 
+- [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
 - [getmoss/pullama](https://github.com/getmoss/pullama) - A Pull Request summarizer powered by Ollama and Llama2
 - [apeatling/ollama-voice-mac](https://github.com/apeatling/ollama-voice-mac) - Mac compatible Ollama Voice
