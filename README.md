@@ -1595,6 +1595,7 @@
 
 ## PHP 
 
+- [1up-lab/OneupUploaderBundle](https://github.com/1up-lab/OneupUploaderBundle) - This Symfony bundle provides a server implementation for handling single and multiple file uploads using either FineUploader, jQuery File Uploader, YUI3 Uploader, Uploadify, FancyUpload, MooUpload, Pl
 - [DeGraciaMathieu/php-git-insights-analyzer](https://github.com/DeGraciaMathieu/php-git-insights-analyzer) - Analyze the Git history of your PHP files
 - [Yousign/zdd-message-bundle](https://github.com/Yousign/zdd-message-bundle) - A Symfony Bundle to use when you want to assert that messages used with Message brokers such like RabbitMQ are compliant with the Zero Downtime Deployment.
 - [benconda/collection](https://github.com/benconda/collection) - Collection library powered by generators, with generics, memory friendly and easily extendable
@@ -2857,6 +2858,7 @@
 
 ## TypeScript 
 
+- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [relagit/relagit](https://github.com/relagit/relagit) - The elegant solution to graphical version control.
 - [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 - [ollama/ollama-js](https://github.com/ollama/ollama-js) - Ollama JavaScript library
