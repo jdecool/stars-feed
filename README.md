@@ -872,7 +872,7 @@
 - [Teevity/ice](https://github.com/Teevity/ice) - AWS Usage Tool
 - [everit-org/jira-timetracker-plugin](https://github.com/everit-org/jira-timetracker-plugin) - A plugin that makes it easier to fill the timelogs in Jira
 - [pinterest/teletraan](https://github.com/pinterest/teletraan) - Teletraan is Pinterest's deploy system.
-- [google/nomulus](https://github.com/google/nomulus) - Top-level domain name registry service on Google App Engine
+- [google/nomulus](https://github.com/google/nomulus) - Top-level domain name registry service on Google Cloud Platform
 - [asmcup/runtime](https://github.com/asmcup/runtime) - Runtime and compiler for the Assembly Cup
 - [kalessil/phpinspectionsea](https://github.com/kalessil/phpinspectionsea) - A Static Code Analyzer for PHP (a PhpStorm/Idea Plugin)
 - [BrentAureli/SuperMario](https://github.com/BrentAureli/SuperMario) - Source Code from my Creating Super Mario Bros YouTube Tutorials
@@ -923,7 +923,6 @@
 - [zehfernandes/pliim](https://github.com/zehfernandes/pliim) - One click and be ready to go up on stage and shine!
 - [sturdy-dev/codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) - Reviews your Pull/Merge Requests using ChatGPT
 - [tinkerun/tinkerun](https://github.com/tinkerun/tinkerun) - A new way of Running Tinker. Simplify the Web Artisan's workflow.
-- [alkemist/cloud](https://github.com/alkemist/cloud) - Administration de mon CV ainsi que de mon activité de freelance
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [pulse-browser/browser](https://github.com/pulse-browser/browser) - Pulse Browser: An experimental firefox fork
@@ -1255,7 +1254,6 @@
 - [Rovak/InlineAttachment](https://github.com/Rovak/InlineAttachment) - Easily paste and upload files/images in plain textareas
 - [soygul/koan](https://github.com/soygul/koan) - KOAN (Koa, Angular, Node, Mongo) starter kit for full-stack JavaScript web development.
 - [tjgq/grunt-throttle](https://github.com/tjgq/grunt-throttle) - A Grunt plugin for testing under a throttled connection.
-- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [causehacker/titanium-starter](https://github.com/causehacker/titanium-starter) - A Universal Binary iOS bootstrap for Appcelerator Titanium
 - [Laverna/laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
 - [marmelab/gremlins.js](https://github.com/marmelab/gremlins.js) - Monkey testing library for web apps and Node.js
@@ -2306,6 +2304,7 @@
 ## PowerShell 
 
 - [jasny/skeleton-php-ext](https://github.com/jasny/skeleton-php-ext) - Skeleton project for PHP extension (written in C)
+- [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 
 ## Puppet 
 
@@ -2582,6 +2581,7 @@
 
 ## Rust 
 
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
@@ -2755,7 +2755,6 @@
 - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [rainglow/iterm](https://github.com/rainglow/iterm) - 320+ color themes for iTerm2.
 - [mko-x/docker-clamav](https://github.com/mko-x/docker-clamav) - Multi-arch dockerized open source antivirus for use with file sharing containers, REST API or TCP.
-- [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [GoogleCloudPlatform/continuous-deployment-on-kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes) - Get up and running with Jenkins on Google Kubernetes Engine
 - [devfriendlyplaces/data](https://github.com/devfriendlyplaces/data) - Json files for friendly places
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
@@ -3011,6 +3010,7 @@
 - [aksharpatel47/Phaser-Typescript-Tutorials-Code](https://github.com/aksharpatel47/Phaser-Typescript-Tutorials-Code) - This repository contains code written in typescript for various tutorials found online for Phaser Game Framework.
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [sahat/satellizer](https://github.com/sahat/satellizer) - Token-based AngularJS Authentication
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [serkanyersen/sync](https://github.com/serkanyersen/sync) - syncs your local folder with remote folder using scp
 
 ## Vala 
