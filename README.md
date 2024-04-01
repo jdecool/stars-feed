@@ -1594,6 +1594,7 @@
 
 ## PHP 
 
+- [frankdekker/symfony-log-viewer-bundle](https://github.com/frankdekker/symfony-log-viewer-bundle) - A log viewer for Symfony
 - [tempestphp/highlight](https://github.com/tempestphp/highlight) - 🎨 Fast, extensible, server-side code highlighting for web and terminal
 - [ilyachase/monolith-decoupling-example](https://github.com/ilyachase/monolith-decoupling-example) - 
 - [1up-lab/OneupUploaderBundle](https://github.com/1up-lab/OneupUploaderBundle) - This Symfony bundle provides a server implementation for handling single and multiple file uploads using either FineUploader, jQuery File Uploader, YUI3 Uploader, Uploadify, FancyUpload, MooUpload, Pl
