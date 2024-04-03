@@ -350,7 +350,7 @@
 ## Clojure 
 
 - [adamtornhill/code-maat](https://github.com/adamtornhill/code-maat) - A command line tool to mine and analyze data from version-control systems
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [damn/cdq](https://github.com/damn/cdq) - Cyber Dungeon Quest - Action Roleplaying Game written in Clojure
 - [someteam/acha](https://github.com/someteam/acha) - Git Achievements
@@ -1204,7 +1204,6 @@
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [EtnaTraining/MoviesDemo](https://github.com/EtnaTraining/MoviesDemo) - This demo show how we can build with Appcelerator Titanium the same app demonstrated during the Facebook React Native demo
 - [thom4parisot/nodebook](https://github.com/thom4parisot/nodebook) - 📖 Livre publié aux Éditions Eyrolles • Première édition : Node.js v10 et npm v6.
-- [sinnerschrader/digitalfoosball](https://github.com/sinnerschrader/digitalfoosball) - ⚽ Taking an analog foosball table into the digital age.  See our League in action here: http://demo.s2.de
 - [juancabrera/gulp-babel-codebase](https://github.com/juancabrera/gulp-babel-codebase) - A basic gulp codebase project using babelify and browserify for its modules.
 - [michaelbromley/css-space-shooter](https://github.com/michaelbromley/css-space-shooter) - An old-school arcade-style 3D shoot-em-up rendered entirely with CSS 3D transforms
 - [arasatasaygin/is.js](https://github.com/arasatasaygin/is.js) - Micro check library
