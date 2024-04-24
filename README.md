@@ -2881,13 +2881,13 @@
 - [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
 - [Web-SyncPlay/Web-SyncPlay](https://github.com/Web-SyncPlay/Web-SyncPlay) - Watch online media like YouTube, Vimeo, Soundcloud or video/audio files in sync.
 - [spatie/fatten](https://github.com/spatie/fatten) - Transform dot-notation-like objects into optimised nested objects.
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source website & API monitoring platform  🏓
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic & real user monitoring platform  🏓
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system
 - [thomvaill/log4brains](https://github.com/thomvaill/log4brains) - ✍️ Log and publish your architecture decisions (ADR)
 - [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v3.1, v3.0, and v2.0 as well as AsyncAPI v2.x.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Cloud Runtime for AI Agents
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure cloud runtime for AI apps & AI agents. Fully open-source.
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
