@@ -1599,6 +1599,7 @@
 
 ## PHP 
 
+- [jolicode/automapper](https://github.com/jolicode/automapper) - :rocket: Very FAST :rocket: PHP AutoMapper with on the fly code generation
 - [pact-foundation/pact-php](https://github.com/pact-foundation/pact-php) - PHP version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project
 - [jbtronics/settings-bundle](https://github.com/jbtronics/settings-bundle) - A bundle to easily create typesafe, user-configurable settings for symfony applications
 - [eqsgroup/health-check-provider](https://github.com/eqsgroup/health-check-provider) - Provides structure for healthcheck endpoints in accordance with IETF's healthcheck draft RFC
