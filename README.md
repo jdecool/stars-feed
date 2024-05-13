@@ -1559,7 +1559,6 @@
 - [tpunt/PHP7-Reference](https://github.com/tpunt/PHP7-Reference) - An overview of the features, changes, and backward compatibility breakages in PHP 7
 - [jurismatic/jurismatic](https://github.com/jurismatic/jurismatic) - http://www.jurismatic.com
 - [shenril/inception-deck-fr](https://github.com/shenril/inception-deck-fr) - Traduction de l'inception deck de Agile Samurai
-- [pborreli/free-for-nonprofit](https://github.com/pborreli/free-for-nonprofit) - A list of software and SaaS, PaaS etc offerings that have free tiers for non-profits
 - [clem/sflive-paris-2015](https://github.com/clem/sflive-paris-2015) - Les différentes ressources liées au Symfony Live - Paris 2015
 - [marmelab/awesome-rest](https://github.com/marmelab/awesome-rest) - A collaborative list of great resources about RESTful API architecture, development, test, and performance
 - [timjacobi/angular-education](https://github.com/timjacobi/angular-education) - A list of helpful material to develop using Angular
