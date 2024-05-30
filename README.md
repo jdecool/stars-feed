@@ -1375,7 +1375,6 @@
 - [sfsam/Itsycal](https://github.com/sfsam/Itsycal) - Itsycal is a tiny calendar for your Mac's menu bar. http://www.mowglii.com/itsycal
 - [newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep.
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
-- [google/santa](https://github.com/google/santa) - A binary authorization and monitoring system for macOS
 - [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [brunophilipe/Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew.
 - [kasper/phoenix](https://github.com/kasper/phoenix) - A lightweight macOS window and app manager scriptable with JavaScript
@@ -1395,6 +1394,7 @@
 
 ## Objective-C++ 
 
+- [google/santa](https://github.com/google/santa) - A binary authorization and monitoring system for macOS
 - [textmate/textmate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS 10.12 or later
 - [shaqian/Not-Hotdog](https://github.com/shaqian/Not-Hotdog) - Built with TensorFlow, Yolov2 Tiny and React Native | Flutter | Javascript
 
@@ -1666,7 +1666,7 @@
 - [open-feature/php-sdk](https://github.com/open-feature/php-sdk) - PHP implementation of the OpenFeature SDK
 - [qmachard/atomic-design-bundle](https://github.com/qmachard/atomic-design-bundle) - Atomic Design is a Storybook like made for Symfony and Twig
 - [robiningelbrecht/phpunit-pretty-print](https://github.com/robiningelbrecht/phpunit-pretty-print) - Better PHPUnit CLI output with Collision
-- [robiningelbrecht/phpunit-coverage-tools](https://github.com/robiningelbrecht/phpunit-coverage-tools) - A PHPUnit 10 extension to enforce minimum code coverage by using the clover XML report
+- [robiningelbrecht/phpunit-coverage-tools](https://github.com/robiningelbrecht/phpunit-coverage-tools) - A PHPUnit extension to enforce minimum code coverage by using the clover XML report
 - [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.
 - [Crell/EnvMapper](https://github.com/Crell/EnvMapper) - Easily map environment variables into defined classed objects, ready for Dependency Injection.
 - [spatie/ssl-certificate](https://github.com/spatie/ssl-certificate) - A class to validate SSL certificates
