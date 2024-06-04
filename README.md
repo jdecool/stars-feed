@@ -835,7 +835,7 @@
 
 ## Java 
 
-- [danielricci/solitaire](https://github.com/danielricci/solitaire) - Remake of the Windows 95 Solitaire game from scratch to preserve its original authenticity.
+- [danielricci/solitaire](https://github.com/danielricci/solitaire) - Step into a nostalgic world with this homage to the classic Solitaire from Windows 95. Experience the same addictive gameplay, now refined for a flawless journey. Immerse yourself in the timeless char
 - [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) - Digitally sign PDF files from your commandline
 - [hvdwolf/jExifToolGUI](https://github.com/hvdwolf/jExifToolGUI) - jExifToolGUI is a multi-platform java/Swing graphical frontend for the excellent command-line ExifTool application by Phil Harvey
 - [structurizr/dsl](https://github.com/structurizr/dsl) - Structurizr DSL
