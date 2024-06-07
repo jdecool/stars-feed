@@ -2055,7 +2055,7 @@
 - [phpactor/code-builder](https://github.com/phpactor/code-builder) - Build or modify source code
 - [aurimasniekis/flex-server](https://github.com/aurimasniekis/flex-server) - The Symfony.sh proxy with custom recipes for use instead of original endpoint
 - [kreta/Kreta](https://github.com/kreta/Kreta) - Modern project management solution
-- [flyimg/flyimg](https://github.com/flyimg/flyimg) - Cloud-native application that resizes and crops images on the fly, delivering optimized images in formats such as AVIF, WebP, MozJPEG, or PNG using ImageMagick, with an efficient caching system.
+- [flyimg/flyimg](https://github.com/flyimg/flyimg) - Dockerized application that resizes and crops images on the fly, delivering optimized images in formats such as AVIF, WebP, MozJPEG, or PNG using ImageMagick, with an efficient caching system.
 - [Stampie/Stampie](https://github.com/Stampie/Stampie) - Library for using online Email providers
 - [the-badger/badger](https://github.com/the-badger/badger) - Gamification platform to motivate your team with badges, adventures & other cool stuff!
 - [slince/spike](https://github.com/slince/spike) - :mega: A fast reverse proxy written in PHP that helps to expose local services to the internet
