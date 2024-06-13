@@ -434,7 +434,6 @@
 - [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
 - [inngest/inngest](https://github.com/inngest/inngest) - A scalable, low-latency, event-driven durable execution platform.  Supports functions deployed to serverless, servers, or the edge.
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
-- [dagger/dagger-php-sdk](https://github.com/dagger/dagger-php-sdk) - A read-only mirror of the Dagger PHP SDK. Do not use directly! To contribute, see https://github.com/dagger/dagger/tree/main/sdk/php
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [hasura/go-graphql-client](https://github.com/hasura/go-graphql-client) - Package graphql provides a GraphQL client implementation.
@@ -1615,6 +1614,7 @@
 - [DeGraciaMathieu/php-git-insights-analyzer](https://github.com/DeGraciaMathieu/php-git-insights-analyzer) - Analyze the Git history of your PHP files
 - [Yousign/zdd-message-bundle](https://github.com/Yousign/zdd-message-bundle) - A Symfony Bundle to use when you want to assert that messages used with Message brokers such like RabbitMQ are compliant with the Zero Downtime Deployment.
 - [benconda/collection](https://github.com/benconda/collection) - Collection library powered by generators, with generics, memory friendly and easily extendable
+- [dagger/dagger-php-sdk](https://github.com/dagger/dagger-php-sdk) - A read-only mirror of the Dagger PHP SDK. Do not use directly! To contribute, see https://github.com/dagger/dagger/tree/main/sdk/php
 - [theodo-group/LLPhant](https://github.com/theodo-group/LLPhant) - LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain
 - [balbuf/composer-git-merge-driver](https://github.com/balbuf/composer-git-merge-driver) - Custom git merge driver to minimize merge conflicts in composer.json and composer.lock files
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest
