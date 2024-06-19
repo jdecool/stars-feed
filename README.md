@@ -115,7 +115,6 @@
 ## C 
 
 - [rfaile313/draw_game](https://github.com/rfaile313/draw_game) - Draw! is a small game that was developed in C
-- [jvoisin/snuffleupagus](https://github.com/jvoisin/snuffleupagus) - Security module for php7 and php8 - Killing bugclasses and virtual-patching the rest!
 - [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
 - [IvorySQL/IvorySQL](https://github.com/IvorySQL/IvorySQL) - Open Source Oracle Compatible PostgreSQL.
 - [dekuNukem/daytripper](https://github.com/dekuNukem/daytripper) - Hide-My-Windows Laser Tripwire
@@ -932,7 +931,7 @@
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [pulse-browser/browser](https://github.com/pulse-browser/browser) - Pulse Browser: An experimental firefox fork
-- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/RDP/sftp client(linux, mac, win)
+- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win)
 - [Halleck45/captain-dys](https://github.com/Halleck45/captain-dys) - A text editor for dyslexic child
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [1024pix/pix](https://github.com/1024pix/pix) - Service public d'évaluation et de certification des compétences numériques pour tous.
@@ -1620,6 +1619,7 @@
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest
 - [coralsio/laraship](https://github.com/coralsio/laraship) - Laraship is a Platform built on Laravel for Rapid Development, it helps Agents, Startups, and even individuals to save time building their Web Applications and websites using well-structured code.
 - [Hi-Folks/ibis-next](https://github.com/Hi-Folks/ibis-next) - A PHP tool that helps you write eBooks in markdown and convert to PDF and EPUB
+- [jvoisin/snuffleupagus](https://github.com/jvoisin/snuffleupagus) - Security module for php7 and php8 - Killing bugclasses and virtual-patching the rest!
 - [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) - Ollama-Laravel is a Laravel package providing seamless integration with the Ollama API.
 - [typhoon-php/overloading](https://github.com/typhoon-php/overloading) - The missing method overloading feature for PHP.
 - [samdark/php-fpm_tuner](https://github.com/samdark/php-fpm_tuner) - A script to tune PHP-FPM
@@ -2515,7 +2515,7 @@
 - [yasoob/SkypeFreak](https://github.com/yasoob/SkypeFreak) - A Forensic Framework for Skype
 - [undercase/FlappyKivy](https://github.com/undercase/FlappyKivy) - Flappy Bird clone programming in Python + Kivy!
 - [fgaudin/aemanager](https://github.com/fgaudin/aemanager) - Outil de gestion pour auto-entrepreneur
-- [chrisclark/django-sql-explorer](https://github.com/chrisclark/django-sql-explorer) - Easily share data across your company via SQL queries. From Grove Collab.
+- [explorerhq/django-sql-explorer](https://github.com/explorerhq/django-sql-explorer) - Easily share data across your company via SQL queries.
 - [elvanderb/TCP-32764](https://github.com/elvanderb/TCP-32764) - some codes and notes about the backdoor listening on TCP-32764 in linksys WAG200G.
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [buzzfeed/caliendo](https://github.com/buzzfeed/caliendo) - caliendo
@@ -2903,7 +2903,7 @@
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure cloud runtime for AI apps & AI agents. Fully open-source.
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [Basedash/dockhunt](https://github.com/Basedash/dockhunt) - Discover the apps everyone is docking about. Made by the team at @Basedash.
 - [Blagues-API/blagues-api](https://github.com/Blagues-API/blagues-api) - 😂 API de Blagues française et Open Source
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform for TypeScript.
