@@ -1598,6 +1598,7 @@
 
 ## PHP 
 
+- [amnuts/opcache-gui](https://github.com/amnuts/opcache-gui) - A clean, effective and responsive interface for Zend OPcache
 - [HiEventsDev/hi.events](https://github.com/HiEventsDev/hi.events) - Self-hosted event management and ticket selling platform 🎟️
 - [symplify/config-transformer](https://github.com/symplify/config-transformer) - Convert Symfony YAML configs to PHP format
 - [jolicode/automapper](https://github.com/jolicode/automapper) - :rocket: Very FAST :rocket: PHP AutoMapper with on the fly code generation
@@ -2418,7 +2419,7 @@
 - [yahoo/open_nsfw](https://github.com/yahoo/open_nsfw) - Not Suitable for Work (NSFW) classification using deep neural network Caffe models.
 - [mandiant/GeoLogonalyzer](https://github.com/mandiant/GeoLogonalyzer) - GeoLogonalyzer is a utility to analyze remote access logs for anomalies such as travel feasibility and data center sources.
 - [openfoodfacts/openfoodfacts-apirestpython](https://github.com/openfoodfacts/openfoodfacts-apirestpython) - Python API for Open Food Facts (using a DB dump)
-- [gojhonny/InSpy](https://github.com/gojhonny/InSpy) - A python based LinkedIn enumeration tool
+- [jobroche/InSpy](https://github.com/jobroche/InSpy) - A python based LinkedIn enumeration tool
 - [vaguileradiaz/tinfoleak](https://github.com/vaguileradiaz/tinfoleak) - The most complete open-source tool for Twitter intelligence analysis
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - [initstring/linkedin2username](https://github.com/initstring/linkedin2username) - OSINT Tool: Generate username lists for companies on LinkedIn
