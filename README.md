@@ -221,7 +221,7 @@
 - [spectresystems/jarvis](https://github.com/spectresystems/jarvis) - Your robotic butler.
 - [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
 - [unoplatform/calculator](https://github.com/unoplatform/calculator) - Uno Calculator: A simple yet powerful iOS/Android/WebAssembly/Linux C# port of the calculator that ships with Windows
-- [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
+- [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app) - Example distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes
 - [cliftonm/FlowSharp](https://github.com/cliftonm/FlowSharp) - A WinForm Diagramming Tool
@@ -302,7 +302,7 @@
 - [facebook/redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
 - [Croteam-official/Serious-Engine](https://github.com/Croteam-official/Serious-Engine) - An open source version of a game engine developed by Croteam for the classic Serious Sam games.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
-- [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
+- [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [mapsme/omim](https://github.com/mapsme/omim) - 🗺️ MAPS.ME — Offline OpenStreetMap maps for iOS and Android
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [google/or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
@@ -803,7 +803,7 @@
 - [k2052/markdown-to-ebook](https://github.com/k2052/markdown-to-ebook) - Learn how to craft an ebook using markdown.
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [hashicorp/otto](https://github.com/hashicorp/otto) - Development and deployment made easy.
-- [coreinfrastructure/census](https://github.com/coreinfrastructure/census) - 📜Automated review of open source software projects
+- [ossf/census](https://github.com/ossf/census) - 📜Automated review of open source software projects
 - [chrisvel/ticketbox](https://github.com/chrisvel/ticketbox) - What a modern case/ticket management system should be like (not maintained)
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [willdurand/jenairienacacher.fr](https://github.com/willdurand/jenairienacacher.fr) - Site informatif autour de l'argument "je n'ai rien à cacher".
