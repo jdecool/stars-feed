@@ -1599,7 +1599,7 @@
 ## PHP 
 
 - [amnuts/opcache-gui](https://github.com/amnuts/opcache-gui) - A clean, effective and responsive interface for Zend OPcache
-- [HiEventsDev/hi.events](https://github.com/HiEventsDev/hi.events) - Self-hosted event management and ticket selling platform 🎟️
+- [HiEventsDev/hi.events](https://github.com/HiEventsDev/hi.events) - Open-source event management and ticket selling platform 🎟️
 - [symplify/config-transformer](https://github.com/symplify/config-transformer) - Convert Symfony YAML configs to PHP format
 - [jolicode/automapper](https://github.com/jolicode/automapper) - :rocket: Very FAST :rocket: PHP AutoMapper with on the fly code generation
 - [pact-foundation/pact-php](https://github.com/pact-foundation/pact-php) - PHP version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project
