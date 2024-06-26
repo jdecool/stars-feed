@@ -836,7 +836,6 @@
 
 ## Java 
 
-- [danielricci/solitaire](https://github.com/danielricci/solitaire) - Step into a nostalgic world with this homage to the classic Solitaire from Windows 95. Experience the same addictive gameplay, now refined for a flawless journey. Immerse yourself in the timeless char
 - [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) - Digitally sign PDF files from your commandline
 - [hvdwolf/jExifToolGUI](https://github.com/hvdwolf/jExifToolGUI) - jExifToolGUI is a multi-platform java/Swing graphical frontend for the excellent command-line ExifTool application by Phil Harvey
 - [structurizr/dsl](https://github.com/structurizr/dsl) - Structurizr DSL
@@ -2331,6 +2330,7 @@
 
 ## Python 
 
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
 - [getmoss/pullama](https://github.com/getmoss/pullama) - A Pull Request summarizer powered by Ollama and Llama2
