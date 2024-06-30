@@ -33,6 +33,7 @@
 - [Hack](#hack)
 - [Haskell](#haskell)
 - [Inno Setup](#inno-setup)
+- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -454,7 +455,7 @@
 - [gschier/analytics](https://github.com/gschier/analytics) - Analytics
 - [depot/cli](https://github.com/depot/cli) - 🖥️ Depot CLI, build your Docker images in the cloud
 - [eatonphil/livescheme](https://github.com/eatonphil/livescheme) - Building a scheme live on Twitch in Golang
-- [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development
+- [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI is an open source client for container development
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
@@ -833,6 +834,10 @@
 ## Inno Setup 
 
 - [ra1nstorm/ra1nstorm-helper](https://github.com/ra1nstorm/ra1nstorm-helper) - Automatically configures an environment to run checkra1n
+
+## JSON 
+
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Java 
 
@@ -1348,7 +1353,6 @@
 ## Markdown 
 
 - [apple/swift-book](https://github.com/apple/swift-book) - The Swift Programming Language book
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Mustache 
