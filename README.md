@@ -624,7 +624,7 @@
 - [hasura/gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [Aptomi/k8s-app-engine](https://github.com/Aptomi/k8s-app-engine) - Application delivery engine for k8s
-- [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs
+- [caarlos0/env](https://github.com/caarlos0/env) - A simple, zero-dependencies library to parse environment variables into structs
 - [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [algolia/sup3rS3cretMes5age](https://github.com/algolia/sup3rS3cretMes5age) - Simple to use, simple to deploy, one time self destruct messaging service, with hashicorp vault as a backend
@@ -1594,7 +1594,6 @@
 - [JoshuaKGoldberg/Old-Deleted-FullScreenMario](https://github.com/JoshuaKGoldberg/Old-Deleted-FullScreenMario) - An HTML5 remake of the original Super Mario Brothers - expanded for wide screens.
 - [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
 - [DaRaFF/jsgamewiki](https://github.com/DaRaFF/jsgamewiki) - A collection of good links for gaming with javascript
-- [samsquire/ideas](https://github.com/samsquire/ideas) - a hundred ideas for computing - a record of ideas - https://samsquire.github.io/ideas/
 - [csswizardry/CSS-Guidelines](https://github.com/csswizardry/CSS-Guidelines) - High-level guidelines for writing manageable, maintainable CSS
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [huboard/huboard](https://github.com/huboard/huboard) - Kanban board for github issues
@@ -2557,7 +2556,7 @@
 - [TypoCI/Marketplace-App](https://github.com/TypoCI/Marketplace-App) - Find Spelling errors in files within PRs
 - [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.4. PHP 8.4 is built nightly.
 - [eXolnet/homebrew-deprecated](https://github.com/eXolnet/homebrew-deprecated) - eXolnet's Homebrew tap for deprecated formulae.
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 - [purban/contrats-francais](https://github.com/purban/contrats-francais) - Contrats français
 - [brotandgames/ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
 - [apisyouwonthate/book-build-apis-2](https://github.com/apisyouwonthate/book-build-apis-2) - Learn how to build and leverage the latest technology in APIs, services, microservices, distributed systems, HATEOAS, query languages, circuit breakers, gateways, discombobulators, flux capacitors, sp
