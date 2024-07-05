@@ -533,7 +533,7 @@
 - [shaxbee/go-spatialite](https://github.com/shaxbee/go-spatialite) - Spatialite SQL Driver for Golang
 - [mdlayher/schedgroup](https://github.com/mdlayher/schedgroup) - Package schedgroup provides a goroutine worker pool which schedules tasks to be performed at or after a specified time. MIT Licensed.
 - [michelin/ChopChop](https://github.com/michelin/ChopChop) - ChopChop is a CLI to help developers scanning endpoints and identifying exposition of sensitive services/files/folders.
-- [go-micro/go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
 - [lingrino/go-fault](https://github.com/lingrino/go-fault) - fault injection library in go using standard http middleware
 - [RussellLuo/micron](https://github.com/RussellLuo/micron) - A minimal implementation of the fault-tolerant job scheduler.
