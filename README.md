@@ -2885,6 +2885,7 @@
 
 ## TypeScript 
 
+- [SendWithSES/Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer) - Drag and drop HTML email designer - truly free and open source.
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
 - [vandetho/symflowbuilder](https://github.com/vandetho/symflowbuilder) - A platform that simplifies Symfony Workflow configuration, featuring a graphical interface for easy design and management, reducing development time and errors.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
