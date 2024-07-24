@@ -898,7 +898,6 @@
 - [YahooArchive/anthelion](https://github.com/YahooArchive/anthelion) - Anthelion is a plugin for Apache Nutch to crawl semantic annotations within HTML pages.
 - [opentripplanner/OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) - An open source multi-modal trip planner
 - [melix/deck2pdf](https://github.com/melix/deck2pdf) - Converts various HTML5 slide decks to PDF
-- [SilenceIM/Silence](https://github.com/SilenceIM/Silence) - PROJECT MOVED: https://git.silence.dev/Silence/Silence-Android/ (GitHub is just a mirror.)
 - [yahoo/mysql_perf_analyzer](https://github.com/yahoo/mysql_perf_analyzer) - MySQL performance monitoring and analysis.
 - [methusalah/OpenRTS](https://github.com/methusalah/OpenRTS) - Real-Time Strategy game 3D engine coded in pure java
 - [crashlytics/cannonball-android](https://github.com/crashlytics/cannonball-android) - Cannonball is the fun way to create and share stories and poems on your phone. This app uses all the features of Fabric for Android.
@@ -1353,7 +1352,7 @@
 
 ## Markdown 
 
-- [apple/swift-book](https://github.com/apple/swift-book) - The Swift Programming Language book
+- [swiftlang/swift-book](https://github.com/swiftlang/swift-book) - The Swift Programming Language book
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Mustache 
@@ -1602,6 +1601,7 @@
 
 ## PHP 
 
+- [schmittjoh/php-option](https://github.com/schmittjoh/php-option) - Option Type for PHP
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) - [READONLY] Symfony auto-instrumentation
 - [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility
 - [jolicode/JoliTypo](https://github.com/jolicode/JoliTypo) - :abc: Microtypography fixer for the web
@@ -2636,7 +2636,7 @@
 - [nunomaduro/nunomaduro.com](https://github.com/nunomaduro/nunomaduro.com) - 
 - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
 - [joaoh82/rust_sqlite](https://github.com/joaoh82/rust_sqlite) - SQLRite - Simple embedded database modeled off SQLite in Rust
-- [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project
+- [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as an educational project
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
