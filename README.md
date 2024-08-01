@@ -2354,7 +2354,7 @@
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [RhetTbull/osxphotos](https://github.com/RhetTbull/osxphotos) - Python app to work with pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
 - [asg017/sqlite-ulid](https://github.com/asg017/sqlite-ulid) - A SQLite extension for generating and working with ULIDs
-- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 12+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
 - [miniflux/python-client](https://github.com/miniflux/python-client) - Python client for Miniflux API
 - [ActiveState/OpenKomodoIDE](https://github.com/ActiveState/OpenKomodoIDE) - Open Komodo IDE is a fast and free multi-language code editor. Written in JS, Python, C++ and based on the Mozilla platform.
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
@@ -2531,7 +2531,7 @@
 - [yasoob/SkypeFreak](https://github.com/yasoob/SkypeFreak) - A Forensic Framework for Skype
 - [undercase/FlappyKivy](https://github.com/undercase/FlappyKivy) - Flappy Bird clone programming in Python + Kivy!
 - [fgaudin/aemanager](https://github.com/fgaudin/aemanager) - Outil de gestion pour auto-entrepreneur
-- [explorerhq/django-sql-explorer](https://github.com/explorerhq/django-sql-explorer) - Easily share data across your company via SQL queries.
+- [explorerhq/sql-explorer](https://github.com/explorerhq/sql-explorer) - SQL reporting that Just Works. Fast, simple, and confusion-free. Write and share queries in a delightful SQL editor, with AI assistance.
 - [elvanderb/TCP-32764](https://github.com/elvanderb/TCP-32764) - some codes and notes about the backdoor listening on TCP-32764 in linksys WAG200G.
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [buzzfeed/caliendo](https://github.com/buzzfeed/caliendo) - caliendo
