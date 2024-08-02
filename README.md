@@ -427,6 +427,7 @@
 
 ## Go 
 
+- [cgzirim/not-shazam](https://github.com/cgzirim/not-shazam) - An implementation of Shazam's song matching algorithm.
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [devops-works/slowql](https://github.com/devops-works/slowql) - A package to parse slow query logs in Go, with associated tooling (digester, replayer...), and compatible with multiple databases (MySQL, MariaDB, PerconaDB...).
 - [craigmj/phpfpm_exporter](https://github.com/craigmj/phpfpm_exporter) - Prometheus exporter for php-fpm status information.
@@ -2807,7 +2808,7 @@
 - [deliciousinsights/git-stree](https://github.com/deliciousinsights/git-stree) - A better Git subtree helper command
 - [paomedia/small-n-flat](https://github.com/paomedia/small-n-flat) - svg icons on a 24px grid
 - [sameersbn/docker-redmine](https://github.com/sameersbn/docker-redmine) - Docker Image for Redmine
-- [cedvan/docker-toran-proxy](https://github.com/cedvan/docker-toran-proxy) - Docker image to launch a toran proxy application self hosted to manage PHP dependencies
+- [ckhoenir/docker-toran-proxy](https://github.com/ckhoenir/docker-toran-proxy) - Docker image to launch a toran proxy application self hosted to manage PHP dependencies
 - [ypereirareis/docker-satis](https://github.com/ypereirareis/docker-satis) - Docker image to run Satis (private packagist) with Satisfy User Interface. Crontab and manual build possibility
 - [atoum/docker](https://github.com/atoum/docker) - A docker image for atoum
 - [arialdomartini/oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh
