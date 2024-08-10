@@ -1349,6 +1349,7 @@
 - [TBoileau/iletaitunefoisundev](https://github.com/TBoileau/iletaitunefoisundev) - La formation dont vous êtes le héros !
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [akrabat/bref-image-resizer](https://github.com/akrabat/bref-image-resizer) - Serverless PHP (Bref/Lambda) function to resize an image on upload to an S3 bucket
+- [apisyouwonthate/book-build-apis-2](https://github.com/apisyouwonthate/book-build-apis-2) - Learn how to build and leverage the latest technology in APIs, services, microservices, distributed systems, HATEOAS, query languages, circuit breakers, gateways, discombobulators, flux capacitors, sp
 - [green7ea/blog](https://github.com/green7ea/blog) - A short description of the C++ build process
 - [phpbrew/phpbrew](https://github.com/phpbrew/phpbrew) - Brew & manage PHP versions in pure PHP at HOME
 
@@ -2570,7 +2571,6 @@
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 - [purban/contrats-francais](https://github.com/purban/contrats-francais) - Contrats français
 - [brotandgames/ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
-- [apisyouwonthate/book-build-apis-2](https://github.com/apisyouwonthate/book-build-apis-2) - Learn how to build and leverage the latest technology in APIs, services, microservices, distributed systems, HATEOAS, query languages, circuit breakers, gateways, discombobulators, flux capacitors, sp
 - [SteveLTN/https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
 - [Evolix/chexpire](https://github.com/Evolix/chexpire) - A web application to help check for domain or SSL/TLS certificate expirations.
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
