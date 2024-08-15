@@ -1974,7 +1974,7 @@
 - [thephpleague/tactician](https://github.com/thephpleague/tactician) - A small, flexible command bus
 - [thephpleague/tactician-bundle](https://github.com/thephpleague/tactician-bundle) - Bundle to integrate Tactician with Symfony projects
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false
-- [acmephp/acmephp](https://github.com/acmephp/acmephp) - Let's Encrypt/ACME Command Line client written in PHP
+- [acmephp/acmephp](https://github.com/acmephp/acmephp) - Let's Encrypt or ZeroSSL ACME Command Line client written in PHP
 - [clue/socket-raw](https://github.com/clue/socket-raw) - Simple and lightweight OOP wrapper for PHP's low-level sockets extension (ext-sockets)
 - [liip/RMT](https://github.com/liip/RMT) - RMT is a handy tool to help releasing new version of your software
 - [pH7Software/pH7-Social-Dating-CMS](https://github.com/pH7Software/pH7-Social-Dating-CMS) - 😻 pH7Builder (formerly pH7CMS) is a Professional & Open Source Social Dating CMS written in PHP 8 🚀 This Social Dating Script aims to be low resource-intensive, powerful and secure. pH7Builder include
@@ -2808,7 +2808,7 @@
 - [deliciousinsights/git-stree](https://github.com/deliciousinsights/git-stree) - A better Git subtree helper command
 - [paomedia/small-n-flat](https://github.com/paomedia/small-n-flat) - svg icons on a 24px grid
 - [sameersbn/docker-redmine](https://github.com/sameersbn/docker-redmine) - Docker Image for Redmine
-- [ckhoenir/docker-toran-proxy](https://github.com/ckhoenir/docker-toran-proxy) - Docker image to launch a toran proxy application self hosted to manage PHP dependencies
+- [cedvan/docker-toran-proxy](https://github.com/cedvan/docker-toran-proxy) - Docker image to launch a toran proxy application self hosted to manage PHP dependencies
 - [ypereirareis/docker-satis](https://github.com/ypereirareis/docker-satis) - Docker image to run Satis (private packagist) with Satisfy User Interface. Crontab and manual build possibility
 - [atoum/docker](https://github.com/atoum/docker) - A docker image for atoum
 - [arialdomartini/oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh
@@ -3045,7 +3045,7 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [phiresky/nmap-log-parse](https://github.com/phiresky/nmap-log-parse) - Logs which devices are in your local network and draws graphs
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code.
 - [specui/specui](https://github.com/specui/specui) - Build UIs with Specs
