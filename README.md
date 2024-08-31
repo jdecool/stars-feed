@@ -1605,6 +1605,7 @@
 
 ## PHP 
 
+- [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) - 🚀 Fast detection of composer dependency issues (unused dependencies, shadow dependencies, misplaced dependencies)
 - [pinkary-project/pinkary.com](https://github.com/pinkary-project/pinkary.com) - Create a landing page for all your links and connect with like-minded people without the noise.
 - [ergebnis/classy](https://github.com/ergebnis/classy) - 🔍 Provides a composer package with a finder for classy constructs (classes, enums, interfaces, and traits).
 - [alekitto/class-finder](https://github.com/alekitto/class-finder) - Utility classes to help discover other classes/namespaces
@@ -2732,6 +2733,7 @@
 
 ## Shell 
 
+- [alexsoyes/ai-driven-dev-community](https://github.com/alexsoyes/ai-driven-dev-community) - A collection of tools, prompts, snippets and agents for developers that use AI, daily.
 - [titzer/virgil](https://github.com/titzer/virgil) - A fast and lightweight native programming language
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [OpenVPN/as-docker](https://github.com/OpenVPN/as-docker) - Docker images for openvpn-as
@@ -2838,6 +2840,7 @@
 
 ## Swift 
 
+- [duckduckgo/macos-browser](https://github.com/duckduckgo/macos-browser) - DuckDuckGo macOS Browser
 - [BigBerny/magicquit](https://github.com/BigBerny/magicquit) - 
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
@@ -2892,6 +2895,7 @@
 
 ## TypeScript 
 
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social posts, measure them, exchange with other members and get a lot of help from AI 🚀
 - [cchalop1/JustDeploy](https://github.com/cchalop1/JustDeploy) - JustDeploy simplifies deployments on your own server from your app source.
 - [betagouv/agir-front](https://github.com/betagouv/agir-front) - 
 - [SendWithSES/Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer) - Drag and drop HTML email designer - truly free and open source.
