@@ -437,6 +437,7 @@
 - [dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
 - [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go, the easiest way to write LLM-based programs in Go
 - [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
+- [inngest/inngest](https://github.com/inngest/inngest) - A scalable, low-latency, event-driven durable execution platform.  Supports functions deployed to serverless, servers, or the edge.
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
@@ -1356,6 +1357,7 @@
 ## Markdown 
 
 - [swiftlang/swift-book](https://github.com/swiftlang/swift-book) - The Swift Programming Language book
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Mustache 
@@ -1496,7 +1498,6 @@
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [j4p3/strimpack](https://github.com/j4p3/strimpack) - A platform for livestreamers to make a home for their audience.
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
 - [rShetty/awesome-distributed-systems](https://github.com/rShetty/awesome-distributed-systems) - Awesome list of distributed systems resources
 - [malk/the-kebab-kata](https://github.com/malk/the-kebab-kata) - Identifying & fighting your team’s systemic issues creating your legacy
@@ -2895,7 +2896,7 @@
 
 ## TypeScript 
 
-- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social posts, measure them, exchange with other members and get a lot of help from AI 🚀
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀
 - [cchalop1/JustDeploy](https://github.com/cchalop1/JustDeploy) - JustDeploy simplifies deployments on your own server from your app source.
 - [betagouv/agir-front](https://github.com/betagouv/agir-front) - 
 - [SendWithSES/Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer) - Drag and drop HTML email designer - truly free and open source.
@@ -2907,7 +2908,6 @@
 - [OpenRailAssociation/osrd](https://github.com/OpenRailAssociation/osrd) - An open source web application for railway infrastructure design, capacity analysis, timetabling and simulation
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [relagit/relagit](https://github.com/relagit/relagit) - The elegant solution to graphical version control.
-- [inngest/inngest](https://github.com/inngest/inngest) - A scalable, low-latency, event-driven durable execution platform.  Supports functions deployed to serverless, servers, or the edge.
 - [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 - [ollama/ollama-js](https://github.com/ollama/ollama-js) - Ollama JavaScript library
 - [placemark/placemark](https://github.com/placemark/placemark) - A flexible web-based editor, converter, visualization tool, for geospatial data
@@ -3021,7 +3021,7 @@
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [paulgb/Treeverse](https://github.com/paulgb/Treeverse) - A browser extension for navigating burgeoning Twitter conversations
 - [jkbrzt/rrule](https://github.com/jkbrzt/rrule) - JavaScript library for working with recurrence rules for calendar dates as defined in the iCalendar RFC and more.
 - [Atyantik/react-pwa](https://github.com/Atyantik/react-pwa) - An upgradable boilerplate for Progressive web applications (PWA) with server side rendering, build with SEO in mind and achieving max page speed and optimized user experience.
