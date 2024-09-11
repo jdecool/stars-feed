@@ -1619,7 +1619,7 @@
 - [jgrossi/elephpant.me](https://github.com/jgrossi/elephpant.me) - 🐘 a simple website to help you to trade elePHPants 💥
 - [SoftCreatR/JSONPath](https://github.com/SoftCreatR/JSONPath) - JSONPath implementation for PHP.
 - [amnuts/opcache-gui](https://github.com/amnuts/opcache-gui) - A clean, effective and responsive interface for Zend OPcache
-- [HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events) - Open-source event management and ticket selling platform 🎟️
+- [HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events) - Open-source event management and ticket selling platform. Perfect for concerts, conferences, and everything in between 🎟️
 - [symplify/config-transformer](https://github.com/symplify/config-transformer) - Convert Symfony YAML configs to PHP format
 - [jolicode/automapper](https://github.com/jolicode/automapper) - :rocket: Very FAST :rocket: PHP AutoMapper with on the fly code generation
 - [pact-foundation/pact-php](https://github.com/pact-foundation/pact-php) - PHP version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project
@@ -2940,9 +2940,9 @@
 - [tech-conferences/conference-data](https://github.com/tech-conferences/conference-data) - Conference data for www.confs.tech
 - [RomanHotsiy/commitgpt](https://github.com/RomanHotsiy/commitgpt) - Automatically generate commit messages using ChatGPT
 - [zidoro/pomatez](https://github.com/zidoro/pomatez) - Stay Focused. Take a Break.
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. BSL licensed.
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library
 - [okikio/inthistweet](https://github.com/okikio/inthistweet) - ✨ Futuristic ✨ twitter image, gif and video downloader.  Enter a Tweet URL, click search, and download the image/videos in it.
-- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install
+- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - run anything
 - [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance
 - [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
