@@ -1450,6 +1450,7 @@
 - [coopTilleuls/handbook](https://github.com/coopTilleuls/handbook) - Les Tilleuls handbook
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
+- [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀
 - [Clivern/Gauntlet](https://github.com/Clivern/Gauntlet) - 🔖 Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems.
@@ -2737,7 +2738,7 @@
 
 ## Shell 
 
-- [alexsoyes/ai-driven-dev-community](https://github.com/alexsoyes/ai-driven-dev-community) - A collection of tools, prompts, snippets and agents for developers that use AI, daily.
+- [ai-driven-dev/ai-driven-dev-community](https://github.com/ai-driven-dev/ai-driven-dev-community) - A collection of tools, prompts, snippets and agents for developers that use AI, daily.
 - [titzer/virgil](https://github.com/titzer/virgil) - A fast and lightweight native programming language
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [OpenVPN/as-docker](https://github.com/OpenVPN/as-docker) - Docker images for openvpn-as
@@ -2866,7 +2867,6 @@
 - [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 - [Mortennn/Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
-- [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [nicoverbruggen/phpmon](https://github.com/nicoverbruggen/phpmon) - Lightweight, native Mac menu bar app that helps you manage multiple PHP installations, locate config files and more. Also interacts with Laravel Valet.
 - [raphaelhanneken/apple-juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS, that displays the remaining battery time and more.
@@ -2899,6 +2899,7 @@
 
 ## TypeScript 
 
+- [vanguardvirtual/repo-ranger](https://github.com/vanguardvirtual/repo-ranger) - Repo-Ranger is an AI-powered Github leaderboard that has no AI. It analyzes your Github activity and based on your score you win a clap 👏 or a 💩.
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀
 - [cchalop1/JustDeploy](https://github.com/cchalop1/JustDeploy) - JustDeploy simplifies deployments on your own server from your app source.
 - [betagouv/agir-front](https://github.com/betagouv/agir-front) - 
