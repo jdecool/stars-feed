@@ -1613,6 +1613,7 @@
 
 ## PHP 
 
+- [tareqas/psym](https://github.com/tareqas/psym) - A REPL for Symfony and PHP
 - [cerbero90/lazy-json-pages](https://github.com/cerbero90/lazy-json-pages) - 📜 Framework-agnostic API scraper to load items from any paginated JSON API into a Laravel lazy collection via async HTTP requests.
 - [artprima/prometheus-metrics-bundle](https://github.com/artprima/prometheus-metrics-bundle) - Symfony 5/6 Prometheus Metrics Bundle
 - [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) - 🚀 Fast detection of composer dependency issues (unused dependencies, shadow dependencies, misplaced dependencies)
