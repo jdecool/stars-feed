@@ -2905,6 +2905,7 @@
 
 ## TypeScript 
 
+- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Blazingly fast code search 🏎️  Deployed as a single Docker image 📦 Search million+ lines of code in your GitHub and GitLab repositories 🪄 MIT licensed ✅
 - [vanguardvirtual/repo-ranger](https://github.com/vanguardvirtual/repo-ranger) - Repo-Ranger is an AI-powered Github leaderboard that has no AI. It analyzes your Github activity and based on your score you win a clap 👏 or a 💩.
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀
 - [cchalop1/JustDeploy](https://github.com/cchalop1/JustDeploy) - JustDeploy simplifies deployments on your own server from your app source.
