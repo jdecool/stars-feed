@@ -429,6 +429,7 @@
 
 ## Go 
 
+- [vossenwout/crev](https://github.com/vossenwout/crev) - CLI tool to easily bundle your codebase into a single file and get ai code reviews.
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [derickr/streamdeck-goui](https://github.com/derickr/streamdeck-goui) - Project to drive a Elgato Stream Deck in a sort of configurable way
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
@@ -785,6 +786,7 @@
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [softvar/translatr](https://github.com/softvar/translatr) - :speech_balloon: Translate to multiple languages at once
 - [OpenRCE/Malware-Analysis-Training](https://github.com/OpenRCE/Malware-Analysis-Training) - Retired beginner/intermediate malware analysis training materials from @pedramamini and @erocarrera.
+- [teivah/algodeck](https://github.com/teivah/algodeck) - An Open-Source Collection of Flash Cards to Help You Preparing Your Algorithms & Data Structures and System Design Interviews 💯
 - [LINCnil/Guide-RGPD-du-developpeur](https://github.com/LINCnil/Guide-RGPD-du-developpeur) - La CNIL publie un guide RGPD pour les développeurs
 - [tobiashochguertel/c4-draw.io](https://github.com/tobiashochguertel/c4-draw.io) - C4 Modelling little bit easier
 - [BootstrapDash/Kapella-Free-Bootstrap-Admin-Template](https://github.com/BootstrapDash/Kapella-Free-Bootstrap-Admin-Template) - Free Dashboard template with Horizontal menu featuring Bootstrap 4.
@@ -1476,7 +1478,6 @@
 - [Ellene/activite-automie-enfant](https://github.com/Ellene/activite-automie-enfant) - Lister des ressources d'activité pour occuper les enfants durant cette période de confinement.
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [ineat/refcards](https://github.com/ineat/refcards) - Refcards des technologies utilisées chez Ineat.
-- [teivah/algodeck](https://github.com/teivah/algodeck) - An Open-Source Collection of 200+ Flash Cards to Help You Preparing Your Algorithms & Data Structures Interview 💯
 - [justinamiller/SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect) - Path to a Software Architect
 - [ivRodriguezCA/RE-iOS-Apps](https://github.com/ivRodriguezCA/RE-iOS-Apps) - A completely free, open source and online course about Reverse Engineering iOS Applications.
 - [yeahhub/Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks) - Top 100 Hacking & Security E-Books (Free Download)
