@@ -429,6 +429,7 @@
 
 ## Go 
 
+- [keploy/keploy](https://github.com/keploy/keploy) - Unit and Integration Test generation for Developers. Generate tests and stubs for your application that actually work!
 - [vossenwout/crev](https://github.com/vossenwout/crev) - CLI tool to easily bundle your codebase into a single file and get ai code reviews.
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [derickr/streamdeck-goui](https://github.com/derickr/streamdeck-goui) - Project to drive a Elgato Stream Deck in a sort of configurable way
@@ -1511,7 +1512,7 @@
 - [malk/the-kebab-kata](https://github.com/malk/the-kebab-kata) - Identifying & fighting your team’s systemic issues creating your legacy
 - [tzi/factu.net](https://github.com/tzi/factu.net) - Créer des factures rapidement
 - [facebookarchive/mononoke](https://github.com/facebookarchive/mononoke) - A Mercurial source control server, specifically designed to support large monorepos.
-- [integrations/slack](https://github.com/integrations/slack) - Bring your code to the conversations you care about with the GitHub and Slack integration
+- [integrations/slack](https://github.com/integrations/slack) - Bring your code to the conversations you care about with GitHub's integration for Slack
 - [a327ex/blog](https://github.com/a327ex/blog) - gamedev blog
 - [Artemmkin/infrastructure-as-code-tutorial](https://github.com/Artemmkin/infrastructure-as-code-tutorial) - Infrastructure As Code Tutorial. Covers Packer, Terraform, Ansible, Vagrant, Docker, Docker Compose, Kubernetes
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -2844,7 +2845,7 @@
 
 ## Svelte 
 
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for AI (Formerly Ollama WebUI)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [richshaw2015/dino-rss-electron](https://github.com/richshaw2015/dino-rss-electron) - A simple, efficient, open source RSS reader service
 - [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio, an open source alternative to Docker desktop
 - [Orbitale/Compotes](https://github.com/Orbitale/Compotes) - A small app to manage bank account operations and display rich analytics. Demo app credentials are admin/admin. [In development]
@@ -2998,7 +2999,7 @@
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [betagouv/mon-entreprise](https://github.com/betagouv/mon-entreprise) - L'assistant officiel des entrepreneurs
 - [SensCritique/browser-extension](https://github.com/SensCritique/browser-extension) - Permet d'avoir un score SensCritique sur Netflix, Disney+ et Prime Video
-- [kamilmielnik/scrabble-solver](https://github.com/kamilmielnik/scrabble-solver) - Free, open-source, cross-platform, and multi-language analysis tool for Scrabble, Super Scrabble & Literaki. Quickly find top scoring words using given board & tiles. Available in English, French, Ger
+- [kamilmielnik/scrabble-solver](https://github.com/kamilmielnik/scrabble-solver) - Free, open-source, cross-platform, multi-language analysis tool for Scrabble, Super Scrabble, Literaki, and Kelimelik. Quickly find the top-scoring words using the given board and tiles. Available in 
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [alibaba/lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
