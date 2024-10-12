@@ -1006,7 +1006,7 @@
 - [chrnorm/deployment-action](https://github.com/chrnorm/deployment-action) - GitHub action to create a Deployment
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs.
-- [jsonwebtoken/jsonwebtoken.github.io](https://github.com/jsonwebtoken/jsonwebtoken.github.io) - 
+- [jsonwebtoken/jsonwebtoken.github.io](https://github.com/jsonwebtoken/jsonwebtoken.github.io) - Developer-centric site to create awareness of JWTs and troubleshoot them.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [Zenika/alpine-chrome](https://github.com/Zenika/alpine-chrome) - Chrome Headless docker images built upon alpine official image
 - [EmailThis/extension-boilerplate](https://github.com/EmailThis/extension-boilerplate) - ⚡️ A template for building cross browser extensions for Chrome, Opera & Firefox.
@@ -1786,7 +1786,6 @@
 - [phayes/geoPHP](https://github.com/phayes/geoPHP) - Advanced geometry operations in PHP
 - [EventSaucePHP/ObjectHydrator](https://github.com/EventSaucePHP/ObjectHydrator) - Object Hydration library to create Command and Query objects.
 - [rowanhill/wiremock-php](https://github.com/rowanhill/wiremock-php) - PHP API for WireMock JSON interface
-- [ryangjchandler/laravel-feature-flags](https://github.com/ryangjchandler/laravel-feature-flags) - An opinionated feature flags package for Laravel.
 - [ScientaNL/DoctrineJsonFunctions](https://github.com/ScientaNL/DoctrineJsonFunctions) - Doctrine DQL functions for SQL JSON data type
 - [sauber-php/command-bus](https://github.com/sauber-php/command-bus) - The Command Bus component for the Sauber PHP framework
 - [xiCO2k/live-scores](https://github.com/xiCO2k/live-scores) - ⚽️ 🏀 🏒 Live scores for Sports!
