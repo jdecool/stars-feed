@@ -235,7 +235,6 @@
 
 ## C++ 
 
-- [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp) - Iconic media player
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
@@ -555,7 +554,7 @@
 - [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures.
 - [src-d/enry](https://github.com/src-d/enry) - A faster file programming language detector
 - [abadojack/whatlanggo](https://github.com/abadojack/whatlanggo) - Natural language detection library for Go
-- [OpenObservability/OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
+- [prometheus/OpenMetrics](https://github.com/prometheus/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
 - [eatonphil/gosql](https://github.com/eatonphil/gosql) - An early PostgreSQL implementation in Go
 - [jlaswell/compote](https://github.com/jlaswell/compote) - bite-sized dependency management for PHP
 - [jz222/logowl](https://github.com/jz222/logowl) - Collects logs to monitor and analyse web applications.
@@ -1106,7 +1105,7 @@
 - [Antoinebr/Ga-mobile-connection-type](https://github.com/Antoinebr/Ga-mobile-connection-type) - Get a precise idea of your mobile user connectivity with Google Analytics
 - [antelle/argon2-browser](https://github.com/antelle/argon2-browser) - Argon2 library compiled for browser runtime
 - [hundredrabbits/Left](https://github.com/hundredrabbits/Left) - Distractionless Writing Tool
-- [derogab/coingraph](https://github.com/derogab/coingraph) - Coingraph is a real-time graph for cryptocurrencies.
+- [derogab/coingraph](https://github.com/derogab/coingraph) - Coingraph is a real-time graph for cryptocurrencies that fetches real-time cryptocurrency prices, saves the data offline in a JSON file at regular intervals, and displays it through a minimalistic gra
 - [ericelliott/moneysafe](https://github.com/ericelliott/moneysafe) - Convenient, safe money calculations in JS
 - [replicatedhq/dockerfilelint](https://github.com/replicatedhq/dockerfilelint) - An opinionated Dockerfile linter.
 - [speedtracker/speedtracker](https://github.com/speedtracker/speedtracker) - 📉 Visualisation layer and data store for SpeedTracker
@@ -2415,7 +2414,6 @@
 - [IBM/MicroscoPy](https://github.com/IBM/MicroscoPy) - An open-source, motorized, and modular microscope built using LEGO bricks, Arduino, Raspberry Pi and 3D printing.
 - [meesaltena/SSHHeatmap](https://github.com/meesaltena/SSHHeatmap) - Generates a heatmap of IP's that made failed SSH login attempts.
 - [DP-3T/reference_implementation](https://github.com/DP-3T/reference_implementation) - 
-- [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [kamranahmedse/itomate](https://github.com/kamranahmedse/itomate) - Automate your iTerm layouts and session setup
 - [google/fuzzbench](https://github.com/google/fuzzbench) - FuzzBench - Fuzzer benchmarking as a service.
 - [pkkid/x11pygrid](https://github.com/pkkid/x11pygrid) - Quickly move windows around the an X11 desktop
@@ -2625,12 +2623,13 @@
 
 ## Rust 
 
+- [Merklemap/merklemap-cli](https://github.com/Merklemap/merklemap-cli) - Discover and enumerate all subdomains associated with a website, including those not publicly advertised. Use this tool to conduct thorough security assessments, validate your organization's digital f
 - [elijah-potter/harper](https://github.com/elijah-potter/harper) - The Grammar Checker for Developers
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
-- [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
+- [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - Blazing-fast Data-Wrangling toolkit
 - [Atome-FE/llama-node](https://github.com/Atome-FE/llama-node) - Believe in AI democratization. llama for nodejs backed by llama-rs, llama.cpp and rwkv.cpp, work locally on your laptop CPU. support llama/alpaca/gpt4all/vicuna/rwkv model.
 - [lowitea/gitlobster](https://github.com/lowitea/gitlobster) - 🦞 A tool for full cloning all available repositories from a GitLab instance.
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
@@ -2685,6 +2684,7 @@
 - [Orbitale/Rymfony](https://github.com/Orbitale/Rymfony) - A command-line tool built in Rust to run an HTTP+PHP server for development (and production? 😉)
 - [endbasic/endbasic](https://github.com/endbasic/endbasic) - BASIC environment with a REPL, a web interface, a graphical console, and RPi support written in Rust
 - [archseer/enigma](https://github.com/archseer/enigma) - An Erlang VM implementation in Rust
+- [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [bastion-rs/bastion](https://github.com/bastion-rs/bastion) - Highly-available Distributed Fault-tolerant Runtime
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
@@ -2723,7 +2723,6 @@
 - [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
 - [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [papercss/papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
-- [heroku/starboard](https://github.com/heroku/starboard) - onboarding, offboarding, or crossboarding made easy
 - [BafS/Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.
 - [rowanhogan/resumebuilder](https://github.com/rowanhogan/resumebuilder) - PDF Résumé generator using LinkedIn info.
 
@@ -2757,7 +2756,7 @@
 - [n3tsky/Pentest-Tools](https://github.com/n3tsky/Pentest-Tools) - A quick script to install "all required" tools (Kali-like) for penetration tests
 - [freekmurze/dotfiles](https://github.com/freekmurze/dotfiles) - My personal dotfiles
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
-- [coderofsalvation/kanban.bash](https://github.com/coderofsalvation/kanban.bash) - commandline asciii kanban board for minimalist productivity hackers & managers (csv-based) #scriptable #nestable #statistics #singlefile #shellscript
+- [coderofsalvation/kanban.bash](https://github.com/coderofsalvation/kanban.bash) - commandline asciii kanban board for minimalist productivity hackers & managers (csv-based) #scriptable #nestable #statistics #singlefile #shellscript #issuetracker #git
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [serversideup/docker-php](https://github.com/serversideup/docker-php) - 🐳 Production-ready Docker images for PHP. Optimized for Laravel, WordPress, and more!
 - [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - A handy shell script that enables you to write repeatable demos in a bash environment.
