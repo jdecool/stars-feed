@@ -2747,6 +2747,7 @@
 
 ## Shell 
 
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers
 - [ai-driven-dev/ai-driven-dev-community](https://github.com/ai-driven-dev/ai-driven-dev-community) - A collection of tools, prompts, snippets and agents for developers that use AI, daily.
 - [titzer/virgil](https://github.com/titzer/virgil) - A fast and lightweight native programming language
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
