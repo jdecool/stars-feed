@@ -542,7 +542,7 @@
 - [stapelberg/airscan](https://github.com/stapelberg/airscan) - Go package to scan paper documents 📄 from a scanner 🖨️ via the network 🕸️ using the Apple AirScan (eSCL) protocol.
 - [royalbhati/Foxy](https://github.com/royalbhati/Foxy) - Go based download manager
 - [goadapp/goad](https://github.com/goadapp/goad) - Goad is an AWS Lambda powered, highly distributed, load testing tool
-- [ory/kratos](https://github.com/ory/kratos) - The most scalable and customizable identity server on the market. Replace your Homegrown, Auth0, Okta, Firebase with better UX and DX. Has all the tablestakes: Passkeys, Social Sign In, Multi-Factor A
+- [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Mu
 - [briansorahan/spatialite](https://github.com/briansorahan/spatialite) - database/sql driver for libspatialite
 - [shaxbee/go-spatialite](https://github.com/shaxbee/go-spatialite) - Spatialite SQL Driver for Golang
 - [mdlayher/schedgroup](https://github.com/mdlayher/schedgroup) - Package schedgroup provides a goroutine worker pool which schedules tasks to be performed at or after a specified time. MIT Licensed.
@@ -1623,6 +1623,7 @@
 
 ## PHP 
 
+- [samuelgfeller/slim-example-project](https://github.com/samuelgfeller/slim-example-project) - Complete Real World Slim 4 Example Project with Front- and Backend, Automated Testing, Auth System, Permissions, Localization and more.
 - [craue/CraueFormFlowBundle](https://github.com/craue/CraueFormFlowBundle) - Multi-step forms for your Symfony project.
 - [phpstreamserver/phpstreamserver](https://github.com/phpstreamserver/phpstreamserver) - PHPStreamServer is a high-performance PHP application server and process manager written in PHP.
 - [bamarni/composer-bin-plugin](https://github.com/bamarni/composer-bin-plugin) - No conflicts for your bin dependencies
@@ -2762,7 +2763,7 @@
 
 ## Shell 
 
-- [patternhelloworld/docker-blue-green-runner](https://github.com/patternhelloworld/docker-blue-green-runner) - A Simple and Safe Blue-Green Deployment Starting from Your Source Code—Not from Your Prebuilt Docker Image
+- [patternhelloworld/docker-blue-green-runner](https://github.com/patternhelloworld/docker-blue-green-runner) - By simply configuring the .env file, a simple and safe Blue-Green Deployment is instantly set up.
 - [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers
 - [ai-driven-dev/ai-driven-dev-community](https://github.com/ai-driven-dev/ai-driven-dev-community) - A collection of tools, prompts, snippets and agents for developers that use AI, daily.
