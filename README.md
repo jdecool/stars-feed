@@ -236,6 +236,8 @@
 
 ## C++ 
 
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
+- [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
@@ -448,6 +450,7 @@
 - [dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
 - [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go, the easiest way to write LLM-based programs in Go
 - [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
+- [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
@@ -1033,7 +1036,7 @@
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [codemirror/dev](https://github.com/codemirror/dev) - Development repository for the CodeMirror editor project
 - [gsilvamartin/RTCode](https://github.com/gsilvamartin/RTCode) - Real time code sharing web application
-- [zelaxo/zeeka](https://github.com/zelaxo/zeeka) - Secure global file sharing using tcp tunnels. Currently tunneling through localtunnel's public servers. Zeeka dedicated servers coming soon.
+- [caprico-codes/zeeka](https://github.com/caprico-codes/zeeka) - Secure global file sharing using tcp tunnels. Currently tunneling through localtunnel's public servers. Zeeka dedicated servers coming soon.
 - [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [riju/WebCamera](https://github.com/riju/WebCamera) - Camera controls for the Web
@@ -1145,7 +1148,7 @@
 - [perftools/xhgui](https://github.com/perftools/xhgui) - Web interface for XHProf profiling data can store data in MongoDB or PDO database
 - [astefanutti/decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
-- [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
+- [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 - [mitchas/ffftp](https://github.com/mitchas/ffftp) - Electron FTP manager
 - [FGRibreau/gron](https://github.com/FGRibreau/gron) - gron - Make JSON greppable!
 - [kuzzleio/kuzzle](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT -
@@ -1409,7 +1412,7 @@
 - [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [brunophilipe/Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew.
 - [kasper/phoenix](https://github.com/kasper/phoenix) - A lightweight macOS window and app manager scriptable with JavaScript
-- [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
+- [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall
 - [sequelpro/sequelpro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS
 - [Naituw/IPAPatch](https://github.com/Naituw/IPAPatch) - Patch iOS Apps, The Easy Way, Without Jailbreak.
 - [Kapeli/Dash-iOS](https://github.com/Kapeli/Dash-iOS) - Dash for iOS was discontinued. Please check out Dash for macOS instead.
@@ -1628,7 +1631,7 @@
 
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - ✂️ Split PHPStan baseline to multiple files per each error identifier. Supports both neon baseline and PHP baseline.
 - [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) - Stomp PHP Client
-- [samuelgfeller/slim-example-project](https://github.com/samuelgfeller/slim-example-project) - Complete Real World Slim 4 Example Project with Front- and Backend, Automated Testing, Auth System, Permissions, Localization and more.
+- [samuelgfeller/slim-example-project](https://github.com/samuelgfeller/slim-example-project) - Real World Slim 4 Example Project with Front- and Backend, Testing, Auth System, Permissions, Localization and more with a complete documentation.
 - [craue/CraueFormFlowBundle](https://github.com/craue/CraueFormFlowBundle) - Multi-step forms for your Symfony project.
 - [phpstreamserver/phpstreamserver](https://github.com/phpstreamserver/phpstreamserver) - PHPStreamServer is a high-performance PHP application server and process manager written in PHP.
 - [bamarni/composer-bin-plugin](https://github.com/bamarni/composer-bin-plugin) - No conflicts for your bin dependencies
@@ -1666,7 +1669,7 @@
 - [Yousign/zdd-message-bundle](https://github.com/Yousign/zdd-message-bundle) - A Symfony Bundle to use when you want to assert that messages used with Message brokers such like RabbitMQ are compliant with the Zero Downtime Deployment.
 - [benconda/collection](https://github.com/benconda/collection) - Collection library powered by generators, with generics, memory friendly and easily extendable
 - [dagger/dagger-php-sdk](https://github.com/dagger/dagger-php-sdk) - A read-only mirror of the Dagger PHP SDK. Do not use directly! To contribute, see https://github.com/dagger/dagger/tree/main/sdk/php
-- [theodo-group/LLPhant](https://github.com/theodo-group/LLPhant) - LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain
+- [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) - LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain
 - [balbuf/composer-git-merge-driver](https://github.com/balbuf/composer-git-merge-driver) - Custom git merge driver to minimize merge conflicts in composer.json and composer.lock files
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest
 - [coralsio/laraship](https://github.com/coralsio/laraship) - Laraship is a Platform built on Laravel for Rapid Development, it helps Agents, Startups, and even individuals to save time building their Web Applications and websites using well-structured code.
@@ -1734,7 +1737,7 @@
 - [williarin/cook](https://github.com/williarin/cook) - Composer plugin to execute recipes embedded in packages
 - [VincentLanglet/Twig-CS-Fixer](https://github.com/VincentLanglet/Twig-CS-Fixer) - A tool to automatically fix Twig Coding Standards issues
 - [CodeRevolutionPlugins/GPT-3-Encoder-PHP](https://github.com/CodeRevolutionPlugins/GPT-3-Encoder-PHP) - PHP BPE Text Encoder / Decoder for GPT-2 / GPT-3
-- [PHP-CMSIG/search](https://github.com/PHP-CMSIG/search) - Search abstraction over different search engines written in PHP. Currently implemented Elasticsearch, Opensearch, Algolia, Meilisearch, RediSearch, Solr, Typesense. Documentation: https://php-cmsig.gi
+- [PHP-CMSIG/search](https://github.com/PHP-CMSIG/search) - Search abstraction over different search engines written in PHP. Currently implemented Elasticsearch, Opensearch, Algolia, Meilisearch, Loupe, RediSearch, Solr, Typesense. Documentation: https://php-c
 - [voku/Arrayy](https://github.com/voku/Arrayy) - 🗃 Array manipulation library for PHP, called Arrayy!
 - [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) - 🎵 Provides a composer plugin for normalizing composer.json.
 - [SymfonyTest/symfony-bundle-test](https://github.com/SymfonyTest/symfony-bundle-test) - Smoke test your Symfony bundle
@@ -2953,7 +2956,6 @@
 - [OpenRailAssociation/osrd](https://github.com/OpenRailAssociation/osrd) - An open source web application for railway infrastructure design, capacity analysis, timetabling and simulation
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [relagit/relagit](https://github.com/relagit/relagit) - The elegant solution to graphical version control.
-- [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.
 - [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 - [ollama/ollama-js](https://github.com/ollama/ollama-js) - Ollama JavaScript library
 - [placemark/placemark](https://github.com/placemark/placemark) - A flexible web-based editor, converter, visualization tool, for geospatial data
