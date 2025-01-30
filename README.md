@@ -239,6 +239,7 @@
 
 ## C++ 
 
+- [Murmele/Gittyup](https://github.com/Murmele/Gittyup) - Understand your Git history!
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
@@ -1629,6 +1630,7 @@
 
 ## PHP 
 
+- [DaveLiddament/phpstan-php-language-extensions](https://github.com/DaveLiddament/phpstan-php-language-extensions) - PHPStan extension for validating php-language-extensions
 - [JacquesDurand/symfony-otl](https://github.com/JacquesDurand/symfony-otl) - 
 - [devdot/monolog-parser](https://github.com/devdot/monolog-parser) - A library for parsing monolog logfiles.
 - [pontedilana/WeasyPrintBundle](https://github.com/pontedilana/WeasyPrintBundle) - Easily create PDF in Symfony by converting HTML using WeasyPrint
