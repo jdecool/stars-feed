@@ -1607,7 +1607,7 @@
 - [flibitijibibo/FNA-MGHistory](https://github.com/flibitijibibo/FNA-MGHistory) - FNA - Accuracy-focused XNA4 reimplementation for open platforms
 - [dotnet/corefx](https://github.com/dotnet/corefx) - This repo is used for servicing PR's for .NET Core 2.1 and 3.1. Please visit us at https://github.com/dotnet/runtime
 - [nico3333fr/ChallengeDuBerger](https://github.com/nico3333fr/ChallengeDuBerger) - Améliorer nos relations en variant nos signatures emails
-- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [sitepoint-editors/awesome-symfony](https://github.com/sitepoint-editors/awesome-symfony) - A list of awesome Symfony bundles, utilities and resources.
 - [toddmotto/angularjs-styleguide](https://github.com/toddmotto/angularjs-styleguide) - AngularJS styleguide for teams
 - [apiaryio/api-blueprint](https://github.com/apiaryio/api-blueprint) - API Blueprint
@@ -1922,7 +1922,7 @@
 - [amenophis/csv2json](https://github.com/amenophis/csv2json) - A little tool to parse CSV file using type mapping and export to JSON
 - [Holicz/DoctrineSafeTypes](https://github.com/Holicz/DoctrineSafeTypes) - Doctrine types for thecodingmachine/safe package
 - [crf-devs/resop](https://github.com/crf-devs/resop) - ResOp is a management, planning and projection tool for human and operational resources in a crisis context.
-- [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - Simple wireless AP setup & management for Debian-based devices
+- [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - The easiest, full-featured wireless router setup for Debian-based devices. Period.
 - [rybakit/msgpack.php](https://github.com/rybakit/msgpack.php) - A pure PHP implementation of the MessagePack serialization format / msgpack.org[PHP]
 - [DanWin/hosting](https://github.com/DanWin/hosting) - This is a setup for a Tor based shared web hosting server
 - [yswery/PHP-DNS-SERVER](https://github.com/yswery/PHP-DNS-SERVER) - An Authoritative DNS Server written purely in PHP
@@ -2695,7 +2695,7 @@
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [atlasr-org/atlasr](https://github.com/atlasr-org/atlasr) - Atlasr is a truly open-source and free map browser.
 - [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
-- [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The enterprise-ready webhooks service 🦀
+- [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The open source and enterprise-ready webhooks service 🦀
 - [SOF3/phar.rs](https://github.com/SOF3/phar.rs) - Rust library for PHP phar format
 - [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust.
 - [chiselstrike/chiselstore](https://github.com/chiselstrike/chiselstore) - SQLite + Little Raft = 🚀
@@ -2958,7 +2958,7 @@
 - [johnpapa/vscode-cloak](https://github.com/johnpapa/vscode-cloak) - Cloak allows you to hide/show environment keys, to avoid accidentally sharing them with everyone who sees your screen.
 - [laravel/vs-code-extension](https://github.com/laravel/vs-code-extension) - 
 - [danielroe/unsight.dev](https://github.com/danielroe/unsight.dev) - Detect duplicate GitHub issues, areas of concern and more across related repositories.
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
 - [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Blazingly fast code search 🏎️  Deployed as a single Docker image 📦 Search million+ lines of code in your GitHub, GitLab, Gitea, and Gerrit repositories 🪄 MIT licensed ✅
 - [sotirisspace/repo-ranger](https://github.com/sotirisspace/repo-ranger) - Repo-Ranger is an AI-powered Github leaderboard that has no AI. It analyzes your Github activity and based on your score you win a clap 👏 or a 💩.
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
