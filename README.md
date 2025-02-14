@@ -1630,6 +1630,7 @@
 
 ## PHP 
 
+- [laravel/nightwatch](https://github.com/laravel/nightwatch) - The official Laravel Nightwatch package.
 - [packistry/packistry](https://github.com/packistry/packistry) - Open Source, Self-Hosted, Composer repository for PHP packages
 - [mtarld/apip-ddd](https://github.com/mtarld/apip-ddd) - An example of hexagonal API Platform 3 implementation
 - [DaveLiddament/phpstan-php-language-extensions](https://github.com/DaveLiddament/phpstan-php-language-extensions) - PHPStan extension for validating php-language-extensions
