@@ -545,7 +545,6 @@
 - [rwtodd/Go.Sed](https://github.com/rwtodd/Go.Sed) - An implementation of sed in Go.  Just because!
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
 - [stapelberg/airscan](https://github.com/stapelberg/airscan) - Go package to scan paper documents 📄 from a scanner 🖨️ via the network 🕸️ using the Apple AirScan (eSCL) protocol.
-- [royalbhati/Foxy](https://github.com/royalbhati/Foxy) - Go based download manager
 - [goadapp/goad](https://github.com/goadapp/goad) - Goad is an AWS Lambda powered, highly distributed, load testing tool
 - [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, 
 - [briansorahan/spatialite](https://github.com/briansorahan/spatialite) - database/sql driver for libspatialite
@@ -980,7 +979,7 @@
 - [dauxio/daux.io](https://github.com/dauxio/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer f
 - [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system.
 - [Mermade/openapi-gui](https://github.com/Mermade/openapi-gui) - GUI / visual editor for creating and editing OpenAPI / Swagger definitions
-- [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers
+- [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - for desktop and mobile
 - [gcochard/hibp-downloader](https://github.com/gcochard/hibp-downloader) - Download all the HIBP passwords
 - [juliuste/direkt.bahn.guru](https://github.com/juliuste/direkt.bahn.guru) - All direct long-distance railway connections for cities in and beyond central Europe.
 - [bhovhannes/junit-report-merger](https://github.com/bhovhannes/junit-report-merger) - Merges multiple JUnit XML reports into one
@@ -1302,7 +1301,7 @@
 - [angular-wizard/angular-wizard](https://github.com/angular-wizard/angular-wizard) - Easy to use Wizard library for AngularJS
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [arachnys/cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
-- [FoxUSA/OpenNote](https://github.com/FoxUSA/OpenNote) - OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) and EverNote.
+- [JLiscom/OpenNote](https://github.com/JLiscom/OpenNote) - OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) and EverNote.
 - [YaroslavGaponov/node-jvm](https://github.com/YaroslavGaponov/node-jvm) - java virtual machine in pure node.js
 - [jlord/sheetsee.js](https://github.com/jlord/sheetsee.js) - :eyes: :chart_with_upwards_trend: Visualize Data from a Google Spreadsheet
 - [rdubigny/cozy-music](https://github.com/rdubigny/cozy-music) - Cozic, an open source music cloud
@@ -1630,6 +1629,7 @@
 
 ## PHP 
 
+- [buggregator/server](https://github.com/buggregator/server) - Buggregator is a lightweight, standalone server that offers a range of debugging features for PHP applications.
 - [laravel/nightwatch](https://github.com/laravel/nightwatch) - The official Laravel Nightwatch package.
 - [packistry/packistry](https://github.com/packistry/packistry) - Open Source, Self-Hosted, Composer repository for PHP packages
 - [mtarld/apip-ddd](https://github.com/mtarld/apip-ddd) - An example of hexagonal API Platform 3 implementation
@@ -1913,7 +1913,7 @@
 - [aeon-php/calendar](https://github.com/aeon-php/calendar) - 📅 PHP Date & Time library that solves common problems in object oriented, immutable way.
 - [spatie/tinker.app](https://github.com/spatie/tinker.app) - Instant shareable Laravel Tinker sessions in your browser.
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) - cs2pr - Annotate a GitHub Pull Request based on a Checkstyle XML-report within your GitHub Action
-- [beyondcode/expose](https://github.com/beyondcode/expose) - A beautiful, fully open-source, tunneling service - written in pure PHP
+- [exposedev/expose](https://github.com/exposedev/expose) - A beautiful, fully open-source, tunneling service - written in pure PHP
 - [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - Map nested JSON structures to PHP classes
 - [cweagans/composer-patches](https://github.com/cweagans/composer-patches) - Simple patches plugin for Composer
@@ -2197,7 +2197,7 @@
 - [qandidate-labs/qandidate-toggle](https://github.com/qandidate-labs/qandidate-toggle) - Feature toggling for your PHP application
 - [jubianchi/async-generator](https://github.com/jubianchi/async-generator) - Non-blocking tasks with only PHP and generators
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
-- [qossmic/deptrac](https://github.com/qossmic/deptrac) - Keep your architecture clean.
+- [deptrac/deptrac](https://github.com/deptrac/deptrac) - Keep your architecture clean.
 - [agallou/unreviewed-pr](https://github.com/agallou/unreviewed-pr) - View your pull requests without any comment directly in hipchat
 - [teamtnt/tntsearch](https://github.com/teamtnt/tntsearch) - A fully featured full text search engine written in PHP
 - [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) - Adds extra security-related features in your Symfony application
@@ -2623,7 +2623,7 @@
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [lessy-community/lessy](https://github.com/lessy-community/lessy) - A respectful and ethical time manager.
 - [andreausu/git-notifier](https://github.com/andreausu/git-notifier) - Get email notifications when someone stars or forks one of your GitHub repos and follows/unfollows you
-- [cesarferreira/gito](https://github.com/cesarferreira/gito) - :zap: git helper tool to clone/open/auto-install/edit with a one-liner
+- [cesarferreira/gito](https://github.com/cesarferreira/gito) - ⚡️ git helper tool to clone/open/auto-install/edit with a one-liner
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [EugenMayer/docker-sync](https://github.com/EugenMayer/docker-sync) - Run your application at full speed while syncing your code for development, finally empowering you to utilize docker for development under OSX/Windows/*Linux
@@ -2959,7 +2959,7 @@
 - [johnpapa/vscode-cloak](https://github.com/johnpapa/vscode-cloak) - Cloak allows you to hide/show environment keys, to avoid accidentally sharing them with everyone who sees your screen.
 - [laravel/vs-code-extension](https://github.com/laravel/vs-code-extension) - 
 - [danielroe/unsight.dev](https://github.com/danielroe/unsight.dev) - Detect duplicate GitHub issues, areas of concern and more across related repositories.
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Blazingly fast code search 🏎️  Deployed as a single Docker image 📦 Search million+ lines of code in your GitHub, GitLab, Gitea, and Gerrit repositories 🪄 MIT licensed ✅
 - [sotirisspace/repo-ranger](https://github.com/sotirisspace/repo-ranger) - Repo-Ranger is an AI-powered Github leaderboard that has no AI. It analyzes your Github activity and based on your score you win a clap 👏 or a 💩.
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
