@@ -128,7 +128,7 @@
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [bulwarkid/virtual-fido](https://github.com/bulwarkid/virtual-fido) - A Virtual FIDO2 USB Device
 - [MyOwnClone/quake_watch](https://github.com/MyOwnClone/quake_watch) - Quake 1 game port to Apple Watch
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [joncampbell123/dosbox-x](https://github.com/joncampbell123/dosbox-x) - DOSBox-X fork of the DOSBox project
 - [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
 - [QB64Team/qb64](https://github.com/QB64Team/qb64) - BASIC for the modern era.
@@ -257,7 +257,7 @@
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [FD-/RPiPlay](https://github.com/FD-/RPiPlay) - An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-- [ethereal-developers/OpenScan](https://github.com/ethereal-developers/OpenScan) - A privacy-friendly Document Scanner app
+- [ethereal-developers/OpenScan](https://github.com/ethereal-developers/OpenScan) - Document Scanner that protects your privacy
 - [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) - 
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [francescmm/GitQlient](https://github.com/francescmm/GitQlient) - GitQlient: Multi-platform Git client written with Qt.
@@ -436,10 +436,13 @@
 
 ## Go 
 
+- [AkashRajpurohit/git-sync](https://github.com/AkashRajpurohit/git-sync) - 🔄 A simple tool to backup and sync your git repositories
+- [negativa-ai/BLAFS](https://github.com/negativa-ai/BLAFS) - A Bloat Aware Filesystem for Container Debloating.
+- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
 - [manjurulhoque/golang-job-portal](https://github.com/manjurulhoque/golang-job-portal) - A job portal application API using go-gin
 - [nobe4/slacked](https://github.com/nobe4/slacked) - You've been slacked!
-- [keploy/keploy](https://github.com/keploy/keploy) - Unit and Integration Test generation for Developers. Generate tests and stubs for your application that actually work!
+- [keploy/keploy](https://github.com/keploy/keploy) - Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!
 - [vossenwout/crev](https://github.com/vossenwout/crev) - CLI tool to easily bundle your codebase into a single file and get ai code reviews.
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [derickr/streamdeck-goui](https://github.com/derickr/streamdeck-goui) - Project to drive a Elgato Stream Deck in a sort of configurable way
@@ -458,7 +461,7 @@
 - [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [hasura/go-graphql-client](https://github.com/hasura/go-graphql-client) - Package graphql provides a GraphQL client implementation.
 - [xrdebug/xrdebug](https://github.com/xrdebug/xrdebug) - Lightweight portable debug utility
 - [tonywangcn/distributed-web-crawler](https://github.com/tonywangcn/distributed-web-crawler) - The Architecture of a Web Crawler: Building a Google-Inspired Distributed Web Crawler
@@ -486,6 +489,7 @@
 - [adhocore/chin](https://github.com/adhocore/chin) - A Go lang library to show a spinner as user waits for any long running jobs to finish.
 - [cshum/imagorvideo](https://github.com/cshum/imagorvideo) - imagor video thumbnail server in Go and ffmpeg C bindings
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+- [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [baris-inandi/bfgo](https://github.com/baris-inandi/bfgo) - A fast, optimizing, BF compiler, interpreter, and REPL. Also includes a BF formatter and minifier! Implemented in Go. Batteries included.
@@ -682,7 +686,7 @@
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [qax-os/goreporter](https://github.com/qax-os/goreporter) - A Golang tool that does static analysis, unit testing, code review and generate code quality report.
 - [campoy/go-tooling-workshop](https://github.com/campoy/go-tooling-workshop) - A workshop covering all the tools gophers use in their day to day life
-- [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go.
+- [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based automation system written in Go.
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 - [gopher-os/gopher-os](https://github.com/gopher-os/gopher-os) - A proof of concept OS kernel written in Go
 - [willnorris/microformats](https://github.com/willnorris/microformats) - Go library for parsing microformats
@@ -773,7 +777,6 @@
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
 - [InnerSourceCommons/InnerSourcePatterns](https://github.com/InnerSourceCommons/InnerSourcePatterns) - These patterns document how to apply open source principles and practices for software development within the confines of an organization - aka InnerSource.
 - [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
-- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 - [VBAndCs/sVB-Small-Visual-Basic](https://github.com/VBAndCs/sVB-Small-Visual-Basic) - Small Visual Basic (sVB) is an educational programming language, created by Eng. Mohammad Hamdy as an evolved version of Microsoft Small Basic (SB). It is meant to be easier and more powerful at the s
 - [fivefilters/readability.php](https://github.com/fivefilters/readability.php) - PHP port of Mozilla's Readability.js
 - [sarven/unit-testing-tips](https://github.com/sarven/unit-testing-tips) - Unit testing tips by examples in PHP
@@ -825,6 +828,7 @@
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [k2052/markdown-to-ebook](https://github.com/k2052/markdown-to-ebook) - Learn how to craft an ebook using markdown.
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [hashicorp/otto](https://github.com/hashicorp/otto) - Development and deployment made easy.
 - [ossf/census](https://github.com/ossf/census) - 📜Automated review of open source software projects
 - [chrisvel/ticketbox](https://github.com/chrisvel/ticketbox) - What a modern case/ticket management system should be like (not maintained)
@@ -1366,6 +1370,7 @@
 
 ## MDX 
 
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
 ## Makefile 
@@ -1468,6 +1473,7 @@
 - [bmoeskau/engineering-ladders](https://github.com/bmoeskau/engineering-ladders) - A collection of engineering ladders for reference and inspiration
 - [TomasVotruba/awesome-php-ast](https://github.com/TomasVotruba/awesome-php-ast) - Awesome sources for amazing AST topic in world PHP
 - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
+- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 💀 Homebrew Bundle (deprecated)
 - [ddbeck/readme-checklist](https://github.com/ddbeck/readme-checklist) - A checklist for writing READMEs
 - [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [coopTilleuls/handbook](https://github.com/coopTilleuls/handbook) - Les Tilleuls handbook
@@ -1576,7 +1582,6 @@
 - [SymfonyCon/2015-talks](https://github.com/SymfonyCon/2015-talks) - 
 - [thefinn93/ansible-letsencrypt](https://github.com/thefinn93/ansible-letsencrypt) - An ansible role to generate TLS certificates and get them signed by Let's Encrypt
 - [icecrime/vossibility-stack](https://github.com/icecrime/vossibility-stack) - Visibility for your open source project
-- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [44bits/awesome-opensource-documents](https://github.com/44bits/awesome-opensource-documents) - :blue_book: A curated list of awesome open source or open source licensed documents, guides, books.
 - [igorbarinov/awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers
 - [utkusen/hidden-tear](https://github.com/utkusen/hidden-tear) - an open source ransomware honeypot
@@ -1612,7 +1617,6 @@
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [ligurio/sqa-wiki](https://github.com/ligurio/sqa-wiki) - My own notes (drafts mostly) about software quality
-- [prili/fb-hfc](https://github.com/prili/fb-hfc) - Facebook hidden friends crawler POC
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 - [metaware/angularjs-form-builder](https://github.com/metaware/angularjs-form-builder) - A simple form builder application written with AngularJS.
 - [mgp/book-notes](https://github.com/mgp/book-notes) - Notes from books and other interesting things that I've read. Table of contents at the end 👇
@@ -1627,6 +1631,8 @@
 
 ## PHP 
 
+- [timoschinkel/codeowners](https://github.com/timoschinkel/codeowners) - A parser and matcher for the codeowners file as used by Github, Gitlab and Bitbucket.
+- [context-hub/generator](https://github.com/context-hub/generator) - A tool for generating contextual documentation from your codebase.
 - [mnapoli/boxie](https://github.com/mnapoli/boxie) - Universal package manager based on Docker
 - [buggregator/server](https://github.com/buggregator/server) - Buggregator is a lightweight, standalone server that offers a range of debugging features for PHP applications.
 - [laravel/nightwatch](https://github.com/laravel/nightwatch) - The official Laravel Nightwatch package.
@@ -1667,7 +1673,7 @@
 - [jbtronics/settings-bundle](https://github.com/jbtronics/settings-bundle) - A bundle to easily create typesafe, user-configurable settings for symfony applications
 - [eqsgroup/health-check-provider](https://github.com/eqsgroup/health-check-provider) - Provides structure for healthcheck endpoints in accordance with IETF's healthcheck draft RFC
 - [php-type-language/parser](https://github.com/php-type-language/parser) - 🧱 Library for parsing and validating TypeLang syntax and converting it into AST nodes
-- [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) - A PHP library to backup, restore and anonymize databases
+- [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) - A PHP library to back up, restore and anonymize databases
 - [frankdekker/symfony-log-viewer-bundle](https://github.com/frankdekker/symfony-log-viewer-bundle) - A log viewer for Symfony
 - [tempestphp/highlight](https://github.com/tempestphp/highlight) - 🎨 Fast, extensible, server-side code highlighting for web and terminal
 - [ilyachase/monolith-decoupling-example](https://github.com/ilyachase/monolith-decoupling-example) - 
@@ -2013,7 +2019,7 @@
 - [matthiasnoback/TalisORM](https://github.com/matthiasnoback/TalisORM) - An ORM for "ORMless" persistance of DDD-inspired domain models
 - [webmozarts/assert](https://github.com/webmozarts/assert) - Assertions to validate method input/output with nice error messages.
 - [makasim/php-fpm-queue](https://github.com/makasim/php-fpm-queue) - Use php-fpm as a simple built-in async queue
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [Innmind/TimeContinuum](https://github.com/Innmind/TimeContinuum) - 
 - [thephpleague/tactician](https://github.com/thephpleague/tactician) - A small, flexible command bus
 - [thephpleague/tactician-bundle](https://github.com/thephpleague/tactician-bundle) - Bundle to integrate Tactician with Symfony projects
@@ -2389,6 +2395,7 @@
 
 ## Python 
 
+- [sanjeed5/awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) - Curated list of awesome Cursor Rules .mdc files
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [roshanlam/sqlite-worker](https://github.com/roshanlam/sqlite-worker) - Effortlessly manage SQLite in multi-threaded Python applications
 - [streamdeck-linux-gui/streamdeck-linux-gui](https://github.com/streamdeck-linux-gui/streamdeck-linux-gui) - A Linux compatible UI for the Elgato Stream Deck.
@@ -2403,7 +2410,7 @@
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [RhetTbull/osxphotos](https://github.com/RhetTbull/osxphotos) - Python app to work with pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
 - [asg017/sqlite-ulid](https://github.com/asg017/sqlite-ulid) - A SQLite extension for generating and working with ULIDs
-- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 14+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 15+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
 - [miniflux/python-client](https://github.com/miniflux/python-client) - Python client for Miniflux API
 - [ActiveState/OpenKomodoIDE](https://github.com/ActiveState/OpenKomodoIDE) - Open Komodo IDE is a fast and free multi-language code editor. Written in JS, Python, C++ and based on the Mozilla platform.
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
@@ -2460,7 +2467,7 @@
 - [renatomefi/php-fpm-healthcheck](https://github.com/renatomefi/php-fpm-healthcheck) - A POSIX compliant sh script to healthcheck PHP fpm status, can be used only for pinging or check for specific metrics
 - [larsks/ansible-toolbox](https://github.com/larsks/ansible-toolbox) - 
 - [adithyakhamithkar/ansible-playbooks](https://github.com/adithyakhamithkar/ansible-playbooks) - Ansible playbook collection that have been written for Ubuntu. Some of the playbooks are Elasticsearch, Mesos, AWS, MySql, Sensu, Nginx etc..
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 - [NVIDIA/vid2vid](https://github.com/NVIDIA/vid2vid) - Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [SebastienReuiller/teleinfo-linky-with-raspberry](https://github.com/SebastienReuiller/teleinfo-linky-with-raspberry) - Surveiller sa consommation électrique en temps réel avec un compteur Linky et un Raspberry
@@ -2605,7 +2612,6 @@
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [yongfook/zipsell](https://github.com/yongfook/zipsell) - A free open source platform for selling digital downloads such as ebooks
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [Shopify/shipit-engine](https://github.com/Shopify/shipit-engine) - Deployment coordination
 - [TypoCI/Marketplace-App](https://github.com/TypoCI/Marketplace-App) - Find Spelling errors in files within PRs
@@ -2659,7 +2665,7 @@
 - [Merklemap/merklemap-cli](https://github.com/Merklemap/merklemap-cli) - Discover and enumerate all subdomains associated with a website, including those not publicly advertised. Use this tool to conduct thorough security assessments, validate your organization's digital f
 - [Automattic/harper](https://github.com/Automattic/harper) - The Grammar Checker for Developers
 - [FifthRooter/OpenShotX](https://github.com/FifthRooter/OpenShotX) - A powerful, user-friendly screen capture and recording tool for Linux, inspired by CleanShot X.
-- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
@@ -2672,7 +2678,7 @@
 - [jkfran/killport](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
-- [pxp-lang/pxp](https://github.com/pxp-lang/pxp) - An early-stage project to develop high-performance tools for PHP developers.
+- [ryangjchandler/pxp](https://github.com/ryangjchandler/pxp) - An early-stage project to develop high-performance tools for PHP developers.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix Web ecosystem usage.
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
@@ -2795,7 +2801,6 @@
 - [BalliAsghar/killport](https://github.com/BalliAsghar/killport) - Kill The Port
 - [n3tsky/Pentest-Tools](https://github.com/n3tsky/Pentest-Tools) - A quick script to install "all required" tools (Kali-like) for penetration tests
 - [freekmurze/dotfiles](https://github.com/freekmurze/dotfiles) - My personal dotfiles
-- [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [coderofsalvation/kanban.bash](https://github.com/coderofsalvation/kanban.bash) - commandline asciii kanban board for minimalist productivity hackers & managers (csv-based) #scriptable #nestable #statistics #singlefile #shellscript #issuetracker #git
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [serversideup/docker-php](https://github.com/serversideup/docker-php) - 🐳 Production-ready Docker images for PHP. Optimized for Laravel, WordPress, and more!
@@ -2832,7 +2837,7 @@
 - [alex000kim/nsfw_data_scraper](https://github.com/alex000kim/nsfw_data_scraper) - Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
 - [internetwache/GitTools](https://github.com/internetwache/GitTools) - A repository with 3 tools for pwn'ing websites with .git repositories available
 - [awesome-inc/monorepo.gitlab](https://github.com/awesome-inc/monorepo.gitlab) - Scripts helping towards monorepos with GitLab CI.
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [cytopia/awesome-ci](https://github.com/cytopia/awesome-ci) - Awesome Continuous Integration - Lot's of tools for git, file and static source code analysis.
 - [pyaillet/conf-linuxkit](https://github.com/pyaillet/conf-linuxkit) - Projects used in demos of our linuxkit talk
 - [laravel/settler](https://github.com/laravel/settler) - 
@@ -2893,6 +2898,7 @@
 
 ## Swift 
 
+- [ts1/BLEUnlock](https://github.com/ts1/BLEUnlock) - Lock/unlock your Mac with your iPhone, Apple Watch, or any other Bluetooth LE devices
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) - macOS menu bar app that shows how full the International Space Station's urine tank is in real time
 - [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
 - [lihaoyun6/AirBattery](https://github.com/lihaoyun6/AirBattery) - Get the battery usage of all your devices on your Mac and put them on the Dock / Menu Bar / Widget! && 在Mac上获取你所有设备的电量信息并显示在Dock / 状态栏 / 小组件上!
@@ -2956,7 +2962,7 @@
 
 - [Sevadus/zonr](https://github.com/Sevadus/zonr) - 
 - [agentlabs-dev/openator](https://github.com/agentlabs-dev/openator) - Open source version of OpenAI Operator - Ask your browser to perform highlevel tasks
-- [usertour/usertour](https://github.com/usertour/usertour) - Usertour is an open-source user onboarding platform designed for developers. It allows you to create in-app product tours, checklists, and launchers in minutes—effortlessly and with full control.The o
+- [usertour/usertour](https://github.com/usertour/usertour) - Usertour is an open-source user onboarding platform. It allows you to create in-app product tours, checklists, and surveys in minutes—effortlessly and with full control.The open-source alternative to 
 - [tremorlabs/tremor-blocks](https://github.com/tremorlabs/tremor-blocks) - Tremor Blocks Source Code
 - [johnpapa/vscode-cloak](https://github.com/johnpapa/vscode-cloak) - Cloak allows you to hide/show environment keys, to avoid accidentally sharing them with everyone who sees your screen.
 - [laravel/vs-code-extension](https://github.com/laravel/vs-code-extension) - 
@@ -3053,7 +3059,7 @@
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [betagouv/mon-entreprise](https://github.com/betagouv/mon-entreprise) - L'assistant officiel des entrepreneurs
 - [SensCritique/browser-extension](https://github.com/SensCritique/browser-extension) - Permet d'avoir un score SensCritique sur Netflix, Disney+ et Prime Video
-- [kamilmielnik/scrabble-solver](https://github.com/kamilmielnik/scrabble-solver) - Free, open-source, cross-platform, multi-language analysis tool for Scrabble, Super Scrabble, Literaki, and Kelimelik. Quickly find the top-scoring words using the given board and tiles. Available in 
+- [kamilmielnik/scrabble-solver](https://github.com/kamilmielnik/scrabble-solver) - Free, open-source, cross-platform, multi-language analysis tool for Scrabble, Scrabble Duel, Super Scrabble, Literaki, and Kelimelik. Quickly find the top-scoring words using the given board and tiles
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [alibaba/lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
