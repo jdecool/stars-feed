@@ -411,7 +411,7 @@
 
 ## Elixir 
 
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 - [dashbitco/bytepack_archive](https://github.com/dashbitco/bytepack_archive) - Archive of bytepack.io
 - [coryodaniel/annon.api](https://github.com/coryodaniel/annon.api) - Configurable API gateway that acts as a reverse proxy with a plugin system.
 - [holsee/chroxy](https://github.com/holsee/chroxy) - Headless Chrome as a Service
@@ -2666,7 +2666,7 @@
 
 - [ghuntley/groundhog](https://github.com/ghuntley/groundhog) - Groundhog's primary purpose is to teach people how Cursor and all these other coding agents work under the hood. If you understand how these coding assistants work from first principles, then you can 
 - [Merklemap/merklemap-cli](https://github.com/Merklemap/merklemap-cli) - Discover and enumerate all subdomains associated with a website, including those not publicly advertised. Use this tool to conduct thorough security assessments, validate your organization's digital f
-- [Automattic/harper](https://github.com/Automattic/harper) - The Grammar Checker for Developers
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [FifthRooter/OpenShotX](https://github.com/FifthRooter/OpenShotX) - A powerful, user-friendly screen capture and recording tool for Linux, inspired by CleanShot X.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
