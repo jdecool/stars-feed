@@ -208,6 +208,7 @@
 
 ## C# # 
 
+- [SimonCropp/MarkdownSnippets](https://github.com/SimonCropp/MarkdownSnippets) - Extracts snippets from code files and merges them into markdown documents.
 - [poorna-soysa/url-shortener-app](https://github.com/poorna-soysa/url-shortener-app) - This repository contains a n URL Shortener sample application built with .NET 9 ,  NET Aspire, PostgreSQL, MediatR
 - [poorna-soysa/grpc-demo](https://github.com/poorna-soysa/grpc-demo) - This repository contains a sample application built with .NET 8, demonstrating the use of gRPC for high-performance remote procedure calls
 - [MTG-Lyon/ArchitectureStyles](https://github.com/MTG-Lyon/ArchitectureStyles) - Compare Hexagonal, Clean and Vertical-Sliced architecture with the same domain
@@ -239,6 +240,7 @@
 
 ## C++ 
 
+- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [Murmele/Gittyup](https://github.com/Murmele/Gittyup) - Understand your Git history!
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse
@@ -1443,6 +1445,7 @@
 
 ## Others 
 
+- [maximilien-regnier/cursor-rules](https://github.com/maximilien-regnier/cursor-rules) - 
 - [milanm/developer-portfolios](https://github.com/milanm/developer-portfolios) - A list of developer portfolios for your inspiration
 - [EinGuterWaran/awesome-opensource-boilerplates](https://github.com/EinGuterWaran/awesome-opensource-boilerplates) - A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.
 - [mgreiler/code-review-checklist](https://github.com/mgreiler/code-review-checklist) - This code review checklist helps you be a more effective and efficient code reviewer.
@@ -1637,7 +1640,7 @@
 - [phparkitect/arkitect](https://github.com/phparkitect/arkitect) - Put your architectural rules under test!
 - [nikophil/alice-to-foundry](https://github.com/nikophil/alice-to-foundry) - 
 - [timoschinkel/codeowners](https://github.com/timoschinkel/codeowners) - A parser and matcher for the codeowners file as used by Github, Gitlab and Bitbucket.
-- [context-hub/generator](https://github.com/context-hub/generator) - CTX: The missing link between your codebase and your LLM. Context as Code (CaC) tool with MCP server inside.
+- [context-hub/generator](https://github.com/context-hub/generator) - CTX: A tool for generating structured documentation from files, repositories, diffs, and URLs through a modular architecture with powerful configuration options for AI-assisted development workflows. 
 - [mnapoli/boxie](https://github.com/mnapoli/boxie) - Universal package manager based on Docker
 - [buggregator/server](https://github.com/buggregator/server) - Buggregator is a lightweight, standalone server that offers a range of debugging features for PHP applications.
 - [laravel/nightwatch](https://github.com/laravel/nightwatch) - The official Laravel Nightwatch package.
@@ -2326,7 +2329,7 @@
 - [flint/flint](https://github.com/flint/flint) - Enhancements to Silex with structure and conventions.
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) - JWT authentication for your Symfony API
 - [sensiolabs/security-checker](https://github.com/sensiolabs/security-checker) - PHP frontend for security.symfony.com
-- [Behat/CommonContexts](https://github.com/Behat/CommonContexts) - Common FeatureContext classes for Behat
+- [Behat/CommonContexts](https://github.com/Behat/CommonContexts) - ARCHIVED - Common FeatureContext classes for Behat 2.x
 - [gushphp/gush](https://github.com/gushphp/gush) - Project Maintenance & Contributing Automation
 - [certificationy/certificationy](https://github.com/certificationy/certificationy) - The core library to create tests and certifications
 - [leopro/trip-planner](https://github.com/leopro/trip-planner) - Code sample of a DDD application
@@ -2963,6 +2966,8 @@
 
 ## TypeScript 
 
+- [malgorithms/tippycoco](https://github.com/malgorithms/tippycoco) - A browser game for 1 or 2 players, inspired by Slime Volleyball
+- [kevinrss01/dubbing-engine](https://github.com/kevinrss01/dubbing-engine) - Typescript tool to translate any video with AI. Voice cloning, subtitles and LipSync. 35 languages available. Used by https://www.voicecheap.ai/.
 - [ai-driven-dev/rules](https://github.com/ai-driven-dev/rules) - Nos règles "AI Editor" basée sur Cursor pour optimiser 10x les réponses de l'IA.
 - [pad-ws/pad.ws](https://github.com/pad-ws/pad.ws) - Whiteboard as an IDE, draw and code in your browser
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
