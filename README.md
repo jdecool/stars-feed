@@ -2966,6 +2966,7 @@
 
 ## TypeScript 
 
+- [voideditor/void](https://github.com/voideditor/void) - 
 - [malgorithms/tippycoco](https://github.com/malgorithms/tippycoco) - A browser game for 1 or 2 players, inspired by Slime Volleyball
 - [kevinrss01/dubbing-engine](https://github.com/kevinrss01/dubbing-engine) - Typescript tool to translate any video with AI. Voice cloning, subtitles and LipSync. 35 languages available. Used by https://www.voicecheap.ai/.
 - [ai-driven-dev/rules](https://github.com/ai-driven-dev/rules) - Nos règles "AI Editor" basée sur Cursor pour optimiser 10x les réponses de l'IA.
