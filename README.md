@@ -279,7 +279,8 @@
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [google/mysql-protobuf](https://github.com/google/mysql-protobuf) - 
 - [hkroger/ultimatetapankaikki](https://github.com/hkroger/ultimatetapankaikki) - Original sources of Ultimate Tapan Kaikki
-- [TheGameCreators/Dark-Basic-Pro](https://github.com/TheGameCreators/Dark-Basic-Pro) - Dark Basic Pro is an open source BASIC programming language for creating Windows applications and games
+- [Dark-Basic-Software-Limited/Dark-Basic-Pro](https://github.com/Dark-Basic-Software-Limited/Dark-Basic-Pro) - Dark Basic Pro is an open source BASIC programming language for creating Windows applications and games
+- [green7ea/blog](https://github.com/green7ea/blog) - A short description of the C++ build process
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [xmichelo/Beeftext](https://github.com/xmichelo/Beeftext) - A text snippet tool for Windows.
 - [tony2001/pinba_engine](https://github.com/tony2001/pinba_engine) - Pinba - MySQL plugin and storage engine
@@ -328,6 +329,7 @@
 
 ## CSS 
 
+- [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [anthdm/ssltrackeroe](https://github.com/anthdm/ssltrackeroe) - 
 - [Cecilapp/Links](https://github.com/Cecilapp/Links) - Links is a Linktree alternative powered by Cecil, Tailwind CSS and Font Awesome.
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
@@ -439,7 +441,7 @@
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [ekediala/file_upload](https://github.com/ekediala/file_upload) - 
 - [AkashRajpurohit/git-sync](https://github.com/AkashRajpurohit/git-sync) - 🔄 A simple tool to backup and sync your git repositories
-- [negativa-ai/BLAFS](https://github.com/negativa-ai/BLAFS) - A Bloat Aware Filesystem for Container Debloating.
+- [negativa-ai/BLAFS](https://github.com/negativa-ai/BLAFS) - A tool for Container Debloating that removes bloat and improves performance.
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
 - [manjurulhoque/golang-job-portal](https://github.com/manjurulhoque/golang-job-portal) - A job portal application API using go-gin
@@ -537,7 +539,7 @@
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 - [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
-- [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
+- [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Track stocks, crypto, and derivatives prices and positions in real time from your terminal
 - [fabpot/local-php-security-checker](https://github.com/fabpot/local-php-security-checker) - PHP security vulnerabilities checker
 - [geohot/minikeyvalue](https://github.com/geohot/minikeyvalue) - A distributed key value store in under 1000 lines. Used in production at comma.ai
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
@@ -846,7 +848,6 @@
 - [jglovier/jglovier.github.io](https://github.com/jglovier/jglovier.github.io) - :notebook: Source for joelglovier.com. Built with Jekyll and hosted on GitHub Pages.
 - [metaware/angular-invoicing](https://github.com/metaware/angular-invoicing) - Create free and unlimited one off invoices using this little Invoicing app made with Angular JS
 - [javiereguiluz/easybook](https://github.com/javiereguiluz/easybook) - Book publishing as easy as it should be (built with Symfony components)
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## Hack 
 
@@ -943,11 +944,13 @@
 
 ## JavaScript 
 
+- [mozilla/web-ext](https://github.com/mozilla/web-ext) - A command line tool to help build, run, and test web extensions
+- [jeroenpardon/sui](https://github.com/jeroenpardon/sui) - a startpage for your server and / or new tab page
+- [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [olivernn/lunr.js](https://github.com/olivernn/lunr.js) - A bit like Solr, but much smaller and not as bright
 - [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
 - [jekyll/jekyll-admin](https://github.com/jekyll/jekyll-admin) - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
-- [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [JC144/EDF_Simulateur_Prix](https://github.com/JC144/EDF_Simulateur_Prix) - Un outil pour simuler les différents Tarifs EDF depuis un export de la consommation.
 - [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commits specification
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -956,7 +959,7 @@
 - [jeb5/YouTube-Subscriptions-RSS](https://github.com/jeb5/YouTube-Subscriptions-RSS) - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
 - [guillaume-rygn/octodoc](https://github.com/guillaume-rygn/octodoc) - Gather all the documentation for your dependencies in one place instantly! 🪄
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back
 - [adr/adr-log](https://github.com/adr/adr-log) - Generate an architectural decision record log (adr-log) out of architectural decision records (ADRs)
 - [makaroni4/focused_youtube](https://github.com/makaroni4/focused_youtube) - Browser extension to be more focused on Youtube. 10000+ users. Supports Chrome, Firefox, Brave and Edge.
@@ -981,7 +984,7 @@
 - [tropy/tropy](https://github.com/tropy/tropy) - Research photo management
 - [onlywei/explain-git-with-d3](https://github.com/onlywei/explain-git-with-d3) - Use D3 to visualize simple git branching operations.
 - [dauxio/daux.io](https://github.com/dauxio/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer f
-- [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system.
+- [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - A complete web conferencing system for virtual classes and more!
 - [Mermade/openapi-gui](https://github.com/Mermade/openapi-gui) - GUI / visual editor for creating and editing OpenAPI / Swagger definitions
 - [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - for desktop and mobile
 - [gcochard/hibp-downloader](https://github.com/gcochard/hibp-downloader) - Download all the HIBP passwords
@@ -1133,7 +1136,6 @@
 - [dascritch/ondemiroir-audio-tag](https://github.com/dascritch/ondemiroir-audio-tag) - An evolution to timecodehash for a enhanced audio tag
 - [hectorguo/CKEditor-Markdown-Plugin](https://github.com/hectorguo/CKEditor-Markdown-Plugin) - Markdown Plugin for CKEditor
 - [ovh/overthebox-feeds](https://github.com/ovh/overthebox-feeds) - OverTheBox - LEDE/OpenWrt feed
-- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [djenriquez/vault-ui](https://github.com/djenriquez/vault-ui) - Vault-UI — A beautiful UI to manage your Vault, written in React
 - [dhruv-kumar-jha/productivity-frontend](https://github.com/dhruv-kumar-jha/productivity-frontend) - Productivity Application - Kanban Style Productivity Management Application with Customizable Boards, Lists and Cards to Make You More Productive.
 - [jdan/cleaver](https://github.com/jdan/cleaver) - 30-second slideshows for hackers
@@ -1380,7 +1382,6 @@
 - [TBoileau/iletaitunefoisundev](https://github.com/TBoileau/iletaitunefoisundev) - La formation dont vous êtes le héros !
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [akrabat/bref-image-resizer](https://github.com/akrabat/bref-image-resizer) - Serverless PHP (Bref/Lambda) function to resize an image on upload to an S3 bucket
-- [green7ea/blog](https://github.com/green7ea/blog) - A short description of the C++ build process
 - [phpbrew/phpbrew](https://github.com/phpbrew/phpbrew) - Brew & manage PHP versions in pure PHP at HOME
 
 ## Markdown 
@@ -1635,6 +1636,8 @@
 
 ## PHP 
 
+- [SpencerMalone/phpstan-no-transitive-use](https://github.com/SpencerMalone/phpstan-no-transitive-use) - Don't let your code use transitive dependencies.
+- [diego-ninja/granite](https://github.com/diego-ninja/granite) - A simple library to build immutable and serializable objects
 - [phparkitect/arkitect](https://github.com/phparkitect/arkitect) - Put your architectural rules under test!
 - [nikophil/alice-to-foundry](https://github.com/nikophil/alice-to-foundry) - 
 - [timoschinkel/codeowners](https://github.com/timoschinkel/codeowners) - A parser and matcher for the codeowners file as used by Github, Gitlab and Bitbucket.
@@ -2597,8 +2600,9 @@
 - [codedance/Retaliation](https://github.com/codedance/Retaliation) - A Jenkins "Extreme Feedback" Contraption - fire foam rockets at build breaking perpetrators.
 - [dangoldin/twitter-archive-analysis](https://github.com/dangoldin/twitter-archive-analysis) - Some tools to help analyze the twitter archive
 - [khamidou/kite](https://github.com/khamidou/kite) - (Obsolete, use https://github.com/inboxapp/inbox instead) A modern webmail.
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
-- [yoannsculo/JobCatcher](https://github.com/yoannsculo/JobCatcher) - 
+- [yoannsculo/JobCatcher](https://github.com/yoannsculo/JobCatcher) - JobCatcher is a daemon that retrieves job offers from multiple job boards feeds and generates custom RSS feeds and HTML reports for you - Moved to https://codeberg.org/yoannsculo/JobCatcher
 - [edas/webperf-book](https://github.com/edas/webperf-book) - Livre : Performance des sites web
 - [ColinGarrigaSalaun/rss2reddit](https://github.com/ColinGarrigaSalaun/rss2reddit) - 
 
@@ -2674,6 +2678,7 @@
 - [FifthRooter/OpenShotX](https://github.com/FifthRooter/OpenShotX) - A powerful, user-friendly screen capture and recording tool for Linux, inspired by CleanShot X.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
 - [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
@@ -2906,7 +2911,7 @@
 
 - [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
 - [ts1/BLEUnlock](https://github.com/ts1/BLEUnlock) - Lock/unlock your Mac with your iPhone, Apple Watch, or any other Bluetooth LE devices
-- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) - macOS menu bar, iOS and visionOS app that shows how full the International Space Station's urine tank is in real time
+- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) - App that shows how full the International Space Station's urine tank is in real time, available for macOS (menu bar), iOS, watchOS and visionOS
 - [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
 - [lihaoyun6/AirBattery](https://github.com/lihaoyun6/AirBattery) - Get the battery usage of all your devices on your Mac and put them on the Dock / Menu Bar / Widget! && 在Mac上获取你所有设备的电量信息并显示在Dock / 状态栏 / 小组件上!
 - [duckduckgo/macos-browser](https://github.com/duckduckgo/macos-browser) - DuckDuckGo macOS Browser
@@ -2967,6 +2972,7 @@
 
 ## TypeScript 
 
+- [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [azerpas/bourso-desktop](https://github.com/azerpas/bourso-desktop) - Boursorama / BoursoBank unofficial desktop app
 - [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - What if Cursor, Github Copilot and Windsurf could actually interact with your browser?  💬 Comment on any DOM element 🧠 We send the real context to Windsurf ⚡ Save time manually selecting files  Setup 
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
@@ -3020,7 +3026,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 - [Basedash/dockhunt](https://github.com/Basedash/dockhunt) - Discover the apps everyone is docking about. Made by the team at @Basedash.
 - [Blagues-API/blagues-api](https://github.com/Blagues-API/blagues-api) - 😂 API de Blagues française et Open Source
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – open source background jobs and AI infrastructure
@@ -3126,6 +3132,7 @@
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [microsoft/TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) - A starter template for TypeScript and React with a detailed README describing how to use the two together.
 - [cupslab/password_meter](https://github.com/cupslab/password_meter) - This project implements a data-driven password meter. Its effects on password security and usability were evaluated in the following publication: http://www.blaseur.com/papers/CHI17meter.pdf and a dem
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
 - [paulirish/pwmetrics](https://github.com/paulirish/pwmetrics) - Progressive web metrics at your fingertipz
