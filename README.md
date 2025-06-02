@@ -1636,6 +1636,7 @@
 
 ## PHP 
 
+- [coduo/php-humanizer](https://github.com/coduo/php-humanizer) - Humanize values that are readable only for developers.
 - [SpencerMalone/phpstan-no-transitive-use](https://github.com/SpencerMalone/phpstan-no-transitive-use) - Don't let your code use transitive dependencies.
 - [diego-ninja/granite](https://github.com/diego-ninja/granite) - A simple library to build immutable and serializable objects
 - [phparkitect/arkitect](https://github.com/phparkitect/arkitect) - Put your architectural rules under test!
