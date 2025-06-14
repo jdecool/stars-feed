@@ -2112,7 +2112,7 @@
 - [jenssegers/optimus](https://github.com/jenssegers/optimus) - 🤖 Id obfuscation based on Knuth's multiplicative hashing method for PHP.
 - [Elao/PhpEnums](https://github.com/Elao/PhpEnums) - :nut_and_bolt: Extended PHP 8.1+ enums features & specific integrations with frameworks and libraries
 - [mark-gerarts/automapper-plus](https://github.com/mark-gerarts/automapper-plus) - An AutoMapper for PHP
-- [apioo/fusio](https://github.com/apioo/fusio) - Open Source API Management Made Easy
+- [apioo/fusio](https://github.com/apioo/fusio) - Self-Hosted API Management for Builders
 - [ircmaxell/PHP-Yacc](https://github.com/ircmaxell/PHP-Yacc) - A PHP port of kmyacc
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation
 - [coopcycle/coopcycle-web](https://github.com/coopcycle/coopcycle-web) - Logistics & marketplace platform. Only for worker-owned business.
@@ -2914,6 +2914,7 @@
 
 ## Swift 
 
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.
 - [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
 - [ts1/BLEUnlock](https://github.com/ts1/BLEUnlock) - Lock/unlock your Mac with your iPhone, Apple Watch, or any other Bluetooth LE devices
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) - App that shows how full the International Space Station's urine tank is in real time, available for macOS (menu bar), iOS, watchOS and visionOS
