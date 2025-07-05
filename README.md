@@ -1146,7 +1146,7 @@
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
 - [vadimdemedes/trevor](https://github.com/vadimdemedes/trevor) - 🚦 Your own mini Travis CI to run tests locally
-- [Staffjoy/v2](https://github.com/Staffjoy/v2) - Staffjoy V2 - all microservices in a monorepo
+- [Staffjoy/v2](https://github.com/Staffjoy/v2) - Staffjoy V2 - workforce management app for small businesses
 - [bilbof/purser](https://github.com/bilbof/purser) - A lightweight JavaScript library for preserving user data from first website visit to signup.
 - [Song-Li/cross_browser](https://github.com/Song-Li/cross_browser) - This is a project for a browser fingerprinting technique that can track users not only within a single browser but also across different browsers on the same machine.
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
@@ -2395,6 +2395,7 @@
 
 ## PowerShell 
 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [jasny/skeleton-php-ext](https://github.com/jasny/skeleton-php-ext) - Skeleton project for PHP extension (written in C)
 
 ## Puppet 
@@ -2808,7 +2809,6 @@
 ## Shell 
 
 - [NomenAK/SuperClaude](https://github.com/NomenAK/SuperClaude) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [patternhelloworld/docker-blue-green-runner](https://github.com/patternhelloworld/docker-blue-green-runner) - By simply configuring the .env file, a simple and safe Blue-Green Deployment is instantly set up.
 - [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers
