@@ -259,7 +259,7 @@
 - [FD-/RPiPlay](https://github.com/FD-/RPiPlay) - An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [ethereal-developers/OpenScan](https://github.com/ethereal-developers/OpenScan) - Document Scanner that protects your privacy
-- [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) - 
+- [redis/RedisDesktopManager](https://github.com/redis/RedisDesktopManager) - 
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [francescmm/GitQlient](https://github.com/francescmm/GitQlient) - GitQlient: Multi-platform Git client written with Qt.
 - [lethal-guitar/RigelEngine](https://github.com/lethal-guitar/RigelEngine) - A modern re-implementation of the classic DOS game Duke Nukem II
@@ -2174,7 +2174,7 @@
 - [jmikola/AutoLogin](https://github.com/jmikola/AutoLogin) - Faciliates automatic login via a single token for Symfony's Security component.
 - [shipping-docker/dockerized-app](https://github.com/shipping-docker/dockerized-app) - Example repository for Dockerizing Your Application preview module
 - [webmozart/symfony-forms-workshop-websc16](https://github.com/webmozart/symfony-forms-workshop-websc16) - The Symfony Forms workshop at the Web Summer Camp 2016
-- [gitscrum-team/laravel-gitscrum](https://github.com/gitscrum-team/laravel-gitscrum) - GitScrum is a Project Management Tool, developed to help entrepreneurs, freelancers, managers, and teams Skyrocket their Productivity with the Agile methodology and Gamification.
+- [GitScrum-Team/laravel-gitscrum](https://github.com/GitScrum-Team/laravel-gitscrum) - GitScrum is a Project Management Tool, developed to help entrepreneurs, freelancers, managers, and teams Skyrocket their Productivity with the Agile methodology and Gamification.
 - [davidrjonas/composer-lock-diff](https://github.com/davidrjonas/composer-lock-diff) - See what has changed after a composer update
 - [maknz/slack](https://github.com/maknz/slack) - A simple PHP package for sending messages to Slack, with a focus on ease of use and elegant syntax.
 - [aszone/avenger-sh](https://github.com/aszone/avenger-sh) - Project for finding vunerabilities in mass.
@@ -3187,6 +3187,7 @@
 
 ## Vue 
 
+- [imvenx/multiglancer](https://github.com/imvenx/multiglancer) - 
 - [tweakphp/tweakphp](https://github.com/tweakphp/tweakphp) - Easily tweak your PHP code
 - [jbuget/threadr-app](https://github.com/jbuget/threadr-app) - A micro-blogging threads editor (compatible with Bluesky, Mastodon and Twitter)
 - [hlassiege/eventuallycoding](https://github.com/hlassiege/eventuallycoding) - 
