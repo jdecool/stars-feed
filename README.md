@@ -875,6 +875,7 @@
 
 ## Java 
 
+- [approvals/ApprovalTests.Java](https://github.com/approvals/ApprovalTests.Java) - ApprovalTest verification library for Java
 - [jmgarridopaz/bluezone](https://github.com/jmgarridopaz/bluezone) - An example application implementing Hexagonal Architecture
 - [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) - JHipster Lite ⚡ is a development platform to generate, develop & deploy modern web applications & microservices architecture, step by step - using Hexagonal Architecture :gem:
 - [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) - Digitally sign PDF files from your commandline
@@ -1645,6 +1646,7 @@
 
 ## PHP 
 
+- [approvals/ApprovalTests.php](https://github.com/approvals/ApprovalTests.php) - 
 - [nicofff/LazyIter](https://github.com/nicofff/LazyIter) - Lazy array function chains library for PHP inspired in Rust
 - [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) - https://www.testcontainers.org implementation for PHP
 - [MacPaw/symfony-health-check-bundle](https://github.com/MacPaw/symfony-health-check-bundle) - Symfony Health Check Bundle Monitoring Project Status
