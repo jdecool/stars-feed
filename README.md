@@ -878,7 +878,7 @@
 
 - [approvals/ApprovalTests.Java](https://github.com/approvals/ApprovalTests.Java) - ApprovalTest verification library for Java
 - [jmgarridopaz/bluezone](https://github.com/jmgarridopaz/bluezone) - An example application implementing Hexagonal Architecture
-- [seed4j/seed4j](https://github.com/seed4j/seed4j) - Seed4J 🌱 is a development platform to generate, develop & deploy modern web applications & microservices architecture, step by step - using Hexagonal Architecture :gem:
+- [seed4j/seed4j](https://github.com/seed4j/seed4j) - Seed4J 🌱 is a modular code generator with clean architecture :gem:
 - [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) - Digitally sign PDF files from your commandline
 - [hvdwolf/jExifToolGUI](https://github.com/hvdwolf/jExifToolGUI) - jExifToolGUI is a multi-platform java/Swing graphical frontend for the excellent command-line ExifTool application by Phil Harvey
 - [structurizr/dsl](https://github.com/structurizr/dsl) - Structurizr DSL
@@ -949,7 +949,7 @@
 
 ## JavaScript 
 
-- [bmadcode/BMAD-METHOD](https://github.com/bmadcode/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
+- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [nolenroyalty/one-million-chessboards](https://github.com/nolenroyalty/one-million-chessboards) - one million chessboards, synced for everyone
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [JetBrains/mcp-jetbrains](https://github.com/JetBrains/mcp-jetbrains) - A model context protocol server to work with JetBrains IDEs: IntelliJ, PyCharm, WebStorm, etc. Also, works with Android Studio
@@ -2404,7 +2404,6 @@
 
 ## PowerShell 
 
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [jasny/skeleton-php-ext](https://github.com/jasny/skeleton-php-ext) - Skeleton project for PHP extension (written in C)
 
 ## Puppet 
@@ -2417,6 +2416,7 @@
 
 ## Python 
 
+- [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [Olshansk/rss-feeds](https://github.com/Olshansk/rss-feeds) - Generate RSS feeds for all the blogs that don't have one
 - [marcboeker/gmail-to-sqlite](https://github.com/marcboeker/gmail-to-sqlite) - Index your Gmail account to a SQLite DB and play with the data.
@@ -3000,7 +3000,7 @@
 - [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - Claude-Flow v2.0.0 Alpha represents a leap in AI-powered development orchestration. Built from the ground up with enterprise-grade architecture, advanced swarm intelligence, and seamless Claude Code i
 - [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [azerpas/bourso-desktop](https://github.com/azerpas/bourso-desktop) - Boursorama / BoursoBank unofficial desktop app
 - [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - stagewise is the first frontend coding agent for existing production-grade web apps 🪄  -- Lives inside your browser 💻 -- Makes changes in local codebase 🤓 -- Compatible with all kinds of frameworks an
@@ -3012,6 +3012,7 @@
 - [davidroberto/react-redux-clean-architecture-tdd-eda-vertical-slices](https://github.com/davidroberto/react-redux-clean-architecture-tdd-eda-vertical-slices) - A React project with Clean Architecture, Event Driven Architecture, TDD and vertical slices principles.
 - [gabimoncha/cursor-rules-cli](https://github.com/gabimoncha/cursor-rules-cli) - A CLI for boostrapping Cursor AI rules in your project
 - [Sevadus/zonr](https://github.com/Sevadus/zonr) - The easiest way to send timezone-aware times to anyone in the world.
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [agentlabs-dev/openator](https://github.com/agentlabs-dev/openator) - Open source version of OpenAI Operator - Ask your browser to perform highlevel tasks
 - [usertour/usertour](https://github.com/usertour/usertour) - Usertour is an open-source user onboarding platform. It allows you to create in-app product tours, checklists, and surveys in minutes—effortlessly and with full control.The open-source alternative to 
 - [tremorlabs/tremor-blocks](https://github.com/tremorlabs/tremor-blocks) - Tremor Blocks Source Code
