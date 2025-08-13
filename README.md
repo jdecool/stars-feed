@@ -436,6 +436,7 @@
 
 ## Go 
 
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode, and Amp.
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
@@ -2416,6 +2417,7 @@
 
 ## Python 
 
+- [Secrover/Secrover](https://github.com/Secrover/Secrover) - Open-source security reports — no paywalls, just actionable insights.
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [Olshansk/rss-feeds](https://github.com/Olshansk/rss-feeds) - Generate RSS feeds for all the blogs that don't have one
@@ -2459,7 +2461,7 @@
 - [cquest/annuaire-services-publics](https://github.com/cquest/annuaire-services-publics) - 
 - [your-tools/tsrc](https://github.com/your-tools/tsrc) - Manage groups of git repositories
 - [cider-security-research/cicd-goat](https://github.com/cider-security-research/cicd-goat) - A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data aggregator for humans and AI agents.
 - [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
 - [VHellendoorn/Code-LMs](https://github.com/VHellendoorn/Code-LMs) - Guide to using pre-trained large language models of source code
 - [dynamite-ready/movie-parser-cli](https://github.com/dynamite-ready/movie-parser-cli) - 
