@@ -783,7 +783,6 @@
 
 ## HTML 
 
-- [kukshaus/transcribe](https://github.com/kukshaus/transcribe) - 
 - [lyrixx/composer-diff](https://github.com/lyrixx/composer-diff) - Web application to  compare two `composer.lock` and get a beautiful diff
 - [givanz/vvveb-admin-template](https://github.com/givanz/vvveb-admin-template) - Vvveb Admin Template
 - [benjamin-brady/gitlab-simulator](https://github.com/benjamin-brady/gitlab-simulator) - 
@@ -2662,6 +2661,7 @@
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [lessy-community/lessy](https://github.com/lessy-community/lessy) - A respectful and ethical time manager.
+- [passbolt/passbolt_docker](https://github.com/passbolt/passbolt_docker) - Get started with Passbolt CE using docker!
 - [andreausu/git-notifier](https://github.com/andreausu/git-notifier) - Get email notifications when someone stars or forks one of your GitHub repos and follows/unfollows you
 - [cesarferreira/gito](https://github.com/cesarferreira/gito) - ⚡️ git helper tool to clone/open/auto-install/edit with a one-liner
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
@@ -2840,7 +2840,7 @@
 - [OpenVPN/as-docker](https://github.com/OpenVPN/as-docker) - Docker images for openvpn-as
 - [wireghoul/graudit](https://github.com/wireghoul/graudit) - grep rough audit - source code auditing tool
 - [digitalpulp/pre-commit-php](https://github.com/digitalpulp/pre-commit-php) - Pre-commit scripts appropiate for *any* PHP project. These hooks are made as custom plugins under the [pre-commit](http://pre-commit.com/#new-hooks) git hook framework.
-- [laradumps/laradumps-docs](https://github.com/laradumps/laradumps-docs) - 📚 LaraDumps Docs
+- [laradumps/laradumps-docs](https://github.com/laradumps/laradumps-docs) - 🛻 LaraDumps Core is a friendly app designed to boost your PHP coding and debugging experience.
 - [BalliAsghar/killport](https://github.com/BalliAsghar/killport) - Kill The Port
 - [n3tsky/Pentest-Tools](https://github.com/n3tsky/Pentest-Tools) - A quick script to install "all required" tools (Kali-like) for penetration tests
 - [freekmurze/dotfiles](https://github.com/freekmurze/dotfiles) - My personal dotfiles
@@ -2892,7 +2892,6 @@
 - [GoogleCloudPlatform/continuous-deployment-on-kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes) - Get up and running with Jenkins on Google Kubernetes Engine
 - [devfriendlyplaces/data](https://github.com/devfriendlyplaces/data) - Json files for friendly places
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
-- [passbolt/passbolt_docker](https://github.com/passbolt/passbolt_docker) - Get started with Passbolt CE using docker!
 - [thecodingmachine/kickoff-docker-php](https://github.com/thecodingmachine/kickoff-docker-php) - :whale: :elephant: :rocket: Easily setup a PHP project with Docker
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
 - [TheNewNormal/kube-solo-osx](https://github.com/TheNewNormal/kube-solo-osx) - Local development Kubernetes Solo Cluster for macOS made very simple
@@ -3005,6 +3004,7 @@
 ## TypeScript 
 
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
+- [kukshaus/transcribe](https://github.com/kukshaus/transcribe) - 
 - [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - An open source documentation tool to bring discoverability to your event-driven architectures
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files.
 - [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - Claude-Flow v2.0.0 Alpha represents a leap in AI-powered development orchestration. Built from the ground up with enterprise-grade architecture, advanced swarm intelligence, and seamless Claude Code i
