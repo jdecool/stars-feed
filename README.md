@@ -582,7 +582,6 @@
 - [jz222/logowl](https://github.com/jz222/logowl) - Collects logs to monitor and analyse web applications.
 - [influxdata/influxdb-client-go](https://github.com/influxdata/influxdb-client-go) - InfluxDB 2 Go Client
 - [google/gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go
-- [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 - [bogdanovich/dns_resolver](https://github.com/bogdanovich/dns_resolver) - Simple dns resolver in Go based on miekg/dns.
