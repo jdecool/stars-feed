@@ -583,6 +583,7 @@
 - [jz222/logowl](https://github.com/jz222/logowl) - Collects logs to monitor and analyse web applications.
 - [influxdata/influxdb-client-go](https://github.com/influxdata/influxdb-client-go) - InfluxDB 2 Go Client
 - [google/gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go
+- [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 - [bogdanovich/dns_resolver](https://github.com/bogdanovich/dns_resolver) - Simple dns resolver in Go based on miekg/dns.
@@ -796,6 +797,7 @@
 - [F0cuser/focuser](https://github.com/F0cuser/focuser) - A free & opensource distraction-reducing app for maximizing your productivity - built in electronJS!
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
 - [jobbsy-dev/jobbsy](https://github.com/jobbsy-dev/jobbsy) - Jobbsy - Job Board for Symfony
+- [nunomaduro/nunomaduro.com](https://github.com/nunomaduro/nunomaduro.com) - 
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [technext/darkpan](https://github.com/technext/darkpan) - 
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
@@ -1003,6 +1005,7 @@
 - [juliuste/direkt.bahn.guru](https://github.com/juliuste/direkt.bahn.guru) - All direct long-distance railway connections for cities in and beyond central Europe.
 - [bhovhannes/junit-report-merger](https://github.com/bhovhannes/junit-report-merger) - Merges multiple JUnit XML reports into one
 - [hbend1li/number-to-letters](https://github.com/hbend1li/number-to-letters) - Convert a number to letters
+- [ANSSI-FR/rust-guide](https://github.com/ANSSI-FR/rust-guide) - Recommendations for secure applications development with Rust
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [frncsdrk/avatar](https://github.com/frncsdrk/avatar) - Self-hosted service for creating random avatars
 - [rohanrhu/gdb-frontend](https://github.com/rohanrhu/gdb-frontend) - ☕ GDBFrontend is an easy, flexible and extensible gui debugger.
@@ -1414,7 +1417,6 @@
 ## Nix 
 
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development
-- [ANSSI-FR/rust-guide](https://github.com/ANSSI-FR/rust-guide) - Recommendations for secure applications development with Rust
 
 ## OCaml 
 
@@ -1652,6 +1654,7 @@
 
 ## PHP 
 
+- [xefi/faker-php](https://github.com/xefi/faker-php) - Generate fake data on demand.
 - [approvals/ApprovalTests.php](https://github.com/approvals/ApprovalTests.php) - 
 - [nicofff/LazyIter](https://github.com/nicofff/LazyIter) - Lazy array function chains library for PHP inspired in Rust
 - [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) - https://www.testcontainers.org implementation for PHP
@@ -2732,7 +2735,6 @@
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.
 - [php-rust-tools/parser](https://github.com/php-rust-tools/parser) - A handwritten fault-tolerant, recursive-descent parser for PHP written in Rust.
 - [phiresky/sqlite-zstd](https://github.com/phiresky/sqlite-zstd) - Transparent dictionary-based row-level compression for SQLite
-- [nunomaduro/nunomaduro.com](https://github.com/nunomaduro/nunomaduro.com) - 
 - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
 - [joaoh82/rust_sqlite](https://github.com/joaoh82/rust_sqlite) - SQLRite - Simple embedded database modeled off SQLite in Rust
 - [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as an educational project
@@ -2845,7 +2847,6 @@
 - [laradumps/laradumps-docs](https://github.com/laradumps/laradumps-docs) - 🛻 LaraDumps Core is a friendly app designed to boost your PHP coding and debugging experience.
 - [BalliAsghar/killport](https://github.com/BalliAsghar/killport) - Kill The Port
 - [n3tsky/Pentest-Tools](https://github.com/n3tsky/Pentest-Tools) - A quick script to install "all required" tools (Kali-like) for penetration tests
-- [freekmurze/dotfiles](https://github.com/freekmurze/dotfiles) - My personal dotfiles
 - [coderofsalvation/kanban.bash](https://github.com/coderofsalvation/kanban.bash) - commandline asciii kanban board for minimalist productivity hackers & managers (csv-based) #scriptable #nestable #statistics #singlefile #shellscript #issuetracker #git
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [serversideup/docker-php](https://github.com/serversideup/docker-php) - 🐳 Production-ready Docker images for PHP. Optimized for Laravel, WordPress, and more!
@@ -3214,6 +3215,7 @@
 
 ## Vim Script 
 
+- [freekmurze/dotfiles](https://github.com/freekmurze/dotfiles) - My personal dotfiles
 - [rhysd/vim.wasm](https://github.com/rhysd/vim.wasm) - Vim editor ported to WebAssembly
 
 ## Vue 
