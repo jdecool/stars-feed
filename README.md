@@ -1004,7 +1004,6 @@
 - [juliuste/direkt.bahn.guru](https://github.com/juliuste/direkt.bahn.guru) - All direct long-distance railway connections for cities in and beyond central Europe.
 - [bhovhannes/junit-report-merger](https://github.com/bhovhannes/junit-report-merger) - Merges multiple JUnit XML reports into one
 - [hbend1li/number-to-letters](https://github.com/hbend1li/number-to-letters) - Convert a number to letters
-- [ANSSI-FR/rust-guide](https://github.com/ANSSI-FR/rust-guide) - Recommendations for secure applications development with Rust
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [frncsdrk/avatar](https://github.com/frncsdrk/avatar) - Self-hosted service for creating random avatars
 - [rohanrhu/gdb-frontend](https://github.com/rohanrhu/gdb-frontend) - ☕ GDBFrontend is an easy, flexible and extensible gui debugger.
@@ -1379,7 +1378,6 @@
 - [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [Viewtiful/aws-elb-health-state-macosx-menubar](https://github.com/Viewtiful/aws-elb-health-state-macosx-menubar) - 
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 - [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) - Open source clone of Theme Hospital
 
 ## M4 
@@ -1600,6 +1598,7 @@
 - [tpunt/php-internals-articles](https://github.com/tpunt/php-internals-articles) - A series of articles for an introduction into PHP's internals
 - [petehunt/react-howto](https://github.com/petehunt/react-howto) - Your guide to the (sometimes overwhelming!) React ecosystem.
 - [SfPot/2015-talks](https://github.com/SfPot/2015-talks) - 
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
 - [hsavit1/Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) - :fire: Learn some Swift
 - [SymfonyCon/2015-talks](https://github.com/SymfonyCon/2015-talks) - 
 - [thefinn93/ansible-letsencrypt](https://github.com/thefinn93/ansible-letsencrypt) - An ansible role to generate TLS certificates and get them signed by Let's Encrypt
@@ -2739,6 +2738,7 @@
 - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
 - [joaoh82/rust_sqlite](https://github.com/joaoh82/rust_sqlite) - SQLRite - Simple embedded database modeled off SQLite in Rust
 - [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as an educational project
+- [ANSSI-FR/rust-guide](https://github.com/ANSSI-FR/rust-guide) - Recommendations for secure applications development with Rust
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
