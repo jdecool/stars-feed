@@ -394,6 +394,7 @@
 
 ## Dockerfile 
 
+- [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [OskarStark/phpstan-ga](https://github.com/OskarStark/phpstan-ga) - GithubAction for PHPStan
 - [jaem3l/php1-docker-image](https://github.com/jaem3l/php1-docker-image) - Docker image which provides basic installation of PHP in version 1.0.8
 - [OskarStark/php-cs-fixer-ga](https://github.com/OskarStark/php-cs-fixer-ga) - GithubAction for PHP-CS-Fixer
@@ -2412,6 +2413,7 @@
 
 ## PowerShell 
 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [jasny/skeleton-php-ext](https://github.com/jasny/skeleton-php-ext) - Skeleton project for PHP extension (written in C)
 
 ## Puppet 
@@ -2461,7 +2463,6 @@
 - [theahmadov/vector](https://github.com/theahmadov/vector) - Open source osint project.
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [elesiuta/picosnitch](https://github.com/elesiuta/picosnitch) - Monitor Network Traffic Per Executable, Beautifully Visualized
-- [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 - [lanmaster53/recon-ng](https://github.com/lanmaster53/recon-ng) - Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources.
 - [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
@@ -3030,7 +3031,6 @@
 - [davidroberto/react-redux-clean-architecture-tdd-eda-vertical-slices](https://github.com/davidroberto/react-redux-clean-architecture-tdd-eda-vertical-slices) - A React project with Clean Architecture, Event Driven Architecture, TDD and vertical slices principles.
 - [gabimoncha/cursor-rules-cli](https://github.com/gabimoncha/cursor-rules-cli) - A CLI for boostrapping Cursor AI rules in your project
 - [Sevadus/zonr](https://github.com/Sevadus/zonr) - The easiest way to send timezone-aware times to anyone in the world.
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [agentlabs-dev/openator](https://github.com/agentlabs-dev/openator) - Open source version of OpenAI Operator - Ask your browser to perform highlevel tasks
 - [usertour/usertour](https://github.com/usertour/usertour) - Usertour is an open-source user onboarding platform. It allows you to create in-app product tours, checklists, and surveys in minutes—effortlessly and with full control.The open-source alternative to 
 - [tremorlabs/tremor-blocks](https://github.com/tremorlabs/tremor-blocks) - Tremor Blocks Source Code
