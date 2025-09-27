@@ -956,6 +956,7 @@
 
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [nolenroyalty/one-million-chessboards](https://github.com/nolenroyalty/one-million-chessboards) - one million chessboards, synced for everyone
+- [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [JetBrains/mcp-jetbrains](https://github.com/JetBrains/mcp-jetbrains) - A model context protocol server to work with JetBrains IDEs: IntelliJ, PyCharm, WebStorm, etc. Also, works with Android Studio
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
@@ -1458,7 +1459,7 @@
 
 ## Others 
 
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer 
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, T
 - [sixhobbits/technical-writing](https://github.com/sixhobbits/technical-writing) - A collection of materials relating to technical writing
 - [maximilien-regnier/cursor-rules](https://github.com/maximilien-regnier/cursor-rules) - 
 - [milanm/developer-portfolios](https://github.com/milanm/developer-portfolios) - A list of developer portfolios for your inspiration
@@ -1774,7 +1775,7 @@
 - [spatie/ssl-certificate](https://github.com/spatie/ssl-certificate) - A class to validate SSL certificates
 - [123inkt/123view](https://github.com/123inkt/123view) - A code review and commit notifications Symfony application
 - [selency/openapi](https://github.com/selency/openapi) - Provides a user-friendly, object-oriented API to build OpenAPI specifications using PHP
-- [Probesys/agentj](https://github.com/Probesys/agentj) - AgentJ is a free software anti-spam solution with human authentication and admin panel
+- [Probesys/agentj](https://github.com/Probesys/agentj) - Libre antispam system with human authentication.
 - [DeepLcom/deepl-php](https://github.com/DeepLcom/deepl-php) - Official PHP library for the DeepL language translation API.
 - [openai-php/symfony](https://github.com/openai-php/symfony) - ⚡️ OpenAI PHP for Symfony is a supercharged PHP API client that allows you to interact with OpenAI API
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) - Find Unused Public Elements in Your Code
@@ -2414,7 +2415,6 @@
 
 ## PowerShell 
 
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [jasny/skeleton-php-ext](https://github.com/jasny/skeleton-php-ext) - Skeleton project for PHP extension (written in C)
 
 ## Puppet 
@@ -2883,7 +2883,6 @@
 - [alex000kim/nsfw_data_scraper](https://github.com/alex000kim/nsfw_data_scraper) - Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
 - [internetwache/GitTools](https://github.com/internetwache/GitTools) - A repository with 3 tools for pwn'ing websites with .git repositories available
 - [awesome-inc/monorepo.gitlab](https://github.com/awesome-inc/monorepo.gitlab) - Scripts helping towards monorepos with GitLab CI.
-- [nikitavoloboev/myworkflow](https://github.com/nikitavoloboev/myworkflow) - Place to share what you use. Apps/CLIs/Libraries/Configs/..
 - [cytopia/awesome-ci](https://github.com/cytopia/awesome-ci) - Awesome Continuous Integration - Lot's of tools for git, file and static source code analysis.
 - [pyaillet/conf-linuxkit](https://github.com/pyaillet/conf-linuxkit) - Projects used in demos of our linuxkit talk
 - [laravel/settler](https://github.com/laravel/settler) - 
@@ -3011,12 +3010,11 @@
 - [flemzord/github-compliance](https://github.com/flemzord/github-compliance) - 🛡️ Enforce repository compliance standards across your GitHub organization
 - [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) - free, open-source file scanner
-- [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Claude Code, with realtime voice, encryption and fully featured
+- [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 - [kukshaus/transcribe](https://github.com/kukshaus/transcribe) - 
 - [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - An open source documentation tool to bring discoverability to your event-driven architectures
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
-- [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
@@ -3031,6 +3029,7 @@
 - [davidroberto/react-redux-clean-architecture-tdd-eda-vertical-slices](https://github.com/davidroberto/react-redux-clean-architecture-tdd-eda-vertical-slices) - A React project with Clean Architecture, Event Driven Architecture, TDD and vertical slices principles.
 - [gabimoncha/cursor-rules-cli](https://github.com/gabimoncha/cursor-rules-cli) - A CLI for boostrapping Cursor AI rules in your project
 - [Sevadus/zonr](https://github.com/Sevadus/zonr) - The easiest way to send timezone-aware times to anyone in the world.
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [agentlabs-dev/openator](https://github.com/agentlabs-dev/openator) - Open source version of OpenAI Operator - Ask your browser to perform highlevel tasks
 - [usertour/usertour](https://github.com/usertour/usertour) - Usertour is an open-source user onboarding platform. It allows you to create in-app product tours, checklists, and surveys in minutes—effortlessly and with full control.The open-source alternative to 
 - [tremorlabs/tremor-blocks](https://github.com/tremorlabs/tremor-blocks) - Tremor Blocks Source Code
@@ -3156,6 +3155,7 @@
 - [rpgeeganage/ifto](https://github.com/rpgeeganage/ifto) - A simple debugging module for AWS Lambda (λ) timeout
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - Former GUI client for gRPC services. No longer maintained.
+- [nikitavoloboev/myflow](https://github.com/nikitavoloboev/myflow) - Place to share & store what you use
 - [Azure/oav](https://github.com/Azure/oav) - Tools for validating OpenAPI (Swagger) files.
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [rikukissa/stacker](https://github.com/rikukissa/stacker) - 🥞 Chrome extension for managing stacked pull requests
