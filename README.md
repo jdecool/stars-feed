@@ -120,7 +120,6 @@
 - [ronomon/pure](https://github.com/ronomon/pure) - A static analysis file format checker.
 - [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
 - [rfaile313/draw_game](https://github.com/rfaile313/draw_game) - Draw! is a small game that was developed in C
-- [curl/trurl](https://github.com/curl/trurl) - a command line tool for URL parsing and manipulation.
 - [IvorySQL/IvorySQL](https://github.com/IvorySQL/IvorySQL) - Open Source Oracle Compatible PostgreSQL.
 - [dekuNukem/daytripper](https://github.com/dekuNukem/daytripper) - Hide-My-Windows Laser Tripwire
 - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
@@ -331,7 +330,7 @@
 ## CSS 
 
 - [anthdm/ssltrackeroe](https://github.com/anthdm/ssltrackeroe) - 
-- [Cecilapp/Links](https://github.com/Cecilapp/Links) - Links is a Linktree alternative powered by Cecil, Tailwind CSS and Font Awesome.
+- [Cecilapp/Links](https://github.com/Cecilapp/Links) - Links is an open source Linktree alternative powered by Cecil, Tailwind CSS and Font Awesome.
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [SymfonyCasts/messenger-monitor-bundle](https://github.com/SymfonyCasts/messenger-monitor-bundle) - Visual Monitoring & Retries for Symfony Messenger!
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
@@ -2404,6 +2403,7 @@
 
 ## Perl 
 
+- [curl/trurl](https://github.com/curl/trurl) - a command line tool for URL parsing and manipulation.
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [symkat/MyJekyllBlog](https://github.com/symkat/MyJekyllBlog) - This is a multi-user CMS and hosting platform for Jekyll blogs.
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses.
@@ -2461,7 +2461,7 @@
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [pruvisto/debirdify](https://github.com/pruvisto/debirdify) - 
 - [florianbeer/grafana-netatmo](https://github.com/florianbeer/grafana-netatmo) - Netatmo Weather Station dashboard for Grafana
-- [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync (OS X/Linux)
+- [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync.
 - [etalab/prix-carburants-data](https://github.com/etalab/prix-carburants-data) - 
 - [theahmadov/vector](https://github.com/theahmadov/vector) - Open source osint project.
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
@@ -2703,6 +2703,7 @@
 
 ## Rust 
 
+- [todoesverso/logss](https://github.com/todoesverso/logss) - A simple cli for logs splitting
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
@@ -3010,6 +3011,7 @@
 
 ## TypeScript 
 
+- [Kieirra/murmure](https://github.com/Kieirra/murmure) - Privacy-first and free Speech-to-Text
 - [yoanbernabeu/S3-Documentation-MCP-Server](https://github.com/yoanbernabeu/S3-Documentation-MCP-Server) - A lightweight Model Context Protocol (MCP) server that brings RAG (Retrieval-Augmented Generation) capabilities to your LLM over Markdown documentation stored on S3.
 - [flemzord/github-compliance](https://github.com/flemzord/github-compliance) - 🛡️ Enforce repository compliance standards across your GitHub organization
 - [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
