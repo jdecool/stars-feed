@@ -1747,7 +1747,7 @@
 - [zenstruck/messenger-monitor-bundle](https://github.com/zenstruck/messenger-monitor-bundle) - Batteries included UI to monitor your Messenger workers, transports, schedules, and messages.
 - [AvaiBookSports/DoctrineMigrationsMultipleDatabaseBundle](https://github.com/AvaiBookSports/DoctrineMigrationsMultipleDatabaseBundle) - This bundle extends the DoctrineMigrationsBundle functionality to support migrations for multiple entity managers
 - [koolreport/core](https://github.com/koolreport/core) - An Open Source PHP Reporting Framework that helps you to write perfect data reports or to construct awesome dashboards in PHP. Working great with all PHP versions from 5.6 to latest 8.0. Fully compati
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binaries on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone portable PHP binaries on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 - [formal-php/orm](https://github.com/formal-php/orm) - 
 - [emreyarligan/enum-concern](https://github.com/emreyarligan/enum-concern) - A PHP package for effortless Enumeration handling with Laravel Collections 📦 ✨
 - [rfc-vote/rfc-vote](https://github.com/rfc-vote/rfc-vote) - A community project for voting on PHP RFCs
@@ -3011,6 +3011,7 @@
 
 ## TypeScript 
 
+- [agentset-ai/agentset](https://github.com/agentset-ai/agentset) - The open-source RAG platform: built-in citations, deep research, 22+ file formats, partitions, MCP server, and more.
 - [Kieirra/murmure](https://github.com/Kieirra/murmure) - Privacy-first and free Speech-to-Text
 - [yoanbernabeu/S3-Documentation-MCP-Server](https://github.com/yoanbernabeu/S3-Documentation-MCP-Server) - A lightweight Model Context Protocol (MCP) server that brings RAG (Retrieval-Augmented Generation) capabilities to your LLM over Markdown documentation stored on S3.
 - [flemzord/github-compliance](https://github.com/flemzord/github-compliance) - 🛡️ Enforce repository compliance standards across your GitHub organization
