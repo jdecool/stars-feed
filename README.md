@@ -120,6 +120,7 @@
 - [ronomon/pure](https://github.com/ronomon/pure) - A static analysis file format checker.
 - [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
 - [rfaile313/draw_game](https://github.com/rfaile313/draw_game) - Draw! is a small game that was developed in C
+- [jvoisin/snuffleupagus](https://github.com/jvoisin/snuffleupagus) - Security module for php7 and php8 - Killing bugclasses and virtual-patching the rest!
 - [IvorySQL/IvorySQL](https://github.com/IvorySQL/IvorySQL) - Open Source Oracle Compatible PostgreSQL.
 - [dekuNukem/daytripper](https://github.com/dekuNukem/daytripper) - Hide-My-Windows Laser Tripwire
 - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
@@ -437,6 +438,7 @@
 
 ## Go 
 
+- [SoulKyu/notificator](https://github.com/SoulKyu/notificator) - Notificator is a GUI for alertmanager with sounds and notifications
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [trim21/go-phpserialize](https://github.com/trim21/go-phpserialize) - PHP `serialize` and `unserialize` in Golang
 - [alexferrari88/sbstck-dl](https://github.com/alexferrari88/sbstck-dl) - CLI tool for downloading Substack newsletters for archival purposes, offline reading, or data analysis.
@@ -880,6 +882,7 @@
 
 ## Java 
 
+- [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 - [approvals/ApprovalTests.Java](https://github.com/approvals/ApprovalTests.Java) - ApprovalTest verification library for Java
 - [jmgarridopaz/bluezone](https://github.com/jmgarridopaz/bluezone) - An example application implementing Hexagonal Architecture
 - [seed4j/seed4j](https://github.com/seed4j/seed4j) - Seed4J 🌱 is a modular code generator with clean architecture :gem:
@@ -1723,7 +1726,6 @@
 - [Spomky-Labs/pwa-bundle](https://github.com/Spomky-Labs/pwa-bundle) - PHP library for generating a full featured PWA manifest
 - [coralsio/laraship](https://github.com/coralsio/laraship) - Laraship is a Platform built on Laravel for Rapid Development, it helps Agents, Startups, and even individuals to save time building their Web Applications and websites using well-structured code.
 - [Hi-Folks/ibis-next](https://github.com/Hi-Folks/ibis-next) - A PHP tool that helps you write eBooks in markdown and convert to PDF, EPUB and HTML
-- [jvoisin/snuffleupagus](https://github.com/jvoisin/snuffleupagus) - Security module for php7 and php8 - Killing bugclasses and virtual-patching the rest!
 - [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) - Ollama-Laravel is a Laravel package providing seamless integration with the Ollama API.
 - [typhoon-php/overloading](https://github.com/typhoon-php/overloading) - The missing method overloading feature for PHP.
 - [samdark/php-fpm_tuner](https://github.com/samdark/php-fpm_tuner) - A script to tune PHP-FPM
@@ -2809,7 +2811,6 @@
 - [nickboucher/trojan-source](https://github.com/nickboucher/trojan-source) - Trojan Source: Invisible Vulnerabilities
 - [artsy/artsy.github.io](https://github.com/artsy/artsy.github.io) - The Artsy Engineering Open-Source Developers Blog
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
-- [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
 - [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [papercss/papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 - [heroku/starboard](https://github.com/heroku/starboard) - onboarding, offboarding, or crossboarding made easy
@@ -3011,6 +3012,7 @@
 
 ## TypeScript 
 
+- [briehq/brie-extension](https://github.com/briehq/brie-extension) - Capture screenshots, console errors, network issues, and user actions, giving developers full context instantly.
 - [agentset-ai/agentset](https://github.com/agentset-ai/agentset) - The open-source RAG platform: built-in citations, deep research, 22+ file formats, partitions, MCP server, and more.
 - [Kieirra/murmure](https://github.com/Kieirra/murmure) - Privacy-first and free Speech-to-Text
 - [yoanbernabeu/S3-Documentation-MCP-Server](https://github.com/yoanbernabeu/S3-Documentation-MCP-Server) - A lightweight Model Context Protocol (MCP) server that brings RAG (Retrieval-Augmented Generation) capabilities to your LLM over Markdown documentation stored on S3.
@@ -3164,6 +3166,7 @@
 - [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - Former GUI client for gRPC services. No longer maintained.
 - [nikivdev/myflow](https://github.com/nikivdev/myflow) - Place to share & store what you use
 - [Azure/oav](https://github.com/Azure/oav) - Tools for validating OpenAPI (Swagger) files.
+- [creativetimofficial/ui](https://github.com/creativetimofficial/ui) - Open-source components, blocks, and AI agents designed to speed up your workflow. Import them seamlessly into your favorite tools through Registry and MCPs.
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [rikukissa/stacker](https://github.com/rikukissa/stacker) - 🥞 Chrome extension for managing stacked pull requests
 - [bestofjs/bestofjs](https://github.com/bestofjs/bestofjs) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
