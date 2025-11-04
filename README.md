@@ -3076,7 +3076,7 @@
 - [Web-SyncPlay/Web-SyncPlay](https://github.com/Web-SyncPlay/Web-SyncPlay) - Watch online media like YouTube, Vimeo, Soundcloud or video/audio files in sync.
 - [spatie/fatten](https://github.com/spatie/fatten) - Transform dot-notation-like objects into optimised nested objects.
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Uptime monitoring & API monitoring as code with status page 🫖
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. The future of coding isn't writing more code. It's delegating the boring parts, so you can build the interesting stuff
 - [thomvaill/log4brains](https://github.com/thomvaill/log4brains) - ✍️ Architecture Decision Records (ADR) management and publication tool
 - [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI (v3.1, v3.0, and v2.0), Arazzo v1.0, as well as AsyncAPI v2.x.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
@@ -3202,7 +3202,7 @@
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [appbaseio/mirage](https://github.com/appbaseio/mirage) - :art: GUI for simplifying Elasticsearch Query DSL
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
-- [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop with cross database and platform support.
+- [sqlectron/sqlectron](https://github.com/sqlectron/sqlectron) - A simple and lightweight SQL client desktop with cross database and platform support.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [AdaptiveConsulting/ReactiveTraderCloud](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Real-time FX trading showcase by Adaptive. THIS REPO IS NO LONGER MAINTAINED.
 - [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
