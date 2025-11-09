@@ -1001,7 +1001,6 @@
 - [mholt/json-to-go](https://github.com/mholt/json-to-go) - Translates JSON into a Go type in your browser instantly (original)
 - [tropy/tropy](https://github.com/tropy/tropy) - Research photo management
 - [onlywei/explain-git-with-d3](https://github.com/onlywei/explain-git-with-d3) - Use D3 to visualize simple git branching operations.
-- [dauxio/daux.io](https://github.com/dauxio/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer f
 - [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - A complete web conferencing system for virtual classes and more!
 - [Mermade/openapi-gui](https://github.com/Mermade/openapi-gui) - GUI / visual editor for creating and editing OpenAPI / Swagger definitions
 - [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - for desktop and mobile
@@ -1130,7 +1129,7 @@
 - [WeiChiaChang/stacks-cli](https://github.com/WeiChiaChang/stacks-cli) - 📊 Analyze website stack from the terminal  💻
 - [Synzvato/decentraleyes](https://github.com/Synzvato/decentraleyes) - This repository has a new home: https://git.synz.io/Synzvato/decentraleyes
 - [Heydon/inclusive-design-checklist](https://github.com/Heydon/inclusive-design-checklist) - Aims to be the biggest checklist of inclusive design considerations ever
-- [NOtherDev/whatwebcando](https://github.com/NOtherDev/whatwebcando) - An overview of the device integration HTML5 APIs
+- [kbstt/whatwebcando](https://github.com/kbstt/whatwebcando) - An overview of the device integration HTML5 APIs
 - [homerchen19/nba-go](https://github.com/homerchen19/nba-go) - 🏀 💻 The finest NBA CLI.
 - [FileNation/FileNation](https://github.com/FileNation/FileNation) - The simplest way to send your files around the world using IPFS. ✏️ 🗃
 - [skwi/npm-script-list](https://github.com/skwi/npm-script-list) - A CLI tool to list available NPM scripts
@@ -1370,6 +1369,7 @@
 
 ## Kotlin 
 
+- [j-plugins/php-dump-plugin](https://github.com/j-plugins/php-dump-plugin) - Intellij IDEA Plugin Exposes PHP internal stuctures
 - [JetBrains/pest-intellij](https://github.com/JetBrains/pest-intellij) - The official Pest Plugin for PhpStorm / IntelliJ IDEA
 - [Roboroads/laravel-tinker](https://github.com/Roboroads/laravel-tinker) - Adds a way to write php and run it directly in Laravels' Artisan Tinker.
 - [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
@@ -1463,6 +1463,7 @@
 
 ## Others 
 
+- [kevinrss01/Best-prompts-folder](https://github.com/kevinrss01/Best-prompts-folder) - 
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, T
 - [sixhobbits/technical-writing](https://github.com/sixhobbits/technical-writing) - A collection of materials relating to technical writing
 - [maximilien-regnier/cursor-rules](https://github.com/maximilien-regnier/cursor-rules) - 
@@ -1784,7 +1785,7 @@
 - [DeepLcom/deepl-php](https://github.com/DeepLcom/deepl-php) - Official PHP library for the DeepL language translation API.
 - [openai-php/symfony](https://github.com/openai-php/symfony) - ⚡️ OpenAI PHP for Symfony is a supercharged PHP API client that allows you to interact with OpenAI API
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) - Find Unused Public Elements in Your Code
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [amphp/parallel](https://github.com/amphp/parallel) - An advanced parallelization library for PHP, enabling efficient multitasking, optimizing resource use, and application responsiveness through multiple CPU threads.
 - [sourceability/openai-client](https://github.com/sourceability/openai-client) - PHP 8.0+ OpenAI API client with fully typed/documented requests+responses models, guzzle and symfony/http-client support and async/parallel requests
 - [ssddanbrown/rss](https://github.com/ssddanbrown/rss) - PROJECT MIGRATED TO CODEBERG -- A simple twitter-feed-style RSS aggregator written in PHP, Laravel, Inertia.js, Tailwind and Vue.js
@@ -1850,6 +1851,7 @@
 - [dantleech/gherkin-lint-php](https://github.com/dantleech/gherkin-lint-php) - PHP Gherkin Linter
 - [bvtterfly/replay](https://github.com/bvtterfly/replay) - Laravel middleware for idempotency
 - [mnapoli/gitstats](https://github.com/mnapoli/gitstats) - Iterate through git commits to gather statistics
+- [dauxio/daux.io](https://github.com/dauxio/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer f
 - [laravel/pint](https://github.com/laravel/pint) - Laravel Pint is an opinionated PHP code style fixer for minimalists.
 - [repman-io/repman](https://github.com/repman-io/repman) - Repman - PHP Repository Manager: packagist proxy and host for private packages
 - [tentacode/ireadit](https://github.com/tentacode/ireadit) - 
