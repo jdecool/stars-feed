@@ -1799,7 +1799,7 @@
 - [aarondfrancis/sidecar](https://github.com/aarondfrancis/sidecar) - Deploy and execute AWS Lambda functions from your Laravel application.
 - [vinkla/hashids](https://github.com/vinkla/hashids) - A small PHP library to generate YouTube-like ids from numbers. Use it when you don't want to expose your database ids to the user.
 - [anystack-sh/porter](https://github.com/anystack-sh/porter) - Spin up your development background processes with ease 🪄
-- [JhumanJ/OpnForm](https://github.com/JhumanJ/OpnForm) - Beautiful Open-Source Form Builder
+- [OpnForm/OpnForm](https://github.com/OpnForm/OpnForm) - Beautiful Open-Source Form Builder
 - [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - Phel is a functional, Lisp-inspired programming language that compiles to PHP. It brings the expressive power of Clojure and the simplicity of Janet to the PHP ecosystem.
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [lightswitch05/php-version-audit](https://github.com/lightswitch05/php-version-audit) - Audit your PHP version for known CVEs and patches
@@ -2101,7 +2101,7 @@
 - [theodorejb/PolyCast](https://github.com/theodorejb/PolyCast) - Safely cast values to int, float, or string in PHP
 - [jubianchi/prof-it](https://github.com/jubianchi/prof-it) - Profile & Profit!
 - [micheh/psr7-cache](https://github.com/micheh/psr7-cache) - Cache and conditional request helpers for PSR-7 HTTP Messages
-- [endroid/qr-code](https://github.com/endroid/qr-code) - QR Code Generator
+- [endroid/qr-code](https://github.com/endroid/qr-code) - PHP QR Code library that helps you create QR codes in a jiffy
 - [deprecated-packages/symplify](https://github.com/deprecated-packages/symplify) - [DISCONTINUED] Check split packages in their own repositories :)
 - [sirbrillig/phpcs-variable-analysis](https://github.com/sirbrillig/phpcs-variable-analysis) - Find undefined and unused variables with the PHP Codesniffer static analysis tool.
 - [Cocolabs-SAS/cocorico](https://github.com/Cocolabs-SAS/cocorico) - 🚀 Cocorico has evolved into Second (www.scnd.com) - a powerful, scalable, and enterprise-ready solution built specifically for advanced service and rental marketplaces. 🌟 Second delivers enhanced feat
@@ -2952,6 +2952,7 @@
 
 ## Swift 
 
+- [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly
 - [joey-barbier/ipaScanner](https://github.com/joey-barbier/ipaScanner) - 
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
@@ -3017,6 +3018,7 @@
 
 ## TypeScript 
 
+- [kermanx/p2p-live-share](https://github.com/kermanx/p2p-live-share) - VSCode collaboration extension - a peer-to-peer and open source alternative to Live Share.
 - [briehq/brie-extension](https://github.com/briehq/brie-extension) - Capture screenshots, console errors, network issues, and user actions, giving developers full context instantly.
 - [agentset-ai/agentset](https://github.com/agentset-ai/agentset) - The open-source RAG platform: built-in citations, deep research, 22+ file formats, partitions, MCP server, and more.
 - [Kieirra/murmure](https://github.com/Kieirra/murmure) - Privacy-first and free Speech-to-Text
@@ -3107,7 +3109,7 @@
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [snyk/release-notes-preview](https://github.com/snyk/release-notes-preview) - GitHub Action for providing release notes preview for semantic releases
 - [afup/pufa](https://github.com/afup/pufa) - 
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. A better, open-source alternative to Google Analytics, Mixpanel and Amplitude.
 - [nohello-net/site](https://github.com/nohello-net/site) - 
 - [robertwt7/meetsy](https://github.com/robertwt7/meetsy) - Open source online booking system
 - [mihaip/infinite-mac](https://github.com/mihaip/infinite-mac) - A classic Mac loaded with everything you'd want
@@ -3169,7 +3171,7 @@
 - [rpgeeganage/ifto](https://github.com/rpgeeganage/ifto) - A simple debugging module for AWS Lambda (λ) timeout
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - Former GUI client for gRPC services. No longer maintained.
-- [nikivdev/myflow](https://github.com/nikivdev/myflow) - Place to share & store what you use
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Place to share & store what you use. Full sync up tool.
 - [Azure/oav](https://github.com/Azure/oav) - Tools for validating OpenAPI (Swagger) files.
 - [creativetimofficial/ui](https://github.com/creativetimofficial/ui) - Open-source components, blocks, and AI agents designed to speed up your workflow. Import them seamlessly into your favorite tools through Registry and MCPs.
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
