@@ -1658,6 +1658,7 @@
 
 ## PHP 
 
+- [adam-paterson/oauth2-slack](https://github.com/adam-paterson/oauth2-slack) - Slack OAuth 2.0 Client Provider for The PHP League OAuth2-Client
 - [Kocal/phpstan-symfony-ux](https://github.com/Kocal/phpstan-symfony-ux) - PHPStan rules for Symfony UX
 - [CorentinBoutillier/invoice-bundle](https://github.com/CorentinBoutillier/invoice-bundle) - Symfony Bundle for invoice and credit note management compliant with French legal regulations
 - [rectorphp/jack](https://github.com/rectorphp/jack) - Safe and steady way to raise your composer dependency versions
@@ -2843,6 +2844,7 @@
 
 ## Shell 
 
+- [NTCoding/claude-skillz](https://github.com/NTCoding/claude-skillz) - Random Claude skills for common, simple programming tasks
 - [buildermethods/agent-os](https://github.com/buildermethods/agent-os) - Agent OS is a system for better planning and executing software development tasks with your AI agents.
 - [hbekel/magic](https://github.com/hbekel/magic) - define bash functions on a per-directory basis
 - [pmarreck/yt-transcriber](https://github.com/pmarreck/yt-transcriber) - TUI app- Give it a YouTube URL and you get a transcription with possible speaker identification and optional summary or translation, all thanks to open-source AI tooling and my lack of enough free tim
