@@ -1751,7 +1751,7 @@
 - [hazaveh/verify-domain](https://github.com/hazaveh/verify-domain) - Verify Domain Ownership in PHP
 - [vcian/php-db-auditor](https://github.com/vcian/php-db-auditor) - Audit your mysql database -Database DB Auditor provide leverage to audit your MySql database standards and also provide options to add constraints in table
 - [loupe-php/loupe](https://github.com/loupe-php/loupe) - A full text search engine with tokenization, stemming, typo tolerance, filters and geo support based on only PHP and SQLite.
-- [TomasVotruba/lines](https://github.com/TomasVotruba/lines) - CLI tool for quick size measure of PHP project, runs anywhere
+- [TomasVotruba/lines](https://github.com/TomasVotruba/lines) - CLI tool for quick size measure of PHP project, used PHP features and more. Zero dependencies. Runs anywhere
 - [zenstruck/messenger-monitor-bundle](https://github.com/zenstruck/messenger-monitor-bundle) - Batteries included UI to monitor your Messenger workers, transports, schedules, and messages.
 - [AvaiBookSports/DoctrineMigrationsMultipleDatabaseBundle](https://github.com/AvaiBookSports/DoctrineMigrationsMultipleDatabaseBundle) - This bundle extends the DoctrineMigrationsBundle functionality to support migrations for multiple entity managers
 - [koolreport/core](https://github.com/koolreport/core) - An Open Source PHP Reporting Framework that helps you to write perfect data reports or to construct awesome dashboards in PHP. Working great with all PHP versions from 5.6 to latest 8.0. Fully compati
@@ -3006,7 +3006,7 @@
 - [github/SoftU2F](https://github.com/github/SoftU2F) - Software U2F authenticator for macOS
 - [cristibaluta/Jirassic](https://github.com/cristibaluta/Jirassic) - Time tracking done right. Time tracking for employees.
 - [soapyigu/Swift-30-Projects](https://github.com/soapyigu/Swift-30-Projects) - 30 mini Swift Apps for self-study
-- [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
+- [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command-line interface
 - [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
 - [nzff/cardboard-swift](https://github.com/nzff/cardboard-swift) - Google's Cardboard SDK ported to Swift and iOS.
 - [Jintin/Swimat](https://github.com/Jintin/Swimat) - An Xcode formatter plug-in to format your swift code.
