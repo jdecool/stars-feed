@@ -1463,7 +1463,7 @@
 ## Others 
 
 - [kevinrss01/Best-prompts-folder](https://github.com/kevinrss01/Best-prompts-folder) - 
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, T
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [sixhobbits/technical-writing](https://github.com/sixhobbits/technical-writing) - A collection of materials relating to technical writing
 - [maximilien-regnier/cursor-rules](https://github.com/maximilien-regnier/cursor-rules) - 
 - [milanm/developer-portfolios](https://github.com/milanm/developer-portfolios) - A list of developer portfolios for your inspiration
@@ -2297,7 +2297,7 @@
 - [broadway/broadway](https://github.com/broadway/broadway) - Infrastructure and testing helpers for creating CQRS and event sourced applications.
 - [dddshelf/blog-cqrs](https://github.com/dddshelf/blog-cqrs) - A blog engine written in PHP and powered with CQRS + Event Sourcing
 - [pascaldevink/shortuuid](https://github.com/pascaldevink/shortuuid) - PHP 7.4+ library that generates concise, unambiguous, URL-safe UUIDs
-- [driesvints/vat-calculator](https://github.com/driesvints/vat-calculator) - Handle all the hard stuff related to EU MOSS tax/vat regulations, the way it should be.
+- [laravel/vat-calculator](https://github.com/laravel/vat-calculator) - Handle all the hard stuff related to EU MOSS tax/vat regulations, the way it should be.
 - [fxpio/composer-asset-plugin](https://github.com/fxpio/composer-asset-plugin) - NPM/Bower Dependency Manager for Composer
 - [soullivaneuh/composer-versions-check](https://github.com/soullivaneuh/composer-versions-check) - Checks if packages are up to date to last major versions after update
 - [janephp/jane](https://github.com/janephp/jane) - DEPRECATED See https://github.com/janephp/janephp
@@ -2438,6 +2438,7 @@
 
 ## Python 
 
+- [observIQ/otel-distro-builder](https://github.com/observIQ/otel-distro-builder) - Build custom OpenTelemetry Collector Distributions from manifest files with a local build utility, Docker, Google Cloud Build, or a GitHub Action.
 - [alirezarezvani/ClaudeForge](https://github.com/alirezarezvani/ClaudeForge) - A CLAUDE.md Generator and Maintenance tool for for Claude Code to create high-quality CLAUDE.md instruction files — aligned with Anthropic’s best practices for Claude Code.
 - [Mic92/strace-macos](https://github.com/Mic92/strace-macos) - A clone of the strace command for macOS
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
@@ -3028,7 +3029,7 @@
 
 ## TypeScript 
 
-- [skaldlabs/skald](https://github.com/skaldlabs/skald) - Production RAG in your infrastructure (MIT-licensed)
+- [skaldlabs/skald](https://github.com/skaldlabs/skald) - Production RAG in your infrastructure
 - [BananaOps/tracker](https://github.com/BananaOps/tracker) - An opensource solution to track events in platform
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development for AI coding assistants.
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
