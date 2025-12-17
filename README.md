@@ -212,6 +212,7 @@
 
 ## C# # 
 
+- [MattParkerDev/SharpIDE](https://github.com/MattParkerDev/SharpIDE) - A modern, cross platform IDE for .NET, built with .NET & Godot
 - [SimonCropp/MarkdownSnippets](https://github.com/SimonCropp/MarkdownSnippets) - Extracts snippets from code files and merges them into markdown documents.
 - [poorna-soysa/url-shortener-app](https://github.com/poorna-soysa/url-shortener-app) - This repository contains a n URL Shortener sample application built with .NET 9 ,  NET Aspire, PostgreSQL, MediatR
 - [poorna-soysa/grpc-demo](https://github.com/poorna-soysa/grpc-demo) - This repository contains a sample application built with .NET 8, demonstrating the use of gRPC for high-performance remote procedure calls
@@ -1462,6 +1463,7 @@
 
 ## Others 
 
+- [Necior/awesome-jj](https://github.com/Necior/awesome-jj) - A curated list of awesome Jujutsu things
 - [kevinrss01/Best-prompts-folder](https://github.com/kevinrss01/Best-prompts-folder) - 
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [sixhobbits/technical-writing](https://github.com/sixhobbits/technical-writing) - A collection of materials relating to technical writing
