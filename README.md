@@ -573,7 +573,7 @@
 - [michelin/ChopChop](https://github.com/michelin/ChopChop) - ChopChop is a CLI to help developers scanning endpoints and identifying exposition of sensitive services/files/folders.
 - [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
-- [lingrino/go-fault](https://github.com/lingrino/go-fault) - fault injection library in go using standard http middleware
+- [lingrino/go-fault](https://github.com/lingrino/go-fault) - go fault injection library
 - [RussellLuo/micron](https://github.com/RussellLuo/micron) - A minimal implementation of the fault-tolerant job scheduler.
 - [prometheus/pushgateway](https://github.com/prometheus/pushgateway) - Push acceptor for ephemeral and batch jobs.
 - [smileisak/go-training](https://github.com/smileisak/go-training) - Go Training Repositories regroups some useful resources to learn Go Programming Language
@@ -1369,6 +1369,7 @@
 
 ## Kotlin 
 
+- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 - [j-plugins/php-dump-plugin](https://github.com/j-plugins/php-dump-plugin) - Intellij IDEA Plugin Exposes PHP internal stuctures
 - [JetBrains/pest-intellij](https://github.com/JetBrains/pest-intellij) - The official Pest Plugin for PhpStorm / IntelliJ IDEA
 - [Roboroads/laravel-tinker](https://github.com/Roboroads/laravel-tinker) - Adds a way to write php and run it directly in Laravels' Artisan Tinker.
@@ -1660,6 +1661,7 @@
 
 ## PHP 
 
+- [Sybio/permission-bundle](https://github.com/Sybio/permission-bundle) - A Symfony bundle to manage permissions (authorizations) as Value Objects, with an integrated validation system and native integration with Symfony's security system.
 - [claude-php/Claude-PHP-SDK](https://github.com/claude-php/Claude-PHP-SDK) - PHP SDK for Claude - Provides complete 1-for-1 functionality of the Official Python SDK
 - [adam-paterson/oauth2-slack](https://github.com/adam-paterson/oauth2-slack) - Slack OAuth 2.0 Client Provider for The PHP League OAuth2-Client
 - [Kocal/phpstan-symfony-ux](https://github.com/Kocal/phpstan-symfony-ux) - PHPStan rules for Symfony UX
@@ -1704,7 +1706,7 @@
 - [artprima/prometheus-metrics-bundle](https://github.com/artprima/prometheus-metrics-bundle) - Symfony 5/6 Prometheus Metrics Bundle
 - [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) - 🚀 Fast detection of composer dependency issues (unused dependencies, shadow dependencies, misplaced dependencies)
 - [pinkary-project/pinkary.com](https://github.com/pinkary-project/pinkary.com) - Create a landing page for all your links and connect with like-minded people without the noise.
-- [ergebnis/classy](https://github.com/ergebnis/classy) - 🔍 Provides a composer package with a finder for classy constructs (classes, enums, interfaces, and traits).
+- [ergebnis/classy](https://github.com/ergebnis/classy) - 🔍 Provides a composer package with a collectors for classy constructs (classes, enums, interfaces, and traits).
 - [alekitto/class-finder](https://github.com/alekitto/class-finder) - Utility classes to help discover other classes/namespaces
 - [schmittjoh/php-option](https://github.com/schmittjoh/php-option) - Option Type for PHP
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) - [READONLY] Symfony auto-instrumentation
@@ -3034,6 +3036,7 @@
 
 ## TypeScript 
 
+- [buildermethods/design-os](https://github.com/buildermethods/design-os) - The missing design process between your product idea and your codebase.
 - [skaldlabs/skald](https://github.com/skaldlabs/skald) - Context layer platform in your infrastructure
 - [BananaOps/tracker](https://github.com/BananaOps/tracker) - An opensource solution to track events in platform
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development for AI coding assistants.
