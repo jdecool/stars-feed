@@ -20,7 +20,6 @@
 - [Common Lisp](#common-lisp)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
-- [Earthly](#earthly)
 - [Elixir](#elixir)
 - [Elm](#elm)
 - [F#](#f#)
@@ -409,10 +408,6 @@
 - [zoobab/vagrant-inside-docker](https://github.com/zoobab/vagrant-inside-docker) - vagrant-inside-docker
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [eko/docker-symfony](https://github.com/eko/docker-symfony) - Run a Symfony application using Docker & docker-compose
-
-## Earthly 
-
-- [shepherdjerred/macos-cross-compiler](https://github.com/shepherdjerred/macos-cross-compiler) - Compile binaries for macOS on Linux
 
 ## Elixir 
 
@@ -953,7 +948,7 @@
 - [TheCherno/Flappy](https://github.com/TheCherno/Flappy) - A clone of Flappy Bird made for desktop platforms using Java and OpenGL.
 - [google/open-location-code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
 - [jphp-group/jphp](https://github.com/jphp-group/jphp) - JPHP - an implementation of PHP on Java VM
-- [jodoglevy/gargl](https://github.com/jodoglevy/gargl) - Record web requests as they happen and turn them into reusable code in any programming language.
+- [JAL9302/gargl](https://github.com/JAL9302/gargl) - Record web requests as they happen and turn them into reusable code in any programming language.
 - [Fuzion24/AndroidZipArbitrage](https://github.com/Fuzion24/AndroidZipArbitrage) - Exploit for Android Zip bugs: 8219321, 9695860, and 9950697
 
 ## JavaScript 
@@ -3088,6 +3083,7 @@
 - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
 - [OpenRailAssociation/osrd](https://github.com/OpenRailAssociation/osrd) - An open source web application for railway infrastructure design, capacity analysis, timetabling and simulation
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
+- [shepherdjerred/macos-cross-compiler](https://github.com/shepherdjerred/macos-cross-compiler) - Compile binaries for macOS on Linux
 - [relagit/relagit](https://github.com/relagit/relagit) - The elegant solution to graphical version control.
 - [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 - [ollama/ollama-js](https://github.com/ollama/ollama-js) - Ollama JavaScript library
