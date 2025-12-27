@@ -213,7 +213,7 @@
 
 - [MattParkerDev/SharpIDE](https://github.com/MattParkerDev/SharpIDE) - A modern, cross platform IDE for .NET, built with .NET & Godot
 - [SimonCropp/MarkdownSnippets](https://github.com/SimonCropp/MarkdownSnippets) - Extracts snippets from code files and merges them into markdown documents.
-- [poorna-soysa/url-shortener-app](https://github.com/poorna-soysa/url-shortener-app) - This repository contains a n URL Shortener sample application built with .NET 9 ,  NET Aspire, PostgreSQL, MediatR
+- [poorna-soysa/url-shortener-app](https://github.com/poorna-soysa/url-shortener-app) - This repository contains a n URL Shortener sample application built with .NET 9 ,  NET Aspire, PostgreSQL
 - [poorna-soysa/grpc-demo](https://github.com/poorna-soysa/grpc-demo) - This repository contains a sample application built with .NET 8, demonstrating the use of gRPC for high-performance remote procedure calls
 - [MTG-Lyon/ArchitectureStyles](https://github.com/MTG-Lyon/ArchitectureStyles) - Compare Hexagonal, Clean and Vertical-Sliced architecture with the same domain
 - [uxmal/reko](https://github.com/uxmal/reko) - Reko is a binary decompiler.
