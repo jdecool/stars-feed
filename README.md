@@ -1653,6 +1653,7 @@
 
 ## PHP 
 
+- [ahmed-bhs/doctrine-doctor](https://github.com/ahmed-bhs/doctrine-doctor) - 🩺⚡ Runtime Doctrine ORM analysis integrated into Symfony Web Profiler. Detect N+1 queries, security vulnerabilities, and performance issues that static analysis can't see  during query execution.
 - [shipmonk-rnd/coverage-guard](https://github.com/shipmonk-rnd/coverage-guard) - 🧪 Enforce PHP code coverage in your CI. Not by percentage, but target core methods! Allows you to start enforcing coverage for new code only!   Also contains tooling to merge and convert PHPUnit cover
 - [Sybio/permission-bundle](https://github.com/Sybio/permission-bundle) - A Symfony bundle to manage permissions (authorizations) as Value Objects, with an integrated validation system and native integration with Symfony's security system.
 - [claude-php/Claude-PHP-SDK](https://github.com/claude-php/Claude-PHP-SDK) - PHP SDK for Claude - Provides complete 1-for-1 functionality of the Official Python SDK
@@ -2435,6 +2436,7 @@
 
 ## Python 
 
+- [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
 - [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute.
 - [davidfowl/tally](https://github.com/davidfowl/tally) - Let agents classify your bank transactions.
 - [ludovicsanchez38-creator/Synoptia-THERESE-CLI](https://github.com/ludovicsanchez38-creator/Synoptia-THERESE-CLI) - 
