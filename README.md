@@ -435,6 +435,7 @@
 
 ## Go 
 
+- [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite server with MySQL wire compatible interface
 - [guigui42/mcp-vosdroits](https://github.com/guigui42/mcp-vosdroits) - Serveur MCP pour Service Public Vos Droits
 - [SoulKyu/notificator](https://github.com/SoulKyu/notificator) - Notificator is a Karma replacement for alertmanager with sounds and notifications
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
@@ -1258,7 +1259,7 @@
 - [danielborowski/jsboard](https://github.com/danielborowski/jsboard) - JavaScript library for easily creating board games
 - [weiland/es6-babel-systemjs-boilerplate](https://github.com/weiland/es6-babel-systemjs-boilerplate) - ES6 babel (formerly 6to5) & SystemJS Boilerplate
 - [superkhau/lice](https://github.com/superkhau/lice) - An open source license generator and license viewer.
-- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https
+- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. New development has moved to Wami https://github.com/wekan/wami . Non-English translations at https://app.transifex.com/wekan/wekan only.
 - [englercj/phaser-debug](https://github.com/englercj/phaser-debug) - Simple debug module for phaser
 - [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
 - [enricolucia/pong](https://github.com/enricolucia/pong) - A pure javascript pong game clone based on socket.io and canvas.
@@ -1455,6 +1456,7 @@
 
 ## Others 
 
+- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - Claude subagents collection with 100+ specialized AI agents for full-stack development, DevOps, data science, and business operations.
 - [OneRedOak/claude-code-workflows](https://github.com/OneRedOak/claude-code-workflows) - The best workflows and configurations I've developed, having heavily used Claude Code since the day of it's release. Workflows are based off applied learnings from our AI-native startup.
 - [Necior/awesome-jj](https://github.com/Necior/awesome-jj) - A curated list of awesome Jujutsu things
 - [kevinrss01/Best-prompts-folder](https://github.com/kevinrss01/Best-prompts-folder) - 
@@ -3034,6 +3036,7 @@
 
 ## TypeScript 
 
+- [NTCoding/living-architecture](https://github.com/NTCoding/living-architecture) - Extra software architecture from your code as living documentation. AI-assisted.
 - [DeepMyst/Mysti](https://github.com/DeepMyst/Mysti) - AI coding dream team of agents for VS Code. Claude Code + openai Codex collaborate in brainstorm mode, debate solutions, and synthesize the best approach for your code.
 - [RayLabsHQ/formatfuse](https://github.com/RayLabsHQ/formatfuse) - FormatFuse - Free Online File Converter Tools
 - [buildermethods/design-os](https://github.com/buildermethods/design-os) - The missing design process between your product idea and your codebase.
@@ -3047,8 +3050,8 @@
 - [Kieirra/murmure](https://github.com/Kieirra/murmure) - Privacy-first and free Speech-to-Text
 - [yoanbernabeu/S3-Documentation-MCP-Server](https://github.com/yoanbernabeu/S3-Documentation-MCP-Server) - A lightweight Model Context Protocol (MCP) server that brings RAG (Retrieval-Augmented Generation) capabilities to your LLM over Markdown documentation stored on S3.
 - [flemzord/github-compliance](https://github.com/flemzord/github-compliance) - 🛡️ Enforce repository compliance standards across your GitHub organization
-- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
-- [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) - free, open-source file scanner
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
+- [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) - Free, open-source file scanner for Node.js. Secure file uploads with in-process malware detection, ZIP bomb protection, and YARA integration. Private & GDPR-compliant.
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 - [kukshaus/transcribe](https://github.com/kukshaus/transcribe) - 
