@@ -874,6 +874,7 @@
 ## JSON 
 
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
+- [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
 
 ## Java 
 
@@ -1324,7 +1325,6 @@
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [mrspeaker/js13k](https://github.com/mrspeaker/js13k) - js13k entry
 - [dobtco/formbuilder](https://github.com/dobtco/formbuilder) - [Needs Maintainer] Formbuilder is a small graphical interface for letting users build their own webforms.
-- [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
 - [juliangruber/review](https://github.com/juliangruber/review) - Visual regression testing tool for responsive websites
 - [angular/dashboard.angularjs.org](https://github.com/angular/dashboard.angularjs.org) - AngularJS Dashboard
 - [davidgomes/multitaskor](https://github.com/davidgomes/multitaskor) - A simple game about multitasking made in 48 hours for Ludum Dare
@@ -2463,6 +2463,7 @@
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows
 - [getmoss/pullama](https://github.com/getmoss/pullama) - A Pull Request summarizer powered by Ollama and Llama2
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [apeatling/ollama-voice-mac](https://github.com/apeatling/ollama-voice-mac) - Mac compatible Ollama Voice
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
 - [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io/vallex/
@@ -2965,13 +2966,13 @@
 ## Svelte 
 
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [richshaw2015/dino-rss-electron](https://github.com/richshaw2015/dino-rss-electron) - A simple, efficient, open source RSS reader service
 - [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio, an open source alternative to Docker desktop
 - [Orbitale/Compotes](https://github.com/Orbitale/Compotes) - A small app to manage bank account operations and display rich analytics. Demo app credentials are admin/admin. [In development]
 
 ## Swift 
 
+- [steipete/Trimmy](https://github.com/steipete/Trimmy) - "Paste once, run once." — Trimmy flattens those multi-line shell snippets you copy so they actually paste and run.
 - [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly
 - [joey-barbier/ipaScanner](https://github.com/joey-barbier/ipaScanner) - 
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
