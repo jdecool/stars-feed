@@ -521,7 +521,7 @@
 - [Fusion/kittendns](https://github.com/Fusion/kittendns) - 
 - [alajmo/mani](https://github.com/alajmo/mani) - :robot: CLI tool to help you manage repositories
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
-- [dagger/dagger](https://github.com/dagger/dagger) - The agent-ready test platform. Test any codebase end-to-end, repeatably and at scale. Runs locally, in your CI server, or directly in the cloud.
+- [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [varunu28/graft](https://github.com/varunu28/graft) - 🪵 From scratch implementation of Raft consensus algorithm in Go
 - [adamgordonbell/cloudservices](https://github.com/adamgordonbell/cloudservices) - 
 - [winfsp/hubfs](https://github.com/winfsp/hubfs) - File system for GitHub & GitLab
@@ -550,6 +550,7 @@
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Track stocks, crypto, and derivatives prices and positions in real time from your terminal
 - [fabpot/local-php-security-checker](https://github.com/fabpot/local-php-security-checker) - PHP security vulnerabilities checker
 - [geohot/minikeyvalue](https://github.com/geohot/minikeyvalue) - A distributed key value store in under 1000 lines. Used in production at comma.ai
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) - A Golang Job Scheduling Package.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [redirect2me/which-dns](https://github.com/redirect2me/which-dns) - Detects which DNS server is being used - https://which.resolve.rs/
@@ -952,9 +953,9 @@
 
 ## JavaScript 
 
+- [jdubray/puffin](https://github.com/jdubray/puffin) - 
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [nolenroyalty/one-million-chessboards](https://github.com/nolenroyalty/one-million-chessboards) - one million chessboards, synced for everyone
-- [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [JetBrains/mcp-jetbrains](https://github.com/JetBrains/mcp-jetbrains) - A model context protocol server to work with JetBrains IDEs: IntelliJ, PyCharm, WebStorm, etc. Also, works with Android Studio
 - [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
@@ -1457,7 +1458,6 @@
 
 ## Others 
 
-- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 - [OneRedOak/claude-code-workflows](https://github.com/OneRedOak/claude-code-workflows) - The best workflows and configurations I've developed, having heavily used Claude Code since the day of it's release. Workflows are based off applied learnings from our AI-native startup.
 - [Necior/awesome-jj](https://github.com/Necior/awesome-jj) - A curated list of awesome Jujutsu things
 - [kevinrss01/Best-prompts-folder](https://github.com/kevinrss01/Best-prompts-folder) - 
@@ -1656,7 +1656,8 @@
 
 ## PHP 
 
-- [ahmed-bhs/doctrine-doctor](https://github.com/ahmed-bhs/doctrine-doctor) - 🩺⚡ Runtime Doctrine ORM analysis integrated into Symfony Web Profiler. Detect N+1 queries, security vulnerabilities, and performance issues that static analysis can't see  during query execution.
+- [rcsofttech85/AuditTrailBundle](https://github.com/rcsofttech85/AuditTrailBundle) - A lightweight Symfony bundle that automatically tracks and stores Doctrine ORM entity changes for audit logging and compliance.
+- [ahmed-bhs/doctrine-doctor](https://github.com/ahmed-bhs/doctrine-doctor) - 🩺⚡ Runtime Doctrine ORM analysis integrated into Symfony Web Profiler. Detect N+1 queries, security vulnerabilities, and performance issues during query execution.
 - [shipmonk-rnd/coverage-guard](https://github.com/shipmonk-rnd/coverage-guard) - 🧪 Enforce PHP code coverage in your CI. Not by percentage, but target core methods! Allows you to start enforcing coverage for new code only!   Also contains tooling to merge and convert PHPUnit cover
 - [Sybio/permission-bundle](https://github.com/Sybio/permission-bundle) - A Symfony bundle to manage permissions (authorizations) as Value Objects, with an integrated validation system and native integration with Symfony's security system.
 - [claude-php/Claude-PHP-SDK](https://github.com/claude-php/Claude-PHP-SDK) - PHP SDK for Claude - Provides complete 1-for-1 functionality of the Official Python SDK
@@ -2439,6 +2440,9 @@
 
 ## Python 
 
+- [mmornati/nexus-dev](https://github.com/mmornati/nexus-dev) - Nexus-Dev is an open-source MCP server that provides persistent memory for AI coding agents. It uses LanceDB as a local vector database and tree-sitter for multi-language intelligent code chunking.
+- [Priivacy-ai/spec-kitty](https://github.com/Priivacy-ai/spec-kitty) - The AI Development Dashboard & Workflow Automation Platform for Spec-Driven Development. Real-time kanban tracking for multi-agent coding workflows with Claude, Cursor, Gemini, Codex and more.
+- [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
 - [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
 - [DGouron/linux-port-killer](https://github.com/DGouron/linux-port-killer) - A lightweight system tray application for Linux to find and kill processes using specific network ports
 - [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
@@ -2450,7 +2454,7 @@
 - [Mic92/strace-macos](https://github.com/Mic92/strace-macos) - A clone of the strace command for macOS
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [denyspoltorak/metapatterns](https://github.com/denyspoltorak/metapatterns) - Architectural Metapatterns book and wiki
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [Olshansk/rss-feeds](https://github.com/Olshansk/rss-feeds) - Generate RSS feeds for all the blogs that don't have one
@@ -2857,8 +2861,10 @@
 
 ## Shell 
 
+- [TheBeardedBearSAS/claude-craft](https://github.com/TheBeardedBearSAS/claude-craft) - Supercharge Claude Code with Expert Knowledge  A comprehensive framework for AI-assisted development. Install standardized rules, agents, and commands for your projects across multiple technology stac
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
-- [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 - [buildermethods/agent-os](https://github.com/buildermethods/agent-os) - Agent OS is a system for better planning and executing software development tasks with your AI agents.
 - [hbekel/magic](https://github.com/hbekel/magic) - define bash functions on a per-directory basis
 - [pmarreck/yt-transcriber](https://github.com/pmarreck/yt-transcriber) - CLI app- Give it a YouTube URL and you get a transcription with possible speaker identification and optional summary or translation, all thanks to open-source AI tooling and my lack of enough free tim
@@ -3041,6 +3047,10 @@
 
 ## TypeScript 
 
+- [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - An open-source alternative to CleanShot X for macOS. Capture, edit, and enhance your screenshots with professional quality.
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
+- [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
+- [photon-hq/imessage-kit](https://github.com/photon-hq/imessage-kit) - A type-safe, elegant iMessage SDK for macOS with zero dependencies
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [NTCoding/living-architecture](https://github.com/NTCoding/living-architecture) - Extra software architecture from your code as living documentation. AI-assisted.
 - [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute.
@@ -3058,12 +3068,13 @@
 - [yoanbernabeu/S3-Documentation-MCP-Server](https://github.com/yoanbernabeu/S3-Documentation-MCP-Server) - A lightweight Model Context Protocol (MCP) server that brings RAG (Retrieval-Augmented Generation) capabilities to your LLM over Markdown documentation stored on S3.
 - [flemzord/github-compliance](https://github.com/flemzord/github-compliance) - 🛡️ Enforce repository compliance standards across your GitHub organization
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-- [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) - Free, open-source file scanner for Node.js. Secure file uploads with in-process malware detection, ZIP bomb protection, and YARA integration. Private & GDPR-compliant.
+- [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) - free, open-source file scanner
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 - [kukshaus/transcribe](https://github.com/kukshaus/transcribe) - 
 - [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - An open source documentation tool to bring discoverability to your architecture (DDD, micro-services, event-driven architectures)
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
+- [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
@@ -3170,7 +3181,6 @@
 - [2fd/graphdoc](https://github.com/2fd/graphdoc) - Static page generator for documenting GraphQL Schema
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [workadventure/workadventure](https://github.com/workadventure/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio.
 - [stoplightio/prism](https://github.com/stoplightio/prism) - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
