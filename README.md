@@ -742,7 +742,7 @@
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
 - [lgtmco/lgtm](https://github.com/lgtmco/lgtm) - LGTM is a simple pull request approval system [ARCHIVE]
 - [timewasted/go-check-certs](https://github.com/timewasted/go-check-certs) - A utility to check validity and expiration dates of SSL certificates, written in Golang.
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [paked/messenger](https://github.com/paked/messenger) - Package messenger is used for making bots for use with Facebook messenger
 - [s-rah/onionscan](https://github.com/s-rah/onionscan) - OnionScan is a free and open source tool for investigating the Dark Web.
 - [google/novm](https://github.com/google/novm) - Experimental KVM-based VMM for containers, written in Go.
@@ -1380,7 +1380,7 @@
 - [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [Viewtiful/aws-elb-health-state-macosx-menubar](https://github.com/Viewtiful/aws-elb-health-state-macosx-menubar) - 
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) - Open source clone of Theme Hospital
 
 ## M4 
