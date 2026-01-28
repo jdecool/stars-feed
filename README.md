@@ -474,7 +474,7 @@
 - [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [hasura/go-graphql-client](https://github.com/hasura/go-graphql-client) - Package graphql provides a GraphQL client implementation.
 - [xrdebug/xrdebug](https://github.com/xrdebug/xrdebug) - Fast, lightweight, portable, Open Source alternative to Ray for real-time debugging with web interface, filtering, encryption, and useful tools
 - [tonywangcn/distributed-web-crawler](https://github.com/tonywangcn/distributed-web-crawler) - The Architecture of a Web Crawler: Building a Google-Inspired Distributed Web Crawler
@@ -766,7 +766,7 @@
 - [bazooka-ci/bazooka](https://github.com/bazooka-ci/bazooka) - Continuous Integration and Continuous Deployment Server
 - [zxh0/jvm.go](https://github.com/zxh0/jvm.go) - A toy JVM written in Go
 - [rakyll/boom](https://github.com/rakyll/boom) - HTTP(S) load generator, ApacheBench (ab) replacement, written in Go
-- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
+- [probelabs/goreplay](https://github.com/probelabs/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
 - [nwidger/nintengo](https://github.com/nwidger/nintengo) - An NES emulator written in Go
 - [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 - [nytlabs/hive](https://github.com/nytlabs/hive) - A platform for backing crowdsourcing websites, built in golang for elasticsearch
@@ -955,6 +955,7 @@
 
 ## JavaScript 
 
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 - [jdubray/puffin](https://github.com/jdubray/puffin) - 
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [nolenroyalty/one-million-chessboards](https://github.com/nolenroyalty/one-million-chessboards) - one million chessboards, synced for everyone
@@ -1661,6 +1662,7 @@
 
 ## PHP 
 
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
 - [rcsofttech85/AuditTrailBundle](https://github.com/rcsofttech85/AuditTrailBundle) - A lightweight Symfony bundle that automatically tracks and stores Doctrine ORM entity changes for audit logging and compliance.
 - [ahmed-bhs/doctrine-doctor](https://github.com/ahmed-bhs/doctrine-doctor) - 🩺⚡ Runtime Doctrine ORM analysis integrated into Symfony Web Profiler. Detect N+1 queries, security vulnerabilities, and performance issues during query execution.
 - [shipmonk-rnd/coverage-guard](https://github.com/shipmonk-rnd/coverage-guard) - 🧪 Enforce PHP code coverage in your CI. Not by percentage, but target core methods! Allows you to start enforcing coverage for new code only!   Also contains tooling to merge and convert PHPUnit cover
@@ -2446,7 +2448,7 @@
 ## Python 
 
 - [mmornati/nexus-dev](https://github.com/mmornati/nexus-dev) - Nexus-Dev is an open-source MCP server that provides persistent memory for AI coding agents. It uses LanceDB as a local vector database and tree-sitter for multi-language intelligent code chunking.
-- [Priivacy-ai/spec-kitty](https://github.com/Priivacy-ai/spec-kitty) - The AI Development Dashboard & Workflow Automation Platform for Spec-Driven Development. Real-time kanban tracking for multi-agent coding workflows with Claude, Cursor, Gemini, Codex and more.
+- [Priivacy-ai/spec-kitty](https://github.com/Priivacy-ai/spec-kitty) - Spec-Driven Development for serious software developers. Spec Coding with with Claude, Cursor, Gemini, Codex. Kanban dashboard, git worktrees, auto-merge and more.
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
 - [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
 - [DGouron/linux-port-killer](https://github.com/DGouron/linux-port-killer) - A lightweight system tray application for Linux to find and kill processes using specific network ports
@@ -2978,6 +2980,8 @@
 
 ## Svelte 
 
+- [mnapoli/claude-usage-bar](https://github.com/mnapoli/claude-usage-bar) - Claude Code usage status bar
+- [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [richshaw2015/dino-rss-electron](https://github.com/richshaw2015/dino-rss-electron) - A simple, efficient, open source RSS reader service
 - [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio, an open source alternative to Docker desktop
@@ -3052,6 +3056,7 @@
 
 ## TypeScript 
 
+- [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) - 
 - [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - An open-source alternative to CleanShot X for macOS. Capture, edit, and enhance your screenshots with professional quality.
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
@@ -3102,7 +3107,7 @@
 - [laravel/vs-code-extension](https://github.com/laravel/vs-code-extension) - 
 - [danielroe/unsight.dev](https://github.com/danielroe/unsight.dev) - Detect duplicate GitHub issues, areas of concern and more across related repositories.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
-- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps you understand your codebase.
+- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps developers and agents understand your codebase.
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 - [cchalop1/JustDeploy](https://github.com/cchalop1/JustDeploy) - Deploy what you want where you want.
 - [betagouv/agir-front](https://github.com/betagouv/agir-front) - 
