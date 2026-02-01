@@ -2217,7 +2217,7 @@
 - [jmikola/AutoLogin](https://github.com/jmikola/AutoLogin) - Faciliates automatic login via a single token for Symfony's Security component.
 - [shipping-docker/dockerized-app](https://github.com/shipping-docker/dockerized-app) - Example repository for Dockerizing Your Application preview module
 - [webmozart/symfony-forms-workshop-websc16](https://github.com/webmozart/symfony-forms-workshop-websc16) - The Symfony Forms workshop at the Web Summer Camp 2016
-- [GitScrum-Team/laravel-gitscrum](https://github.com/GitScrum-Team/laravel-gitscrum) - GitScrum is a Project Management Tool, developed to help entrepreneurs, freelancers, managers, and teams Skyrocket their Productivity with the Agile methodology and Gamification.
+- [gitscrum-core/laravel-gitscrum](https://github.com/gitscrum-core/laravel-gitscrum) - GitScrum is a Project Management Tool, developed to help entrepreneurs, freelancers, managers, and teams Skyrocket their Productivity with the Agile methodology and Gamification.
 - [davidrjonas/composer-lock-diff](https://github.com/davidrjonas/composer-lock-diff) - See what has changed after a composer update
 - [maknz/slack](https://github.com/maknz/slack) - A simple PHP package for sending messages to Slack, with a focus on ease of use and elegant syntax.
 - [aszone/avenger-sh](https://github.com/aszone/avenger-sh) - Project for finding vunerabilities in mass.
