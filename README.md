@@ -225,7 +225,7 @@
 - [devcrafting/architecture-styles](https://github.com/devcrafting/architecture-styles) - Different architecture / domain modelling styles
 - [jtheisen/reconciler](https://github.com/jtheisen/reconciler) - Update an entity graph in store to a given one by inserting, updating and removing the respective entities.
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
-- [OpenSilver/OpenSilver](https://github.com/OpenSilver/OpenSilver) - This repository contains the source of both OpenSilver and CSHTML5. More information is available at: www.opensilver.net and www.cshtml5.com - Read README.md for the instructions on how to build the s
+- [OpenSilver/OpenSilver](https://github.com/OpenSilver/OpenSilver) - Build Cross-Platform Apps with C#, VB.NET, or F# and XAML One codebase. Six platforms. Powered by WebAssembly and .NET.
 - [spectresystems/jarvis](https://github.com/spectresystems/jarvis) - Your robotic butler.
 - [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
 - [unoplatform/calculator](https://github.com/unoplatform/calculator) - Uno Calculator: A simple yet powerful iOS/Android/WebAssembly/Linux C# port of the calculator that ships with Windows
@@ -676,7 +676,6 @@
 - [machinebox/toys](https://github.com/machinebox/toys) - Tools, scripts, toys, and utilities for Machine Box
 - [kubernetes-retired/dashboard](https://github.com/kubernetes-retired/dashboard) - General-purpose web UI for Kubernetes clusters
 - [looplab/eventhorizon](https://github.com/looplab/eventhorizon) - Event Sourcing for Go!
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [gizak/termui](https://github.com/gizak/termui) - Golang terminal dashboard
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [sourcegraph/checkup](https://github.com/sourcegraph/checkup) - Distributed, lock-free, self-hosted health checks and status pages
@@ -1220,7 +1219,6 @@
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [kentcdodds/issue-template](https://github.com/kentcdodds/issue-template) - A way for github projects to make templates for github issues.
 - [brave/browser-laptop](https://github.com/brave/browser-laptop) - [DEPRECATED] Please see https://github.com/brave/brave-browser for the current version of Brave
-- [movim/movim](https://github.com/movim/movim) - Movim - Decentralized social platform
 - [chakra-core/ChakraCore](https://github.com/chakra-core/ChakraCore) - ChakraCore is an open source Javascript engine with a C API.
 - [luin/medis](https://github.com/luin/medis) - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
 - [ruanyf/extremely-simple-flux-demo](https://github.com/ruanyf/extremely-simple-flux-demo) - Learn Flux from an extremely simple demo
@@ -1536,7 +1534,7 @@
 - [ineat/refcards](https://github.com/ineat/refcards) - Refcards des technologies utilisées chez Ineat.
 - [ntegrals/SoftwareArchitect](https://github.com/ntegrals/SoftwareArchitect) - Path to a Software Architect
 - [ivRodriguezCA/RE-iOS-Apps](https://github.com/ivRodriguezCA/RE-iOS-Apps) - A completely free, open source and online course about Reverse Engineering iOS Applications.
-- [scrapoxy/scrapoxy](https://github.com/scrapoxy/scrapoxy) - Scrapoxy is a super proxies manager that orchestrates all your proxies into one place, rather than spreading management across multiple scrapers. It manages IP rotation and fingerprinting, and smartly
+- [scrapoxy/scrapoxy](https://github.com/scrapoxy/scrapoxy) - Scrapoxy has been discontinued.
 - [yeahhub/Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks) - Top 100 Hacking & Security E-Books (Free Download)
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
@@ -2295,6 +2293,7 @@
 - [lukepolo/laracart](https://github.com/lukepolo/laracart) - Laravel Shopping Cart Package
 - [AndrewCarterUK/TypedArrays](https://github.com/AndrewCarterUK/TypedArrays) - Typed arrays in PHP
 - [dunglas/DunglasActionBundle](https://github.com/dunglas/DunglasActionBundle) - Symfony controllers, redesigned
+- [movim/movim](https://github.com/movim/movim) - Movim - Decentralized social platform
 - [facebook/open-graph-protocol](https://github.com/facebook/open-graph-protocol) - 
 - [chriskonnertz/open-graph](https://github.com/chriskonnertz/open-graph) - Library that assists in building Open Graph meta tags
 - [misd-service-development/phone-number-bundle](https://github.com/misd-service-development/phone-number-bundle) - Integrates libphonenumber into your Symfony2-Symfony4 application
@@ -2580,6 +2579,7 @@
 - [aws/aws-sam-cli](https://github.com/aws/aws-sam-cli) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
 - [dalibo/temboard](https://github.com/dalibo/temboard) - PostgreSQL Remote Control
 - [ansible/molecule](https://github.com/ansible/molecule) - An ansible-native testing framework for collections, playbooks, and roles with configurable workflows for testing any system or service
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [arnaucube/coffeeMiner](https://github.com/arnaucube/coffeeMiner) - collaborative (mitm) cryptocurrency mining pool in wifi networks
 - [zhoubear/open-paperless](https://github.com/zhoubear/open-paperless) - Scan, index, and archive all of your paper documents (acquired by Mayan EDMS)
