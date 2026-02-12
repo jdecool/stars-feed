@@ -1537,7 +1537,6 @@
 - [Ellene/activite-automie-enfant](https://github.com/Ellene/activite-automie-enfant) - Lister des ressources d'activité pour occuper les enfants durant cette période de confinement.
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [ineat/refcards](https://github.com/ineat/refcards) - Refcards des technologies utilisées chez Ineat.
-- [ntegrals/openbrowser](https://github.com/ntegrals/openbrowser) - Let AI agents browse the web. An autonomous toolkit for browser-based AI agents.
 - [ivRodriguezCA/RE-iOS-Apps](https://github.com/ivRodriguezCA/RE-iOS-Apps) - A completely free, open source and online course about Reverse Engineering iOS Applications.
 - [scrapoxy/scrapoxy](https://github.com/scrapoxy/scrapoxy) - Scrapoxy has been discontinued.
 - [yeahhub/Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks) - Top 100 Hacking & Security E-Books (Free Download)
@@ -2505,6 +2504,7 @@
 - [pruvisto/debirdify](https://github.com/pruvisto/debirdify) - 
 - [florianbeer/grafana-netatmo](https://github.com/florianbeer/grafana-netatmo) - Netatmo Weather Station dashboard for Grafana
 - [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync.
+- [freekmurze/dotfiles](https://github.com/freekmurze/dotfiles) - My personal dotfiles
 - [etalab/prix-carburants-data](https://github.com/etalab/prix-carburants-data) - 
 - [theahmadov/vector](https://github.com/theahmadov/vector) - Open source osint project.
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
@@ -3221,6 +3221,7 @@
 - [OpenVidu/openvidu](https://github.com/OpenVidu/openvidu) - OpenVidu Platform main repository
 - [peter-evans/dockerhub-description](https://github.com/peter-evans/dockerhub-description) - A GitHub action to update a Docker Hub repository description from README.md
 - [axa-group/oauth2-mock-server](https://github.com/axa-group/oauth2-mock-server) - A development and test oriented OAuth2 mock server
+- [ntegrals/openbrowser](https://github.com/ntegrals/openbrowser) - Let AI agents browse the web. An autonomous toolkit for browser-based AI agents.
 - [astuto/astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊
 - [shivammathur/setup-php](https://github.com/shivammathur/setup-php) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
 - [vpj/annotate](https://github.com/vpj/annotate) - Annotate python source code
@@ -3300,7 +3301,6 @@
 
 ## Vim Script 
 
-- [freekmurze/dotfiles](https://github.com/freekmurze/dotfiles) - My personal dotfiles
 - [rhysd/vim.wasm](https://github.com/rhysd/vim.wasm) - Vim editor ported to WebAssembly
 
 ## Visual Basic .NET 
