@@ -1484,6 +1484,7 @@
 - [maximilien-regnier/cursor-rules](https://github.com/maximilien-regnier/cursor-rules) - 
 - [milanm/developer-portfolios](https://github.com/milanm/developer-portfolios) - A list of developer portfolios for your inspiration
 - [EinGuterWaran/awesome-opensource-boilerplates](https://github.com/EinGuterWaran/awesome-opensource-boilerplates) - A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.
+- [shepherdjerred/macos-cross-compiler](https://github.com/shepherdjerred/macos-cross-compiler) - Compile binaries for macOS on Linux
 - [mgreiler/code-review-checklist](https://github.com/mgreiler/code-review-checklist) - This code review checklist helps you be a more effective and efficient code reviewer.
 - [aleixmorgadas/awesome-engineering-strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy) - 🎉 How to design and execute engineering strategies for tech leadership.
 - [MrPunyapal/go-get-laravel](https://github.com/MrPunyapal/go-get-laravel) - Explore and contribute to the Laravel Best Practices Examples repository! A community-driven collection of real-world examples showcasing best practices for Laravel development. Elevate your coding st
@@ -1721,7 +1722,7 @@
 - [maurocasas/fastindex](https://github.com/maurocasas/fastindex) - An open-source & self-hostable alternative to TagParrot / OmegaIndex / URLMonitor and many more
 - [tareqas/psym](https://github.com/tareqas/psym) - A REPL for Symfony and PHP
 - [cerbero90/lazy-json-pages](https://github.com/cerbero90/lazy-json-pages) - 📜 Framework-agnostic API scraper to load items from any paginated JSON API into a Laravel lazy collection via async HTTP requests.
-- [artprima/prometheus-metrics-bundle](https://github.com/artprima/prometheus-metrics-bundle) - Symfony 5/6 Prometheus Metrics Bundle
+- [artprima/prometheus-metrics-bundle](https://github.com/artprima/prometheus-metrics-bundle) - Symfony 5/6/7/8 Prometheus Metrics Bundle
 - [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) - 🚀 Fast detection of composer dependency issues (unused dependencies, shadow dependencies, misplaced dependencies)
 - [pinkary-project/pinkary.com](https://github.com/pinkary-project/pinkary.com) - Create a landing page for all your links and connect with like-minded people without the noise.
 - [ergebnis/classy](https://github.com/ergebnis/classy) - 🔍 Provides a composer package with a collectors for classy constructs (classes, enums, interfaces, and traits).
@@ -2709,7 +2710,6 @@
 - [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - Homebrew tap for PHP 5.6 to 8.6. PHP 8.6 is built nightly :beer:
 - [eXolnet/homebrew-deprecated](https://github.com/eXolnet/homebrew-deprecated) - eXolnet's Homebrew tap for deprecated formulae.
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
-- [purban/contrats-francais](https://github.com/purban/contrats-francais) - Contrats français
 - [brotandgames/ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
 - [apisyouwonthate/book-build-apis-2](https://github.com/apisyouwonthate/book-build-apis-2) - Learn how to build and leverage the latest technology in APIs, services, microservices, distributed systems, HATEOAS, query languages, circuit breakers, gateways, discombobulators, flux capacitors, sp
 - [SteveLTN/https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
@@ -3139,7 +3139,6 @@
 - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
 - [OpenRailAssociation/osrd](https://github.com/OpenRailAssociation/osrd) - An open source web application for railway infrastructure design, capacity analysis, timetabling and simulation
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
-- [shepherdjerred/macos-cross-compiler](https://github.com/shepherdjerred/macos-cross-compiler) - Compile binaries for macOS on Linux
 - [relagit/relagit](https://github.com/relagit/relagit) - The elegant solution to graphical version control.
 - [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 - [ollama/ollama-js](https://github.com/ollama/ollama-js) - Ollama JavaScript library
