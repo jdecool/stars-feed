@@ -439,6 +439,7 @@
 
 ## Go 
 
+- [elek/bus-factor](https://github.com/elek/bus-factor) - Bus-factor calculation based on git history.
 - [nixys/nxs-data-anonymizer](https://github.com/nixys/nxs-data-anonymizer) - A tool for anonymizing PostgreSQL and MySQL databases' dump
 - [google/deps.dev](https://github.com/google/deps.dev) - Resources for the deps.dev API
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source
@@ -612,7 +613,7 @@
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [nbedos/cistern](https://github.com/nbedos/cistern) - A terminal UI for Unix to monitor Continuous Integration pipelines from the command line. Current integrations include GitLab, Azure DevOps, Travis CI, AppVeyor and CircleCI.
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
-- [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
+- [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting many document formats into PDF files, and more!
 - [CleverCloud/stream-dns](https://github.com/CleverCloud/stream-dns) - A DNS server written in Go with an event stream architecture, updated via kafka
 - [neex/phuip-fpizdam](https://github.com/neex/phuip-fpizdam) - Exploit for CVE-2019-11043
 - [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) - validate the structure of your container images
@@ -682,7 +683,6 @@
 - [machinebox/toys](https://github.com/machinebox/toys) - Tools, scripts, toys, and utilities for Machine Box
 - [kubernetes-retired/dashboard](https://github.com/kubernetes-retired/dashboard) - General-purpose web UI for Kubernetes clusters
 - [looplab/eventhorizon](https://github.com/looplab/eventhorizon) - Event Sourcing for Go!
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [gizak/termui](https://github.com/gizak/termui) - Golang terminal dashboard
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [sourcegraph/checkup](https://github.com/sourcegraph/checkup) - Distributed, lock-free, self-hosted health checks and status pages
@@ -2595,6 +2595,7 @@
 - [aws/aws-sam-cli](https://github.com/aws/aws-sam-cli) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
 - [dalibo/temboard](https://github.com/dalibo/temboard) - PostgreSQL Remote Control
 - [ansible/molecule](https://github.com/ansible/molecule) - An ansible-native testing framework for collections, playbooks, and roles with configurable workflows for testing any system or service
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [arnaucube/coffeeMiner](https://github.com/arnaucube/coffeeMiner) - collaborative (mitm) cryptocurrency mining pool in wifi networks
@@ -3009,6 +3010,7 @@
 
 ## Swift 
 
+- [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [adrienlupo/claude-glance](https://github.com/adrienlupo/claude-glance) - Native macOS floating widget that shows Claude Code session statuses at a glance
 - [hugoblanc/whisper-voice](https://github.com/hugoblanc/whisper-voice) - Application macOS de transcription vocale avec OpenAI Whisper
 - [steipete/Trimmy](https://github.com/steipete/Trimmy) - "Paste once, run once." — Trimmy flattens those multi-line shell snippets you copy so they actually paste and run.
@@ -3078,6 +3080,7 @@
 
 ## TypeScript 
 
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
 - [Slashgear/poker-planning](https://github.com/Slashgear/poker-planning) - Real-time poker planning app for agile team estimation   using Fibonacci sequence
 - [cmer81/open-meteo-mcp](https://github.com/cmer81/open-meteo-mcp) - A comprehensive MCP server providing access to Open-Meteo weather APIs for Large Language Models
 - [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - 
@@ -3334,7 +3337,7 @@
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippet manager for developers
 - [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX
 - [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) - 
-- [vinayakkulkarni/v-mapbox](https://github.com/vinayakkulkarni/v-mapbox) - Vue-ish way for interacting with map(box|libre)-gl-js 🧭
+- [vinayakkulkarni/v-mapbox](https://github.com/vinayakkulkarni/v-mapbox) - Vue 3 wrapper for Mapbox GL & MapLibre GL JS with declarative component API.
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [vue-leaflet/vue-leaflet](https://github.com/vue-leaflet/vue-leaflet) - vue-leaflet compatible with vue3
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
