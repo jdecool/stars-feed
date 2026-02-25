@@ -116,6 +116,7 @@
 
 ## C 
 
+- [noahnormand/Super-Mario-ISEN---Noah-Martin-Bastien-Elliott---2025](https://github.com/noahnormand/Super-Mario-ISEN---Noah-Martin-Bastien-Elliott---2025) - 
 - [ppomes/myanon](https://github.com/ppomes/myanon) - A mysqldump anonymizer
 - [stargo/micropolis](https://github.com/stargo/micropolis) - Micropolis - the city simulator
 - [pebble-dev/pebble-firmware](https://github.com/pebble-dev/pebble-firmware) - Codebase for firmware that runs on Pebble smartwatches.
@@ -247,6 +248,7 @@
 
 ## C++ 
 
+- [danielknobe/blobbyvolley2](https://github.com/danielknobe/blobbyvolley2) - Official continuation of the famous Blobby Volley 1.x arcade game.
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [Murmele/Gittyup](https://github.com/Murmele/Gittyup) - Understand your Git history!
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
@@ -797,7 +799,7 @@
 
 ## HTML 
 
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [Secrover/Secrover](https://github.com/Secrover/Secrover) - Open-source security reports — no paywalls, just actionable insights.
 - [lyrixx/composer-diff](https://github.com/lyrixx/composer-diff) - Web application to  compare two `composer.lock` and get a beautiful diff
 - [givanz/vvveb-admin-template](https://github.com/givanz/vvveb-admin-template) - Vvveb Admin Template
@@ -1681,10 +1683,11 @@
 
 ## PHP 
 
+- [darkwood-com/flowvox](https://github.com/darkwood-com/flowvox) - A PHP-based voice transcription engine built with Symfony, Flow orchestration and whisper.cpp. Local audio recording, stateful recorder management, and modular pipeline architecture.
 - [cortexphp/json-repair](https://github.com/cortexphp/json-repair) - Repair invalid JSON strings by automatically fixing common syntax errors
 - [clementtalleu/trigger-mapping](https://github.com/clementtalleu/trigger-mapping) - Trigger mapping bundle
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
-- [rcsofttech85/AuditTrailBundle](https://github.com/rcsofttech85/AuditTrailBundle) - A Symfony audit bundle for Doctrine ORM. Lightweight entity tracking and audit logging for compliance.
+- [rcsofttech85/AuditTrailBundle](https://github.com/rcsofttech85/AuditTrailBundle) - High-performance Symfony audit logging for Doctrine ORM. Async-ready, cryptographically signed, and optimized for enterprise compliance without the database overhead.
 - [ahmed-bhs/doctrine-doctor](https://github.com/ahmed-bhs/doctrine-doctor) - 🩺⚡ Runtime Doctrine ORM analysis integrated into Symfony Web Profiler. Detect N+1 queries, security vulnerabilities, and performance issues during query execution.
 - [shipmonk-rnd/coverage-guard](https://github.com/shipmonk-rnd/coverage-guard) - 🧪 Enforce PHP code coverage in your CI. Not by percentage, but target core methods! Allows you to start enforcing coverage for new code only!   Also contains tooling to merge and convert PHPUnit cover
 - [Sybio/permission-bundle](https://github.com/Sybio/permission-bundle) - A Symfony bundle to manage permissions (authorizations) as Value Objects, with an integrated validation system and native integration with Symfony's security system.
