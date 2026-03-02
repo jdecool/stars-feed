@@ -2545,7 +2545,7 @@
 - [swisskyrepo/GraphQLmap](https://github.com/swisskyrepo/GraphQLmap) - GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes. - Do not use for illegal testing ;)
 - [knadh/tg-archive](https://github.com/knadh/tg-archive) - A tool for exporting Telegram group chats into static websites like mailing list archives.
 - [samschott/maestral](https://github.com/samschott/maestral) - Open-source Dropbox client for macOS and Linux
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [cpfair/tapiriik](https://github.com/cpfair/tapiriik) - tapiriik keeps your fitness in sync
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels.
 - [jankrepl/mltype](https://github.com/jankrepl/mltype) - Command line tool for improving typing skills (programmers friendly)
