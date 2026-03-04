@@ -442,6 +442,7 @@
 
 ## Go 
 
+- [antonmedv/crow.watch](https://github.com/antonmedv/crow.watch) - Collecting shiny things
 - [elek/bus-factor](https://github.com/elek/bus-factor) - Bus-factor calculation based on git history.
 - [nixys/nxs-data-anonymizer](https://github.com/nixys/nxs-data-anonymizer) - A tool for anonymizing PostgreSQL and MySQL databases' dump
 - [google/deps.dev](https://github.com/google/deps.dev) - Resources for the deps.dev API
