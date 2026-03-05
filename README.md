@@ -1606,7 +1606,7 @@
 - [berzerk0/Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
 - [ThomasBerends/symfony-certification-preparation-list](https://github.com/ThomasBerends/symfony-certification-preparation-list) - List of topic-specific resources to help you prepare for Symfony certification
 - [hobby-kube/guide](https://github.com/hobby-kube/guide) - Kubernetes clusters for the hobbyist.
-- [basecamp/handbook](https://github.com/basecamp/handbook) - Basecamp Employee Handbook
+- [basecamp/handbook](https://github.com/basecamp/handbook) - 37signals Employee Handbook
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
 - [forter/security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups) - security tips for startups
@@ -3088,6 +3088,7 @@
 
 ## TypeScript 
 
+- [NTCoding/autonomous-claude-agent-team](https://github.com/NTCoding/autonomous-claude-agent-team) - An autonomous claude code development team orchestrated by a hook-driven deterministic code workflow. An example repo to inspire your own workflow
 - [google/dotguides](https://github.com/google/dotguides) - 
 - [JSK9999/ai-nexus](https://github.com/JSK9999/ai-nexus) - AI coding assistant rule manager for Claude Code, Cursor, and Codex. Load only the rules you need.
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
