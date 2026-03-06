@@ -252,7 +252,6 @@
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [Murmele/Gittyup](https://github.com/Murmele/Gittyup) - Understand your Git history!
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
-- [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
@@ -631,6 +630,7 @@
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [Ullaakut/astronomer](https://github.com/Ullaakut/astronomer) - A tool to detect illegitimate stars from bot accounts on GitHub projects
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [CovenantSQL/CookieScanner](https://github.com/CovenantSQL/CookieScanner) - Cookie Scanner for GDPR compliance
 - [jolicode/pomdok](https://github.com/jolicode/pomdok) - 🍏 Simple wrapper to Symfony Go Binary for multi-app
 - [vishnudxb/docker-mkcert](https://github.com/vishnudxb/docker-mkcert) - Docker container for creating valid local ssl certificates
@@ -972,7 +972,7 @@
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [frankdilo/MarkdownViewer](https://github.com/frankdilo/MarkdownViewer) - 
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond.
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [jdubray/puffin](https://github.com/jdubray/puffin) - 
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [nolenroyalty/one-million-chessboards](https://github.com/nolenroyalty/one-million-chessboards) - one million chessboards, synced for everyone
@@ -2302,7 +2302,7 @@
 - [MUlt1mate/cron-manager](https://github.com/MUlt1mate/cron-manager) - A PHP cron task manager for MVC-type applications
 - [novaway/BehatCommonContext](https://github.com/novaway/BehatCommonContext) - Provide most common behat tests for frontend.
 - [SymfonyTest/SymfonyDependencyInjectionTest](https://github.com/SymfonyTest/SymfonyDependencyInjectionTest) - Library for testing user classes related to the Symfony Dependency Injection Component
-- [alfonmga/symfony.demo.on.roids](https://github.com/alfonmga/symfony.demo.on.roids) - The Symfony Demo Application on Roids!
+- [exwyezed/symfony.demo.on.roids](https://github.com/exwyezed/symfony.demo.on.roids) - The Symfony Demo Application on Roids!
 - [mamuz/PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - Static code analysis to find violations in a dependency graph
 - [php-embed/Embed](https://github.com/php-embed/Embed) - Get info from any web service or page
 - [vinkla/climb](https://github.com/vinkla/climb) - A Composer version manager tool
@@ -2473,6 +2473,7 @@
 
 ## Python 
 
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 1000+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. Comprehensive SEO analysis for any website or business type.
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
@@ -2499,6 +2500,7 @@
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [sanjeed5/awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) - Curated list of awesome Cursor Rules .mdc files
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
+- [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse
 - [roshanlam/sqlite-worker](https://github.com/roshanlam/sqlite-worker) - Effortlessly manage SQLite in multi-threaded Python applications
 - [streamdeck-linux-gui/streamdeck-linux-gui](https://github.com/streamdeck-linux-gui/streamdeck-linux-gui) - A Linux compatible UI for the Elgato Stream Deck.
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
@@ -3088,10 +3090,12 @@
 
 ## TypeScript 
 
+- [mcollina/skills](https://github.com/mcollina/skills) - My own collection of skills for modern Node.js development
+- [metafab/otel-gui](https://github.com/metafab/otel-gui) - A lightweight, local OpenTelemetry trace viewer
 - [NTCoding/autonomous-claude-agent-team](https://github.com/NTCoding/autonomous-claude-agent-team) - An autonomous claude code development team orchestrated by a hook-driven deterministic code workflow. An example repo to inspire your own workflow
 - [google/dotguides](https://github.com/google/dotguides) - 
 - [JSK9999/ai-nexus](https://github.com/JSK9999/ai-nexus) - AI coding assistant rule manager for Claude Code, Cursor, and Codex. Load only the rules you need.
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
 - [Slashgear/poker-planning](https://github.com/Slashgear/poker-planning) - Real-time poker planning app for agile team estimation   using Fibonacci sequence
 - [cmer81/open-meteo-mcp](https://github.com/cmer81/open-meteo-mcp) - A comprehensive MCP server providing access to Open-Meteo weather APIs for Large Language Models
 - [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - 
@@ -3210,6 +3214,7 @@
 - [robertwt7/meetsy](https://github.com/robertwt7/meetsy) - Open source online booking system
 - [mihaip/infinite-mac](https://github.com/mihaip/infinite-mac) - A classic Mac loaded with everything you'd want
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
+- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippet manager for developers
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [CarterLi/vue3-ace-editor](https://github.com/CarterLi/vue3-ace-editor) - Like vue2-ace-editor but more functional and supports Vue 3
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 27 other languages
@@ -3346,7 +3351,6 @@
 - [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop
 - [ZestfulNation/vue-hotel-datepicker](https://github.com/ZestfulNation/vue-hotel-datepicker) - A  VueJS v2 responsive date range picker. Displays the number of nights selected and allow several useful options like custom check-in/check-out rules, localization support and more.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
-- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippet manager for developers
 - [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX
 - [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) - 
 - [vinayakkulkarni/v-mapbox](https://github.com/vinayakkulkarni/v-mapbox) - Vue 3 wrapper for Mapbox GL & MapLibre GL JS with declarative component API.
