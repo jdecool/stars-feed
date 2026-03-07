@@ -248,6 +248,7 @@
 
 ## C++ 
 
+- [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 - [danielknobe/blobbyvolley2](https://github.com/danielknobe/blobbyvolley2) - Official continuation of the famous Blobby Volley 1.x arcade game.
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [Murmele/Gittyup](https://github.com/Murmele/Gittyup) - Understand your Git history!
@@ -1685,6 +1686,7 @@
 
 ## PHP 
 
+- [mrconter1/rustc-php](https://github.com/mrconter1/rustc-php) - A Rust compiler with ownership checking, written in PHP
 - [darkwood-com/flowvox](https://github.com/darkwood-com/flowvox) - A PHP-based voice transcription engine built with Symfony, Flow orchestration and whisper.cpp. Local audio recording, stateful recorder management, and modular pipeline architecture.
 - [cortexphp/json-repair](https://github.com/cortexphp/json-repair) - Repair invalid JSON strings by automatically fixing common syntax errors
 - [clementtalleu/trigger-mapping](https://github.com/clementtalleu/trigger-mapping) - Trigger mapping bundle
@@ -2474,7 +2476,7 @@
 ## Python 
 
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 1000+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
-- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. Comprehensive SEO analysis for any website or business type.
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 13 sub-skills, 6 subagents, extensions system with DataForSEO MCP integration. Technical SEO, E-E-A-T, schema, GEO/AEO, and strategic planning.
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [mmornati/nexus-dev](https://github.com/mmornati/nexus-dev) - Nexus-Dev is an open-source MCP server that provides persistent memory for AI coding agents. It uses LanceDB as a local vector database and tree-sitter for multi-language intelligent code chunking.
