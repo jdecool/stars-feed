@@ -215,6 +215,7 @@
 
 ## C# # 
 
+- [codewithmukesh/dotnet-claude-kit](https://github.com/codewithmukesh/dotnet-claude-kit) - Make Claude Code a .NET 10 Expert
 - [MattParkerDev/SharpIDE](https://github.com/MattParkerDev/SharpIDE) - A modern, cross platform IDE for .NET, built with .NET & Godot
 - [SimonCropp/MarkdownSnippets](https://github.com/SimonCropp/MarkdownSnippets) - Extracts snippets from code files and merges them into markdown documents.
 - [poorna-soysa/url-shortener-app](https://github.com/poorna-soysa/url-shortener-app) - This repository contains a n URL Shortener sample application built with .NET 9 ,  NET Aspire, PostgreSQL
@@ -449,7 +450,7 @@
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source
 - [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) - Exports the expiration time of your domains as prometheus metrics.
 - [caarlos0/github_releases_exporter](https://github.com/caarlos0/github_releases_exporter) - Exports GitHub release metrics to the Prometheus format
-- [runkids/skillshare](https://github.com/runkids/skillshare) - 📚 Sync skills across all AI CLI tools with one command and simplify team sharing. Supporting Claude Code, OpenClaw, OpenCode & more
+- [runkids/skillshare](https://github.com/runkids/skillshare) - 📚 Sync skills across all AI CLI tools with one command and simplify team sharing. Supporting Codex, Claude Code, OpenClaw & more
 - [databasus/databasus](https://github.com/databasus/databasus) - Databases backup tool (PostgreSQL, MySQL, MongoDB)
 - [paramientos/presto](https://github.com/paramientos/presto) - Presto is a dependency manager for PHP and drop-in-replacement for Composer
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite server with MySQL wire compatible interface
