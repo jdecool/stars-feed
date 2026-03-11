@@ -103,6 +103,7 @@
 
 ## Astro 
 
+- [yoanbernabeu/flux](https://github.com/yoanbernabeu/flux) - Agrégateur de veille technologique RSS
 - [yoanbernabeu/LinkTreeFreeClone](https://github.com/yoanbernabeu/LinkTreeFreeClone) - LinkTreeFreeClone is a LinkTree clone built with Astro and Tailwind
 - [neiesc/awesome-minimalist](https://github.com/neiesc/awesome-minimalist) - A curated list of awesome minimalist frameworks (simple and lightweight).
 
@@ -215,6 +216,7 @@
 
 ## C# # 
 
+- [dotnet/skills](https://github.com/dotnet/skills) - Repository for skills to assist AI coding agents with .NET and C#
 - [codewithmukesh/dotnet-claude-kit](https://github.com/codewithmukesh/dotnet-claude-kit) - Make Claude Code a .NET 10 Expert
 - [MattParkerDev/SharpIDE](https://github.com/MattParkerDev/SharpIDE) - A modern, cross platform IDE for .NET, built with .NET & Godot
 - [SimonCropp/MarkdownSnippets](https://github.com/SimonCropp/MarkdownSnippets) - Extracts snippets from code files and merges them into markdown documents.
@@ -230,7 +232,7 @@
 - [devcrafting/architecture-styles](https://github.com/devcrafting/architecture-styles) - Different architecture / domain modelling styles
 - [jtheisen/reconciler](https://github.com/jtheisen/reconciler) - Update an entity graph in store to a given one by inserting, updating and removing the respective entities.
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
-- [OpenSilver/OpenSilver](https://github.com/OpenSilver/OpenSilver) - Build Cross-Platform Apps with C#, VB.NET, or F# and XAML One codebase. Six platforms. Powered by WebAssembly and .NET.
+- [OpenSilver/OpenSilver](https://github.com/OpenSilver/OpenSilver) - Build Cross-Platform Apps with C#, VB.NET, or F# and XAML. One codebase. Six platforms. Powered by WebAssembly and .NET.
 - [spectresystems/jarvis](https://github.com/spectresystems/jarvis) - Your robotic butler.
 - [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
 - [unoplatform/calculator](https://github.com/unoplatform/calculator) - Uno Calculator: A simple yet powerful iOS/Android/WebAssembly/Linux C# port of the calculator that ships with Windows
@@ -987,6 +989,7 @@
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [olivernn/lunr.js](https://github.com/olivernn/lunr.js) - A bit like Solr, but much smaller and not as bright
 - [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [jekyll/jekyll-admin](https://github.com/jekyll/jekyll-admin) - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
 - [JC144/EDF_Simulateur_Prix](https://github.com/JC144/EDF_Simulateur_Prix) - Un outil pour simuler les différents Tarifs EDF depuis un export de la consommation.
 - [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commits specification
@@ -3095,6 +3098,7 @@
 
 ## TypeScript 
 
+- [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide
 - [mcollina/skills](https://github.com/mcollina/skills) - My own collection of skills for modern Node.js development
 - [metafab/otel-gui](https://github.com/metafab/otel-gui) - A lightweight, local OpenTelemetry trace viewer
 - [NTCoding/autonomous-claude-agent-team](https://github.com/NTCoding/autonomous-claude-agent-team) - An autonomous claude code development team orchestrated by a hook-driven deterministic code workflow. An example repo to inspire your own workflow
@@ -3166,7 +3170,6 @@
 - [SendWithSES/Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer) - Free, open source, HTML email template editor and no code designer.
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
 - [vandetho/symflowbuilder](https://github.com/vandetho/symflowbuilder) - A platform that simplifies Symfony Workflow configuration, featuring a graphical interface for easy design and management, reducing development time and errors.
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [codelitdev/courselit](https://github.com/codelitdev/courselit) - Create/Sell courses and digital downloads and publish blogs on your own branded website. An open source alternative to Teachable, Thinkific, Podia and the likes.
 - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
 - [OpenRailAssociation/osrd](https://github.com/OpenRailAssociation/osrd) - An open source web application for railway infrastructure design, capacity analysis, timetabling and simulation
