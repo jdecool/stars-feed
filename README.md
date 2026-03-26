@@ -411,7 +411,6 @@
 - [grpc/grpc-docker-library](https://github.com/grpc/grpc-docker-library) - Contains dockerfiles for gRPC in different languages
 - [MilesChou/docker-phalcon](https://github.com/MilesChou/docker-phalcon) - Dockerized Phalcon
 - [jakzal/phpqa](https://github.com/jakzal/phpqa) - Docker image that provides static analysis tools for PHP
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`.
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 - [zoobab/vagrant-inside-docker](https://github.com/zoobab/vagrant-inside-docker) - vagrant-inside-docker
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
@@ -1540,7 +1539,7 @@
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
-- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - 🚀 A hand-curated list of free, open, and developer-friendly APIs
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs across 48 categories — searchable, community-maintained, with a free JSON API.
 - [Clivern/Gauntlet](https://github.com/Clivern/Gauntlet) - 🔖 Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems.
 - [Dashlane/password-changer-well-known](https://github.com/Dashlane/password-changer-well-known) - Documentation for using Dashlane's password changer .well-known
 - [gbprod/stars](https://github.com/gbprod/stars) - 
@@ -1977,7 +1976,7 @@
 - [steevanb/doctrine-stats](https://github.com/steevanb/doctrine-stats) - Get Doctrine stats : managed entities, lazy loaded entities, hydration time etc.
 - [Ph3nol/Trading-Bot](https://github.com/Ph3nol/Trading-Bot) - Automated Trading Bot based on managed instances of Freqtrade, fully Dockerized.
 - [crater-invoice-inc/crater](https://github.com/crater-invoice-inc/crater) - Open Source Invoicing Solution for Individuals & Businesses
-- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library
 - [phpvirtualbox/phpvirtualbox](https://github.com/phpvirtualbox/phpvirtualbox) - phpVirtualBox: A Web interface to manage and access VirtualBox machines
 - [WsdlToPhp/PackageGenerator](https://github.com/WsdlToPhp/PackageGenerator) - Generates a PHP SDK based on a WSDL, simple and powerful, WSDL to PHP
 - [php/doc-base](https://github.com/php/doc-base) - Tools for the PHP documentation
@@ -2483,6 +2482,7 @@
 
 ## Python 
 
+- [Huluti/ossatrisk](https://github.com/Huluti/ossatrisk) - Tracking high-risk oss packages: abandoned, undermaintained, or CVE-exposed.
 - [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,304+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill coll
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 13 sub-skills, 7 subagents, extensions system with DataForSEO MCP integration. Technical SEO, E-E-A-T, schema, GEO/AEO, and strategic planning.
@@ -2764,7 +2764,6 @@
 - [pcreux/facturation-pro-paybox](https://github.com/pcreux/facturation-pro-paybox) - Integrate Facturation.pro with Paybox
 - [ndeloof/apache-maven-book](https://github.com/ndeloof/apache-maven-book) - Apache Maven (le livre)
 - [fatfreecrm/fat_free_crm](https://github.com/fatfreecrm/fat_free_crm) - Ruby on Rails CRM platform
-- [mrap/coffeeshop](https://github.com/mrap/coffeeshop) - A place to be productive with others.
 - [zmoazeni/csscss](https://github.com/zmoazeni/csscss) - A CSS redundancy analyzer that analyzes redundancy.
 - [maccman/monocle](https://github.com/maccman/monocle) - Link and news sharing
 - [iwasrobbed/Brevidy](https://github.com/iwasrobbed/Brevidy) - A video social network built with Ruby on Rails, HAML, Bootstrap, and jQuery.
@@ -2990,6 +2989,7 @@
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [passbolt/passbolt_docker](https://github.com/passbolt/passbolt_docker) - Get started with Passbolt CE using docker!
 - [thecodingmachine/kickoff-docker-php](https://github.com/thecodingmachine/kickoff-docker-php) - :whale: :elephant: :rocket: Easily setup a PHP project with Docker
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`.
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
 - [TheNewNormal/kube-solo-osx](https://github.com/TheNewNormal/kube-solo-osx) - Local development Kubernetes Solo Cluster for macOS made very simple
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
@@ -3030,6 +3030,7 @@
 
 ## Svelte 
 
+- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
 - [mnapoli/claude-usage-bar](https://github.com/mnapoli/claude-usage-bar) - Claude Code usage status bar
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [richshaw2015/dino-rss-electron](https://github.com/richshaw2015/dino-rss-electron) - A simple, efficient, open source RSS reader service
@@ -3038,6 +3039,7 @@
 
 ## Swift 
 
+- [sk-ruban/notchi](https://github.com/sk-ruban/notchi) - notch app for coding tools
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [adrienlupo/claude-glance](https://github.com/adrienlupo/claude-glance) - Native macOS floating widget that shows Claude Code session statuses at a glance
 - [hugoblanc/whisper-voice](https://github.com/hugoblanc/whisper-voice) - Application macOS de transcription vocale avec OpenAI Whisper
@@ -3109,6 +3111,8 @@
 
 ## TypeScript 
 
+- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Recordly is a powerful open-source screen recorder and editor for professional product videos, demos, and tutorials. Adds auto-zooms, webcam overlays, cursor animations and more to your recordings.
+- [mattpocock/course-video-manager](https://github.com/mattpocock/course-video-manager) - 
 - [ghota-tech-solutions-sass/outilio](https://github.com/ghota-tech-solutions-sass/outilio) - Outilis.fr - 78 outils en ligne gratuits pour le quotidien. Calculateur salaire, simulateur impot, comparateur freelance vs CDI, generateur de factures. 100% navigateur, zero donnees collectees. Next.
 - [paleo/docfront](https://github.com/paleo/docfront) - A lightweight documentation system for AI agents and humans
 - [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide
@@ -3120,7 +3124,7 @@
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
 - [Slashgear/poker-planning](https://github.com/Slashgear/poker-planning) - Real-time poker planning app for agile team estimation   using Fibonacci sequence
 - [cmer81/open-meteo-mcp](https://github.com/cmer81/open-meteo-mcp) - A comprehensive MCP server providing access to Open-Meteo weather APIs for Large Language Models
-- [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - 
+- [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - The missing DevTools for Claude Code — inspect every tool call, subagent, and token like a browser inspector
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - [DGouron/review-flow](https://github.com/DGouron/review-flow) - Automated AI code reviews powered — webhook-driven, real-time dashboard, MCP integration, smart queue with deduplication, multi-agent audits, and iterative follow-up reviews for GitLab MRs and GitHub 
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
@@ -3132,7 +3136,7 @@
 - [photon-hq/imessage-kit](https://github.com/photon-hq/imessage-kit) - A type-safe, elegant iMessage SDK for macOS with zero dependencies
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [NTCoding/living-architecture](https://github.com/NTCoding/living-architecture) - Extra software architecture from your code as living documentation. AI-assisted.
-- [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - A coding agent plugin that acts as a safety net, catching destructive git and filesystem commands before they execute.
+- [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - A coding agent hook that acts as a safety net, catching destructive git and filesystem commands before they execute.
 - [DeepMyst/Mysti](https://github.com/DeepMyst/Mysti) - AI coding dream team of agents for VS Code. Claude Code + openai Codex collaborate in brainstorm mode, debate solutions, and synthesize the best approach for your code.
 - [buildermethods/design-os](https://github.com/buildermethods/design-os) - The missing design process between your product idea and your codebase.
 - [skaldlabs/skald](https://github.com/skaldlabs/skald) - Context layer platform in your infrastructure
@@ -3396,6 +3400,7 @@
 
 ## Zig 
 
+- [justrach/nanobrew](https://github.com/justrach/nanobrew) - The fastest macOS package manager. Written in Zig. 3ms warm installs.
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) - container image to single executable compiler
 
