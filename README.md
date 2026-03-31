@@ -214,6 +214,7 @@
 
 ## C# # 
 
+- [tpierrain/SmokeMe](https://github.com/tpierrain/SmokeMe) - A convention-based dotnet plugin that will automatically expose all your declared smoke tests behind a  /smoke resource in your API.
 - [dotnet/skills](https://github.com/dotnet/skills) - Repository for skills to assist AI coding agents with .NET and C#
 - [codewithmukesh/dotnet-claude-kit](https://github.com/codewithmukesh/dotnet-claude-kit) - Make Claude Code a .NET 10 Expert
 - [MattParkerDev/SharpIDE](https://github.com/MattParkerDev/SharpIDE) - A modern, cross platform IDE for .NET, built with .NET & Godot
@@ -442,6 +443,7 @@
 
 ## Go 
 
+- [alexandre-daubois/ember](https://github.com/alexandre-daubois/ember) - Ember is a real-time dashboard for Caddy & FrankenPHP
 - [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription
 - [getplumber/plumber](https://github.com/getplumber/plumber) - Open source CLI to check compliance of your GitLab CI/CD pipelines and repos
 - [antonmedv/crow.watch](https://github.com/antonmedv/crow.watch) - Collecting shiny things
@@ -468,6 +470,7 @@
 - [AkashRajpurohit/git-sync](https://github.com/AkashRajpurohit/git-sync) - 🔄 A simple tool to backup and sync your git repositories
 - [negativa-ai/BLAFS](https://github.com/negativa-ai/BLAFS) - A tool for Container Debloating that removes bloat and improves performance.
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
+- [buggregator/server](https://github.com/buggregator/server) - Buggregator — a single-binary debugging server for PHP. Captures exceptions, dumps, emails, profiling, logs in real-time UI. Sentry, Ray, VarDumper, SMTP, Monolog, Inspector, XHProf and more.
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
 - [manjurulhoque/golang-job-portal](https://github.com/manjurulhoque/golang-job-portal) - A job portal application API using go-gin
 - [nobe4/slacked](https://github.com/nobe4/slacked) - You've been slacked!
@@ -1094,7 +1097,6 @@
 - [dgageot/demoit](https://github.com/dgageot/demoit) - Live coding demos without Context Switching
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsor
 - [httptoolkit/httptoolkit-server](https://github.com/httptoolkit/httptoolkit-server) - The backend of HTTP Toolkit
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [postmanlabs/openapi-to-postman](https://github.com/postmanlabs/openapi-to-postman) - Plugin for converting OpenAPI 3.0 specs to the Postman Collection (v2) format
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
@@ -1722,7 +1724,6 @@
 - [timoschinkel/codeowners](https://github.com/timoschinkel/codeowners) - A parser and matcher for the codeowners file as used by Github, Gitlab and Bitbucket.
 - [context-hub/generator](https://github.com/context-hub/generator) - CTX: a tool that solves the context management gap when working with LLMs like ChatGPT or Claude. It helps developers organize and automatically collect information from their codebase into structured
 - [mnapoli/boxie](https://github.com/mnapoli/boxie) - Universal package manager based on Docker
-- [buggregator/server](https://github.com/buggregator/server) - Buggregator is a lightweight, standalone server that offers a range of debugging features for PHP applications.
 - [laravel/nightwatch](https://github.com/laravel/nightwatch) - The official Laravel Nightwatch package.
 - [packistry/packistry](https://github.com/packistry/packistry) - Open Source, Self-Hosted, Composer repository for PHP packages
 - [mtarld/apip-ddd](https://github.com/mtarld/apip-ddd) - An example of hexagonal API Platform 3 implementation
@@ -2482,12 +2483,13 @@
 
 ## Python 
 
+- [HKUDS/FastCode](https://github.com/HKUDS/FastCode) - "FastCode: Accelerating and Streamlining Your Code Understanding"
 - [NoobyGains/claude-pulse](https://github.com/NoobyGains/claude-pulse) - Real-time usage monitor for Claude Code — session limits, weekly limits, and plan tier with colour-coded progress bars
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 753+ structured cybersecurity skills for AI agents · MITRE ATT&CK mapped · agentskills.io open standard · Works with Claude Code, GitHub Copilot, OpenAI Codex CLI, Cursor, Gemini CLI & 20+ platforms ·
 - [Huluti/ossatrisk](https://github.com/Huluti/ossatrisk) - Tracking high-risk oss packages: abandoned, undermaintained, or CVE-exposed.
 - [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,326+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill coll
-- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 13 sub-skills, 7 subagents, extensions system with DataForSEO MCP integration. Technical SEO, E-E-A-T, schema, GEO/AEO, and strategic planning.
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 19 sub-skills, 12 subagents, 3 extensions (DataForSEO, Firecrawl, Banana). Technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, Google
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [mmornati/nexus-dev](https://github.com/mmornati/nexus-dev) - Nexus-Dev is an open-source MCP server that provides persistent memory for AI coding agents. It uses LanceDB as a local vector database and tree-sitter for multi-language intelligent code chunking.
@@ -3032,6 +3034,7 @@
 
 ## Svelte 
 
+- [skill-mill/agent-skill-harbor](https://github.com/skill-mill/agent-skill-harbor) - Agent skill management platform for teams and organizations
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
 - [mnapoli/claude-usage-bar](https://github.com/mnapoli/claude-usage-bar) - Claude Code usage status bar
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
@@ -3087,6 +3090,7 @@
 - [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
 - [michaelvillar/timer-app](https://github.com/michaelvillar/timer-app) - A simple Timer app for Mac
 - [yagiz/Bagel](https://github.com/yagiz/Bagel) - a little native network debugging tool for iOS
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [onmyway133/GifCapture](https://github.com/onmyway133/GifCapture) - 🏇 Gif capture app for macOS
 - [github/SoftU2F](https://github.com/github/SoftU2F) - Software U2F authenticator for macOS
 - [cristibaluta/Jirassic](https://github.com/cristibaluta/Jirassic) - Time tracking done right. Time tracking for employees.
@@ -3114,7 +3118,6 @@
 
 ## TypeScript 
 
-- [skill-mill/agent-skill-harbor](https://github.com/skill-mill/agent-skill-harbor) - Agent skill management platform for teams and organizations
 - [mnapoli/PromptEdit](https://github.com/mnapoli/PromptEdit) - Better prompt editor for Claude Code
 - [webadderall/Recordly](https://github.com/webadderall/Recordly) - Recordly is a powerful open-source screen recorder and editor for professional product videos, demos, and tutorials. Adds auto-zooms, webcam overlays, cursor animations and more to your recordings.
 - [mattpocock/course-video-manager](https://github.com/mattpocock/course-video-manager) - 
@@ -3272,7 +3275,7 @@
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio.
 - [stoplightio/prism](https://github.com/stoplightio/prism) - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+- [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [betagouv/mon-entreprise](https://github.com/betagouv/mon-entreprise) - L'assistant officiel des entrepreneurs
 - [jsonwebtoken/jsonwebtoken.github.io](https://github.com/jsonwebtoken/jsonwebtoken.github.io) - Developer-centric site to create awareness of JWTs and troubleshoot them.
 - [SensCritique/browser-extension](https://github.com/SensCritique/browser-extension) - Permet d'avoir un score SensCritique sur Netflix, Disney+ et Prime Video
