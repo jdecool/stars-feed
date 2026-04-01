@@ -1420,7 +1420,6 @@
 - [TBoileau/iletaitunefoisundev](https://github.com/TBoileau/iletaitunefoisundev) - La formation dont vous êtes le héros !
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [akrabat/bref-image-resizer](https://github.com/akrabat/bref-image-resizer) - Serverless PHP (Bref/Lambda) function to resize an image on upload to an S3 bucket
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [phpbrew/phpbrew](https://github.com/phpbrew/phpbrew) - Brew & manage PHP versions in pure PHP at HOME
 
 ## Markdown 
@@ -1567,6 +1566,7 @@
 - [aeris/gdpr](https://github.com/aeris/gdpr) - GDPR letter template
 - [bzg/logiciel-libre-esr](https://github.com/bzg/logiciel-libre-esr) - Ressources autour du logiciel libre dans l'enseignement supérieur et la recherche
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [joelparkerhenderson/monorepo-vs-polyrepo](https://github.com/joelparkerhenderson/monorepo-vs-polyrepo) - Monorepo vs. polyrepo: architecture for source code management (SCM) version control systems (VCS)
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
@@ -2380,7 +2380,7 @@
 - [backup-manager/backup-manager](https://github.com/backup-manager/backup-manager) - Database backup manager for dumping to and restoring databases from S3, Dropbox, FTP, SFTP, and Rackspace Cloud
 - [rezzza/mock-extension](https://github.com/rezzza/mock-extension) - [Deprecated] Add possibility to define several mock engine for your behat tests
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) - EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.
-- [sciactive/hookphp](https://github.com/sciactive/hookphp) - Method hooking in PHP.
+- [sciactive/hookphp](https://github.com/sciactive/hookphp) - Method hooking in PHP. (Mirror of https://forge.sciactive.com/sciactive/hookphp)
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
 - [simshaun/recurr](https://github.com/simshaun/recurr) - PHP library for working with recurrence rules (RRULE); meant to help with recurring calendar events.
 - [sampart/BreadcrumbsBundle](https://github.com/sampart/BreadcrumbsBundle) - A small breadcrumbs bundle for Symfony
@@ -2488,7 +2488,7 @@
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 753+ structured cybersecurity skills for AI agents · MITRE ATT&CK mapped · agentskills.io open standard · Works with Claude Code, GitHub Copilot, OpenAI Codex CLI, Cursor, Gemini CLI & 20+ platforms ·
 - [Huluti/ossatrisk](https://github.com/Huluti/ossatrisk) - Tracking high-risk oss packages: abandoned, undermaintained, or CVE-exposed.
 - [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
-- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,326+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill coll
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,340+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill coll
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 19 sub-skills, 12 subagents, 3 extensions (DataForSEO, Firecrawl, Banana). Technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, Google
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
@@ -3172,7 +3172,7 @@
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [azerpas/bourso-desktop](https://github.com/azerpas/bourso-desktop) - Boursorama / BoursoBank unofficial desktop app
 - [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - The coding agent built for the web. stagewise is a purpose-built browser for developers with a coding agent built right in.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [malgorithms/tippycoco](https://github.com/malgorithms/tippycoco) - A browser game for 1 or 2 players, inspired by Slime Volleyball
 - [ai-driven-dev/rules](https://github.com/ai-driven-dev/rules) - Nos règles "AI Editor" basée sur Cursor pour optimiser 10x les réponses de l'IA.
@@ -3247,7 +3247,7 @@
 - [robertwt7/meetsy](https://github.com/robertwt7/meetsy) - Open source online booking system
 - [mihaip/infinite-mac](https://github.com/mihaip/infinite-mac) - A classic Mac loaded with everything you'd want
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
-- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippet manager for developers
+- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free, open-source developer workspace. Snippets, notes, calculations, and dev tools in one local-first app
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [CarterLi/vue3-ace-editor](https://github.com/CarterLi/vue3-ace-editor) - Like vue2-ace-editor but more functional and supports Vue 3
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 27 other languages
