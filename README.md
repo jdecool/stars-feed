@@ -367,7 +367,7 @@
 - [pygram/pygram](https://github.com/pygram/pygram) - An open source grammar analyzer.
 - [jasonhargrove/ghost-medium-theme](https://github.com/jasonhargrove/ghost-medium-theme) - A base theme for Ghost.org blogging platform powered by Node.js. This theme uses Handlebar.js, Twitter Bootstrap, and Font Awesome. Design inspired by Medium.com.
 - [stripe-archive/shop](https://github.com/stripe-archive/shop) - Single-page shop
-- [simpleit/docky](https://github.com/simpleit/docky) - 
+- [OpenClassrooms/docky](https://github.com/OpenClassrooms/docky) - 
 
 ## Clojure 
 
@@ -2352,7 +2352,7 @@
 - [michaeljs1990/composer-map](https://github.com/michaeljs1990/composer-map) - Map the dependency graph of composer packages
 - [jankais3r/iOS-Mail.app-inject-kit](https://github.com/jankais3r/iOS-Mail.app-inject-kit) - iOS 8.3 Mail.app inject kit
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
-- [bobey/gitlab-issue-by-mail](https://github.com/bobey/gitlab-issue-by-mail) - Add new issue to your Gitlab by sending an email to bug@yourdomain.com
+- [obalais/gitlab-issue-by-mail](https://github.com/obalais/gitlab-issue-by-mail) - Add new issue to your Gitlab by sending an email to bug@yourdomain.com
 - [wealthbot-io/wealthbot](https://github.com/wealthbot-io/wealthbot) - Use wealthbot.io to easily setup your own wealth management platform ⛺
 - [florianv/business](https://github.com/florianv/business) - :date: DateTime calculations in business hours
 - [benjy/circle-cli](https://github.com/benjy/circle-cli) - A CLI utility built with Symfony Console to do basic queries against Circle CI projects.
@@ -3119,7 +3119,7 @@
 ## TypeScript 
 
 - [mnapoli/PromptEdit](https://github.com/mnapoli/PromptEdit) - Better prompt editor for Claude Code
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Recordly is a powerful open-source screen recorder and editor for professional product videos, demos, and tutorials. Adds auto-zooms, webcam overlays, cursor animations and more to your recordings.
+- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Recordly is an open‑source screen recorder for MacOS/Windows/Linux with auto-zoom, motion blur animated cursors, webcam overlays, auto-captions and more. Used to create product demos, guided walkthrou
 - [mattpocock/course-video-manager](https://github.com/mattpocock/course-video-manager) - 
 - [ghota-tech-solutions-sass/outilio](https://github.com/ghota-tech-solutions-sass/outilio) - Outilis.fr - 78 outils en ligne gratuits pour le quotidien. Calculateur salaire, simulateur impot, comparateur freelance vs CDI, generateur de factures. 100% navigateur, zero donnees collectees. Next.
 - [paleo/docfront](https://github.com/paleo/docfront) - A lightweight documentation system for AI agents and humans
