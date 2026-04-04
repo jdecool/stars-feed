@@ -23,6 +23,7 @@
 - [Elixir](#elixir)
 - [Elm](#elm)
 - [F#](#f#)
+- [Fluent](#fluent)
 - [FreeMarker](#freemarker)
 - [GCC Machine Description](#gcc-machine-description)
 - [Go](#go)
@@ -431,6 +432,10 @@
 ## F# # 
 
 - [fscheck/FsCheck](https://github.com/fscheck/FsCheck) - Random Testing for .NET
+
+## Fluent 
+
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 
 ## FreeMarker 
 
@@ -2781,7 +2786,7 @@
 ## Rust 
 
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
-- [hansipie/ecotokens](https://github.com/hansipie/ecotokens) - Optimizing Agentic Token Usage
+- [hansipie/ecotokens](https://github.com/hansipie/ecotokens) - Token optimizer for Claude Code Gemini CLI & Qwen Code — compresses shell outputs via PreToolUse hook, tracks USD savings in TUI dashboard
 - [jsturtevant/compilers-course](https://github.com/jsturtevant/compilers-course) - 
 - [L-Defraiteur/lucivy](https://github.com/L-Defraiteur/lucivy) - BM25 full-text search that actually finds what you type — fuzzy substrings across   token boundaries, accent-insensitive, with byte-offset highlights. Python + Rust,   built for hybrid search with vec
 - [CleverCloud/mdr](https://github.com/CleverCloud/mdr) - a very light rust based markdown reader with support of mermaid (web, native, TUI). vibe coded
@@ -2797,7 +2802,6 @@
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [FifthRooter/OpenShotX](https://github.com/FifthRooter/OpenShotX) - screen capture and recording tool for Linux, inspired by CleanShot X.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
