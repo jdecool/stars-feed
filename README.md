@@ -63,7 +63,6 @@
 - [PureScript](#purescript)
 - [Python](#python)
 - [Racket](#racket)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -138,6 +137,7 @@
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [joncampbell123/dosbox-x](https://github.com/joncampbell123/dosbox-x) - DOSBox-X fork of the DOSBox project
 - [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
+- [mist64/cbmsrc](https://github.com/mist64/cbmsrc) - Original source code of various Commodore computers and peripherals.
 - [QB64Team/qb64](https://github.com/QB64Team/qb64) - BASIC for the modern era.
 - [lpereira/hardinfo](https://github.com/lpereira/hardinfo) - System profiler and benchmark tool for Linux systems
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
@@ -2726,10 +2726,6 @@
 
 - [Bogdanp/Franz](https://github.com/Bogdanp/Franz) - A desktop client for Apache Kafka.
 
-## Roff 
-
-- [mist64/cbmsrc](https://github.com/mist64/cbmsrc) - Original source code of various Commodore computers and peripherals.
-
 ## Ruby 
 
 - [basecamp/fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been.
@@ -2923,6 +2919,7 @@
 
 ## Shell 
 
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - My personal directory of skills, straight from my .claude directory.
 - [mariusdjen/vpskit](https://github.com/mariusdjen/vpskit) - The easiest way to secure, deploy and manage a Linux VPS
 - [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) - Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.
@@ -3048,6 +3045,7 @@
 
 ## Swift 
 
+- [smnandre/symfony-cli-menubar](https://github.com/smnandre/symfony-cli-menubar) - A native macOS menu bar app that brings the power of the Symfony CLI to your fingertips.
 - [sebsto/wispr](https://github.com/sebsto/wispr) - Privacy-first voice dictation for macOS — powered by on-device Whisper AI. No cloud, no tracking.
 - [sk-ruban/notchi](https://github.com/sk-ruban/notchi) - notch app for coding tools
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
