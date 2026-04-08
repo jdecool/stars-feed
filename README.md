@@ -1272,7 +1272,7 @@
 - [yohang/satis-admin](https://github.com/yohang/satis-admin) - A web interface for Satis configuration
 - [scottjehl/picturefill](https://github.com/scottjehl/picturefill) - A responsive image polyfill for &lt;picture&gt;, srcset, sizes, and more
 - [TheMightyFingers/mightyeditor](https://github.com/TheMightyFingers/mightyeditor) - 
-- [stefanullinger/grunt-twig-render](https://github.com/stefanullinger/grunt-twig-render) - Render twig templates
+- [stefan-b314/grunt-twig-render](https://github.com/stefan-b314/grunt-twig-render) - Render twig templates
 - [alexfernandez/package-quality](https://github.com/alexfernandez/package-quality) - Measurements of quality for packages, especially for npm
 - [delphiki/gitlab-merge-requests-extension](https://github.com/delphiki/gitlab-merge-requests-extension) - A simple Google Chrome extension to preview the pending merge requests on Gitlab
 - [mailcheck/mailcheck](https://github.com/mailcheck/mailcheck) - Reduce misspelled email addresses in your web apps.
@@ -2921,6 +2921,7 @@
 
 ## Shell 
 
+- [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run.
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - My personal directory of skills, straight from my .claude directory.
 - [mariusdjen/vpskit](https://github.com/mariusdjen/vpskit) - The easiest way to secure, deploy and manage a Linux VPS
