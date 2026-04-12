@@ -988,6 +988,7 @@
 - [frankdilo/MarkdownViewer](https://github.com/frankdilo/MarkdownViewer) - 
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [jdubray/puffin](https://github.com/jdubray/puffin) - 
+- [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) - Minimal Node.js wrapper around ClamAV — scan any file and get Clean, Malicious, or ScanError. Handles installation and database updates automatically.
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [nolenroyalty/one-million-chessboards](https://github.com/nolenroyalty/one-million-chessboards) - one million chessboards, synced for everyone
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
@@ -1116,6 +1117,7 @@
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [billziss-gh/pmci](https://github.com/billziss-gh/pmci) - Poor Man's CI - Hosted CI with shell scripting and duct tape
 - [AmauriC/tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js) - Get a compliant and accessible cookie banner
+- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [skevy/graphiql-app](https://github.com/skevy/graphiql-app) - Light, Electron-based Wrapper around GraphiQL
 - [plibither8/licensed](https://github.com/plibither8/licensed) - ⚖️ ✔️ licensed is an interactive command line tool to help you choose and add licenses to your projects
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
@@ -2129,7 +2131,6 @@
 - [spatie/typed](https://github.com/spatie/typed) - Improvements to PHP's type system in userland: generics, typed lists, tuples and structs
 - [AOEpeople/composer-satis-builder](https://github.com/AOEpeople/composer-satis-builder) - 
 - [leproxy/leproxy](https://github.com/leproxy/leproxy) - LeProxy is the HTTP/SOCKS proxy server for everybody!
-- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [amphp/amp](https://github.com/amphp/amp) - A non-blocking concurrency framework for PHP applications. 🐘
 - [krakjoe/idbg](https://github.com/krakjoe/idbg) - Inspector Debugger
 - [rlanvin/php-rrule](https://github.com/rlanvin/php-rrule) - Lightweight and fast recurring dates library for PHP (RFC 5545)
@@ -3170,7 +3171,6 @@
 - [yoanbernabeu/S3-Documentation-MCP-Server](https://github.com/yoanbernabeu/S3-Documentation-MCP-Server) - A lightweight Model Context Protocol (MCP) server that brings RAG (Retrieval-Augmented Generation) capabilities to your LLM over Markdown documentation stored on S3.
 - [flemzord/github-compliance](https://github.com/flemzord/github-compliance) - 🛡️ Enforce repository compliance standards across your GitHub organization
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-- [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) - Open-source file upload security for Node.js. Scan files before storage to detect malware, MIME spoofing, and risky archives.
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 - [kukshaus/transcribe](https://github.com/kukshaus/transcribe) - 
