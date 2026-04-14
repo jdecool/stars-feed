@@ -95,6 +95,7 @@
 
 ## Assembly 
 
+- [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 - [AmiBlitz/AmiBlitz3](https://github.com/AmiBlitz/AmiBlitz3) - Complete package of AmiBlitz3 including all sources.
 - [nanochess/bootBASIC](https://github.com/nanochess/bootBASIC) - bootBASIC is a BASIC language in 512 bytes of x86 machine code.
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
@@ -198,7 +199,6 @@
 - [jech/polipo](https://github.com/jech/polipo) - The Polipo caching HTTP proxy
 - [zyantific/zydis](https://github.com/zyantific/zydis) - Fast and lightweight x86/x86-64 disassembler and code generation library
 - [badlee/PHPJS](https://github.com/badlee/PHPJS) - Run javascript inside PHP (powered by duktape.org)
-- [php-ds/ext-ds](https://github.com/php-ds/ext-ds) - Extension for specialized native data structures in PHP
 - [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 - [krakjoe/pthreads](https://github.com/krakjoe/pthreads) - Threading for PHP - Share Nothing, Do Everything :)
 - [CTurt/PS4-SDK](https://github.com/CTurt/PS4-SDK) - Open source PS4 SDK
@@ -458,7 +458,7 @@
 - [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) - Exports the expiration time of your domains as prometheus metrics.
 - [caarlos0/github_releases_exporter](https://github.com/caarlos0/github_releases_exporter) - Exports GitHub release metrics to the Prometheus format
 - [runkids/skillshare](https://github.com/runkids/skillshare) - 📚 Sync skills across all AI CLI tools with one command and simplify team sharing. Supporting Codex, Claude Code, OpenClaw & more
-- [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool (with MySQL\MariaDB and MongoDB support)
+- [databasus/databasus](https://github.com/databasus/databasus) - Database backup tool (PostgreSQL, MySQL\MariaDB and MongoDB)
 - [paramientos/presto](https://github.com/paramientos/presto) - Presto is a dependency manager for PHP and drop-in-replacement for Composer
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite server with MySQL wire compatible interface
 - [guigui42/mcp-vosdroits](https://github.com/guigui42/mcp-vosdroits) - Serveur MCP pour Service Public Vos Droits
@@ -810,7 +810,6 @@
 ## HTML 
 
 - [vladikk/modularity](https://github.com/vladikk/modularity) - Claude Code plugin for designing modular systems from functional requirements and reviewing existing codebases for modularity problems with actionable improvement recommendations. Based on the Balance
-- [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
@@ -1002,7 +1001,6 @@
 - [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
 - [jekyll/jekyll-admin](https://github.com/jekyll/jekyll-admin) - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
 - [JC144/EDF_Simulateur_Prix](https://github.com/JC144/EDF_Simulateur_Prix) - Un outil pour simuler les différents Tarifs EDF depuis un export de la consommation.
-- [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commits specification
 - [CrazyTim/spin-wheel](https://github.com/CrazyTim/spin-wheel) - An easy to use, themeable component for randomising choices and prizes.
 - [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [jeb5/YouTube-Subscriptions-RSS](https://github.com/jeb5/YouTube-Subscriptions-RSS) - Generate an OPML file of RSS feeds for your YouTube subscriptions
@@ -2314,6 +2312,7 @@
 - [andrewvy/HHVMCraft](https://github.com/andrewvy/HHVMCraft) - :package: Minecraft Beta 1.7.3 Server implemented in PHP/HHVM, powered by ReactPHP.
 - [peternijssen/packy](https://github.com/peternijssen/packy) - Packy is an open source tool to validate if your dependencies are up 2 date. Packy is based on the Symfony framework.
 - [chriskapp/phps](https://github.com/chriskapp/phps) - Tool to index PHP source files
+- [php-ds/ext-ds](https://github.com/php-ds/ext-ds) - Extension for specialized native data structures in PHP
 - [krustnic/DocxMerge](https://github.com/krustnic/DocxMerge) - Simple library for merging multiple MS Word ".docx" files into one
 - [php-cache/cache-bundle](https://github.com/php-cache/cache-bundle) - Symfony PSR-6 Cache Bundle
 - [MUlt1mate/cron-manager](https://github.com/MUlt1mate/cron-manager) - A PHP cron task manager for MVC-type applications
@@ -2490,13 +2489,14 @@
 
 ## Python 
 
+- [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
 - [HKUDS/FastCode](https://github.com/HKUDS/FastCode) - "FastCode: Accelerating and Streamlining Your Code Understanding"
 - [NoobyGains/claude-pulse](https://github.com/NoobyGains/claude-pulse) - Real-time usage monitor for Claude Code — session limits, weekly limits, and plan tier with colour-coded progress bars
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Cop
 - [Huluti/ossatrisk](https://github.com/Huluti/ossatrisk) - Tracking high-risk oss packages: abandoned, undermaintained, or CVE-exposed.
 - [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
-- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,370+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill coll
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,400+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill coll
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 19 sub-skills, 12 subagents, 3 extensions (DataForSEO, Firecrawl, Banana). Technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, Google
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
@@ -3128,13 +3128,14 @@
 - [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Powerful MacOS Launcher
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Own your SEO. Research keywords and competitors on your terms. 100% open source.
 - [pea3nut/agent-add](https://github.com/pea3nut/agent-add) - Install MCP, Skills, slash commands, sub-agents and more into any AI tool like Claude Code, Cursor, etc.
-- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Skill that turn any codebase, Dockerfile, or docs into an interactive knowledge graph you can explore, search, and ask questions about. Multi-platform: Claude Code, Codex, Cursor, Copilot, Gemini CLI,
+- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claud
 - [JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent) - TypeScript multi-agent framework — one runTeam() call from goal to result. Auto task decomposition, parallel execution. 3 dependencies, deploys anywhere Node.js runs.
 - [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
 - [mnapoli/PromptEdit](https://github.com/mnapoli/PromptEdit) - Better prompt editor for Claude Code
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Create polished screen recordings for free. An open-source screen recorder for Mac/Windows/Linux that adds auto-zooms, animated cursors, auto-captions and more to your videos.
+- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
 - [mattpocock/course-video-manager](https://github.com/mattpocock/course-video-manager) - 
 - [ghota-tech-solutions-sass/outilio](https://github.com/ghota-tech-solutions-sass/outilio) - Outilis.fr - 78 outils en ligne gratuits pour le quotidien. Calculateur salaire, simulateur impot, comparateur freelance vs CDI, generateur de factures. 100% navigateur, zero donnees collectees. Next.
+- [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [paleo/docfront](https://github.com/paleo/docfront) - A lightweight documentation system for AI agents and humans
 - [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide
 - [mcollina/skills](https://github.com/mcollina/skills) - My own collection of skills for modern Node.js development
@@ -3164,7 +3165,7 @@
 - [BananaOps/tracker](https://github.com/BananaOps/tracker) - An opensource solution to track events in platform
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
-- [kermanx/p2p-live-share](https://github.com/kermanx/p2p-live-share) - VSCode collaboration extension - a peer-to-peer and open source alternative to Live Share.
+- [kermanx/p2p-live-share](https://github.com/kermanx/p2p-live-share) - VS Code collaboration extension - a peer-to-peer and open-source alternative to Live Share.
 - [briehq/brie-extension](https://github.com/briehq/brie-extension) - Capture screenshots, console errors, network issues, and user actions, giving developers full context instantly.
 - [agentset-ai/agentset](https://github.com/agentset-ai/agentset) - The open-source RAG platform: built-in citations, deep research, 22+ file formats, partitions, MCP server, and more.
 - [Kieirra/murmure](https://github.com/Kieirra/murmure) - Fully local, private and cross platform Speech-to-Text with LLM Post-processing
@@ -3214,6 +3215,7 @@
 - [relagit/relagit](https://github.com/relagit/relagit) - The elegant solution to graphical version control.
 - [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 - [ollama/ollama-js](https://github.com/ollama/ollama-js) - Ollama JavaScript library
+- [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commits specification
 - [placemark/placemark](https://github.com/placemark/placemark) - A flexible web-based editor, converter, visualization tool, for geospatial data
 - [srikanth235/privy](https://github.com/srikanth235/privy) - An open-source alternative to GitHub copilot that runs locally.
 - [szimek/signature_pad](https://github.com/szimek/signature_pad) - HTML5 canvas based smooth signature drawing
