@@ -215,6 +215,8 @@
 
 ## C# # 
 
+- [StefanTheCode/.NET-Roadmap-2026](https://github.com/StefanTheCode/.NET-Roadmap-2026) - 
+- [Atherio-Ltd/Kommand](https://github.com/Atherio-Ltd/Kommand) - Open source mediator library for the .NET ecosystem
 - [tpierrain/SmokeMe](https://github.com/tpierrain/SmokeMe) - A convention-based dotnet plugin that will automatically expose all your declared smoke tests behind a  /smoke resource in your API.
 - [dotnet/skills](https://github.com/dotnet/skills) - Repository for skills to assist AI coding agents with .NET and C#
 - [codewithmukesh/dotnet-claude-kit](https://github.com/codewithmukesh/dotnet-claude-kit) - Make Claude Code a .NET 10 Expert
@@ -1698,6 +1700,7 @@
 
 ## PHP 
 
+- [marko-php/marko](https://github.com/marko-php/marko) - The modular PHP framework.
 - [koriym/xdebug-mcp](https://github.com/koriym/xdebug-mcp) - Enable AI to debug PHP with Xdebug
 - [Guikingone/php-agent-skills](https://github.com/Guikingone/php-agent-skills) - A PHP implementation of AgentSkills standard
 - [martinkup/symfony-profiler-optimization-advisor-bundle](https://github.com/martinkup/symfony-profiler-optimization-advisor-bundle) - Symfony Profiler meta data collector — reads from Doctrine, Cache, Twig, Events, HTTP Client, Messenger & Stopwatch collectors to detect N+1 queries, slow SQL, cache misses, hot templates & 10 more an
@@ -3131,7 +3134,7 @@
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Own your SEO. Research keywords and competitors on your terms. 100% open source.
 - [pea3nut/agent-add](https://github.com/pea3nut/agent-add) - Install MCP, Skills, slash commands, sub-agents and more into any AI tool like Claude Code, Cursor, etc.
 - [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claud
-- [JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent) - TypeScript multi-agent framework — one runTeam() call from goal to result. Auto task decomposition, parallel execution. 3 dependencies, deploys anywhere Node.js runs.
+- [JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent) - TypeScript multi-agent orchestration engine — one runTeam() call from goal to result. Multi-model teams, auto task decomposition, parallel execution. 3 runtime dependencies.
 - [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
 - [mnapoli/PromptEdit](https://github.com/mnapoli/PromptEdit) - Better prompt editor for Claude Code
 - [webadderall/Recordly](https://github.com/webadderall/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
