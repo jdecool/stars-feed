@@ -449,6 +449,7 @@
 
 ## Go 
 
+- [igor-php/igor-php](https://github.com/igor-php/igor-php) - Static analysis and state mutation auditor specifically designed for FrankenPHP's Worker Mode.
 - [alexandre-daubois/ember](https://github.com/alexandre-daubois/ember) - 🔥 Real-time terminal dashboard for Caddy servers, with built-in FrankenPHP support
 - [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription
 - [getplumber/plumber](https://github.com/getplumber/plumber) - Open source CLI to check compliance of your GitLab CI/CD pipelines and repos
@@ -984,6 +985,7 @@
 
 ## JavaScript 
 
+- [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [frankdilo/MarkdownViewer](https://github.com/frankdilo/MarkdownViewer) - 
@@ -2494,7 +2496,6 @@
 ## Python 
 
 - [camilleroux/veille-techno](https://github.com/camilleroux/veille-techno) - Skill Claude Code de veille tech francophone. Agrège les flux RSS (Journal du Hacker, Human Coders News…) et produit un récap trié par jour. Zéro dépendance.
-- [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
 - [HKUDS/FastCode](https://github.com/HKUDS/FastCode) - "FastCode: Accelerating and Streamlining Your Code Understanding"
 - [NoobyGains/claude-pulse](https://github.com/NoobyGains/claude-pulse) - Real-time usage monitor for Claude Code — session limits, weekly limits, and plan tier with colour-coded progress bars
@@ -2790,6 +2791,7 @@
 
 ## Rust 
 
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [hansipie/ecotokens](https://github.com/hansipie/ecotokens) - Token optimizer for Claude Code Gemini CLI & Qwen Code — compresses shell outputs via PreToolUse hook, tracks USD savings in TUI dashboard
 - [jsturtevant/compilers-course](https://github.com/jsturtevant/compilers-course) - 
@@ -3055,6 +3057,7 @@
 
 ## Swift 
 
+- [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
 - [smnandre/symfony-cli-menubar](https://github.com/smnandre/symfony-cli-menubar) - A native macOS menu bar app that brings the power of the Symfony CLI to your fingertips.
 - [sebsto/wispr](https://github.com/sebsto/wispr) - Privacy-first voice dictation for macOS — powered by on-device Whisper AI. No cloud, no tracking.
 - [sk-ruban/notchi](https://github.com/sk-ruban/notchi) - notch app for coding tools
