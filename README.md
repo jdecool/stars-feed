@@ -216,6 +216,7 @@
 
 ## C# # 
 
+- [jsakamoto/WhoisClient.NET](https://github.com/jsakamoto/WhoisClient.NET) - This is a .NET class library that implements a WHOIS client.
 - [StefanTheCode/.NET-Roadmap-2026](https://github.com/StefanTheCode/.NET-Roadmap-2026) - 
 - [Atherio-Ltd/Kommand](https://github.com/Atherio-Ltd/Kommand) - Open source mediator library for the .NET ecosystem
 - [tpierrain/SmokeMe](https://github.com/tpierrain/SmokeMe) - A convention-based dotnet plugin that will automatically expose all your declared smoke tests behind a  /smoke resource in your API.
@@ -987,6 +988,7 @@
 
 ## JavaScript 
 
+- [Webba-Creative-Technologies/vice](https://github.com/Webba-Creative-Technologies/vice) - VICE is a security auditing CLI tool that finds vulnerabilities in your web applications.
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
@@ -3144,6 +3146,7 @@
 
 ## TypeScript 
 
+- [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 - [mnapoli/family-tree-maker](https://github.com/mnapoli/family-tree-maker) - Family Tree Maker
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Powerful MacOS Launcher
