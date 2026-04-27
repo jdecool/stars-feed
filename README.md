@@ -995,7 +995,7 @@
 - [frankdilo/MarkdownViewer](https://github.com/frankdilo/MarkdownViewer) - 
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [jdubray/puffin](https://github.com/jdubray/puffin) - 
-- [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) - Minimal Node.js wrapper around ClamAV — scan any file and get Clean, Malicious, or ScanError. Handles installation and database updates automatically.
+- [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) - ClamAV antivirus scanning for Node.js — scan file uploads with a single  function call. Zero dependencies. Typed Symbol verdicts. Local or Docker/clamd.
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [nolenroyalty/one-million-chessboards](https://github.com/nolenroyalty/one-million-chessboards) - one million chessboards, synced for everyone
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
@@ -1228,7 +1228,7 @@
 - [tellform/tellform](https://github.com/tellform/tellform) - ✏️ Free Opensource Alternative to TypeForm or Google Forms ⛺
 - [ninsuo/symfony-collection](https://github.com/ninsuo/symfony-collection) - [NOT MAINTAINED] A jQuery plugin that manages adding, deleting and moving elements from a Symfony form collection
 - [ludovic-gonthier/snowshoe](https://github.com/ludovic-gonthier/snowshoe) - Github Pull Request dashboard to ease your Code Review across multiple projects
-- [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
+- [nilbuild/githunt](https://github.com/nilbuild/githunt) - Hunt the most starred projects on any date on GitHub
 - [shutterstock/lil-brother](https://github.com/shutterstock/lil-brother) - Track clicks and other client-side events on web pages
 - [emmanuelroecker/GL-Browser](https://github.com/emmanuelroecker/GL-Browser) - A custom browser built on Electron
 - [Mailtrain-org/mailtrain](https://github.com/Mailtrain-org/mailtrain) - Self hosted newsletter app
@@ -2598,7 +2598,7 @@
 - [IBM/MicroscoPy](https://github.com/IBM/MicroscoPy) - An open-source, motorized, and modular microscope built using LEGO bricks, Arduino, Raspberry Pi and 3D printing.
 - [meesaltena/SSHHeatmap](https://github.com/meesaltena/SSHHeatmap) - Generates a heatmap of IP's that made failed SSH login attempts.
 - [DP-3T/reference_implementation](https://github.com/DP-3T/reference_implementation) - 
-- [kamranahmedse/itomate](https://github.com/kamranahmedse/itomate) - Automate your iTerm layouts and session setup
+- [nilbuild/itomate](https://github.com/nilbuild/itomate) - Automate your iTerm layouts and session setup
 - [google/fuzzbench](https://github.com/google/fuzzbench) - FuzzBench - Fuzzer benchmarking as a service.
 - [pkkid/x11pygrid](https://github.com/pkkid/x11pygrid) - Quickly move windows around the an X11 desktop
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
@@ -2945,7 +2945,7 @@
 - [gwittebolle/claude-carbon](https://github.com/gwittebolle/claude-carbon) - Track the carbon footprint of your Claude Code sessions
 - [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run.
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
-- [mattpocock/skills](https://github.com/mattpocock/skills) - My personal directory of skills, straight from my .claude directory.
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Agent Skills for real engineers. Straight from my .claude directory.
 - [mariusdjen/vpskit](https://github.com/mariusdjen/vpskit) - The easiest way to secure, deploy and manage a Linux VPS
 - [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) - Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.
 - [TheBeardedBearSAS/claude-craft](https://github.com/TheBeardedBearSAS/claude-craft) - Supercharge Claude Code with Expert Knowledge  A comprehensive framework for AI-assisted development. Install standardized rules, agents, and commands for your projects across multiple technology stac
@@ -3032,7 +3032,7 @@
 - [ingydotnet/git-subrepo](https://github.com/ingydotnet/git-subrepo) - 
 - [kiwenlau/hadoop-cluster-docker](https://github.com/kiwenlau/hadoop-cluster-docker) - Run Hadoop Custer within Docker Containers
 - [nerdpress-org/docker-sf3](https://github.com/nerdpress-org/docker-sf3) - Docker advanced LAMP setup for symfony3 development :whale:
-- [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you or your team did on the last working day
+- [nilbuild/git-standup](https://github.com/nilbuild/git-standup) - Recall what you or your team did on the last working day
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
 - [deliciousinsights/git-stree](https://github.com/deliciousinsights/git-stree) - A better Git subtree helper command
 - [paomedia/small-n-flat](https://github.com/paomedia/small-n-flat) - svg icons on a 24px grid
@@ -3153,7 +3153,7 @@
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Own your SEO. Research keywords and competitors on your terms. 100% open source.
 - [pea3nut/agent-add](https://github.com/pea3nut/agent-add) - Install MCP, Skills, slash commands, sub-agents and more into any AI tool like Claude Code, Cursor, etc.
 - [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claud
-- [JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent) - TypeScript multi-agent orchestration engine — one runTeam() call from goal to result. Multi-model teams, auto task decomposition, parallel execution. 3 runtime dependencies.
+- [JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent) - From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with multi-model teams and parallel execution. Three runtime dependencies.
 - [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
 - [mnapoli/PromptEdit](https://github.com/mnapoli/PromptEdit) - Better prompt editor for Claude Code
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
@@ -3349,7 +3349,7 @@
 - [rikukissa/stacker](https://github.com/rikukissa/stacker) - 🥞 Chrome extension for managing stacked pull requests
 - [bestofjs/bestofjs](https://github.com/bestofjs/bestofjs) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
-- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
+- [nilbuild/driver.js](https://github.com/nilbuild/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
 - [hotwired/stimulus](https://github.com/hotwired/stimulus) - A modest JavaScript framework for the HTML you already have
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
@@ -3369,7 +3369,7 @@
 - [microsoft/TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) - A starter template for TypeScript and React with a detailed README describing how to use the two together.
 - [cupslab/password_meter](https://github.com/cupslab/password_meter) - This project implements a data-driven password meter. Its effects on password security and usability were evaluated in the following publication: http://www.blaseur.com/papers/CHI17meter.pdf and a dem
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
 - [paulirish/pwmetrics](https://github.com/paulirish/pwmetrics) - Progressive web metrics at your fingertipz
 - [eclipse-che/che](https://github.com/eclipse-che/che) - Kubernetes based Cloud Development Environments for Enterprise Teams
