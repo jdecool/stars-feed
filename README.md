@@ -921,7 +921,6 @@
 - [seed4j/seed4j](https://github.com/seed4j/seed4j) - Seed4J is a modular code generator with clean architecture
 - [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) - Digitally sign PDF files from your commandline
 - [hvdwolf/jExifToolGUI](https://github.com/hvdwolf/jExifToolGUI) - jExifToolGUI is a multi-platform java/Swing graphical frontend for the excellent command-line ExifTool application by Phil Harvey
-- [structurizr/dsl](https://github.com/structurizr/dsl) - Structurizr DSL
 - [ff4j/ff4j](https://github.com/ff4j/ff4j) - Feature Flags for Java made easy
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
 - [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool.
@@ -2594,7 +2593,6 @@
 - [cpfair/tapiriik](https://github.com/cpfair/tapiriik) - tapiriik keeps your fitness in sync
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels.
 - [jankrepl/mltype](https://github.com/jankrepl/mltype) - Command line tool for improving typing skills (programmers friendly)
-- [serverscope/serverscope-benchmark](https://github.com/serverscope/serverscope-benchmark) - 
 - [freepn/fpnd](https://github.com/freepn/fpnd) - Python package for freepn network daemon
 - [internap/redlock-fifo](https://github.com/internap/redlock-fifo) - True FIFO locks based on redlock-py
 - [IBM/MicroscoPy](https://github.com/IBM/MicroscoPy) - An open-source, motorized, and modular microscope built using LEGO bricks, Arduino, Raspberry Pi and 3D printing.
@@ -3149,6 +3147,7 @@
 
 ## TypeScript 
 
+- [icann/rdap-lookup-client](https://github.com/icann/rdap-lookup-client) - An example of Domain Name Registration Data Lookup using RDAP protocol.
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 - [mnapoli/family-tree-maker](https://github.com/mnapoli/family-tree-maker) - Family Tree Maker
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
