@@ -62,6 +62,7 @@
 - [PureScript](#purescript)
 - [Python](#python)
 - [Racket](#racket)
+- [Rich Text Format](#rich-text-format)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -909,7 +910,6 @@
 
 ## JSON 
 
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
 
 ## Java 
@@ -1437,6 +1437,7 @@
 ## Markdown 
 
 - [swiftlang/swift-book](https://github.com/swiftlang/swift-book) - The Swift Programming Language book
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 
@@ -2743,6 +2744,10 @@
 
 - [Bogdanp/Franz](https://github.com/Bogdanp/Franz) - A desktop client for Apache Kafka.
 
+## Rich Text Format 
+
+- [aboudoux/GestionFormation](https://github.com/aboudoux/GestionFormation) - This is an ERP for manage trainings written in DDD, CQRS/ES - WPF MVVM
+
 ## Ruby 
 
 - [basecamp/fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been.
@@ -3068,6 +3073,7 @@
 
 ## Swift 
 
+- [agentcooper/Telik](https://github.com/agentcooper/Telik) - Native macOS app to track YouTube channels and playlists
 - [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
 - [smnandre/symfony-cli-menubar](https://github.com/smnandre/symfony-cli-menubar) - A native macOS menu bar app that brings the power of the Symfony CLI to your fingertips.
 - [sebsto/wispr](https://github.com/sebsto/wispr) - Privacy-first voice dictation for macOS — powered by on-device Whisper AI. No cloud, no tracking.
@@ -3144,6 +3150,7 @@
 
 ## TypeScript 
 
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames
 - [antoinevastel/fpscanner](https://github.com/antoinevastel/fpscanner) - Self-hosted browser fingerprinting and bot detection with real-world constraints in mind.
 - [icann/rdap-lookup-client](https://github.com/icann/rdap-lookup-client) - An example of Domain Name Registration Data Lookup using RDAP protocol.
@@ -3286,7 +3293,7 @@
 - [robertwt7/meetsy](https://github.com/robertwt7/meetsy) - Open source online booking system
 - [mihaip/infinite-mac](https://github.com/mihaip/infinite-mac) - A classic Mac loaded with everything you'd want
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
-- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free, open-source developer workspace. Snippets, notes, calculations, and dev tools in one local-first app
+- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [CarterLi/vue3-ace-editor](https://github.com/CarterLi/vue3-ace-editor) - Like vue2-ace-editor but more functional and supports Vue 3
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 27 other languages
