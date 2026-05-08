@@ -216,6 +216,7 @@
 
 ## C# # 
 
+- [naimulkarim/TicketingSystem](https://github.com/naimulkarim/TicketingSystem) - 
 - [jsakamoto/WhoisClient.NET](https://github.com/jsakamoto/WhoisClient.NET) - This is a .NET class library that implements a WHOIS client.
 - [StefanTheCode/.NET-Roadmap-2026](https://github.com/StefanTheCode/.NET-Roadmap-2026) - 
 - [Atherio-Ltd/Kommand](https://github.com/Atherio-Ltd/Kommand) - Open source mediator library for the .NET ecosystem
@@ -1706,6 +1707,8 @@
 
 ## PHP 
 
+- [Johnnybegood90/GridTV](https://github.com/Johnnybegood90/GridTV) - Real-time IPTV TV guide and any XMLTV/M3U source. Self-hosted, zero dependencies.
+- [olivier-ls/php-fts](https://github.com/olivier-ls/php-fts) - A self-contained full-text search engine in pure PHP. No extensions, no dependencies.
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 - [marko-php/marko](https://github.com/marko-php/marko) - The modular PHP framework.
 - [koriym/xdebug-mcp](https://github.com/koriym/xdebug-mcp) - Enable AI to debug PHP with Xdebug
@@ -3190,7 +3193,7 @@
 - [photon-hq/imessage-kit](https://github.com/photon-hq/imessage-kit) - A type-safe, elegant iMessage SDK for macOS with zero dependencies
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [NTCoding/living-architecture](https://github.com/NTCoding/living-architecture) - Extra software architecture from your code as living documentation. AI-assisted.
-- [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - A coding agent hook that acts as a safety net, catching destructive git and filesystem commands before they execute.
+- [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - A coding agent hook that acts as a safety net, catching destructive git and filesystem commands before they execute. Supports Codex, OpenCode, Gemini CLI and Copilot CLI.
 - [DeepMyst/Mysti](https://github.com/DeepMyst/Mysti) - AI coding dream team of agents for VS Code. Claude Code + openai Codex collaborate in brainstorm mode, debate solutions, and synthesize the best approach for your code.
 - [buildermethods/design-os](https://github.com/buildermethods/design-os) - The missing design process between your product idea and your codebase.
 - [skaldlabs/skald](https://github.com/skaldlabs/skald) - Context layer platform in your infrastructure
