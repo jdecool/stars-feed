@@ -1039,7 +1039,7 @@
 - [Mermade/openapi-gui](https://github.com/Mermade/openapi-gui) - GUI / visual editor for creating and editing OpenAPI / Swagger definitions
 - [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - for desktop and mobile
 - [gcochard/hibp-downloader](https://github.com/gcochard/hibp-downloader) - Download all the HIBP passwords
-- [juliuste/direkt.bahn.guru](https://github.com/juliuste/direkt.bahn.guru) - All direct long-distance railway connections for cities in and beyond central Europe.
+- [juliuste/direkt.bahn.guru](https://github.com/juliuste/direkt.bahn.guru) - CURRENTLY ARCHIVED BECAUSE OUR DATA SOURCE IS NO LONGER AVAILABLE. CHECK https://github.com/ton-An/station_reach FOR AN ALTERNATIVE | All direct long-distance railway connections for cities in and bey
 - [bhovhannes/junit-report-merger](https://github.com/bhovhannes/junit-report-merger) - Merges multiple JUnit XML reports into one
 - [hbend1li/number-to-letters](https://github.com/hbend1li/number-to-letters) - Convert a number to letters
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
@@ -1708,7 +1708,7 @@
 
 ## PHP 
 
-- [Johnnybegood90/GridTV](https://github.com/Johnnybegood90/GridTV) - Real-time IPTV TV guide and any XMLTV/M3U source. Self-hosted, zero dependencies.
+- [Johnnybegood90/come-to-telegram-rickluminari1--GridTV](https://github.com/Johnnybegood90/come-to-telegram-rickluminari1--GridTV) - Real-time IPTV TV guide and any XMLTV/M3U source. Self-hosted, zero dependencies.
 - [olivier-ls/php-fts](https://github.com/olivier-ls/php-fts) - A self-contained full-text search engine in pure PHP. No extensions, no dependencies.
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 - [marko-php/marko](https://github.com/marko-php/marko) - The modular PHP framework.
@@ -3193,7 +3193,7 @@
 - [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - An open-source alternative to CleanShot X for macOS. Capture, edit, and enhance your screenshots with professional quality.
 - [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
 - [photon-hq/imessage-kit](https://github.com/photon-hq/imessage-kit) - A type-safe, elegant iMessage SDK for macOS with zero dependencies
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [NTCoding/living-architecture](https://github.com/NTCoding/living-architecture) - Extra software architecture from your code as living documentation. AI-assisted.
 - [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - A coding agent hook that acts as a safety net, catching destructive git and filesystem commands before they execute. Supports Codex, Claude Code, OpenCode, Gemini CLI and Copilot CLI.
 - [DeepMyst/Mysti](https://github.com/DeepMyst/Mysti) - AI coding dream team of agents for VS Code. Claude Code + openai Codex collaborate in brainstorm mode, debate solutions, and synthesize the best approach for your code.
