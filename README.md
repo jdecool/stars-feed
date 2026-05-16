@@ -1543,7 +1543,7 @@
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [oliverbenns/john-carmack-plan](https://github.com/oliverbenns/john-carmack-plan) - An archive of John Carmack’s .plan files in readable markdown format
 - [mnishihan/laravel-docs-in-pdf](https://github.com/mnishihan/laravel-docs-in-pdf) - Up-to-date Laravel documentation in PDF format (all versions)
-- [rootkit-io/awesome-malware-development](https://github.com/rootkit-io/awesome-malware-development) - Organized list of my malware development resources
+- [rootkit-io/awesome-malware-development](https://github.com/rootkit-io/awesome-malware-development) - Curated resources for malware analysis, reverse engineering, and defensive security research.
 - [rubymorillo/pocket-tech-writing-list](https://github.com/rubymorillo/pocket-tech-writing-list) - A small but formidable list of technical writing resources for developers
 - [bmoeskau/engineering-ladders](https://github.com/bmoeskau/engineering-ladders) - A collection of engineering ladders for reference and inspiration
 - [TomasVotruba/awesome-php-ast](https://github.com/TomasVotruba/awesome-php-ast) - Awesome sources for amazing AST topic in world PHP
@@ -1708,8 +1708,9 @@
 
 ## PHP 
 
+- [laramint/laravel-brain](https://github.com/laramint/laravel-brain) - Visualize your Laravel request lifecycle as an interactive graph
 - [DamienCH33/MonAvisPro](https://github.com/DamienCH33/MonAvisPro) - Outil de gestion et d’analyse d’avis clients pour les petits commerces (restaurants, artisans, indépendants).
-- [Johnnybegood90/come-to-telegram-rickluminari1--GridTV](https://github.com/Johnnybegood90/come-to-telegram-rickluminari1--GridTV) - Real-time IPTV TV guide and any XMLTV/M3U source. Self-hosted, zero dependencies.
+- [Johnnybegood90/GridTV](https://github.com/Johnnybegood90/GridTV) - Real-time IPTV TV guide and any XMLTV/M3U source. Self-hosted, zero dependencies.
 - [olivier-ls/php-fts](https://github.com/olivier-ls/php-fts) - A self-contained full-text search engine in pure PHP. No extensions, no dependencies.
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 - [marko-php/marko](https://github.com/marko-php/marko) - The modular PHP framework.
@@ -2504,6 +2505,7 @@
 
 ## Python 
 
+- [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a spec
 - [Stickman230/claude-pentest](https://github.com/Stickman230/claude-pentest) - An open source plugin for enabeling claude to gain offensive pentesting capabilities
 - [JetBrains/skills](https://github.com/JetBrains/skills) - Curated agent skills collection verified by JetBrains
 - [phuryn/claude-usage](https://github.com/phuryn/claude-usage) - A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a progress bar. This gives you the full picture.
@@ -3225,8 +3227,8 @@
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [azerpas/bourso-desktop](https://github.com/azerpas/bourso-desktop) - Boursorama / BoursoBank unofficial desktop app
-- [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - The coding agent built for the web. stagewise is a purpose-built browser for developers with a coding agent built right in.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
+- [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - The Open Source Agentic IDE. Create and orchestrate coding agents, show app previews and run git workflows. Use your favorite models across all providers.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [malgorithms/tippycoco](https://github.com/malgorithms/tippycoco) - A browser game for 1 or 2 players, inspired by Slime Volleyball
 - [ai-driven-dev/rules](https://github.com/ai-driven-dev/rules) - Nos règles "AI Editor" basée sur Cursor pour optimiser 10x les réponses de l'IA.
