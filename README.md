@@ -502,7 +502,7 @@
 - [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
 - [scaleway/serverless-examples](https://github.com/scaleway/serverless-examples) - Example projects and patterns for use with Scaleway's serverless products
 - [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.
-- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go - MIRROR https://codeberg.org/tidwall/gjson
+- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [hasura/go-graphql-client](https://github.com/hasura/go-graphql-client) - Package graphql provides a GraphQL client implementation.
@@ -915,6 +915,7 @@
 
 ## Java 
 
+- [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative
 - [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 - [approvals/ApprovalTests.Java](https://github.com/approvals/ApprovalTests.Java) - ApprovalTest verification library for Java
 - [jmgarridopaz/bluezone](https://github.com/jmgarridopaz/bluezone) - An example application implementing Hexagonal Architecture
@@ -2505,11 +2506,13 @@
 
 ## Python 
 
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 263+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
+- [daymade/claude-code-skills](https://github.com/daymade/claude-code-skills) - Professional Claude Code skills marketplace featuring production-ready skills for enhanced development workflows.
 - [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a spec
 - [Stickman230/claude-pentest](https://github.com/Stickman230/claude-pentest) - An open source plugin for enabeling claude to gain offensive pentesting capabilities
 - [JetBrains/skills](https://github.com/JetBrains/skills) - Curated agent skills collection verified by JetBrains
 - [phuryn/claude-usage](https://github.com/phuryn/claude-usage) - A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a progress bar. This gives you the full picture.
-- [LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) - Agent Skills for Test Automation
+- [LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) - AI agent skills for TestMu AI (Formerly LambdaTest).
 - [Hushout/ai-context-cli](https://github.com/Hushout/ai-context-cli) - A Python CLI that transforms a URL or file into clean Markdown, a clear abstract, and an AI-readable structure.
 - [camilleroux/veille-techno](https://github.com/camilleroux/veille-techno) - Skill Claude Code de veille tech francophone. Agrège les flux RSS (Journal du Hacker, Human Coders News…) et produit un récap trié par jour. Zéro dépendance.
 - [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
@@ -3219,7 +3222,7 @@
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 - [kukshaus/transcribe](https://github.com/kukshaus/transcribe) - 
 - [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - The architecture catalog for distributed systems. Document events, services, domains & flows with AI-powered discovery.
-- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
+- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
