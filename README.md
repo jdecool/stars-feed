@@ -225,7 +225,7 @@
 - [codewithmukesh/dotnet-claude-kit](https://github.com/codewithmukesh/dotnet-claude-kit) - Make Claude Code a .NET 10 Expert
 - [MattParkerDev/SharpIDE](https://github.com/MattParkerDev/SharpIDE) - A modern, cross platform IDE for .NET, built with .NET & Godot
 - [SimonCropp/MarkdownSnippets](https://github.com/SimonCropp/MarkdownSnippets) - Extracts snippets from code files and merges them into markdown documents.
-- [poorna-soysa/url-shortener-app](https://github.com/poorna-soysa/url-shortener-app) - This repository contains a n URL Shortener sample application built with .NET 9 ,  NET Aspire, PostgreSQL
+- [poorna-soysa/url-shortener-app](https://github.com/poorna-soysa/url-shortener-app) - This repository contains a n URL Shortener sample application built with .NET 10 ,  NET Aspire, PostgreSQL
 - [poorna-soysa/grpc-demo](https://github.com/poorna-soysa/grpc-demo) - This repository contains a sample application built with .NET 8, demonstrating the use of gRPC for high-performance remote procedure calls
 - [MTG-Lyon/ArchitectureStyles](https://github.com/MTG-Lyon/ArchitectureStyles) - Compare Hexagonal, Clean and Vertical-Sliced architecture with the same domain
 - [uxmal/reko](https://github.com/uxmal/reko) - Reko is a binary decompiler.
@@ -1966,7 +1966,7 @@
 - [marvinrabe/laravel-wizards](https://github.com/marvinrabe/laravel-wizards) - 🧙‍♂️ Simple Wizard Controller for Laravel.
 - [hmones/laravel-digest](https://github.com/hmones/laravel-digest) - Simple way to convert your emails into configurable digests
 - [jawira/case-converter](https://github.com/jawira/case-converter) - Convert strings between 13 naming conventions: Snake case, Camel case, Kebab case, Pascal case, Ada case, Train case, Cobol case, Macro case, Upper case, Lower case, Title case, Sentence case and Dot 
-- [reliforp/reli-prof](https://github.com/reliforp/reli-prof) - A sampling profiler or a memory profiler for PHP written in PHP, which reads information about running PHP VM from outside the process. You can find performance bottlenecks or memory leaks of your scr
+- [reliforp/reli-prof](https://github.com/reliforp/reli-prof) - A sampling profiler or a memory usage profiler for PHP written in PHP, which reads information about running PHP VM from outside the process. You can find performance bottlenecks or memory leaks of yo
 - [canvural/phpstan-blade-rule](https://github.com/canvural/phpstan-blade-rule) - PHPStan rule for static analysis of Blade templates
 - [spatie/laravel-health](https://github.com/spatie/laravel-health) - Check the health of your Laravel app
 - [Hi-Folks/statistics](https://github.com/Hi-Folks/statistics) - PHP package that provides functions for calculating mathematical statistics of numeric data.
@@ -3090,7 +3090,7 @@
 - [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
 - [smnandre/symfony-cli-menubar](https://github.com/smnandre/symfony-cli-menubar) - A native macOS menu bar app that brings the power of the Symfony CLI to your fingertips.
 - [sebsto/wispr](https://github.com/sebsto/wispr) - Privacy-first voice dictation for macOS — powered by on-device Whisper AI. No cloud, no tracking.
-- [sk-ruban/notchi](https://github.com/sk-ruban/notchi) - notch app for coding tools
+- [sk-ruban/notchi](https://github.com/sk-ruban/notchi) - notch app for claude code & codex
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [adrienlupo/claude-glance](https://github.com/adrienlupo/claude-glance) - Native macOS floating widget that shows Claude Code session statuses at a glance
 - [hugoblanc/whisper-voice](https://github.com/hugoblanc/whisper-voice) - Application macOS de transcription vocale avec OpenAI Whisper
