@@ -756,7 +756,7 @@
 - [huydx/hget](https://github.com/huydx/hget) - interruptable, resumable download accelerator written in golang
 - [splitsh/lite](https://github.com/splitsh/lite) - Split a repository to read-only standalone repositories
 - [tatsushid/go-fastping](https://github.com/tatsushid/go-fastping) - ICMP ping library for Go inspired by AnyEvent::FastPing Perl module
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [youtube/doorman](https://github.com/youtube/doorman) - Doorman: Global Distributed Client Side Rate Limiting.
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [alexflint/gallium](https://github.com/alexflint/gallium) - Build desktop applications in Go and HTML.
@@ -993,7 +993,7 @@
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [frankdilo/MarkdownViewer](https://github.com/frankdilo/MarkdownViewer) - 
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [jdubray/puffin](https://github.com/jdubray/puffin) - 
 - [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) - ClamAV antivirus scanning for Node.js — scan file uploads with a single  function call. Zero dependencies. Typed Symbol verdicts. Local or Docker/clamd.
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
@@ -1503,13 +1503,11 @@
 
 - [ksimback/tech-debt-skill](https://github.com/ksimback/tech-debt-skill) - Claude Code skill that produces a thorough, file-cited tech debt audit of an entire codebase
 - [abijoserah/suggest-designs](https://github.com/abijoserah/suggest-designs) - 
-- [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [hiblaphp/hibla](https://github.com/hiblaphp/hibla) - Modern Asynchonous Runtime for PHP
 - [VicKayro/claude-security-audit](https://github.com/VicKayro/claude-security-audit) - Skill Claude Code pour audit de sécurité complet (OWASP Top 10, CWE/CVE, headers, auth, paywall, infra)
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) - One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.
-- [stanza-dev/the-dev-handbook](https://github.com/stanza-dev/the-dev-handbook) - 🧑‍💻 Free, open-source courses for modern developers.
 - [Fab2bprog/Radinus](https://github.com/Fab2bprog/Radinus) - Radinus: Windev Personal finance management software source code [WD28]
 - [OneRedOak/claude-code-workflows](https://github.com/OneRedOak/claude-code-workflows) - The best workflows and configurations I've developed, having heavily used Claude Code since the day of it's release. Workflows are based off applied learnings from our AI-native startup.
 - [Necior/awesome-jj](https://github.com/Necior/awesome-jj) - A curated list of awesome Jujutsu things
@@ -1709,6 +1707,7 @@
 
 ## PHP 
 
+- [denzyldick/Box](https://github.com/denzyldick/Box) - 
 - [laramint/laravel-brain](https://github.com/laramint/laravel-brain) - Visualize your Laravel request lifecycle as an interactive graph
 - [DamienCH33/MonAvisPro](https://github.com/DamienCH33/MonAvisPro) - Outil de gestion et d’analyse d’avis clients pour les petits commerces (restaurants, artisans, indépendants).
 - [Johnnybegood90/GridTV](https://github.com/Johnnybegood90/GridTV) - Real-time IPTV TV guide and any XMLTV/M3U source. Self-hosted, zero dependencies.
@@ -2506,10 +2505,11 @@
 
 ## Python 
 
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 263+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 313+ Claude Code skills & agent skills & plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, busines
 - [daymade/claude-code-skills](https://github.com/daymade/claude-code-skills) - Professional Claude Code skills marketplace featuring production-ready skills for enhanced development workflows.
 - [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a spec
 - [Stickman230/claude-pentest](https://github.com/Stickman230/claude-pentest) - An open source plugin for enabeling claude to gain offensive pentesting capabilities
+- [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [JetBrains/skills](https://github.com/JetBrains/skills) - Curated agent skills collection verified by JetBrains
 - [phuryn/claude-usage](https://github.com/phuryn/claude-usage) - A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a progress bar. This gives you the full picture.
 - [LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) - AI agent skills for TestMu AI (Formerly LambdaTest).
@@ -2825,6 +2825,7 @@
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [todoesverso/logss](https://github.com/todoesverso/logss) - A simple cli for logs splitting
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -3086,6 +3087,7 @@
 
 ## Swift 
 
+- [pluk-inc/markdown-preview](https://github.com/pluk-inc/markdown-preview) - A simple Markdown viewer for reading .md files
 - [agentcooper/Telik](https://github.com/agentcooper/Telik) - Native macOS app to track YouTube channels and playlists
 - [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
 - [smnandre/symfony-cli-menubar](https://github.com/smnandre/symfony-cli-menubar) - A native macOS menu bar app that brings the power of the Symfony CLI to your fingertips.
@@ -3174,7 +3176,7 @@
 - [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Powerful MacOS Launcher
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs
 - [pea3nut/agent-add](https://github.com/pea3nut/agent-add) - Install MCP, Skills, slash commands, sub-agents and more into any AI tool like Claude Code, Cursor, etc.
-- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claud
+- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with MCP and live tracing. Three runtime dependencies.
 - [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
 - [mnapoli/PromptEdit](https://github.com/mnapoli/PromptEdit) - Better prompt editor for Claude Code
@@ -3222,7 +3224,6 @@
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 - [kukshaus/transcribe](https://github.com/kukshaus/transcribe) - 
 - [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - The architecture catalog for distributed systems. Document events, services, domains & flows with AI-powered discovery.
-- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
