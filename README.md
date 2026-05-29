@@ -401,6 +401,7 @@
 
 ## Dart 
 
+- [sjjian/openhare](https://github.com/sjjian/openhare) - AI-powered desktop SQL client. Cross-platform. Built with Flutter.
 - [flutter/skills](https://github.com/flutter/skills) - 
 - [dgirard/fiches-veille](https://github.com/dgirard/fiches-veille) - 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
@@ -950,7 +951,6 @@
 - [arpinum/alexandria-api](https://github.com/arpinum/alexandria-api) - 
 - [nuxeo/gatling-report](https://github.com/nuxeo/gatling-report) - Parse Galting simulation.log files to output CSV stats or build HTML reports with Plotly charts.
 - [jenkinsci/partyparrotstatus-plugin](https://github.com/jenkinsci/partyparrotstatus-plugin) - A party parrot set of icons for Jenkins
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [guardianproject/haven](https://github.com/guardianproject/haven) - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
 - [solita/clamav-rest](https://github.com/solita/clamav-rest) - Simple clamd REST proxy
 - [plantuml/plantuml-server](https://github.com/plantuml/plantuml-server) - PlantUML Online Server
@@ -1546,7 +1546,7 @@
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [oliverbenns/john-carmack-plan](https://github.com/oliverbenns/john-carmack-plan) - An archive of John Carmack’s .plan files in readable markdown format
 - [mnishihan/laravel-docs-in-pdf](https://github.com/mnishihan/laravel-docs-in-pdf) - Up-to-date Laravel documentation in PDF format (all versions)
-- [rootkit-io/awesome-malware-development](https://github.com/rootkit-io/awesome-malware-development) - Curated resources for malware analysis, reverse engineering, and defensive security research.
+- [rootkit-io/awesome-malware-development](https://github.com/rootkit-io/awesome-malware-development) - Curated resources for malware dev, reverse engineering, and defensive security research.
 - [rubymorillo/pocket-tech-writing-list](https://github.com/rubymorillo/pocket-tech-writing-list) - A small but formidable list of technical writing resources for developers
 - [bmoeskau/engineering-ladders](https://github.com/bmoeskau/engineering-ladders) - A collection of engineering ladders for reference and inspiration
 - [TomasVotruba/awesome-php-ast](https://github.com/TomasVotruba/awesome-php-ast) - Awesome sources for amazing AST topic in world PHP
@@ -1713,7 +1713,7 @@
 
 - [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) - The missing audit log library
 - [vinceAmstoutz/symfony-security-auditor](https://github.com/vinceAmstoutz/symfony-security-auditor) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai.
-- [denzyldick/Box](https://github.com/denzyldick/Box) - 
+- [denzyldick/Box](https://github.com/denzyldick/Box) - Box is a modern, type-safe error handling library for PHP 8.2+. It replaces implicit, optional exceptions with an explicit Result type that forces callers to acknowledge both success and failure.
 - [laramint/laravel-brain](https://github.com/laramint/laravel-brain) - Visualize your Laravel request lifecycle as an interactive graph
 - [DamienCH33/MonAvisPro](https://github.com/DamienCH33/MonAvisPro) - Outil de gestion et d’analyse d’avis clients pour les petits commerces (restaurants, artisans, indépendants).
 - [Johnnybegood90/GridTV](https://github.com/Johnnybegood90/GridTV) - Real-time IPTV TV guide and any XMLTV/M3U source. Self-hosted, zero dependencies.
@@ -2513,7 +2513,7 @@
 
 - [getsentry/skills](https://github.com/getsentry/skills) - Agent Skills used by the Sentry team for development.
 - [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 329 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 320+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
 - [daymade/claude-code-skills](https://github.com/daymade/claude-code-skills) - Professional Claude Code skills marketplace featuring production-ready skills for enhanced development workflows.
 - [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a spec
 - [Stickman230/claude-pentest](https://github.com/Stickman230/claude-pentest) - An open source plugin for enabeling claude to gain offensive pentesting capabilities
@@ -2662,6 +2662,7 @@
 - [aws/aws-sam-cli](https://github.com/aws/aws-sam-cli) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
 - [dalibo/temboard](https://github.com/dalibo/temboard) - PostgreSQL Remote Control
 - [ansible/molecule](https://github.com/ansible/molecule) - An ansible-native testing framework for collections, playbooks, and roles with configurable workflows for testing any system or service
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated Nginx Reverse Proxy for Docker
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [arnaucube/coffeeMiner](https://github.com/arnaucube/coffeeMiner) - collaborative (mitm) cryptocurrency mining pool in wifi networks
@@ -3175,7 +3176,7 @@
 - [0-AI-UG/cate](https://github.com/0-AI-UG/cate) - An infinite zoomable canvas for coding — editor, terminal, and browser panels in a spatial workspace.
 - [fccview/jotty](https://github.com/fccview/jotty) - Lightweight but powerful alternative for managing your personal, file based, notes and checklists.
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed p
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandb
 - [antoinevastel/fpscanner](https://github.com/antoinevastel/fpscanner) - Self-hosted browser fingerprinting and bot detection with real-world constraints in mind.
 - [icann/rdap-lookup-client](https://github.com/icann/rdap-lookup-client) - An example of Domain Name Registration Data Lookup using RDAP protocol.
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
@@ -3240,7 +3241,7 @@
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [azerpas/bourso-desktop](https://github.com/azerpas/bourso-desktop) - Boursorama / BoursoBank unofficial desktop app
 - [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - The Open Source Agentic IDE. Create and orchestrate coding agents, show app previews and run git workflows. Use your favorite models across all providers.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [malgorithms/tippycoco](https://github.com/malgorithms/tippycoco) - A browser game for 1 or 2 players, inspired by Slime Volleyball
 - [ai-driven-dev/rules](https://github.com/ai-driven-dev/rules) - Nos règles "AI Editor" basée sur Cursor pour optimiser 10x les réponses de l'IA.
