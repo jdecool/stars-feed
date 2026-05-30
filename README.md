@@ -825,7 +825,7 @@
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
-- [Secrover/Secrover](https://github.com/Secrover/Secrover) - Open-source security reports — no paywalls, just actionable insights.
+- [Secrover/Secrover](https://github.com/Secrover/Secrover) - Open-Source Security Reports, Made Simple - 100% free. No paywalls, just actionable insights.
 - [lyrixx/composer-diff](https://github.com/lyrixx/composer-diff) - Web application to  compare two `composer.lock` and get a beautiful diff
 - [givanz/vvveb-admin-template](https://github.com/givanz/vvveb-admin-template) - Vvveb Admin Template
 - [benjamin-brady/gitlab-simulator](https://github.com/benjamin-brady/gitlab-simulator) - 
@@ -1432,6 +1432,7 @@
 ## MDX 
 
 - [kdelfour/Ebook_To_be_Or_not_to_be_CTO](https://github.com/kdelfour/Ebook_To_be_Or_not_to_be_CTO) - 
+- [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 
 ## Makefile 
 
@@ -1620,7 +1621,6 @@
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [jgrodziski/learn-computing-directory-data](https://github.com/jgrodziski/learn-computing-directory-data) - 
 - [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source
-- [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [symfony/lts](https://github.com/symfony/lts) - Enforces Long Term Supported versions of Symfony components
@@ -2823,6 +2823,7 @@
 
 ## Rust 
 
+- [Trystan-SA/rproc](https://github.com/Trystan-SA/rproc) - A Linux resource & process monitor inspired by Windows 11's Task Manager. Written in Rust with egui.
 - [Paseru/sinew](https://github.com/Paseru/sinew) - Desktop IDE with built-in AI coding agents
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
@@ -3186,7 +3187,7 @@
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs
 - [pea3nut/agent-add](https://github.com/pea3nut/agent-add) - Install MCP, Skills, slash commands, sub-agents and more into any AI tool like Claude Code, Cursor, etc.
 - [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
-- [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with MCP and live tracing. Three runtime dependencies.
+- [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.
 - [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
 - [mnapoli/PromptEdit](https://github.com/mnapoli/PromptEdit) - Better prompt editor for Claude Code
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings without editing. Mac/Windows/Linux
@@ -3232,7 +3233,7 @@
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 - [kukshaus/transcribe](https://github.com/kukshaus/transcribe) - 
-- [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - The architecture catalog for distributed systems. Document events, services, domains & flows with AI-powered discovery.
+- [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - The discovery and governance layer for event-driven systems. Document your domains, services, events and schemas — for your teams and your AI agents.
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
