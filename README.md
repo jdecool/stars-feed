@@ -2826,7 +2826,8 @@
 
 ## Rust 
 
-- [Trystan-SA/rproc](https://github.com/Trystan-SA/rproc) - A Linux resource & process monitor inspired by Windows 11's Task Manager. Written in Rust with egui.
+- [harehare/mq](https://github.com/harehare/mq) - A jq-like Markdown query language for command-line processing
+- [Trystan-SA/rproc](https://github.com/Trystan-SA/rproc) - A Linux resource & process monitor inspired by Windows 11's Task Manager. Written in Rust with Slint
 - [Paseru/sinew](https://github.com/Paseru/sinew) - Desktop IDE with built-in AI coding agents
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
@@ -3219,7 +3220,7 @@
 - [photon-hq/imessage-kit](https://github.com/photon-hq/imessage-kit) - A type-safe, elegant iMessage SDK for macOS with zero dependencies
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [NTCoding/living-architecture](https://github.com/NTCoding/living-architecture) - Extra software architecture from your code as living documentation. AI-assisted.
-- [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) - A coding agent hook that acts as a safety net, catching destructive git and filesystem commands before they execute. Supports Codex, Claude Code, OpenCode, Gemini CLI and Copilot CLI.
+- [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) - A coding agent CLI hook that acts as a safety net, catching destructive git and filesystem commands before they execute. Supports Codex, Claude Code, OpenCode, Gemini CLI, Copilot CLI, Kimi CLI and Pi
 - [DeepMyst/Mysti](https://github.com/DeepMyst/Mysti) - AI coding dream team of agents for VS Code. Claude Code + openai Codex collaborate in brainstorm mode, debate solutions, and synthesize the best approach for your code.
 - [buildermethods/design-os](https://github.com/buildermethods/design-os) - The missing design process between your product idea and your codebase.
 - [skaldlabs/skald](https://github.com/skaldlabs/skald) - Context layer platform in your infrastructure
