@@ -605,7 +605,7 @@
 - [shaxbee/go-spatialite](https://github.com/shaxbee/go-spatialite) - Spatialite SQL Driver for Golang
 - [mdlayher/schedgroup](https://github.com/mdlayher/schedgroup) - Package schedgroup provides a goroutine worker pool which schedules tasks to be performed at or after a specified time. MIT Licensed.
 - [michelin/ChopChop](https://github.com/michelin/ChopChop) - ChopChop is a CLI to help developers scanning endpoints and identifying exposition of sensitive services/files/folders.
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework for AI agents
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for services and agents
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
 - [lingrino/go-fault](https://github.com/lingrino/go-fault) - go fault injection library
 - [RussellLuo/micron](https://github.com/RussellLuo/micron) - A minimal implementation of the fault-tolerant job scheduler.
@@ -1709,6 +1709,7 @@
 
 ## PHP 
 
+- [maelgangloff/domain-watchdog](https://github.com/maelgangloff/domain-watchdog) - 🔍 An app that monitors domain names using RDAP, tracks their history, and helps you acquire them when they expire
 - [pantaflex44/Tiquettes](https://github.com/pantaflex44/Tiquettes) - générateur d'étiquettes pour tableaux / armoires électriques.
 - [CarlosGude/integrationEngine](https://github.com/CarlosGude/integrationEngine) - Connect external APIs to Symfony through configurable adapters, without writing repetitive clients.
 - [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) - The missing audit log library
@@ -2376,7 +2377,6 @@
 - [K-Phoen/rulerz](https://github.com/K-Phoen/rulerz) - Powerful implementation of the Specification pattern in PHP
 - [jenssegers/php-proxy](https://github.com/jenssegers/php-proxy) - A PHP proxy script with https and post support
 - [raml-org/raml-php-parser](https://github.com/raml-org/raml-php-parser) - Community-maintained RAML parser for php
-- [michaeljs1990/composer-map](https://github.com/michaeljs1990/composer-map) - Map the dependency graph of composer packages
 - [jankais3r/iOS-Mail.app-inject-kit](https://github.com/jankais3r/iOS-Mail.app-inject-kit) - iOS 8.3 Mail.app inject kit
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
 - [obalais/gitlab-issue-by-mail](https://github.com/obalais/gitlab-issue-by-mail) - Add new issue to your Gitlab by sending an email to bug@yourdomain.com
@@ -2510,6 +2510,7 @@
 
 ## Python 
 
+- [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - A Claude Code skill bundle for bug hunting and external red-team work — 71 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [getsentry/skills](https://github.com/getsentry/skills) - Agent Skills used by the Sentry team for development.
