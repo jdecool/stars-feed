@@ -2374,6 +2374,7 @@
 - [laravel/vat-calculator](https://github.com/laravel/vat-calculator) - Handle all the hard stuff related to EU MOSS tax/vat regulations, the way it should be.
 - [fxpio/composer-asset-plugin](https://github.com/fxpio/composer-asset-plugin) - NPM/Bower Dependency Manager for Composer
 - [soullivaneuh/composer-versions-check](https://github.com/soullivaneuh/composer-versions-check) - Checks if packages are up to date to last major versions after update
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [janephp/jane](https://github.com/janephp/jane) - DEPRECATED See https://github.com/janephp/janephp
 - [K-Phoen/rulerz](https://github.com/K-Phoen/rulerz) - Powerful implementation of the Specification pattern in PHP
 - [jenssegers/php-proxy](https://github.com/jenssegers/php-proxy) - A PHP proxy script with https and post support
@@ -2841,7 +2842,7 @@
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [todoesverso/logss](https://github.com/todoesverso/logss) - A simple cli for logs splitting
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [ccusage/ccusage](https://github.com/ccusage/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
+- [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -3372,7 +3373,7 @@
 - [TankerHQ/sdk-js](https://github.com/TankerHQ/sdk-js) - Tanker client-side encryption SDK for JavaScript
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [jasperapp/jasper](https://github.com/jasperapp/jasper) - Jasper - A flexible and powerful issue reader for GitHub
-- [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
+- [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - Windows 95 in an app. Runs on macOS, Linux, and Windows.
 - [Godefroy/carte-dvf](https://github.com/Godefroy/carte-dvf) - Carte de valeurs foncières
 - [chrismaltby/gb-studio](https://github.com/chrismaltby/gb-studio) - A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
 - [react95-io/React95](https://github.com/react95-io/React95) - 🌈🕹  Windows 95 style UI component library for React
@@ -3427,7 +3428,6 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [phiresky/nmap-log-parse](https://github.com/phiresky/nmap-log-parse) - Logs which devices are in your local network and draws graphs
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code.
 - [specui/specui](https://github.com/specui/specui) - Generate code with specs
