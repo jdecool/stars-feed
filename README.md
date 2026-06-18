@@ -460,7 +460,7 @@
 - [igor-php/igor-php](https://github.com/igor-php/igor-php) - Static analysis and state mutation auditor specifically designed for FrankenPHP's Worker Mode.
 - [alexandre-daubois/ember](https://github.com/alexandre-daubois/ember) - 🔥 Real-time terminal dashboard for Caddy servers, with built-in FrankenPHP support
 - [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription
-- [getplumber/plumber](https://github.com/getplumber/plumber) - Open source CLI to check compliance of your GitLab CI/CD pipelines and repos
+- [getplumber/plumber](https://github.com/getplumber/plumber) - Open source CLI to check compliance of your CI/CD pipelines and repos
 - [antonmedv/crow.watch](https://github.com/antonmedv/crow.watch) - Collecting shiny things
 - [elek/bus-factor](https://github.com/elek/bus-factor) - Bus-factor calculation based on git history.
 - [nixys/nxs-data-anonymizer](https://github.com/nixys/nxs-data-anonymizer) - A tool for anonymizing PostgreSQL and MySQL databases' dump
@@ -586,7 +586,6 @@
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Track stocks, crypto, and derivatives prices and positions in real time from your terminal
 - [fabpot/local-php-security-checker](https://github.com/fabpot/local-php-security-checker) - PHP security vulnerabilities checker
 - [geohot/minikeyvalue](https://github.com/geohot/minikeyvalue) - A distributed key value store in under 1000 lines. Used in production at comma.ai
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) - A Golang Job Scheduling Package.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [redirect2me/which-dns](https://github.com/redirect2me/which-dns) - Detects which DNS server is being used - https://which.resolve.rs/
@@ -847,6 +846,7 @@
 - [jbrains/trivia](https://github.com/jbrains/trivia) - Legacy Code Retreat - Trivia Game codebase
 - [screensy/screensy](https://github.com/screensy/screensy) - Simple peer-to-peer screen sharing
 - [berzniz/github_pr_tree](https://github.com/berzniz/github_pr_tree) - Add a file tree to GitHub's Pull Request
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [isaaceindhoven/velocita-proxy](https://github.com/isaaceindhoven/velocita-proxy) - Project was moved!
 - [beberlei/php-rfc-watch](https://github.com/beberlei/php-rfc-watch) - Interactive voting results for PHP RFC process.
 - [BustByte/coronastatus](https://github.com/BustByte/coronastatus) - Anonymous crowd sourcing of COVID-19 symptoms all over the world (with public data sets)!
@@ -1512,7 +1512,6 @@
 - [VicKayro/claude-security-audit](https://github.com/VicKayro/claude-security-audit) - Skill Claude Code pour audit de sécurité complet (OWASP Top 10, CWE/CVE, headers, auth, paywall, infra)
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-- [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) - One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.
 - [Fab2bprog/Radinus](https://github.com/Fab2bprog/Radinus) - Radinus: Windev Personal finance management software source code [WD28]
 - [OneRedOak/claude-code-workflows](https://github.com/OneRedOak/claude-code-workflows) - The best workflows and configurations I've developed, having heavily used Claude Code since the day of it's release. Workflows are based off applied learnings from our AI-native startup.
 - [Necior/awesome-jj](https://github.com/Necior/awesome-jj) - A curated list of awesome Jujutsu things
@@ -1889,7 +1888,7 @@
 - [friendsoftwig/twigcs](https://github.com/friendsoftwig/twigcs) - The missing checkstyle for twig!
 - [php-fig/clock](https://github.com/php-fig/clock) - PSR-20 repository
 - [durable-workflow/waterline](https://github.com/durable-workflow/waterline) - An elegant UI for monitoring workflows.
-- [durable-workflow/workflow](https://github.com/durable-workflow/workflow) - Durable workflow engine that allows users to track job status, orchestrate microservices and write long running persistent distributed workflows.
+- [durable-workflow/workflow](https://github.com/durable-workflow/workflow) - Core package for defining and running durable workflows and activities. Supports long-running persistent workflows, retries, queues, parallel execution, workflow monitoring, dedicated storage connecti
 - [heiglandreas/holidayChecker](https://github.com/heiglandreas/holidayChecker) - Check for holidays - locale-aware
 - [crew-cr/Crew](https://github.com/crew-cr/Crew) - Code review tool for git projects
 - [flow-php/etl](https://github.com/flow-php/etl) - PHP - ETL (Extract Transform Load) data processing library
@@ -2531,6 +2530,7 @@
 - [camilleroux/veille-techno](https://github.com/camilleroux/veille-techno) - Skill Claude Code de veille tech francophone. Agrège les flux RSS (Journal du Hacker, Human Coders News…) et produit un récap trié par jour. Zéro dépendance.
 - [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
 - [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run.
+- [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) - One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
 - [HKUDS/FastCode](https://github.com/HKUDS/FastCode) - "FastCode: Accelerating and Streamlining Your Code Understanding"
 - [NoobyGains/claude-pulse](https://github.com/NoobyGains/claude-pulse) - Real-time usage monitor for Claude Code — session limits, weekly limits, and plan tier with colour-coded progress bars
@@ -3296,7 +3296,7 @@
 - [Web-SyncPlay/Web-SyncPlay](https://github.com/Web-SyncPlay/Web-SyncPlay) - Watch online media like YouTube, Vimeo, Soundcloud or video/audio files in sync.
 - [spatie/fatten](https://github.com/spatie/fatten) - Transform dot-notation-like objects into optimised nested objects.
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Status page with uptime monitoring & API monitoring as code   🫖
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
+- [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [thomvaill/log4brains](https://github.com/thomvaill/log4brains) - ✍️ Architecture Decision Records (ADR) management and publication tool
 - [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI (v3.1, v3.0, and v2.0), Arazzo v1.0, as well as AsyncAPI v2.x.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
