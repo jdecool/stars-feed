@@ -674,7 +674,6 @@
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [aacebedo/dnsdock](https://github.com/aacebedo/dnsdock) - DNS service discovery for Docker containers
 - [orisano/dlayer](https://github.com/orisano/dlayer) - dlayer is docker layer analyzer.
-- [buzzfeed/sso](https://github.com/buzzfeed/sso) - sso, aka S.S.Octopus, aka octoboi, is a single sign-on solution for securing internal services
 - [matoous/go-nanoid](https://github.com/matoous/go-nanoid) - Golang random IDs generator.
 - [dutchcoders/go-clamd](https://github.com/dutchcoders/go-clamd) - Interface to clamd (clamav daemon). You can use go-clamd to implement virus detection capabilities to your application.
 - [techjacker/repo-security-scanner](https://github.com/techjacker/repo-security-scanner) - CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys
@@ -840,6 +839,7 @@
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [technext/darkpan](https://github.com/technext/darkpan) - 
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
+- [allure-framework/allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of infor
 - [othyn/php-enum-enhancements](https://github.com/othyn/php-enum-enhancements) - Adds some helpful enum traits to the glorious new PHP Enum type, like value lists and value arrays.
 - [roberto-butti/50-drops-of-php](https://github.com/roberto-butti/50-drops-of-php) - Open source and free e-book, that collects collects more than 50 useful, unknown, underrated PHP functions or stuff discovered, used, and learned during PHP's daily use.
 - [infosecstreams/infosecstreams.github.io](https://github.com/infosecstreams/infosecstreams.github.io) - A (hopefully) actively maintained activity-based-autosorted list of InfoSec Streamers
@@ -927,7 +927,6 @@
 - [ff4j/ff4j](https://github.com/ff4j/ff4j) - Feature Flags for Java made easy
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
 - [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool.
-- [allure-framework/allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of infor
 - [Haehnchen/idea-php-symfony2-plugin](https://github.com/Haehnchen/idea-php-symfony2-plugin) - IntelliJ IDEA / PhpStorm Symfony Plugin
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [archimatetool/archi](https://github.com/archimatetool/archi) - Archi: ArchiMate Modelling Tool
@@ -1596,6 +1595,7 @@
 - [mthenw/awesome-layers](https://github.com/mthenw/awesome-layers) - λ A curated list of awesome AWS Lambda Layers. Sponsored by https://cloudash.dev
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
+- [buzzfeed/sso](https://github.com/buzzfeed/sso) - sso, aka S.S.Octopus, aka octoboi, is a single sign-on solution for securing internal services
 - [Porges/programming-history](https://github.com/Porges/programming-history) - Inspired by Cajori’s A History of Mathematical Notations, and/or TV Tropes.
 - [InterviewMap/CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
 - [awesome-inc/hello.gitlab.monorepo](https://github.com/awesome-inc/hello.gitlab.monorepo) - A simple script helping towards using GitLab CI with Monorepos
@@ -3214,7 +3214,7 @@
 - [NTCoding/autonomous-claude-agent-team](https://github.com/NTCoding/autonomous-claude-agent-team) - An autonomous claude code development team orchestrated by a hook-driven deterministic code workflow. An example repo to inspire your own workflow
 - [google/dotguides](https://github.com/google/dotguides) - 
 - [JSK9999/ai-nexus](https://github.com/JSK9999/ai-nexus) - AI coding assistant rule manager for Claude Code, Cursor, and Codex. Load only the rules you need.
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they
 - [Slashgear/poker-planning](https://github.com/Slashgear/poker-planning) - Real-time poker planning app for agile team estimation   using Fibonacci sequence
 - [cmer81/open-meteo-mcp](https://github.com/cmer81/open-meteo-mcp) - A comprehensive MCP server providing access to Open-Meteo weather APIs for Large Language Models
 - [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - The missing DevTools for Claude Code — inspect session logs, tool calls, token usage, subagents, and context window in a visual UI. Free, open source.
