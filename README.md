@@ -420,6 +420,7 @@
 - [grpc/grpc-docker-library](https://github.com/grpc/grpc-docker-library) - Contains dockerfiles for gRPC in different languages
 - [MilesChou/docker-phalcon](https://github.com/MilesChou/docker-phalcon) - Dockerized Phalcon
 - [jakzal/phpqa](https://github.com/jakzal/phpqa) - Docker image that provides static analysis tools for PHP
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`.
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker. Run Laravel, Symfony, WordPress, Drupal, Magento, CodeIgniter, Yii, Lumen, Phalcon, CakePHP or any PHP project with 70+ pre-configured services: Nginx, Apa
 - [zoobab/vagrant-inside-docker](https://github.com/zoobab/vagrant-inside-docker) - vagrant-inside-docker
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
@@ -2516,7 +2517,7 @@
 - [MaxMiksa/Auto-Company](https://github.com/MaxMiksa/Auto-Company) - An auto-company works for 24/7 on your own PC - Windows/Linux/macOS.
 - [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - A Claude Code skill bundle for bug hunting and external red-team work — 71 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
-- [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [getsentry/skills](https://github.com/getsentry/skills) - Agent Skills used by the Sentry team for development.
 - [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
@@ -2535,7 +2536,7 @@
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
 - [HKUDS/FastCode](https://github.com/HKUDS/FastCode) - "FastCode: Accelerating and Streamlining Your Code Understanding"
 - [NoobyGains/claude-pulse](https://github.com/NoobyGains/claude-pulse) - Real-time usage monitor for Claude Code — session limits, weekly limits, and plan tier with colour-coded progress bars
-- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Cop
+- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [Huluti/ossatrisk](https://github.com/Huluti/ossatrisk) - Tracking high-risk oss packages: abandoned, undermaintained, or CVE-exposed.
 - [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,600+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official
@@ -2834,7 +2835,7 @@
 - [msitarzewski/brew-browser](https://github.com/msitarzewski/brew-browser) - Homebrew is the standard package manager on macOS. brew-browser gives it a real native GUI.
 - [harehare/mq](https://github.com/harehare/mq) - A jq-like Markdown query language for command-line processing
 - [Trystan-SA/rproc](https://github.com/Trystan-SA/rproc) - A Linux resource & process monitor inspired by Windows 11's Task Manager. Written in Rust with Slint
-- [Paseru/sinew](https://github.com/Paseru/sinew) - Desktop IDE with built-in AI coding agents
+- [Paseru/sinew](https://github.com/Paseru/sinew) - Agentic IDE with custom harness
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [hansipie/ecotokens](https://github.com/hansipie/ecotokens) - Token optimizer for Claude Code Gemini CLI & Qwen Code — compresses shell outputs via PreToolUse hook, tracks USD savings in TUI dashboard
@@ -2980,7 +2981,7 @@
 - [DrCatHicks/learning-opportunities](https://github.com/DrCatHicks/learning-opportunities) - A Claude or Codex skill for deliberate skill development during AI-assisted coding
 - [evanklem/evanflow](https://github.com/evanklem/evanflow) - A TDD-driven iterative feedback loop for software development. 16 cohesive Claude Code skills walk an idea from brainstorm → plan → execute → iterate, with checkpoints throughout.
 - [BULDEE/ai-craftsman-superpowers](https://github.com/BULDEE/ai-craftsman-superpowers) - Claude Code plugin for senior craftsmen. Multi-pack architecture (core, symfony, react) with DDD patterns, Clean Architecture, TDD workflows, and intelligent scaffold system. Includes design/debug/spe
-- [FlorianBruniaux/claude-code-plugins](https://github.com/FlorianBruniaux/claude-code-plugins) - Production-ready Claude Code plugins from the Ultimate Guide
+- [FlorianBruniaux/claude-code-plugins](https://github.com/FlorianBruniaux/claude-code-plugins) - Production-ready Claude Code plugins: skills, hooks, agents, slash commands, and MCP templates.
 - [mnapoli/skill-address-pr-review](https://github.com/mnapoli/skill-address-pr-review) - Claude skill that fixes PR comments and CI failures
 - [gwittebolle/claude-carbon](https://github.com/gwittebolle/claude-carbon) - Track the carbon footprint of your Claude Code sessions
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
@@ -3056,7 +3057,6 @@
 - [devfriendlyplaces/data](https://github.com/devfriendlyplaces/data) - Json files for friendly places
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [thecodingmachine/kickoff-docker-php](https://github.com/thecodingmachine/kickoff-docker-php) - :whale: :elephant: :rocket: Easily setup a PHP project with Docker
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`.
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
 - [TheNewNormal/kube-solo-osx](https://github.com/TheNewNormal/kube-solo-osx) - Local development Kubernetes Solo Cluster for macOS made very simple
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
@@ -3201,7 +3201,7 @@
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs
 - [pea3nut/agent-add](https://github.com/pea3nut/agent-add) - Install MCP, Skills, slash commands, sub-agents and more into any AI tool like Claude Code, Cursor, etc.
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
-- [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.
+- [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - TypeScript multi-agent orchestration framework. Describe a goal, a coordinator decomposes it into a task DAG that runs on any LLM: Claude, GPT, Gemini, DeepSeek, or local models. Model-agnostic and MC
 - [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
 - [mnapoli/PromptEdit](https://github.com/mnapoli/PromptEdit) - Better prompt editor for Claude Code
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
