@@ -84,6 +84,7 @@
 - [YAML](#yaml)
 - [YARA](#yara)
 - [Zig](#zig)
+- [templ](#templ)
 
 ## ActionScript 
 
@@ -457,6 +458,7 @@
 
 ## Go 
 
+- [tamnd/kage](https://github.com/tamnd/kage) - Shadow any website for offline viewing, with the JavaScript stripped out
 - [StephanSchmidt/loupe](https://github.com/StephanSchmidt/loupe) - Open-source CLI that measures AI coding-assistant impact (Claude Code, Copilot, Cursor, Aider) across Bitbucket+Jira, GitHub, GitLab, Azure DevOps, or Linear — and renders a reveal.js exec deck. Runs 
 - [igor-php/igor-php](https://github.com/igor-php/igor-php) - Static analysis and state mutation auditor specifically designed for FrankenPHP's Worker Mode.
 - [alexandre-daubois/ember](https://github.com/alexandre-daubois/ember) - 🔥 Real-time terminal dashboard for Caddy servers, with built-in FrankenPHP support
@@ -474,7 +476,6 @@
 - [paramientos/presto](https://github.com/paramientos/presto) - Presto is a dependency manager for PHP and drop-in-replacement for Composer
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite server with MySQL wire compatible interface
 - [guigui42/mcp-vosdroits](https://github.com/guigui42/mcp-vosdroits) - Serveur MCP pour Service Public Vos Droits
-- [SoulKyu/notificator](https://github.com/SoulKyu/notificator) - Notificator is a Karma replacement for alertmanager with sounds and notifications
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [trim21/go-phpserialize](https://github.com/trim21/go-phpserialize) - PHP `serialize` and `unserialize` in Golang
 - [alexferrari88/sbstck-dl](https://github.com/alexferrari88/sbstck-dl) - CLI tool for downloading Substack newsletters for archival purposes, offline reading, or data analysis.
@@ -605,7 +606,7 @@
 - [shaxbee/go-spatialite](https://github.com/shaxbee/go-spatialite) - Spatialite SQL Driver for Golang
 - [mdlayher/schedgroup](https://github.com/mdlayher/schedgroup) - Package schedgroup provides a goroutine worker pool which schedules tasks to be performed at or after a specified time. MIT Licensed.
 - [michelin/ChopChop](https://github.com/michelin/ChopChop) - ChopChop is a CLI to help developers scanning endpoints and identifying exposition of sensitive services/files/folders.
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
 - [lingrino/go-fault](https://github.com/lingrino/go-fault) - go fault injection library
 - [RussellLuo/micron](https://github.com/RussellLuo/micron) - A minimal implementation of the fault-tolerant job scheduler.
@@ -991,6 +992,7 @@
 
 ## JavaScript 
 
+- [webofmarius/SQLJoiner](https://github.com/webofmarius/SQLJoiner) - Sql Joiner - Graphical SQL builder and debugger
 - [sgoedecke/skifreedle](https://github.com/sgoedecke/skifreedle) - 
 - [doctly/switchboard](https://github.com/doctly/switchboard) - A desktop app for browsing, searching, and managing CLI coding sessions
 - [Webba-Creative-Technologies/vice](https://github.com/Webba-Creative-Technologies/vice) - VICE is a security auditing CLI tool that finds vulnerabilities in your web applications.
@@ -1407,7 +1409,7 @@
 
 ## Kotlin 
 
-- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
+- [librepods-org/librepods](https://github.com/librepods-org/librepods) - AirPods liberated from Apple's ecosystem.
 - [j-plugins/php-dump-plugin](https://github.com/j-plugins/php-dump-plugin) - Intellij IDEA Plugin Exposes PHP internal stuctures
 - [JetBrains/pest-intellij](https://github.com/JetBrains/pest-intellij) - The official Pest Plugin for PhpStorm / IntelliJ IDEA
 - [Roboroads/laravel-tinker](https://github.com/Roboroads/laravel-tinker) - Adds a way to write php and run it directly in Laravels' Artisan Tinker.
@@ -1507,6 +1509,7 @@
 
 ## Others 
 
+- [ayaniv/t2a-review-template](https://github.com/ayaniv/t2a-review-template) - AI code reviewer that thinks like your team — built from your team's actual PR comment history
 - [ksimback/tech-debt-skill](https://github.com/ksimback/tech-debt-skill) - Claude Code skill that produces a thorough, file-cited tech debt audit of an entire codebase
 - [abijoserah/suggest-designs](https://github.com/abijoserah/suggest-designs) - 
 - [hiblaphp/hibla](https://github.com/hiblaphp/hibla) - Modern Asynchonous Runtime for PHP
@@ -2514,6 +2517,7 @@
 
 ## Python 
 
+- [olexya/data-games-viz](https://github.com/olexya/data-games-viz) - 
 - [MaxMiksa/Auto-Company](https://github.com/MaxMiksa/Auto-Company) - An auto-company works for 24/7 on your own PC - Windows/Linux/macOS.
 - [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - A Claude Code skill bundle for bug hunting and external red-team work — 71 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
@@ -3186,6 +3190,7 @@
 
 ## TypeScript 
 
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - rack layout designer
 - [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) - A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
 - [0-AI-UG/cate](https://github.com/0-AI-UG/cate) - An infinite zoomable canvas for coding. Editor, terminal, and browser panels in a spatial workspace.
@@ -3201,7 +3206,7 @@
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs
 - [pea3nut/agent-add](https://github.com/pea3nut/agent-add) - Install MCP, Skills, slash commands, sub-agents and more into any AI tool like Claude Code, Cursor, etc.
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
-- [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - TypeScript multi-agent orchestration framework. Describe a goal, a coordinator decomposes it into a task DAG that runs on any LLM: Claude, GPT, Gemini, DeepSeek, or local models. Model-agnostic and MC
+- [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - TypeScript multi-agent orchestration framework. Describe a goal, a coordinator decomposes it into a task DAG that runs on any LLM: Claude, ChatGPT, Gemini, DeepSeek, or local models.
 - [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
 - [mnapoli/PromptEdit](https://github.com/mnapoli/PromptEdit) - Better prompt editor for Claude Code
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
@@ -3494,6 +3499,10 @@
 - [justrach/nanobrew](https://github.com/justrach/nanobrew) - The fastest macOS package manager. Written in Zig. 3ms warm installs.
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) - container image to single executable compiler
+
+## templ 
+
+- [SoulKyu/notificator](https://github.com/SoulKyu/notificator) - Notificator is a Karma replacement for alertmanager with sounds and notifications
 
 
 ## License
