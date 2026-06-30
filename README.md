@@ -993,6 +993,7 @@
 
 ## JavaScript 
 
+- [deanhume/meeting-notes](https://github.com/deanhume/meeting-notes) - A powerful desktop app for managing meeting notes - markdown support, offline-first, autosave, light/dark theme.
 - [webofmarius/SQLJoiner](https://github.com/webofmarius/SQLJoiner) - Sql Joiner - Graphical SQL builder and debugger
 - [sgoedecke/skifreedle](https://github.com/sgoedecke/skifreedle) - 
 - [doctly/switchboard](https://github.com/doctly/switchboard) - A desktop app for browsing, searching, and managing CLI coding sessions
@@ -3191,6 +3192,7 @@
 
 ## TypeScript 
 
+- [alexewerlof/linkedout](https://github.com/alexewerlof/linkedout) - An app to browse LinkedIn data exports offline
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - rack layout designer
 - [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) - A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
