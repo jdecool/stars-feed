@@ -349,7 +349,6 @@
 ## CSS 
 
 - [anthdm/ssltrackeroe](https://github.com/anthdm/ssltrackeroe) - 
-- [Cecilapp/Links](https://github.com/Cecilapp/Links) - Links is an open source Linktree alternative powered by Cecil, Tailwind CSS and Font Awesome.
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [SymfonyCasts/messenger-monitor-bundle](https://github.com/SymfonyCasts/messenger-monitor-bundle) - Visual Monitoring & Retries for Symfony Messenger!
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
@@ -380,7 +379,7 @@
 ## Clojure 
 
 - [adamtornhill/code-maat](https://github.com/adamtornhill/code-maat) - A command line tool to mine and analyze data from version-control systems
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [damn/cdq](https://github.com/damn/cdq) - Cyber Dungeon Quest - Action Roleplaying Game written in Clojure
 - [someteam/acha](https://github.com/someteam/acha) - Git Achievements
@@ -458,6 +457,7 @@
 
 ## Go 
 
+- [alpha-omega-security/scrutineer](https://github.com/alpha-omega-security/scrutineer) - Security through scrutiny
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [tamnd/kage](https://github.com/tamnd/kage) - Shadow any website for offline viewing, with the JavaScript stripped out
 - [StephanSchmidt/loupe](https://github.com/StephanSchmidt/loupe) - Open-source CLI that measures AI coding-assistant impact (Claude Code, Copilot, Cursor, Aider) across Bitbucket+Jira, GitHub, GitLab, Azure DevOps, or Linear — and renders a reveal.js exec deck. Runs 
@@ -486,7 +486,7 @@
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [ekediala/file_upload](https://github.com/ekediala/file_upload) - 
 - [AkashRajpurohit/git-sync](https://github.com/AkashRajpurohit/git-sync) - 🔄 A simple tool to backup and sync your git repositories
-- [reSecureIt/BLAFS](https://github.com/reSecureIt/BLAFS) - A tool for Container Debloating that removes bloat and improves performance.
+- [reSecureIt/BLAFS](https://github.com/reSecureIt/BLAFS) - A tool for Container Debloating that removes bloat and improves performance and security
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [buggregator/server](https://github.com/buggregator/server) - Buggregator — a single-binary debugging server for PHP. Captures exceptions, dumps, emails, profiling, logs in real-time UI. Sentry, Ray, VarDumper, SMTP, Monolog, Inspector, XHProf and more.
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
@@ -1716,6 +1716,7 @@
 
 ## PHP 
 
+- [sebastianbergmann/phpunit-otr-report](https://github.com/sebastianbergmann/phpunit-otr-report) - Generates reports from test result data in the Open Test Reporting (OTR) format produced by PHPUnit
 - [chalasr/symfony-8-hexagonal-track](https://github.com/chalasr/symfony-8-hexagonal-track) - Demo project for my "Symfony 8: The Hexagonal Track" talk given at SymfonyDay Montréal and SymfonyOnline June 2026
 - [maelgangloff/domain-watchdog](https://github.com/maelgangloff/domain-watchdog) - 🔍 An app that monitors domain names using RDAP, tracks their history, and helps you acquire them when they expire
 - [pantaflex44/Tiquettes](https://github.com/pantaflex44/Tiquettes) - générateur d'étiquettes pour tableaux / armoires électriques.
@@ -3189,6 +3190,7 @@
 ## Twig 
 
 - [yoanbernabeu/OpenStreamPoll](https://github.com/yoanbernabeu/OpenStreamPoll) - OpenStreamPoll is an open-source live polling platform designed specifically for streamers. It empowers creators to engage their audience with instant polls, real-time results, and seamless integratio
+- [Cecilapp/Links](https://github.com/Cecilapp/Links) - Links is an open source Linktree alternative powered by Cecil, Tailwind CSS and Font Awesome.
 
 ## TypeScript 
 
@@ -3254,7 +3256,7 @@
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 - [kukshaus/transcribe](https://github.com/kukshaus/transcribe) - 
 - [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - The discovery and governance layer for event-driven systems. Document your domains, services, events and schemas — for your teams and your AI agents.
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligen
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RA
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
