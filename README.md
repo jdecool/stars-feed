@@ -1804,7 +1804,7 @@
 - [pact-foundation/pact-php](https://github.com/pact-foundation/pact-php) - PHP version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project
 - [jbtronics/settings-bundle](https://github.com/jbtronics/settings-bundle) - A bundle to easily create typesafe, user-configurable settings for symfony applications
 - [eqsgroup/health-check-provider](https://github.com/eqsgroup/health-check-provider) - Provides structure for healthcheck endpoints in accordance with IETF's healthcheck draft RFC
-- [php-type-language/parser](https://github.com/php-type-language/parser) - 🧱 Library for parsing and validating TypeLang syntax and converting it into AST nodes
+- [php-type-language/parser](https://github.com/php-type-language/parser) - [READ ONLY] 🧱 Library for parsing and validating TypeLang syntax and converting it into AST nodes
 - [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) - A PHP library to back up, restore and anonymize databases
 - [frankdekker/symfony-log-viewer-bundle](https://github.com/frankdekker/symfony-log-viewer-bundle) - A log viewer for Symfony
 - [tempestphp/highlight](https://github.com/tempestphp/highlight) - Fast, extensible, server-side code highlighting for web and terminal
@@ -2847,7 +2847,7 @@
 
 ## Rust 
 
-- [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made in Viet Nam
+- [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳
 - [muglug/pzoom](https://github.com/muglug/pzoom) - A fast experimental PHP static analyzer written in Rust, a port of Psalm
 - [msitarzewski/brew-browser](https://github.com/msitarzewski/brew-browser) - Homebrew is the standard package manager on macOS. brew-browser gives it a real native GUI.
 - [harehare/mq](https://github.com/harehare/mq) - A jq-like Markdown query language for command-line processing
