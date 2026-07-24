@@ -944,7 +944,7 @@
 - [rosehgal/TrashEmail](https://github.com/rosehgal/TrashEmail) - A hosted disposable email telegram bot; Extremely privacy friendly; Proudly hosted for community.
 - [srcclr/sapling](https://github.com/srcclr/sapling) - Planning tool for remote and distributed teams
 - [marytts/marytts](https://github.com/marytts/marytts) - MARY TTS -- an open-source, multilingual text-to-speech synthesis system written in pure java
-- [insideapp-oss/sonar-flutter](https://github.com/insideapp-oss/sonar-flutter) - SonarQube plugin for Flutter / Dart
+- [insideapp-fr/sonar-flutter](https://github.com/insideapp-fr/sonar-flutter) - SonarQube plugin for Flutter / Dart
 - [jenkinsci/credentials-plugin](https://github.com/jenkinsci/credentials-plugin) - Provides Jenkins with extension points to securely store, manage, and bind credentials data to other Jenkins plugins, builds, pipelines, etc.
 - [m-click/mcpdf](https://github.com/m-click/mcpdf) - Mcpdf is an alternative to PDFtk with fixed unicode issues, so you can write Łódź into your forms.
 - [signalapp/Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS
@@ -3063,7 +3063,7 @@
 - [yne/dzr](https://github.com/yne/dzr) - deezer.com Player (CLI & VSCode)
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
-- [insideapp-oss/xcode-gitlab-runner](https://github.com/insideapp-oss/xcode-gitlab-runner) - Vagrantfile to build a fully functional macOS / Xcode GitLab runner
+- [insideapp-fr/xcode-gitlab-runner](https://github.com/insideapp-fr/xcode-gitlab-runner) - Vagrantfile to build a fully functional macOS / Xcode GitLab runner
 - [dspinellis/pmonitor](https://github.com/dspinellis/pmonitor) - Progress monitor: monitor a job's progress
 - [webdevops/Dockerfile](https://github.com/webdevops/Dockerfile) - :package: Dockerfiles from WebDevOps for PHP, Apache and Nginx
 - [chrishantha/install-java](https://github.com/chrishantha/install-java) - Installation script for setting up Java on Linux
