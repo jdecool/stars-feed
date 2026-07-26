@@ -3219,6 +3219,7 @@
 
 ## TypeScript 
 
+- [mattpocock/sandcastle](https://github.com/mattpocock/sandcastle) - Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
 - [anthropics/cwc-workshops](https://github.com/anthropics/cwc-workshops) - 
 - [ai-driven-dev/framework](https://github.com/ai-driven-dev/framework) - Marketplace Framework AI-Driven Dev : Context Engineering, Plugins, Agents, Skills, Hooks, Templates, SDLC
 - [Rotorsoft/act-root](https://github.com/Rotorsoft/act-root) - Event-sourcing framework for TypeScript. Three primitives (actions, state, reactions), Zod end to end, no broker required. Postgres, SQLite, or in-memory.
