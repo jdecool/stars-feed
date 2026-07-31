@@ -3310,7 +3310,7 @@
 - [tremorlabs/tremor-blocks](https://github.com/tremorlabs/tremor-blocks) - Tremor Blocks Source Code
 - [johnpapa/vscode-cloak](https://github.com/johnpapa/vscode-cloak) - Cloak allows you to hide/show environment keys, to avoid accidentally sharing them with everyone who sees your screen.
 - [tweakphp/tweakphp](https://github.com/tweakphp/tweakphp) - Easily tweak your PHP code
-- [laravel/vs-code-extension](https://github.com/laravel/vs-code-extension) - 
+- [laravel/vs-code-extension](https://github.com/laravel/vs-code-extension) - Laravel support for Sublime Text, powered by Laravel LSP.
 - [danielroe/unsight.dev](https://github.com/danielroe/unsight.dev) - Detect duplicate GitHub issues, areas of concern and more across related repositories.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps humans and agents understand your codebase.
