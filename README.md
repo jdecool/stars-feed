@@ -260,6 +260,7 @@
 
 ## C++ 
 
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [READ ONLY] Split of turbo-ext directory from phpstan-src repository. phpstan_turbo is a native acceleration extension for PHPStan.
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 - [danielknobe/blobbyvolley2](https://github.com/danielknobe/blobbyvolley2) - Official continuation of the famous Blobby Volley 1.x arcade game.
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
@@ -912,7 +913,6 @@
 - [B-Lang-org/bsc](https://github.com/B-Lang-org/bsc) - Bluespec Compiler (BSC)
 - [fossas/fossa-cli](https://github.com/fossas/fossa-cli) - Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems.
 - [sakari/hgit](https://github.com/sakari/hgit) - Git for Haskell
-- [krispo/awesome-haskell](https://github.com/krispo/awesome-haskell) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 
 ## Inno Setup 
 
@@ -1724,6 +1724,7 @@
 
 ## PHP 
 
+- [mnapoli/dotlock](https://github.com/mnapoli/dotlock) - Secure secrets for local Laravel development
 - [noctud/collection](https://github.com/noctud/collection) - 🗺️ Type-safe, key-preserving, mutable/immutable List/Set/Map for PHP
 - [clonio-dev/clonio-cli](https://github.com/clonio-dev/clonio-cli) - Clonio is a GDPR and PII compliant CLI that clones production databases into your test, dev and CI stages with automatic anonymization.
 - [phpcpd-next/phpcpd](https://github.com/phpcpd-next/phpcpd) - phpcpd-next is a token-based copy/paste (clone) detector for PHP 8.5+, a modernized, openly-licensed successor to Sebastian Bergmann's phpcpd
@@ -2745,6 +2746,7 @@
 - [mozilla/http-observatory](https://github.com/mozilla/http-observatory) - Mozilla HTTP Observatory
 - [funkwerk/compose_plantuml](https://github.com/funkwerk/compose_plantuml) - Generate Plantuml graphs from docker-compose files
 - [ghostsquad/swarmci](https://github.com/ghostsquad/swarmci) - Swarm CI - Docker Swarm-based CI system or enhancement to existing systems.
+- [krispo/awesome-haskell](https://github.com/krispo/awesome-haskell) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 - [getsentry/docker-sentry](https://github.com/getsentry/docker-sentry) - Docker Official Image packaging for Sentry
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [abdulfatir/ZipBomb](https://github.com/abdulfatir/ZipBomb) - A simple implementation of ZipBomb in Python
@@ -3008,6 +3010,7 @@
 
 ## Shell 
 
+- [MikeCodeur/killer-saas](https://github.com/MikeCodeur/killer-saas) - 
 - [mnapoli/skills](https://github.com/mnapoli/skills) - Agent skills
 - [chaabani-anis/mikado-method](https://github.com/chaabani-anis/mikado-method) - Skill Mikado Method for agentic legacy refactoring
 - [pcx-wave/vibe-skill](https://github.com/pcx-wave/vibe-skill) - Claude Code skill — delegate coding tasks to Mistral Vibe, supervise via git diff & save 50-90% Claude token usage
