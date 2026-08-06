@@ -1042,7 +1042,7 @@
 - [tinkerun/tinkerun](https://github.com/tinkerun/tinkerun) - A new way of Running Tinker. Simplify the Web Artisan's workflow.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [pulse-browser/browser](https://github.com/pulse-browser/browser) - Pulse Browser: An experimental firefox fork
-- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android)
+- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyOS)
 - [Halleck45/captain-dys](https://github.com/Halleck45/captain-dys) - A text editor for dyslexic child
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
@@ -3370,7 +3370,7 @@
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [snyk/release-notes-preview](https://github.com/snyk/release-notes-preview) - GitHub Action for providing release notes preview for semantic releases
 - [afup/pufa](https://github.com/afup/pufa) - 
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no tracking, self-hosted or in the cloud.
 - [nohello-net/site](https://github.com/nohello-net/site) - 
 - [robertwt7/meetsy](https://github.com/robertwt7/meetsy) - Open source online booking system
 - [mihaip/infinite-mac](https://github.com/mihaip/infinite-mac) - A classic Mac loaded with everything you'd want
