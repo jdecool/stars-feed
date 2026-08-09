@@ -1525,7 +1525,7 @@
 - [VicKayro/claude-security-audit](https://github.com/VicKayro/claude-security-audit) - Skill Claude Code pour audit de sécurité complet (OWASP Top 10, CWE/CVE, headers, auth, paywall, infra)
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-- [Fab2bprog/Radinus](https://github.com/Fab2bprog/Radinus) - Radinus: Windev Personal finance management software source code [WD28]
+- [Fab2bprog/Windev-Radinus](https://github.com/Fab2bprog/Windev-Radinus) - Radinus: Windev Personal finance management software source code [WD28]
 - [OneRedOak/claude-code-workflows](https://github.com/OneRedOak/claude-code-workflows) - The best workflows and configurations I've developed, having heavily used Claude Code since the day of it's release. Workflows are based off applied learnings from our AI-native startup.
 - [Necior/awesome-jj](https://github.com/Necior/awesome-jj) - A curated list of awesome Jujutsu things
 - [kevinrss01/Best-prompts-folder](https://github.com/kevinrss01/Best-prompts-folder) - 
@@ -2362,7 +2362,6 @@
 - [MUlt1mate/cron-manager](https://github.com/MUlt1mate/cron-manager) - A PHP cron task manager for MVC-type applications
 - [novaway/BehatCommonContext](https://github.com/novaway/BehatCommonContext) - Provide most common behat tests for frontend.
 - [SymfonyTest/SymfonyDependencyInjectionTest](https://github.com/SymfonyTest/SymfonyDependencyInjectionTest) - Library for testing user classes related to the Symfony Dependency Injection Component
-- [exwyezed/symfony.demo.on.roids](https://github.com/exwyezed/symfony.demo.on.roids) - The Symfony Demo Application on Roids!
 - [mamuz/PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - Static code analysis to find violations in a dependency graph
 - [php-embed/Embed](https://github.com/php-embed/Embed) - Get info from any web service or page
 - [vinkla/climb](https://github.com/vinkla/climb) - A Composer version manager tool
@@ -2537,6 +2536,7 @@
 
 ## Python 
 
+- [IRezig/claude-automation](https://github.com/IRezig/claude-automation) - 
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [Sanctum-Origo-Systems/autoloop](https://github.com/Sanctum-Origo-Systems/autoloop) - Config-driven AI pipeline for triaging and implementing code in the issue board
 - [Fafyula-KH/Audit-Paranomix](https://github.com/Fafyula-KH/Audit-Paranomix) - Un logiciel d'audit pour utilisateur lambda
@@ -2816,7 +2816,7 @@
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [yongfook/zipsell](https://github.com/yongfook/zipsell) - A free open source platform for selling digital downloads such as ebooks
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 Default casks (upstream binary packages) for the package manager for everywhere
 - [Shopify/shipit-engine](https://github.com/Shopify/shipit-engine) - Deployment coordination
 - [TypoCI/Marketplace-App](https://github.com/TypoCI/Marketplace-App) - Find Spelling errors in files within PRs
 - [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - Homebrew tap for PHP 5.6 to 8.6. PHP 8.6 is built nightly :beer:
