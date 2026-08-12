@@ -463,6 +463,8 @@
 
 ## Go 
 
+- [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
+- [stephrobert/feint](https://github.com/stephrobert/feint) - Local emulator for European cloud APIs — Scaleway, Outscale, Exoscale. One binary, one port, no account.
 - [alpha-omega-security/scrutineer](https://github.com/alpha-omega-security/scrutineer) - Security through scrutiny
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [tamnd/kage](https://github.com/tamnd/kage) - Shadow any website for offline viewing, with the JavaScript stripped out
@@ -1417,6 +1419,7 @@
 
 ## Kotlin 
 
+- [mnapoli/phpstorm-prereview](https://github.com/mnapoli/phpstorm-prereview) - PhpStorm AI review
 - [librepods-org/librepods](https://github.com/librepods-org/librepods) - AirPods liberated from Apple's ecosystem.
 - [j-plugins/php-dump-plugin](https://github.com/j-plugins/php-dump-plugin) - Intellij IDEA Plugin Exposes PHP internal stuctures
 - [JetBrains/pest-intellij](https://github.com/JetBrains/pest-intellij) - The official Pest Plugin for PhpStorm / IntelliJ IDEA
@@ -3016,7 +3019,7 @@
 - [pcx-wave/vibe-skill](https://github.com/pcx-wave/vibe-skill) - Claude Code skill — delegate coding tasks to Mistral Vibe, supervise via git diff & save 50-90% Claude token usage
 - [DrCatHicks/learning-opportunities](https://github.com/DrCatHicks/learning-opportunities) - A Claude or Codex skill for deliberate skill development during AI-assisted coding
 - [evanklem/evanflow](https://github.com/evanklem/evanflow) - A TDD-driven iterative feedback loop for software development. 16 cohesive Claude Code skills walk an idea from brainstorm → plan → execute → iterate, with checkpoints throughout.
-- [BULDEE/ai-craftsman-superpowers](https://github.com/BULDEE/ai-craftsman-superpowers) - Claude Code plugin that turns Claude into a disciplined Senior Software Craftsman. 5 language packs (Symfony, React, Python, Bash, AI/ML), a 3-level rules engine enforced in hooks and CI, a correction
+- [BULDEE/ai-craftsman-superpowers](https://github.com/BULDEE/ai-craftsman-superpowers) - Claude Code plugin that blocks the write when it breaks your architecture. Same rules in your hooks and your CI. DDD, Clean Architecture, TDD. Apache 2.0.
 - [FlorianBruniaux/claude-code-plugins](https://github.com/FlorianBruniaux/claude-code-plugins) - Production-ready Claude Code plugins: skills, hooks, agents, slash commands, and MCP templates.
 - [mnapoli/skill-address-pr-review](https://github.com/mnapoli/skill-address-pr-review) - Claude skill that fixes PR comments and CI failures
 - [gwittebolle/claude-carbon](https://github.com/gwittebolle/claude-carbon) - Track the carbon footprint of your Claude Code sessions
@@ -3141,6 +3144,7 @@
 
 ## Swift 
 
+- [0Janvier/goldodict](https://github.com/0Janvier/goldodict) - 
 - [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
 - [pluk-inc/markdown-preview](https://github.com/pluk-inc/markdown-preview) - A simple Markdown viewer for reading .md files
 - [agentcooper/Telik](https://github.com/agentcooper/Telik) - Native macOS app to track YouTube channels and playlists
@@ -3222,6 +3226,9 @@
 
 ## TypeScript 
 
+- [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work
+- [MouadRS/qa-auto-lab](https://github.com/MouadRS/qa-auto-lab) - 
+- [dev-toolings/superpowers-symfony](https://github.com/dev-toolings/superpowers-symfony) - Claude Code plugin for Symfony 7.4 LTS & 8.x — 44 skills, 7 AI subagents & 13 commands for API Platform v4, Doctrine ORM 3, TDD (Pest/PHPUnit), Messenger, security & DDD.
 - [joelhooks/pdf-brain](https://github.com/joelhooks/pdf-brain) - 🧠 Local PDF knowledge base with vector search using libsql w/vectors
 - [mattpocock/sandcastle](https://github.com/mattpocock/sandcastle) - Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
 - [anthropics/cwc-workshops](https://github.com/anthropics/cwc-workshops) - 
