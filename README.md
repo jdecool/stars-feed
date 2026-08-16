@@ -463,6 +463,7 @@
 
 ## Go 
 
+- [jvdbc/terraform-provider-alwaysdata](https://github.com/jvdbc/terraform-provider-alwaysdata) - Terraform provider for alwaysdata (www.alwaysdata.com)
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [stephrobert/feint](https://github.com/stephrobert/feint) - Local emulator for European cloud APIs — Scaleway, Outscale, Exoscale. One binary, one port, no account.
 - [alpha-omega-security/scrutineer](https://github.com/alpha-omega-security/scrutineer) - Security through scrutiny
@@ -952,6 +953,7 @@
 - [MSPaintIDE/MSPaintIDE](https://github.com/MSPaintIDE/MSPaintIDE) - Programming in MS Paint
 - [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin) - Jenkins Configuration as Code Plugin
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+- [trekawek/coffee-gb](https://github.com/trekawek/coffee-gb) - Gameboy emulator in Java and Kotlin.
 - [cescoffier/vertx-chaos-demo](https://github.com/cescoffier/vertx-chaos-demo) - Demo for the Vert.x Chaos Presentation
 - [PavlikPolivka/GitLabProjects](https://github.com/PavlikPolivka/GitLabProjects) - Simple plugin that is adding support for GitLab specific actions to JetBrain IDEs
 - [arpinum/alexandria-api](https://github.com/arpinum/alexandria-api) - 
@@ -998,6 +1000,7 @@
 
 ## JavaScript 
 
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [flavien-ia/hypervibe-harness](https://github.com/flavien-ia/hypervibe-harness) - Hypervibe: open-source Claude Code plugin that bootstraps full-stack T3 web apps (Next.js, tRPC, Drizzle, Tailwind, shadcn/ui) with modular addons. Install: /plugin marketplace add flavien-ia/hypervib
 - [tpierrain/clepsydre](https://github.com/tpierrain/clepsydre) - A Fort Boyard–style water clock for your Claude Code context window — /clear before you're trapped in the context-rot room.
 - [js13kGames/q1k3](https://github.com/js13kGames/q1k3) - Q1K3 — a js13kGames 2021 game by @phoboslab.
@@ -1406,6 +1409,7 @@
 
 ## Jupyter Notebook 
 
+- [agemagician/CodeTrans](https://github.com/agemagician/CodeTrans) - Pretrained Language Models for Source code
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [bofenghuang/vigogne](https://github.com/bofenghuang/vigogne) - French instruction-following and chat models
 - [bayesimpact/bob-emploi](https://github.com/bayesimpact/bob-emploi) - An application that provides personalized career and job search advice to jobseekers.
@@ -1426,7 +1430,6 @@
 - [Roboroads/laravel-tinker](https://github.com/Roboroads/laravel-tinker) - Adds a way to write php and run it directly in Laravels' Artisan Tinker.
 - [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
-- [trekawek/coffee-gb](https://github.com/trekawek/coffee-gb) - Gameboy emulator in Java and Kotlin.
 
 ## Less 
 
@@ -1726,6 +1729,7 @@
 
 ## PHP 
 
+- [HugoSEIGLE/symfony-import-export-bundle](https://github.com/HugoSEIGLE/symfony-import-export-bundle) - Symfony Import-Export Bundle - 📄 Simplify data import and export in your Symfony applications with customizable templates, validation, and multilingual support.
 - [mnapoli/dotlock](https://github.com/mnapoli/dotlock) - Secure secrets for local Laravel development
 - [noctud/collection](https://github.com/noctud/collection) - 🗺️ Type-safe, key-preserving, mutable/immutable List/Set/Map for PHP
 - [clonio-dev/clonio-cli](https://github.com/clonio-dev/clonio-cli) - Clonio is a GDPR and PII compliant CLI that clones production databases into your test, dev and CI stages with automatic anonymization.
@@ -3320,7 +3324,7 @@
 - [tremorlabs/tremor-blocks](https://github.com/tremorlabs/tremor-blocks) - Tremor Blocks Source Code
 - [johnpapa/vscode-cloak](https://github.com/johnpapa/vscode-cloak) - Cloak allows you to hide/show environment keys, to avoid accidentally sharing them with everyone who sees your screen.
 - [tweakphp/tweakphp](https://github.com/tweakphp/tweakphp) - Easily tweak your PHP code
-- [laravel/vs-code-extension](https://github.com/laravel/vs-code-extension) - Laravel support for Sublime Text, powered by Laravel LSP.
+- [laravel/vs-code-extension](https://github.com/laravel/vs-code-extension) - 
 - [danielroe/unsight.dev](https://github.com/danielroe/unsight.dev) - Detect duplicate GitHub issues, areas of concern and more across related repositories.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps humans and agents understand your codebase.
