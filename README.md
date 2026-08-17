@@ -3248,7 +3248,7 @@
 - [0-AI-UG/cate](https://github.com/0-AI-UG/cate) - An infinite zoomable canvas for coding. Editor, terminal, and browser panels in a spatial workspace.
 - [fccview/jotty](https://github.com/fccview/jotty) - Lightweight but powerful alternative for managing your personal, file based, notes and checklists.
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [antoinevastel/fpscanner](https://github.com/antoinevastel/fpscanner) - Self-hosted browser fingerprinting and bot detection with real-world constraints in mind.
 - [icann/rdap-lookup-client](https://github.com/icann/rdap-lookup-client) - An example of Domain Name Registration Data Lookup using RDAP protocol.
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
