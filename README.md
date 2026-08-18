@@ -465,7 +465,7 @@
 
 - [jvdbc/terraform-provider-alwaysdata](https://github.com/jvdbc/terraform-provider-alwaysdata) - Terraform provider for alwaysdata (www.alwaysdata.com)
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
-- [stephrobert/feint](https://github.com/stephrobert/feint) - Local emulator for European cloud APIs — Scaleway, Outscale, Exoscale. One binary, one port, no account.
+- [stephrobert/feint](https://github.com/stephrobert/feint) - Run Terraform, OpenTofu and the official Scaleway, Outscale and Exoscale CLIs locally — no cloud account, no credentials, nothing billed.
 - [alpha-omega-security/scrutineer](https://github.com/alpha-omega-security/scrutineer) - Security through scrutiny
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [tamnd/kage](https://github.com/tamnd/kage) - Shadow any website for offline viewing, with the JavaScript stripped out
@@ -1729,6 +1729,7 @@
 
 ## PHP 
 
+- [symfony/language-tools](https://github.com/symfony/language-tools) - Symfony-aware completion, navigation and diagnostics through the Language Server Protocol
 - [HugoSEIGLE/symfony-import-export-bundle](https://github.com/HugoSEIGLE/symfony-import-export-bundle) - Symfony Import-Export Bundle - 📄 Simplify data import and export in your Symfony applications with customizable templates, validation, and multilingual support.
 - [mnapoli/dotlock](https://github.com/mnapoli/dotlock) - Secure secrets for local Laravel development
 - [noctud/collection](https://github.com/noctud/collection) - 🗺️ Type-safe, key-preserving, mutable/immutable List/Set/Map for PHP
@@ -1737,7 +1738,7 @@
 - [sebastianbergmann/phpunit-otr-report](https://github.com/sebastianbergmann/phpunit-otr-report) - Generates reports from test result data in the Open Test Reporting (OTR) format produced by PHPUnit
 - [chalasr/symfony-8-hexagonal-track](https://github.com/chalasr/symfony-8-hexagonal-track) - Demo project for my "Symfony 8: The Hexagonal Track" talk given at SymfonyDay Montréal and SymfonyOnline June 2026
 - [maelgangloff/domain-watchdog](https://github.com/maelgangloff/domain-watchdog) - 🔍 An app that monitors domain names using RDAP, tracks their history, and helps you acquire them when they expire
-- [pantaflex44/Tiquettes](https://github.com/pantaflex44/Tiquettes) - générateur d'étiquettes pour tableaux / armoires électriques.
+- [pantaflex44/Tiquettes](https://github.com/pantaflex44/Tiquettes) - Tiquettes est une application web qui a pour but de générer les étiquettes étiquettes de vos tableaux et armoires électriques, avec la possibilité de tracer automatiquement le schéma unifilaire associ
 - [CarlosGude/integrationEngine](https://github.com/CarlosGude/integrationEngine) - Connect external APIs to Symfony through configurable adapters, without writing repetitive clients.
 - [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle) - The missing audit log library
 - [vinceAmstoutz/symfony-security-auditor](https://github.com/vinceAmstoutz/symfony-security-auditor) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai.
@@ -1943,7 +1944,7 @@
 - [Crell/Serde](https://github.com/Crell/Serde) - Robust Serde (serialization/deserialization) library for PHP 8.
 - [micheh/phpcs-gitlab](https://github.com/micheh/phpcs-gitlab) - GitLab Report for PHP_CodeSniffer (display the violations in the Gitlab CI/CD Code Quality Report)
 - [phabelio/phabel](https://github.com/phabelio/phabel) - PHP transpiler - Write and deploy modern PHP 8 code, today.
-- [LemarinelNet/valet-linux-ng](https://github.com/LemarinelNet/valet-linux-ng) - A fork of Laravel Valet to work in Linux.
+- [LudovicLemarinel/valet-linux-ng](https://github.com/LudovicLemarinel/valet-linux-ng) - A fork of Laravel Valet to work in Linux.
 - [statix-php/server](https://github.com/statix-php/server) - An object oriented wrapper around PHP's built-in server.
 - [parsica-php/parsica](https://github.com/parsica-php/parsica) - Parsica - PHP Parser Combinators - The easiest way to build robust parsers.
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - Dependency free PHP library that helps to map any input into a strongly-typed structure.
@@ -2627,7 +2628,6 @@
 - [pruvisto/debirdify](https://github.com/pruvisto/debirdify) - 
 - [florianbeer/grafana-netatmo](https://github.com/florianbeer/grafana-netatmo) - Netatmo Weather Station dashboard for Grafana
 - [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync.
-- [freekmurze/dotfiles](https://github.com/freekmurze/dotfiles) - My personal dotfiles
 - [etalab/prix-carburants-data](https://github.com/etalab/prix-carburants-data) - 
 - [theahmadov/vector](https://github.com/theahmadov/vector) - Open source osint project.
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
@@ -3511,6 +3511,7 @@
 
 ## Vim Script 
 
+- [freekmurze/dotfiles](https://github.com/freekmurze/dotfiles) - My personal dotfiles
 - [rhysd/vim.wasm](https://github.com/rhysd/vim.wasm) - Vim editor ported to WebAssembly
 
 ## Visual Basic .NET 
