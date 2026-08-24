@@ -1009,7 +1009,7 @@
 - [sgoedecke/skifreedle](https://github.com/sgoedecke/skifreedle) - 
 - [doctly/switchboard](https://github.com/doctly/switchboard) - A desktop app for browsing, searching, and managing CLI coding sessions
 - [Webba-Creative-Technologies/vice](https://github.com/Webba-Creative-Technologies/vice) - VICE is a security auditing CLI tool that finds vulnerabilities in your web applications.
-- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
+- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
@@ -1525,6 +1525,7 @@
 
 ## Others 
 
+- [fabricepayet/skills](https://github.com/fabricepayet/skills) - A collection of reusable AI agent skills
 - [ayaniv/t2a-review-template](https://github.com/ayaniv/t2a-review-template) - AI code reviewer that thinks like your team — built from your team's actual PR comment history
 - [ksimback/tech-debt-skill](https://github.com/ksimback/tech-debt-skill) - Claude Code skill that produces a thorough, file-cited tech debt audit of an entire codebase
 - [abijoserah/suggest-designs](https://github.com/abijoserah/suggest-designs) - 
@@ -2883,6 +2884,7 @@
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [todoesverso/logss](https://github.com/todoesverso/logss) - A simple cli for logs splitting
+- [Kieirra/murmure](https://github.com/Kieirra/murmure) - Fully local, private and cross platform Speech-to-Text with LLM Post-processing
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
@@ -3230,7 +3232,7 @@
 ## TypeScript 
 
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
-- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &
 - [alcaeus/automatic-merge-up-action](https://github.com/alcaeus/automatic-merge-up-action) - Action to trigger creation of merge-up pull requests whenever commits are pushed to a branch
 - [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work.
 - [MouadRS/qa-auto-lab](https://github.com/MouadRS/qa-auto-lab) - 
@@ -3296,7 +3298,6 @@
 - [kermanx/p2p-live-share](https://github.com/kermanx/p2p-live-share) - VS Code collaboration extension - a peer-to-peer and open-source alternative to Live Share.
 - [briehq/brie-extension](https://github.com/briehq/brie-extension) - Capture screenshots, console errors, network issues, and user actions, giving developers full context instantly.
 - [agentset-ai/agentset](https://github.com/agentset-ai/agentset) - The open-source RAG platform: built-in citations, deep research, 22+ file formats, partitions, MCP server, and more.
-- [Kieirra/murmure](https://github.com/Kieirra/murmure) - Fully local, private and cross platform Speech-to-Text with LLM Post-processing
 - [yoanbernabeu/S3-Documentation-MCP-Server](https://github.com/yoanbernabeu/S3-Documentation-MCP-Server) - A lightweight Model Context Protocol (MCP) server that brings RAG (Retrieval-Augmented Generation) capabilities to your LLM over Markdown documentation stored on S3.
 - [flemzord/github-compliance](https://github.com/flemzord/github-compliance) - 🛡️ Enforce repository compliance standards across your GitHub organization
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
