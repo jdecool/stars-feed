@@ -472,6 +472,7 @@
 - [StephanSchmidt/loupe](https://github.com/StephanSchmidt/loupe) - Open-source CLI that measures AI coding-assistant impact (Claude Code, Copilot, Cursor, Aider) across Bitbucket+Jira, GitHub, GitLab, Azure DevOps, or Linear — and renders a reveal.js exec deck. Runs 
 - [igor-php/igor-php](https://github.com/igor-php/igor-php) - Static analysis and state mutation auditor specifically designed for FrankenPHP's Worker Mode.
 - [alexandre-daubois/ember](https://github.com/alexandre-daubois/ember) - 🔥 Real-time terminal dashboard for Caddy servers, with built-in FrankenPHP support
+- [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
 - [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription
 - [getplumber/plumber](https://github.com/getplumber/plumber) - Plumber detects CI/CD security issues in your GitHub workflows and gives you a score
 - [antonmedv/crow.watch](https://github.com/antonmedv/crow.watch) - Collecting shiny things
@@ -1000,6 +1001,7 @@
 
 ## JavaScript 
 
+- [WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) - Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [flavien-ia/hypervibe-harness](https://github.com/flavien-ia/hypervibe-harness) - Hypervibe: open-source Claude Code plugin that bootstraps full-stack T3 web apps (Next.js, tRPC, Drizzle, Tailwind, shadcn/ui) with modular addons. Install: /plugin marketplace add flavien-ia/hypervib
 - [tpierrain/clepsydre](https://github.com/tpierrain/clepsydre) - A Fort Boyard–style water clock for your Claude Code context window — /clear before you're trapped in the context-rot room.
@@ -1733,7 +1735,7 @@
 
 - [swoole/typephp](https://github.com/swoole/typephp) - Compile PHP to Native Binaries
 - [symfony/language-tools](https://github.com/symfony/language-tools) - Official Symfony language tools for VS Code, Zed, Neovim, and other editors
-- [HugoSEIGLE/symfony-import-export-bundle](https://github.com/HugoSEIGLE/symfony-import-export-bundle) - Symfony Import-Export Bundle - 📄 Simplify data import and export in your Symfony applications with customizable templates, validation, and multilingual support.
+- [HugoSEIGLE/symfony-import-export-bundle](https://github.com/HugoSEIGLE/symfony-import-export-bundle) - Symfony Import-Export Bundle - Simplify data import and export in your Symfony applications with customizable templates, validation, and multilingual support.
 - [mnapoli/dotlock](https://github.com/mnapoli/dotlock) - Secure secrets for local Laravel development
 - [noctud/collection](https://github.com/noctud/collection) - 🗺️ Type-safe, key-preserving, mutable/immutable List/Set/Map for PHP
 - [clonio-dev/clonio-cli](https://github.com/clonio-dev/clonio-cli) - Clonio is a GDPR and PII compliant CLI that clones production databases into your test, dev and CI stages with automatic anonymization.
@@ -2546,6 +2548,7 @@
 
 ## Python 
 
+- [coleam00/harness-engineering-demo](https://github.com/coleam00/harness-engineering-demo) - 
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [Sanctum-Origo-Systems/autoloop](https://github.com/Sanctum-Origo-Systems/autoloop) - Config-driven AI pipeline for triaging and implementing code in the issue board
@@ -2576,7 +2579,6 @@
 - [NoobyGains/claude-pulse](https://github.com/NoobyGains/claude-pulse) - Real-time usage monitor for Claude Code — session limits, weekly limits, and plan tier with colour-coded progress bars
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [Huluti/ossatrisk](https://github.com/Huluti/ossatrisk) - Tracking high-risk oss packages: abandoned, undermaintained, or CVE-exposed.
-- [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalo
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, inter
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
@@ -3028,7 +3030,7 @@
 - [pcx-wave/vibe-skill](https://github.com/pcx-wave/vibe-skill) - Claude Code skill — delegate coding tasks to Mistral Vibe, supervise via git diff & save 50-90% Claude token usage
 - [DrCatHicks/learning-opportunities](https://github.com/DrCatHicks/learning-opportunities) - A Claude or Codex skill for deliberate skill development during AI-assisted coding
 - [evanklem/evanflow](https://github.com/evanklem/evanflow) - A TDD-driven iterative feedback loop for software development. 16 cohesive Claude Code skills walk an idea from brainstorm → plan → execute → iterate, with checkpoints throughout.
-- [BULDEE/ai-craftsman-superpowers](https://github.com/BULDEE/ai-craftsman-superpowers) - Claude Code plugin that blocks the write when it breaks your architecture. Same rules in your hooks and your CI. DDD, Clean Architecture, TDD. Apache 2.0.
+- [BULDEE/ai-craftsman-superpowers](https://github.com/BULDEE/ai-craftsman-superpowers) - Craftsman ecosystem for AI coding agents (Claude Code, Hermes Agent, ...): blocks the write when it breaks your architecture, same rules in hooks and CI. DDD, Clean Architecture, TDD. Apache 2.0.
 - [FlorianBruniaux/claude-code-plugins](https://github.com/FlorianBruniaux/claude-code-plugins) - Production-ready Claude Code plugins: skills, hooks, agents, slash commands, and MCP templates.
 - [mnapoli/skill-address-pr-review](https://github.com/mnapoli/skill-address-pr-review) - Claude skill that fixes PR comments and CI failures
 - [gwittebolle/claude-carbon](https://github.com/gwittebolle/claude-carbon) - Track the carbon footprint of your Claude Code sessions
