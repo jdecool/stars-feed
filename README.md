@@ -465,7 +465,7 @@
 - [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes
 - [jvdbc/terraform-provider-alwaysdata](https://github.com/jvdbc/terraform-provider-alwaysdata) - Terraform provider for alwaysdata (www.alwaysdata.com)
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
-- [stephrobert/feint](https://github.com/stephrobert/feint) - Run Terraform, OpenTofu and the official Scaleway, Outscale and Exoscale CLIs locally — no cloud account, no credentials, nothing billed.
+- [stephrobert/feint](https://github.com/stephrobert/feint) - A local emulator of the Scaleway, Outscale and Exoscale APIs. Their own official CLIs drive it end to end, Terraform and OpenTofu drive two of the three — no cloud account, no cloud credentials, nothi
 - [alpha-omega-security/scrutineer](https://github.com/alpha-omega-security/scrutineer) - Security through scrutiny
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [tamnd/kage](https://github.com/tamnd/kage) - Shadow any website for offline viewing, with the JavaScript stripped out
@@ -1322,7 +1322,7 @@
 - [danielborowski/jsboard](https://github.com/danielborowski/jsboard) - JavaScript library for easily creating board games
 - [weiland/es6-babel-systemjs-boilerplate](https://github.com/weiland/es6-babel-systemjs-boilerplate) - ES6 babel (formerly 6to5) & SystemJS Boilerplate
 - [superkhau/lice](https://github.com/superkhau/lice) - An open source license generator and license viewer.
-- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . Translations as PRs to imports/i18n/da
+- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . PR source translation to imports/i18n/
 - [englercj/phaser-debug](https://github.com/englercj/phaser-debug) - Simple debug module for phaser
 - [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
 - [enricolucia/pong](https://github.com/enricolucia/pong) - A pure javascript pong game clone based on socket.io and canvas.
@@ -3025,7 +3025,7 @@
 - [makraz/ddev-claude](https://github.com/makraz/ddev-claude) - A DDEV add-on that adds a sandboxed sidecar container for running Claude Code (Anthropic's AI coding CLI) with --dangerously-skip-permissions (YOLO mode) safely contained behind an iptables + ipset + 
 - [tikalk/adlc-team-skills](https://github.com/tikalk/adlc-team-skills) - 🐙 ADLC Team Skills — Agentic SDLC for Engineering Teams
 - [MikeCodeur/killer-saas](https://github.com/MikeCodeur/killer-saas) - 
-- [mnapoli/skills](https://github.com/mnapoli/skills) - Agent skills
+- [mnapoli/skills](https://github.com/mnapoli/skills) - Agent skills: unslop, address PR review
 - [chaabani-anis/mikado-method](https://github.com/chaabani-anis/mikado-method) - Skill Mikado Method for agentic legacy refactoring
 - [pcx-wave/vibe-skill](https://github.com/pcx-wave/vibe-skill) - Claude Code skill — delegate coding tasks to Mistral Vibe, supervise via git diff & save 50-90% Claude token usage
 - [DrCatHicks/learning-opportunities](https://github.com/DrCatHicks/learning-opportunities) - A Claude or Codex skill for deliberate skill development during AI-assisted coding
