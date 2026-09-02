@@ -485,7 +485,6 @@
 - [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) - Exports the expiration time of your domains as prometheus metrics.
 - [caarlos0/github_releases_exporter](https://github.com/caarlos0/github_releases_exporter) - Exports GitHub release metrics to the Prometheus format
 - [runkids/skillshare](https://github.com/runkids/skillshare) - 📚 Sync skills across all AI CLI tools with one command and simplify team sharing. Supporting Codex, Claude Code, OpenClaw & more
-- [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [paramientos/presto](https://github.com/paramientos/presto) - Presto is a dependency manager for PHP and drop-in-replacement for Composer
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite server with MySQL wire compatible interface
 - [guigui42/mcp-vosdroits](https://github.com/guigui42/mcp-vosdroits) - Serveur MCP pour Service Public Vos Droits
@@ -1013,7 +1012,7 @@
 - [sgoedecke/skifreedle](https://github.com/sgoedecke/skifreedle) - 
 - [doctly/switchboard](https://github.com/doctly/switchboard) - A desktop app for browsing, searching, and managing CLI coding sessions
 - [Webba-Creative-Technologies/vice](https://github.com/Webba-Creative-Technologies/vice) - VICE is a security auditing CLI tool that finds vulnerabilities in your web applications.
-- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
@@ -1735,6 +1734,7 @@
 
 ## PHP 
 
+- [playwright-php/playwright](https://github.com/playwright-php/playwright) - Playwright PHP library for browser automation: navigation, E2E tests, assertions, screenshots, and so much more!
 - [swoole/typephp](https://github.com/swoole/typephp) - Compile PHP to Native Binaries
 - [symfony/language-tools](https://github.com/symfony/language-tools) - Official Symfony language tools for VS Code, Zed, Neovim, and other editors
 - [HugoSEIGLE/symfony-import-export-bundle](https://github.com/HugoSEIGLE/symfony-import-export-bundle) - Symfony Import-Export Bundle - Simplify data import and export in your Symfony applications with customizable templates, validation, and multilingual support.
@@ -1923,7 +1923,7 @@
 - [claudiodekker/laravel-auth](https://github.com/claudiodekker/laravel-auth) - Rich authentication logic for your Laravel applications.
 - [friendsoftwig/twigcs](https://github.com/friendsoftwig/twigcs) - The missing checkstyle for twig!
 - [php-fig/clock](https://github.com/php-fig/clock) - PSR-20 repository
-- [durable-workflow/waterline](https://github.com/durable-workflow/waterline) - An elegant UI for monitoring workflows.
+- [durable-workflow/waterline](https://github.com/durable-workflow/waterline) - Operator UI for Durable Workflow runtime health, history, queues, retries, and repair.
 - [durable-workflow/workflow](https://github.com/durable-workflow/workflow) - Core package for defining and running durable workflows and activities. Supports long-running persistent workflows, retries, queues, parallel execution, workflow monitoring, dedicated storage connecti
 - [heiglandreas/holidayChecker](https://github.com/heiglandreas/holidayChecker) - Check for holidays - locale-aware
 - [crew-cr/Crew](https://github.com/crew-cr/Crew) - Code review tool for git projects
@@ -2876,6 +2876,7 @@
 
 ## Rust 
 
+- [pronskiy/redpen](https://github.com/pronskiy/redpen) - A macOS menu-bar app that critiques your English instead of correcting it.
 - [pocket-stack/open-strike](https://github.com/pocket-stack/open-strike) - A CS-like FPS on the Pocket runtime family: Pocket3D Rust core, QuickJS gameplay mods, JSX HUD
 - [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳
 - [muglug/pzoom](https://github.com/muglug/pzoom) - A fast experimental PHP static analyzer written in Rust, a port of Psalm
@@ -3151,12 +3152,12 @@
 - [skill-mill/agent-skill-harbor](https://github.com/skill-mill/agent-skill-harbor) - Private skill catalog / marketplace for teams
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
 - [mnapoli/claude-usage-bar](https://github.com/mnapoli/claude-usage-bar) - Claude Code usage status bar
-- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [richshaw2015/dino-rss-electron](https://github.com/richshaw2015/dino-rss-electron) - A simple, efficient, open source RSS reader service
 - [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio, an open source alternative to Docker desktop
 
 ## Swift 
 
+- [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar) - A macOS menu bar application that monitors AI coding assistant usage quotas. Keep track of your Claude, Codex, Antigravity ,and Gemini usage at a glance.
 - [0Janvier/goldodict](https://github.com/0Janvier/goldodict) - 
 - [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
 - [pluk-inc/markdown-preview](https://github.com/pluk-inc/markdown-preview) - A simple Markdown viewer for reading .md files
@@ -3241,7 +3242,7 @@
 
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
-- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline 
 - [alcaeus/automatic-merge-up-action](https://github.com/alcaeus/automatic-merge-up-action) - Action to trigger creation of merge-up pull requests whenever commits are pushed to a branch
 - [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work.
 - [MouadRS/qa-auto-lab](https://github.com/MouadRS/qa-auto-lab) - 
@@ -3293,6 +3294,7 @@
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [craft-ai-agents/craft-agents-oss](https://github.com/craft-ai-agents/craft-agents-oss) - 
 - [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
+- [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
 - [photon-hq/imessage-kit](https://github.com/photon-hq/imessage-kit) - A type-safe, elegant iMessage SDK for macOS with zero dependencies
 - [NTCoding/living-architecture](https://github.com/NTCoding/living-architecture) - Extra software architecture from your code as living documentation. AI-assisted.
@@ -3351,6 +3353,7 @@
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [relagit/relagit](https://github.com/relagit/relagit) - The elegant solution to graphical version control.
 - [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
+- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [ollama/ollama-js](https://github.com/ollama/ollama-js) - Ollama JavaScript library
 - [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commits specification
 - [placemark/placemark](https://github.com/placemark/placemark) - A flexible web-based editor, converter, visualization tool, for geospatial data
