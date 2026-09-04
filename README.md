@@ -38,7 +38,6 @@
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
-- [Just](#just)
 - [Kotlin](#kotlin)
 - [Less](#less)
 - [Lua](#lua)
@@ -861,6 +860,7 @@
 - [jbrains/trivia](https://github.com/jbrains/trivia) - Legacy Code Retreat - Trivia Game codebase
 - [screensy/screensy](https://github.com/screensy/screensy) - Simple peer-to-peer screen sharing
 - [berzniz/github_pr_tree](https://github.com/berzniz/github_pr_tree) - Add a file tree to GitHub's Pull Request
+- [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [isaaceindhoven/velocita-proxy](https://github.com/isaaceindhoven/velocita-proxy) - Project was moved!
 - [beberlei/php-rfc-watch](https://github.com/beberlei/php-rfc-watch) - Interactive voting results for PHP RFC process.
 - [Bustbyte/coronastatus](https://github.com/Bustbyte/coronastatus) - Anonymous crowd sourcing of COVID-19 symptoms all over the world (with public data sets)!
@@ -955,7 +955,7 @@
 - [MSPaintIDE/MSPaintIDE](https://github.com/MSPaintIDE/MSPaintIDE) - Programming in MS Paint
 - [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin) - Jenkins Configuration as Code Plugin
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
-- [trekawek/coffee-gb](https://github.com/trekawek/coffee-gb) - Gameboy emulator in Java and Kotlin.
+- [trekawek/coffee-gb](https://github.com/trekawek/coffee-gb) - Accurate Gameboy Color emulator.
 - [cescoffier/vertx-chaos-demo](https://github.com/cescoffier/vertx-chaos-demo) - Demo for the Vert.x Chaos Presentation
 - [PavlikPolivka/GitLabProjects](https://github.com/PavlikPolivka/GitLabProjects) - Simple plugin that is adding support for GitLab specific actions to JetBrain IDEs
 - [arpinum/alexandria-api](https://github.com/arpinum/alexandria-api) - 
@@ -1002,6 +1002,8 @@
 
 ## JavaScript 
 
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
 - [WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) - Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [flavien-ia/hypervibe-harness](https://github.com/flavien-ia/hypervibe-harness) - Hypervibe: open-source Claude Code plugin that bootstraps full-stack T3 web apps (Next.js, tRPC, Drizzle, Tailwind, shadcn/ui) with modular addons. Install: /plugin marketplace add flavien-ia/hypervib
@@ -1418,10 +1420,6 @@
 - [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
 - [Elucidation/tensorflow_chessbot](https://github.com/Elucidation/tensorflow_chessbot) - Predict chessboard FEN layouts from images using TensorFlow
 
-## Just 
-
-- [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
-
 ## Kotlin 
 
 - [mnapoli/phpstorm-prereview](https://github.com/mnapoli/phpstorm-prereview) - PhpStorm AI review
@@ -1529,7 +1527,6 @@
 - [fabricepayet/skills](https://github.com/fabricepayet/skills) - A collection of reusable AI agent skills
 - [ayaniv/t2a-review-template](https://github.com/ayaniv/t2a-review-template) - AI code reviewer that thinks like your team — built from your team's actual PR comment history
 - [ksimback/tech-debt-skill](https://github.com/ksimback/tech-debt-skill) - Claude Code skill that produces a thorough, file-cited tech debt audit of an entire codebase
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [abijoserah/suggest-designs](https://github.com/abijoserah/suggest-designs) - 
 - [hiblaphp/hibla](https://github.com/hiblaphp/hibla) - Modern Asynchonous Runtime for PHP
 - [VicKayro/claude-security-audit](https://github.com/VicKayro/claude-security-audit) - Skill Claude Code pour audit de sécurité complet (OWASP Top 10, CWE/CVE, headers, auth, paywall, infra)
@@ -2713,7 +2710,7 @@
 - [aws/aws-sam-cli](https://github.com/aws/aws-sam-cli) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
 - [dalibo/temboard](https://github.com/dalibo/temboard) - PostgreSQL Remote Control
 - [ansible/molecule](https://github.com/ansible/molecule) - An ansible-native testing framework for collections, playbooks, and roles with configurable workflows for testing any system or service
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated Nginx Reverse Proxy for Docker
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [arnaucube/coffeeMiner](https://github.com/arnaucube/coffeeMiner) - collaborative (mitm) cryptocurrency mining pool in wifi networks
@@ -3260,6 +3257,7 @@
 - [0-AI-UG/cate](https://github.com/0-AI-UG/cate) - An infinite zoomable canvas for coding. Editor, terminal, and browser panels in a spatial workspace.
 - [fccview/jotty](https://github.com/fccview/jotty) - Lightweight but powerful alternative for managing your personal, file based, notes and checklists.
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [antoinevastel/fpscanner](https://github.com/antoinevastel/fpscanner) - Self-hosted browser fingerprinting and bot detection with real-world constraints in mind.
 - [icann/rdap-lookup-client](https://github.com/icann/rdap-lookup-client) - An example of Domain Name Registration Data Lookup using RDAP protocol.
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
