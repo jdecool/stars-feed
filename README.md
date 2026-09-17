@@ -1004,6 +1004,7 @@
 
 ## JavaScript 
 
+- [Osiris-Balonga/wobbi](https://github.com/Osiris-Balonga/wobbi) - Studio web pour créer, animer et exporter des mascottes SVG réutilisables.
 - [Kairos-commu/socle](https://github.com/Kairos-commu/socle) - Méthode et garde-fous pour travailler avec un agent de code sur un projet qui dure. Extrait de trois projets réels et de leurs incidents.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
@@ -2117,7 +2118,7 @@
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [lisachenko/z-engine](https://github.com/lisachenko/z-engine) - :zap: PHP Engine Direct API
 - [structurizr-php/structurizr-php](https://github.com/structurizr-php/structurizr-php) - 🗺 https://structurizr.com library for PHP - generate architecture diagrams from code
-- [sanchescom/php-wifi](https://github.com/sanchescom/php-wifi) - Cross-platform PHP library for scan, connect and disconnect Wi-Fi networks.
+- [sanchescom/php-wifi](https://github.com/sanchescom/php-wifi) - Cross-platform PHP library for Wi-Fi: scan, join, known networks, and on Linux a hotspot and a watchdog that keeps a headless device (Raspberry Pi) online. Verified on real hardware.
 - [webmozarts/console-parallelization](https://github.com/webmozarts/console-parallelization) - Enables the parallelization of Symfony Console commands.
 - [babeuloula/github-pr-review](https://github.com/babeuloula/github-pr-review) - Stop wasting time on code review, simplify you life with PR management on Github.
 - [Innmind/HttpTransport](https://github.com/Innmind/HttpTransport) - 
@@ -3252,6 +3253,7 @@
 
 ## TypeScript 
 
+- [playcanvas/supersplat](https://github.com/playcanvas/supersplat) - 3D Gaussian Splat Editor
 - [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
@@ -3338,7 +3340,7 @@
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [azerpas/bourso-desktop](https://github.com/azerpas/bourso-desktop) - Boursorama / BoursoBank unofficial desktop app
 - [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - The Open Source Agentic IDE. Create and orchestrate coding agents, show app previews and run git workflows. Use your favorite models across all providers.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [malgorithms/tippycoco](https://github.com/malgorithms/tippycoco) - A browser game for 1 or 2 players, inspired by Slime Volleyball
 - [ai-driven-dev/rules](https://github.com/ai-driven-dev/rules) - Nos règles "AI Editor" basée sur Cursor pour optimiser 10x les réponses de l'IA.
