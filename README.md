@@ -739,6 +739,7 @@
 - [twitchyliquid64/subnet](https://github.com/twitchyliquid64/subnet) - Simple, auditable & elegant VPN, built with TLS mutual authentication and TUN.
 - [CaptainCodeman/clean-go](https://github.com/CaptainCodeman/clean-go) - Clean Architecture Example in Go
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [rgburke/grv](https://github.com/rgburke/grv) - GRV is a terminal interface for viewing git repositories
 - [campoy/embedmd](https://github.com/campoy/embedmd) - embedmd: embed code into markdown and keep everything in sync
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
@@ -1795,7 +1796,7 @@
 - [mnapoli/boxie](https://github.com/mnapoli/boxie) - Universal package manager based on Docker
 - [laravel/nightwatch](https://github.com/laravel/nightwatch) - The official Laravel Nightwatch package.
 - [packistry/packistry](https://github.com/packistry/packistry) - Open Source, Self-Hosted, Composer repository for PHP packages
-- [mtarld/apip-ddd](https://github.com/mtarld/apip-ddd) - An example of hexagonal API Platform 3 implementation
+- [mtarld/apip-ddd](https://github.com/mtarld/apip-ddd) - An example of hexagonal API Platform 4 implementation
 - [DaveLiddament/phpstan-php-language-extensions](https://github.com/DaveLiddament/phpstan-php-language-extensions) - PHPStan extension for validating php-language-extensions
 - [JacquesDurand/symfony-otl](https://github.com/JacquesDurand/symfony-otl) - 
 - [devdot/monolog-parser](https://github.com/devdot/monolog-parser) - A library for parsing monolog logfiles.
@@ -3119,7 +3120,6 @@
 - [mko-x/docker-clamav](https://github.com/mko-x/docker-clamav) - Multi-arch dockerized open source antivirus for use with file sharing containers, REST API or TCP.
 - [GoogleCloudPlatform/continuous-deployment-on-kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes) - Get up and running with Jenkins on Google Kubernetes Engine
 - [devfriendlyplaces/data](https://github.com/devfriendlyplaces/data) - Json files for friendly places
-- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [thecodingmachine/kickoff-docker-php](https://github.com/thecodingmachine/kickoff-docker-php) - :whale: :elephant: :rocket: Easily setup a PHP project with Docker
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
 - [TheNewNormal/kube-solo-osx](https://github.com/TheNewNormal/kube-solo-osx) - Local development Kubernetes Solo Cluster for macOS made very simple
