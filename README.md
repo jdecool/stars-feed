@@ -835,7 +835,7 @@
 
 ## HTML 
 
-- [jasonku09/grill-with-ui](https://github.com/jasonku09/grill-with-ui) - Claude Code skill: run a grilling design interview on a local browser page instead of the terminal
+- [jasonku09/grill-with-ui](https://github.com/jasonku09/grill-with-ui) - Agent-agnostic skill: run a grilling design interview on a local browser page instead of the terminal
 - [fboucher/kanban-dmz](https://github.com/fboucher/kanban-dmz) - Simple Kanban board with public and private zones
 - [Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator) - Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a Claude AI skill.
 - [vladikk/modularity](https://github.com/vladikk/modularity) - Claude Code plugin for designing modular systems from functional requirements and reviewing existing codebases for modularity problems with actionable improvement recommendations. Based on the Balance
@@ -2569,7 +2569,7 @@
 - [olexya/data-games-viz](https://github.com/olexya/data-games-viz) - 
 - [MaxMiksa/Auto-Company](https://github.com/MaxMiksa/Auto-Company) - An auto-company works for 24/7 on your own PC - Windows/Linux/macOS.
 - [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tri
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [getsentry/skills](https://github.com/getsentry/skills) - Agent Skills used by the Sentry team for development.
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
@@ -2591,7 +2591,7 @@
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [Huluti/ossatrisk](https://github.com/Huluti/ossatrisk) - Tracking high-risk oss packages: abandoned, undermaintained, or CVE-exposed.
 - [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,445+ agentic skills. Includes CLI, local MCP, catalo
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, inter
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
@@ -3040,7 +3040,7 @@
 ## Shell 
 
 - [makraz/ddev-claude](https://github.com/makraz/ddev-claude) - A DDEV add-on that adds a sandboxed sidecar container for running Claude Code (Anthropic's AI coding CLI) with --dangerously-skip-permissions (YOLO mode) safely contained behind an iptables + ipset + 
-- [tikalk/adlc-team-skills](https://github.com/tikalk/adlc-team-skills) - 🐙 ADLC Team Skills — Agentic SDLC for Engineering Teams
+- [tikalk/adlc-team-skills](https://github.com/tikalk/adlc-team-skills) - Agent skills for the Agentic SDLC: team lifecycle (team-boot, team-learn, team-init, team-repair), software factory, evals, CDR lifecycle with confidence scoring, and ADR/PDR/ChDR decision records. Wo
 - [MikeCodeur/killer-saas](https://github.com/MikeCodeur/killer-saas) - 
 - [mnapoli/skills](https://github.com/mnapoli/skills) - Agent skills: unslop, address PR review
 - [chaabani-anis/mikado-method](https://github.com/chaabani-anis/mikado-method) - Skill Mikado Method for agentic legacy refactoring
@@ -3258,7 +3258,7 @@
 - [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
-- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline 
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline 
 - [alcaeus/automatic-merge-up-action](https://github.com/alcaeus/automatic-merge-up-action) - Action to trigger creation of merge-up pull requests whenever commits are pushed to a branch
 - [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work.
 - [MouadRS/qa-auto-lab](https://github.com/MouadRS/qa-auto-lab) - 
