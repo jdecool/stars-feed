@@ -3259,6 +3259,7 @@
 
 ## TypeScript 
 
+- [Maxsky5/openducktor](https://github.com/Maxsky5/openducktor) - Open-source Agentic Development Environment for orchestrating coding agents through task-based, multi-agent development workflows.
 - [jdeniau/tiana-tables](https://github.com/jdeniau/tiana-tables) - A MySQL, MariaDB and PostgreSQL desktop client for developers.
 - [wevm/curl.md](https://github.com/wevm/curl.md) - URL to markdown for agents
 - [stefw/lkclean](https://github.com/stefw/lkclean) - Chrome extension that cleans up your LinkedIn feed: hides engagement bait, self-promo and off-topic posts using Jev, TypeSafe AI's typed classification model — and explains every decision.
