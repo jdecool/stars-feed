@@ -1636,6 +1636,7 @@
 - [jlondiche/Le-job-board](https://github.com/jlondiche/Le-job-board) - 
 - [mdiplo/Medias_francais](https://github.com/mdiplo/Medias_francais) - Qui possède quoi ?
 - [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [j4p3/strimpack](https://github.com/j4p3/strimpack) - A platform for livestreamers to make a home for their audience.
 - [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
@@ -2381,7 +2382,7 @@
 - [dddshelf/last-wishes](https://github.com/dddshelf/last-wishes) - Last Wishes is a PHP application written following Domain-Driven Design approach. It's one of the sample applications where you can check the concepts explained in the "Domain-Driven Design in PHP" bo
 - [gbprod/specification](https://github.com/gbprod/specification) - Yet another specification pattern implementation in PHP
 - [andrewvy/HHVMCraft](https://github.com/andrewvy/HHVMCraft) - :package: Minecraft Beta 1.7.3 Server implemented in PHP/HHVM, powered by ReactPHP.
-- [peternijssen/packy](https://github.com/peternijssen/packy) - Packy is an open source tool to validate if your dependencies are up 2 date. Packy is based on the Symfony framework.
+- [peter-mdf/packy](https://github.com/peter-mdf/packy) - Packy is an open source tool to validate if your dependencies are up 2 date. Packy is based on the Symfony framework.
 - [chriskapp/phps](https://github.com/chriskapp/phps) - Tool to index PHP source files
 - [php-ds/ext-ds](https://github.com/php-ds/ext-ds) - Extension for specialized native data structures in PHP
 - [krustnic/DocxMerge](https://github.com/krustnic/DocxMerge) - Simple library for merging multiple MS Word ".docx" files into one
@@ -2850,7 +2851,7 @@
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 Default casks (upstream binary packages) for the package manager for everywhere
 - [Shopify/shipit-engine](https://github.com/Shopify/shipit-engine) - Deployment coordination
 - [TypoCI/Marketplace-App](https://github.com/TypoCI/Marketplace-App) - Find Spelling errors in files within PRs
-- [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - Homebrew tap for PHP 5.6 to 8.6. PHP 8.6 is built nightly :beer:
+- [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - Homebrew tap for PHP 5.6 to 8.7. PHP 8.6 and 8.7 are built nightly :beer:
 - [eXolnet/homebrew-deprecated](https://github.com/eXolnet/homebrew-deprecated) - eXolnet's Homebrew tap for deprecated formulae.
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 - [brotandgames/ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
@@ -2859,7 +2860,6 @@
 - [Evolix/chexpire](https://github.com/Evolix/chexpire) - A web application to help check for domain or SSL/TLS certificate expirations.
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [lessy-community/lessy](https://github.com/lessy-community/lessy) - A respectful and ethical time manager.
 - [passbolt/passbolt_docker](https://github.com/passbolt/passbolt_docker) - Get started with Passbolt CE using docker!
 - [andreausu/git-notifier](https://github.com/andreausu/git-notifier) - Get email notifications when someone stars or forks one of your GitHub repos and follows/unfollows you
