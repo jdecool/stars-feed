@@ -352,6 +352,7 @@
 ## CSS 
 
 - [anthdm/ssltrackeroe](https://github.com/anthdm/ssltrackeroe) - 
+- [Cecilapp/Links](https://github.com/Cecilapp/Links) - Links is an open source Linktree alternative powered by Cecil, Tailwind CSS and Font Awesome.
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [SymfonyCasts/messenger-monitor-bundle](https://github.com/SymfonyCasts/messenger-monitor-bundle) - Visual Monitoring & Retries for Symfony Messenger!
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
@@ -1027,7 +1028,7 @@
 - [sgoedecke/skifreedle](https://github.com/sgoedecke/skifreedle) - 
 - [doctly/switchboard](https://github.com/doctly/switchboard) - A desktop app for browsing, searching, and managing CLI coding sessions
 - [Webba-Creative-Technologies/vice](https://github.com/Webba-Creative-Technologies/vice) - VICE is a security auditing CLI tool that finds vulnerabilities in your web applications.
-- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Clau
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
@@ -1744,6 +1745,7 @@
 
 ## PHP 
 
+- [colinodell/json5](https://github.com/colinodell/json5) - UTF-8 compatible JSON5 parser for PHP
 - [yoanbernabeu/youtubeboost](https://github.com/yoanbernabeu/youtubeboost) - Give the videos in your YouTube back catalogue a second life: relaunch scoring and Gemini-generated thumbnails.
 - [beberlei/metrics](https://github.com/beberlei/metrics) - Simple library that abstracts different metrics collectors. I find this necessary to have a consistent and simple metrics (functional) API that doesn't cause vendor lock-in.
 - [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) - Durable execution for PHP: workflows that survive deploys, restarts and crashes, and resume where they stopped. Symfony, Laravel, Sylius and Magento integrations. Monorepo — the published packages are
@@ -3257,7 +3259,6 @@
 ## Twig 
 
 - [yoanbernabeu/OpenStreamPoll](https://github.com/yoanbernabeu/OpenStreamPoll) - OpenStreamPoll is an open-source live polling platform designed specifically for streamers. It empowers creators to engage their audience with instant polls, real-time results, and seamless integratio
-- [Cecilapp/Links](https://github.com/Cecilapp/Links) - Links is an open source Linktree alternative powered by Cecil, Tailwind CSS and Font Awesome.
 
 ## TypeScript 
 
@@ -3352,7 +3353,7 @@
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [azerpas/bourso-desktop](https://github.com/azerpas/bourso-desktop) - Boursorama / BoursoBank unofficial desktop app
 - [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - The Open Source Agentic IDE. Create and orchestrate coding agents, show app previews and run git workflows. Use your favorite models across all providers.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [malgorithms/tippycoco](https://github.com/malgorithms/tippycoco) - A browser game for 1 or 2 players, inspired by Slime Volleyball
 - [ai-driven-dev/rules](https://github.com/ai-driven-dev/rules) - Nos règles "AI Editor" basée sur Cursor pour optimiser 10x les réponses de l'IA.
