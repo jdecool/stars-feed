@@ -472,7 +472,7 @@
 - [google/ax](https://github.com/google/ax) - Google's open agentic orchestration runtime
 - [backstabslash/goccc](https://github.com/backstabslash/goccc) - Fast, zero-dependency cost calculator and customizable statusline for Claude Code. Breakdowns by model, day, project, and branch. Lightweight, single binary, no runtime needed.
 - [chrisgreg/boop](https://github.com/chrisgreg/boop) - A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.
-- [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) - Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents.
+- [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) - Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents.
 - [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes
 - [jvdbc/terraform-provider-alwaysdata](https://github.com/jvdbc/terraform-provider-alwaysdata) - Terraform provider for alwaysdata (www.alwaysdata.com)
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
@@ -1115,7 +1115,6 @@
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [chrnorm/deployment-action](https://github.com/chrnorm/deployment-action) - GitHub action to create a Deployment
 - [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs.
-- [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [jlandure/alpine-chrome](https://github.com/jlandure/alpine-chrome) - Chrome Headless docker images built upon alpine official image
 - [EmailThis/extension-boilerplate](https://github.com/EmailThis/extension-boilerplate) - ⚡️ A template for building cross browser extensions for Chrome, Opera & Firefox.
@@ -1540,7 +1539,6 @@
 ## Others 
 
 - [abderrahmennmokrani/po-assistant](https://github.com/abderrahmennmokrani/po-assistant) - AI pipeline (n8n + Claude) assisting Product Owners from idea to Jira tickets
-- [fabricepayet/skills](https://github.com/fabricepayet/skills) - A collection of reusable AI agent skills
 - [ayaniv/t2a-review-template](https://github.com/ayaniv/t2a-review-template) - AI code reviewer that thinks like your team — built from your team's actual PR comment history
 - [ksimback/tech-debt-skill](https://github.com/ksimback/tech-debt-skill) - Claude Code skill that produces a thorough, file-cited tech debt audit of an entire codebase
 - [abijoserah/suggest-designs](https://github.com/abijoserah/suggest-designs) - 
@@ -1786,7 +1784,7 @@
 - [adam-paterson/oauth2-slack](https://github.com/adam-paterson/oauth2-slack) - Slack OAuth 2.0 Client Provider for The PHP League OAuth2-Client
 - [Kocal/phpstan-symfony-ux](https://github.com/Kocal/phpstan-symfony-ux) - PHPStan rules for Symfony UX
 - [CorentinBoutillier/invoice-bundle](https://github.com/CorentinBoutillier/invoice-bundle) - Symfony Bundle for invoice and credit note management compliant with French legal regulations
-- [rectorphp/jack](https://github.com/rectorphp/jack) - Safe and steady way to raise your composer dependency versions
+- [rectorphp/jack](https://github.com/rectorphp/jack) - [Depreated] and moved to ↓
 - [whatsdiff/whatsdiff](https://github.com/whatsdiff/whatsdiff) - CLI tool to see what has changed in your project's dependencies
 - [ArthurJCQ/leitner-box](https://github.com/ArthurJCQ/leitner-box) - 
 - [jacquesbh/memex-mcp](https://github.com/jacquesbh/memex-mcp) - MEMEX is a local MCP server for managing your knowledge base of guides and contexts.
@@ -2565,6 +2563,8 @@
 
 ## Python 
 
+- [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
+- [cedardb/DOOMQL](https://github.com/cedardb/DOOMQL) - A multiplayer DOOM-like in pure SQL
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.
 - [vthuillier/job2mail](https://github.com/vthuillier/job2mail) - 
@@ -3174,6 +3174,7 @@
 - [mnapoli/claude-usage-bar](https://github.com/mnapoli/claude-usage-bar) - Claude Code usage status bar
 - [richshaw2015/dino-rss-electron](https://github.com/richshaw2015/dino-rss-electron) - A simple, efficient, open source RSS reader service
 - [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio, an open source alternative to Docker desktop
+- [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 
 ## Swift 
 
@@ -3260,6 +3261,8 @@
 
 ## TypeScript 
 
+- [deplyr/deplyr](https://github.com/deplyr/deplyr) - Deplyr is an open-source, self-hostable platform. You point it at a VPS you own — an EC2 instance, a Hetzner box, anything running Linux — and it installs what it needs over SSH once. From then on you
+- [Amorfx/claude-paste-view](https://github.com/Amorfx/claude-paste-view) - Claude Code mod: preview pasted images and long pasted text above the prompt
 - [devagrawal09/jev-review](https://github.com/devagrawal09/jev-review) - A staged code-review workflow and local dashboard built with TypeSafe Jev.
 - [Maxsky5/openducktor](https://github.com/Maxsky5/openducktor) - Open-source Agentic Development Environment for orchestrating coding agents through task-based, multi-agent development workflows.
 - [jdeniau/tiana-tables](https://github.com/jdeniau/tiana-tables) - A MySQL, MariaDB and PostgreSQL desktop client for developers.
