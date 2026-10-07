@@ -110,7 +110,7 @@
 
 - [yoanbernabeu/flux](https://github.com/yoanbernabeu/flux) - Agrégateur de veille technologique RSS
 - [yoanbernabeu/LinkTreeFreeClone](https://github.com/yoanbernabeu/LinkTreeFreeClone) - LinkTreeFreeClone is a LinkTree clone built with Astro and Tailwind
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
 - [neiesc/awesome-minimalist](https://github.com/neiesc/awesome-minimalist) - A curated list of awesome minimalist frameworks (simple and lightweight).
 
 ## Batchfile 
@@ -357,6 +357,7 @@
 - [SymfonyCasts/messenger-monitor-bundle](https://github.com/SymfonyCasts/messenger-monitor-bundle) - Visual Monitoring & Retries for Symfony Messenger!
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [uxcandy/Label-Free-Bootstrap-Admin-Template](https://github.com/uxcandy/Label-Free-Bootstrap-Admin-Template) - Label admin template is a sophisticated responsive admin dashboard template made on top of Bootstrap 4. It is packed with highly customizable Bootstrap components that help web development easy and fa
+- [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [driftphp/demo](https://github.com/driftphp/demo) - Demo for DriftPHP
 - [tabulapdf/tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files
 - [thewhiteh4t/seeker](https://github.com/thewhiteh4t/seeker) - Accurately Locate Smartphones using Social Engineering
@@ -1742,6 +1743,7 @@
 
 ## PHP 
 
+- [Klehm/content-blocks-project](https://github.com/Klehm/content-blocks-project) - A page builder that lives inside your Symfony app. In-context editing with live preview of your real page, 19 ready-made blocks, extensible. No CMS lock-in. Works with Sylius.
 - [colinodell/json5](https://github.com/colinodell/json5) - UTF-8 compatible JSON5 parser for PHP
 - [yoanbernabeu/youtubeboost](https://github.com/yoanbernabeu/youtubeboost) - Give the videos in your YouTube back catalogue a second life: relaunch scoring and Gemini-generated thumbnails.
 - [beberlei/metrics](https://github.com/beberlei/metrics) - Simple library that abstracts different metrics collectors. I find this necessary to have a consistent and simple metrics (functional) API that doesn't cause vendor lock-in.
@@ -1909,7 +1911,7 @@
 - [Probesys/agentj](https://github.com/Probesys/agentj) - Libre antispam system with human authentication.
 - [DeepL/deepl-php](https://github.com/DeepL/deepl-php) - Official PHP library for the DeepL language translation API.
 - [openai-php/symfony](https://github.com/openai-php/symfony) - ⚡️ OpenAI PHP for Symfony is a supercharged PHP API client that allows you to interact with OpenAI API
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) - Find Unused Public Elements in Your Code
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) - [Deprecated] Use ↓ instead
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [amphp/parallel](https://github.com/amphp/parallel) - An advanced parallelization library for PHP, enabling efficient multitasking, optimizing resource use, and application responsiveness through multiple CPU threads.
 - [sourceability/openai-client](https://github.com/sourceability/openai-client) - PHP 8.0+ OpenAI API client with fully typed/documented requests+responses models, guzzle and symfony/http-client support and async/parallel requests
@@ -2899,7 +2901,7 @@
 - [Melvynx/agent-burn](https://github.com/Melvynx/agent-burn) - Native macOS app and CLI for coding-agent usage, limits, and subscription value.
 - [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 - [pronskiy/redpen](https://github.com/pronskiy/redpen) - A macOS menu-bar app that critiques your English instead of correcting it.
-- [pocket-nexus/open-strike](https://github.com/pocket-nexus/open-strike) - A CS-like FPS on the Pocket runtime family: Pocket3D Rust core, QuickJS gameplay mods, JSX HUD
+- [pocket-nexus/open-strike](https://github.com/pocket-nexus/open-strike) - OpenStrike: a CS-like FPS on classic BSP maps from your own copy of the game. Pocket3D renderers for PSP, PS Vita, Nintendo 3DS, iPod touch and desktop; rules and HUD in JavaScript.
 - [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳
 - [muglug/pzoom](https://github.com/muglug/pzoom) - A fast experimental PHP static analyzer written in Rust, a port of Psalm
 - [msitarzewski/brew-browser](https://github.com/msitarzewski/brew-browser) - Homebrew is the standard package manager on macOS. brew-browser gives it a real native GUI.
@@ -2925,7 +2927,7 @@
 - [Merklemap/merklemap-cli](https://github.com/Merklemap/merklemap-cli) - Discover and enumerate all subdomains associated with a website, including those not publicly advertised. Use this tool to conduct thorough security assessments, validate your organization's digital f
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [FifthRooter/OpenShotX](https://github.com/FifthRooter/OpenShotX) - screen capture and recording tool for Linux, inspired by CleanShot X.
-- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ GUI/CLI tool and library for saving complete web pages as a single HTML file
 - [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
@@ -3174,7 +3176,6 @@
 - [mnapoli/claude-usage-bar](https://github.com/mnapoli/claude-usage-bar) - Claude Code usage status bar
 - [richshaw2015/dino-rss-electron](https://github.com/richshaw2015/dino-rss-electron) - A simple, efficient, open source RSS reader service
 - [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio, an open source alternative to Docker desktop
-- [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 
 ## Swift 
 
@@ -3400,7 +3401,7 @@
 - [louisgrasset/touitomamout](https://github.com/louisgrasset/touitomamout) - Touitomamout is an easy way to synchronize your Twitter's tweets 🦤 to Mastodon 🦣 and Bluesky post ☁️ (also known as Twitter to Mastodon & Bluesky crossposter)
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
-- [Web-SyncPlay/Web-SyncPlay](https://github.com/Web-SyncPlay/Web-SyncPlay) - Watch online media like YouTube, Vimeo, Soundcloud or video/audio files in sync.
+- [Web-SyncPlay/Web-SyncPlay](https://github.com/Web-SyncPlay/Web-SyncPlay) - Watch any yt-dlp source in sync—or stream local files to everyone
 - [spatie/fatten](https://github.com/spatie/fatten) - Transform dot-notation-like objects into optimised nested objects.
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Status page with uptime monitoring & API monitoring as code   🫖
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
