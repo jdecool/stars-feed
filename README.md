@@ -1826,7 +1826,7 @@
 - [artprima/prometheus-metrics-bundle](https://github.com/artprima/prometheus-metrics-bundle) - Symfony 5/6/7/8 Prometheus Metrics Bundle
 - [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) - 🚀 Fast detection of composer dependency issues (unused dependencies, shadow dependencies, misplaced dependencies)
 - [pinkary-project/pinkary.com](https://github.com/pinkary-project/pinkary.com) - Create a landing page for all your links and connect with like-minded people without the noise.
-- [ergebnis/classy](https://github.com/ergebnis/classy) - 🔍 Provides a composer package with a collectors for classy constructs (classes, enums, interfaces, and traits).
+- [ergebnis/classy](https://github.com/ergebnis/classy) - 🔍 Provides a composer package with collectors for classy constructs (classes, enums, interfaces, and traits).
 - [alekitto/class-finder](https://github.com/alekitto/class-finder) - Utility classes to help discover other classes/namespaces
 - [schmittjoh/php-option](https://github.com/schmittjoh/php-option) - Option Type for PHP
 - [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony) - [READONLY] Symfony auto-instrumentation
@@ -3272,6 +3272,7 @@
 
 ## TypeScript 
 
+- [CasualOffice/docs](https://github.com/CasualOffice/docs) - Open-source self-hosted web .docx editor with real-time co-editing — an alternative to Google Docs, Microsoft Word Online, and OnlyOffice Document Server you run on your own server.
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
 - [openqodex/openqodex](https://github.com/openqodex/openqodex) - Open source code review that runs in your coding agent before you push. Scanners plus a separate AI reviewer, on your own login, no key.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
