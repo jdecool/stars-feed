@@ -56,6 +56,7 @@
 - [OpenSCAD](#openscad)
 - [Others](#others)
 - [PHP](#php)
+- [PLpgSQL](#plpgsql)
 - [Perl](#perl)
 - [PicoLisp](#picolisp)
 - [PowerShell](#powershell)
@@ -1186,6 +1187,7 @@
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [sitespeedio/run.sitespeed.io](https://github.com/sitespeedio/run.sitespeed.io) - Online version of sitespeed.io
 - [1j01/jspaint](https://github.com/1j01/jspaint) - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
+- [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [greenkeeperio/greenkeeper](https://github.com/greenkeeperio/greenkeeper) - :robot: :palm_tree: Real-time automated dependency updates for npm and GitHub
 - [ComfyKernel/craftles](https://github.com/ComfyKernel/craftles) - Can view on https://comfykernel.github.io/craftles
 - [Minishlink/pwa-qr-code-scanner](https://github.com/Minishlink/pwa-qr-code-scanner) - Lightweight progressive web app for scanning QR codes offline
@@ -1538,7 +1540,6 @@
 - [keemanxp/friendlyr2](https://github.com/keemanxp/friendlyr2) - Act as a strict but constructive senior reviewer for a top-quartile journal across any discipline.
 - [jeremyraffin/agentic-software-engineering-workflow](https://github.com/jeremyraffin/agentic-software-engineering-workflow) - Workflow agentique avec classification du risque, human gates, verification harness et review indépendante.
 - [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) - Notes of the book System Desgin Interview - An Insider's Guide
-- [abderrahmennmokrani/po-assistant](https://github.com/abderrahmennmokrani/po-assistant) - AI pipeline (n8n + Claude) assisting Product Owners from idea to Jira tickets
 - [ayaniv/t2a-review-template](https://github.com/ayaniv/t2a-review-template) - AI code reviewer that thinks like your team — built from your team's actual PR comment history
 - [ksimback/tech-debt-skill](https://github.com/ksimback/tech-debt-skill) - Claude Code skill that produces a thorough, file-cited tech debt audit of an entire codebase
 - [abijoserah/suggest-designs](https://github.com/abijoserah/suggest-designs) - 
@@ -2535,6 +2536,10 @@
 - [gitonomy/gitonomy](https://github.com/gitonomy/gitonomy) - [DEPRECATED] Git repositories inside your infrastructure
 - [reactphp/reactphp](https://github.com/reactphp/reactphp) - Event-driven, non-blocking I/O with PHP.
 
+## PLpgSQL 
+
+- [abderrahmennmokrani/po-assistant](https://github.com/abderrahmennmokrani/po-assistant) - AI pipeline (n8n + Claude) assisting Product Owners from idea to Jira tickets
+
 ## Perl 
 
 - [curl/trurl](https://github.com/curl/trurl) - a command line tool for URL parsing and manipulation.
@@ -2747,7 +2752,6 @@
 - [ansible/molecule](https://github.com/ansible/molecule) - An ansible-native testing framework for collections, playbooks, and roles with configurable workflows for testing any system or service
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated Nginx Reverse Proxy for Docker
-- [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [arnaucube/coffeeMiner](https://github.com/arnaucube/coffeeMiner) - collaborative (mitm) cryptocurrency mining pool in wifi networks
 - [zhoubear/open-paperless](https://github.com/zhoubear/open-paperless) - Scan, index, and archive all of your paper documents (acquired by Mayan EDMS)
 - [peritus/geocommit](https://github.com/peritus/geocommit) - This attaches geolocation information to commits you you know where you where when you coded the stuff
