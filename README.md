@@ -332,7 +332,7 @@
 - [google/butteraugli](https://github.com/google/butteraugli) - butteraugli estimates the psychovisual difference between two images
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [picotorrent/picotorrent](https://github.com/picotorrent/picotorrent) - A tiny, hackable BitTorrent client.
-- [facebook/redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
+- [meta/redex](https://github.com/meta/redex) - A bytecode optimizer for Android apps
 - [Croteam-official/Serious-Engine](https://github.com/Croteam-official/Serious-Engine) - An open source version of a game engine developed by Croteam for the classic Serious Sam games.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [guillaumechereau/goxel](https://github.com/guillaumechereau/goxel) - Goxel: Free and Open Source 3D Voxel Editor
@@ -471,7 +471,7 @@
 - [google/ax](https://github.com/google/ax) - Agent Executor (AX) is Google's open agentic orchestration runtime
 - [backstabslash/goccc](https://github.com/backstabslash/goccc) - Fast, zero-dependency cost calculator and customizable statusline for Claude Code. Single binary, no runtime needed.
 - [chrisgreg/boop](https://github.com/chrisgreg/boop) - A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.
-- [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) - Open-source (Apache-2.0) orchestrator for Claude Code, Codex & 30+ coding agents. Plan, run and supervise agent teams from task to merged PR. Desktop (macOS, Windows, Linux) + iPhone & Android apps.
+- [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) - Plan, run and supervise fleets of agents from task to merged PR. Desktop (macOS, Windows, Linux) + iPhone & Android apps.  Supports Claude Code, Codex & 35+ coding agents.
 - [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes
 - [jvdbc/terraform-provider-alwaysdata](https://github.com/jvdbc/terraform-provider-alwaysdata) - Terraform provider for alwaysdata (www.alwaysdata.com)
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
@@ -977,7 +977,7 @@
 - [plantuml/plantuml-server](https://github.com/plantuml/plantuml-server) - PlantUML Online Server
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [weiboad/fiery](https://github.com/weiboad/fiery) - trace for PHP
-- [facebook/buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
+- [meta/buck](https://github.com/meta/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
 - [react-native-camera/react-native-camera](https://github.com/react-native-camera/react-native-camera) - A Camera component for React Native. Also supports barcode scanning!
 - [jenkinsci/scaleway-cloud-plugin](https://github.com/jenkinsci/scaleway-cloud-plugin) - Jenkins Scaleway Slave Plugin
 - [aurimasniekis/idea-php-psr4-namespace-detector](https://github.com/aurimasniekis/idea-php-psr4-namespace-detector) - Adds detection of PSR-4 Namespace prefixes based on `composer.json` properties: `autoload`, `autoload-dev`
@@ -2404,7 +2404,7 @@
 - [AndrewCarterUK/TypedArrays](https://github.com/AndrewCarterUK/TypedArrays) - Typed arrays in PHP
 - [dunglas/DunglasActionBundle](https://github.com/dunglas/DunglasActionBundle) - Symfony controllers, redesigned
 - [movim/movim](https://github.com/movim/movim) - Movim - Decentralized social platform
-- [facebook/open-graph-protocol](https://github.com/facebook/open-graph-protocol) - 
+- [meta/open-graph-protocol](https://github.com/meta/open-graph-protocol) - 
 - [chriskonnertz/open-graph](https://github.com/chriskonnertz/open-graph) - Library that assists in building Open Graph meta tags
 - [misd-service-development/phone-number-bundle](https://github.com/misd-service-development/phone-number-bundle) - Integrates libphonenumber into your Symfony2-Symfony4 application
 - [malukenho/PsyGit](https://github.com/malukenho/PsyGit) - Git for PHPsychopaths
@@ -2914,7 +2914,7 @@
 - [Melvynx/agent-burn](https://github.com/Melvynx/agent-burn) - Native macOS app and CLI for coding-agent usage, limits, and subscription value.
 - [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 - [pronskiy/redpen](https://github.com/pronskiy/redpen) - A macOS menu-bar app that critiques your English instead of correcting it.
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 - [pocket-nexus/open-strike](https://github.com/pocket-nexus/open-strike) - OpenStrike: a CS-like FPS on classic BSP maps from your own copy of the game. Pocket3D renderers for PSP, PS Vita, Nintendo 3DS, iPod touch and desktop; rules and HUD in JavaScript.
 - [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳
 - [muglug/pzoom](https://github.com/muglug/pzoom) - A fast experimental PHP static analyzer written in Rust, a port of Psalm
@@ -2958,7 +2958,7 @@
 - [ryangjchandler/pxp](https://github.com/ryangjchandler/pxp) - An early-stage transpiler for modern PHP development.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix Web ecosystem usage.
-- [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
+- [meta/sapling](https://github.com/meta/sapling) - A Scalable, User-Friendly Source Control System.
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - Run Anything
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems
 - [hakoerber/git-repo-manager](https://github.com/hakoerber/git-repo-manager) - A git tool to manage worktrees and integrate with GitHub and GitLab
@@ -3385,7 +3385,7 @@
 - [ai-driven-dev/rules](https://github.com/ai-driven-dev/rules) - Nos règles "AI Editor" basée sur Cursor pour optimiser 10x les réponses de l'IA.
 - [coderamp-labs/pad.ws](https://github.com/coderamp-labs/pad.ws) - Whiteboard as an IDE, draw and code in your browser
 - [davidroberto/react-redux-clean-architecture-tdd-eda-vertical-slices](https://github.com/davidroberto/react-redux-clean-architecture-tdd-eda-vertical-slices) - A React project with Clean Architecture, Event Driven Architecture, TDD and vertical slices principles.
-- [gabimoncha/cursor-rules-cli](https://github.com/gabimoncha/cursor-rules-cli) - A CLI for boostrapping Cursor AI rules in your project
+- [gabimoncha/cursor-rules-cli](https://github.com/gabimoncha/cursor-rules-cli) - A CLI for boostrapping Cursor AI rules - before skills.sh was a thing
 - [Sevadus/zonr](https://github.com/Sevadus/zonr) - The easiest way to send timezone-aware times to anyone in the world.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [agentlabs-dev/openator](https://github.com/agentlabs-dev/openator) - Open source version of OpenAI Operator - Ask your browser to perform highlevel tasks
@@ -3491,7 +3491,7 @@
 - [betagouv/mon-entreprise](https://github.com/betagouv/mon-entreprise) - L'assistant officiel des entrepreneurs
 - [jsonwebtoken/jsonwebtoken.github.io](https://github.com/jsonwebtoken/jsonwebtoken.github.io) - Developer-centric site to create awareness of JWTs and troubleshoot them.
 - [SensCritique/browser-extension](https://github.com/SensCritique/browser-extension) - Permet d'avoir un score SensCritique sur Netflix, Disney+ et Prime Video
-- [kamilmielnik/scrabble-solver](https://github.com/kamilmielnik/scrabble-solver) - Free, open-source, cross-platform, multi-language analysis tool for Scrabble, Scrabble Duel, Super Scrabble, Letter League, Crossplay, Literaki, Kelimelik, and Wyrazy. Quickly find the top-scoring wor
+- [kamilmielnik/scrabble-solver](https://github.com/kamilmielnik/scrabble-solver) - Free, open-source, cross-platform, multi-language analysis tool for Scrabble, Scrabble Duel, Super Scrabble, Letter League, Crossplay, Literaki, Kelimelik, Wyrazy, and Wordfeud. Quickly find the top-s
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [alibaba/lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
