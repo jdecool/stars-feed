@@ -516,6 +516,7 @@
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [derickr/streamdeck-goui](https://github.com/derickr/streamdeck-goui) - Project to drive a Elgato Stream Deck in a sort of configurable way
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
+- [cchalop1/JustDeploy](https://github.com/cchalop1/JustDeploy) - Deploy what you want where you want.
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam's song recognition algorithm.
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [devops-works/slowql](https://github.com/devops-works/slowql) - A package to parse slow query logs in Go, with associated tooling (digester, replayer...), and compatible with multiple databases (MySQL, MariaDB, PerconaDB...).
@@ -845,6 +846,7 @@
 - [vladikk/modularity](https://github.com/vladikk/modularity) - Claude Code plugin for designing modular systems from functional requirements and reviewing existing codebases for modularity problems with actionable improvement recommendations. Based on the Balance
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
+- [Secrover/Secrover](https://github.com/Secrover/Secrover) - Open-Source Security Reports, Made Simple - 100% free. No paywalls, just actionable insights.
 - [lyrixx/composer-diff](https://github.com/lyrixx/composer-diff) - Web application to  compare two `composer.lock` and get a beautiful diff
 - [givanz/vvveb-admin-template](https://github.com/givanz/vvveb-admin-template) - Vvveb Admin Template
 - [benjamin-brady/gitlab-simulator](https://github.com/benjamin-brady/gitlab-simulator) - 
@@ -1011,6 +1013,7 @@
 
 ## JavaScript 
 
+- [heydamir/unslop](https://github.com/heydamir/unslop) - A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 - [dmoka/skills](https://github.com/dmoka/skills) - Agent skills by Daniel Moka — battle-tested practices your coding agent can execute. First up: mutation-testing.
 - [Lingelo/dojo](https://github.com/Lingelo/dojo) - Claude Code plugin marketplace — security hooks, git workflows, Playwright E2E, Jira release notes, and more.
 - [egma-ai/jev-code-reviewer](https://github.com/egma-ai/jev-code-reviewer) - Review behavior, not just diffs. Jev prioritizes human attention; OpenAI explains the changes. Local CLI + agent skill + GitHub extension.
@@ -2598,7 +2601,7 @@
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [getsentry/skills](https://github.com/getsentry/skills) - Agent Skills used by the Sentry team for development.
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 410 Claude Code skills & agent skills & plugins (120+ Agents, custom commands, 410+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engi
 - [daymade/claude-code-skills](https://github.com/daymade/claude-code-skills) - Professional Claude Code skills marketplace featuring production-ready skills for enhanced development workflows.
 - [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a spec
 - [Stickman230/claude-pentest](https://github.com/Stickman230/claude-pentest) - An open source plugin for enabeling claude to gain offensive pentesting capabilities
@@ -2637,7 +2640,6 @@
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [denyspoltorak/metapatterns](https://github.com/denyspoltorak/metapatterns) - Architectural Metapatterns book and wiki
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliatio
-- [Secrover/Secrover](https://github.com/Secrover/Secrover) - Open-Source Security Reports, Made Simple - 100% free. No paywalls, just actionable insights.
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
@@ -2654,7 +2656,6 @@
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows
 - [getmoss/pullama](https://github.com/getmoss/pullama) - A Pull Request summarizer powered by Ollama and Llama2
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [apeatling/ollama-voice-mac](https://github.com/apeatling/ollama-voice-mac) - Mac compatible Ollama Voice
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
 - [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io/vallex/
@@ -3190,6 +3191,7 @@
 
 - [skill-mill/agent-skill-harbor](https://github.com/skill-mill/agent-skill-harbor) - Private skill catalog / marketplace for teams
 - [mnapoli/claude-usage-bar](https://github.com/mnapoli/claude-usage-bar) - Claude Code usage status bar
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [richshaw2015/dino-rss-electron](https://github.com/richshaw2015/dino-rss-electron) - A simple, efficient, open source RSS reader service
 - [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio, an open source alternative to Docker desktop
 
@@ -3280,6 +3282,8 @@
 
 ## TypeScript 
 
+- [victor-falcon/plain-week](https://github.com/victor-falcon/plain-week) - Minimal open-source weekly planner and to-do list. Free, MIT, self-hostable.
+- [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins) - 
 - [adamsuk/line](https://github.com/adamsuk/line) - A software factory you can walk. One change, nine stations.
 - [alexisraitano-myffu/mdbase](https://github.com/alexisraitano-myffu/mdbase) - Bases de données façon Notion, stockées dans un dossier de fichiers Markdown + YAML. Local-first, sans serveur.
 - [CasualOffice/docs](https://github.com/CasualOffice/docs) - Open-source self-hosted web .docx editor with real-time co-editing — an alternative to Google Docs, Microsoft Word Online, and OnlyOffice Document Server you run on your own server.
@@ -3399,7 +3403,6 @@
 - [danielroe/unsight.dev](https://github.com/danielroe/unsight.dev) - Detect duplicate GitHub issues, areas of concern and more across related repositories.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate agentic social media scheduling tool 🤖
-- [cchalop1/JustDeploy](https://github.com/cchalop1/JustDeploy) - Deploy what you want where you want.
 - [betagouv/agir-front](https://github.com/betagouv/agir-front) - 
 - [SendWithSES/Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer) - Free, open source, HTML email template editor and no code designer.
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
