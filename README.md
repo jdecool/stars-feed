@@ -261,6 +261,7 @@
 
 ## C++ 
 
+- [microsoft/intelligent-terminal](https://github.com/microsoft/intelligent-terminal) - A fork of Windows Terminal with native agent integration, right in your command line.
 - [redhat-et/ripwire](https://github.com/redhat-et/ripwire) - The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Find what you want without reading the repo, then check you built what you meant — blast radius, tests-to-run, qu
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [READ ONLY] Split of turbo-ext directory from phpstan-src repository. phpstan_turbo is a native acceleration extension for PHPStan.
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
@@ -3201,7 +3202,7 @@
 - [Akeuuh/mdNotch](https://github.com/Akeuuh/mdNotch) - 
 - [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar) - A macOS menu bar application that monitors AI coding assistant usage quotas. Keep track of your Claude, Codex, Antigravity ,and Gemini usage at a glance.
 - [0Janvier/goldodict](https://github.com/0Janvier/goldodict) - 
-- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
+- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free, open-source native database client for macOS, Linux, iPhone and iPad.
 - [pluk-inc/markdown-preview](https://github.com/pluk-inc/markdown-preview) - A simple Markdown viewer for reading .md files
 - [agentcooper/Telik](https://github.com/agentcooper/Telik) - Native macOS app to track YouTube channels and playlists
 - [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
@@ -3282,6 +3283,10 @@
 
 ## TypeScript 
 
+- [erensrtky/cogit](https://github.com/erensrtky/cogit) - Git for the intent behind agent-written code. Records what your coding agent decided and why, and links every commit to it.
+- [humanlayer/skills](https://github.com/humanlayer/skills) - 
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
+- [vtmocanu/uzi](https://github.com/vtmocanu/uzi) - Uzinele Întunecate (uzi): an AI dark factory
 - [victor-falcon/plain-week](https://github.com/victor-falcon/plain-week) - Minimal open-source weekly planner and to-do list. Free, MIT, self-hostable.
 - [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins) - 
 - [adamsuk/line](https://github.com/adamsuk/line) - A software factory you can walk. One change, nine stations.
@@ -3436,7 +3441,6 @@
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
-- [Basedash/dockhunt](https://github.com/Basedash/dockhunt) - Discover the apps everyone is docking about. Made by the team at @Basedash.
 - [Blagues-API/blagues-api](https://github.com/Blagues-API/blagues-api) - 😂 API de Blagues française et Open Source
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy durable AI agents and workflows
 - [tech-conferences/conference-data](https://github.com/tech-conferences/conference-data) - Conference data for www.confs.tech
