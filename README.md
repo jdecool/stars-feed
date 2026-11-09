@@ -1015,6 +1015,7 @@
 
 ## JavaScript 
 
+- [8rank/iKnow](https://github.com/8rank/iKnow) - Viz. Apple IntelligencePlatform store
 - [heydamir/unslop](https://github.com/heydamir/unslop) - A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 - [dmoka/skills](https://github.com/dmoka/skills) - Agent skills by Daniel Moka — battle-tested practices your coding agent can execute. First up: mutation-testing.
 - [Lingelo/dojo](https://github.com/Lingelo/dojo) - Claude Code plugin marketplace — security hooks, git workflows, Playwright E2E, Jira release notes, and more.
@@ -2913,6 +2914,7 @@
 
 ## Rust 
 
+- [shyim/riff](https://github.com/shyim/riff) - Riff is a fast, standalone Composer-compatible package manager written in Rust.
 - [Melvynx/agent-burn](https://github.com/Melvynx/agent-burn) - Native macOS app and CLI for coding-agent usage, limits, and subscription value.
 - [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 - [pronskiy/redpen](https://github.com/pronskiy/redpen) - A macOS menu-bar app that critiques your English instead of correcting it.
