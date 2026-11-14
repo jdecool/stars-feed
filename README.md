@@ -262,7 +262,7 @@
 ## C++ 
 
 - [microsoft/intelligent-terminal](https://github.com/microsoft/intelligent-terminal) - A fork of Windows Terminal with native agent integration, right in your command line.
-- [redhat-et/ripwire](https://github.com/redhat-et/ripwire) - The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Find what you want without reading the repo, then check you built what you meant — blast radius, tests-to-run, qu
+- [redhat-et/ripwire](https://github.com/redhat-et/ripwire) - The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Cut agent token costs by finding code without reading the repo, then keep large codebases off the complexity wall
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [READ ONLY] Split of turbo-ext directory from phpstan-src repository. phpstan_turbo is a native acceleration extension for PHPStan.
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 - [danielknobe/blobbyvolley2](https://github.com/danielknobe/blobbyvolley2) - Official continuation of the famous Blobby Volley 1.x arcade game.
@@ -356,7 +356,6 @@
 - [Cecilapp/Links](https://github.com/Cecilapp/Links) - Links is an open source Linktree alternative powered by Cecil.
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [SymfonyCasts/messenger-monitor-bundle](https://github.com/SymfonyCasts/messenger-monitor-bundle) - Visual Monitoring & Retries for Symfony Messenger!
-- [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [uxcandy/Label-Free-Bootstrap-Admin-Template](https://github.com/uxcandy/Label-Free-Bootstrap-Admin-Template) - Label admin template is a sophisticated responsive admin dashboard template made on top of Bootstrap 4. It is packed with highly customizable Bootstrap components that help web development easy and fa
 - [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [driftphp/demo](https://github.com/driftphp/demo) - Demo for DriftPHP
@@ -482,6 +481,7 @@
 - [StephanSchmidt/loupe](https://github.com/StephanSchmidt/loupe) - Open-source CLI that measures AI coding-assistant impact (Claude Code, Copilot, Cursor, Aider) across Bitbucket+Jira, GitHub, GitLab, Azure DevOps, or Linear — and renders a reveal.js exec deck. Runs 
 - [igor-php/igor-php](https://github.com/igor-php/igor-php) - Static analysis and state mutation auditor specifically designed for FrankenPHP's Worker Mode.
 - [alexandre-daubois/ember](https://github.com/alexandre-daubois/ember) - 🔥 Real-time terminal dashboard for Caddy servers, with built-in FrankenPHP support
+- [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
 - [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription
 - [getplumber/plumber](https://github.com/getplumber/plumber) - Plumber detects CI/CD security issues in your GitHub workflows and gives you a score
 - [crow-watch/crow.watch](https://github.com/crow-watch/crow.watch) - Collecting shiny things
@@ -507,7 +507,7 @@
 - [AkashRajpurohit/git-sync](https://github.com/AkashRajpurohit/git-sync) - 🔄 A simple tool to backup and sync your git repositories
 - [reSecureIt/BLAFS](https://github.com/reSecureIt/BLAFS) - A tool for Container Debloating that removes bloat and improves performance and security
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
-- [buggregator/server](https://github.com/buggregator/server) - Buggregator — a single-binary debugging server for PHP. Captures exceptions, dumps, emails, profiling, logs in real-time UI. Sentry, Ray, VarDumper, SMTP, Monolog, Inspector, XHProf and more.
+- [buggregator/server](https://github.com/buggregator/server) - One local debugging server, one binary: catches errors, dumps, emails, logs, profiles and HTTP from your app in development. Speaks Sentry, Ray, VarDumper, Monolog, SMTP, XHProf. Mock server, Xdebug i
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
 - [manjurulhoque/golang-job-portal](https://github.com/manjurulhoque/golang-job-portal) - A job portal application API using go-gin
 - [nobe4/slacked](https://github.com/nobe4/slacked) - You've been slacked!
@@ -969,7 +969,7 @@
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [trekawek/coffee-gb](https://github.com/trekawek/coffee-gb) - Accurate Gameboy Color emulator.
 - [cescoffier/vertx-chaos-demo](https://github.com/cescoffier/vertx-chaos-demo) - Demo for the Vert.x Chaos Presentation
-- [PavlikPolivka/GitLabProjects](https://github.com/PavlikPolivka/GitLabProjects) - GitLab support for JetBrains IDEs: merge requests, snippets and more.
+- [polivkadev/GitLabProjects](https://github.com/polivkadev/GitLabProjects) - GitLab support for JetBrains IDEs: merge requests, snippets and more.
 - [arpinum/alexandria-api](https://github.com/arpinum/alexandria-api) - 
 - [nuxeo/gatling-report](https://github.com/nuxeo/gatling-report) - Parse Galting simulation.log files to output CSV stats or build HTML reports with Plotly charts.
 - [jenkinsci/partyparrotstatus-plugin](https://github.com/jenkinsci/partyparrotstatus-plugin) - A party parrot set of icons for Jenkins
@@ -1426,6 +1426,7 @@
 
 ## Jupyter Notebook 
 
+- [zazencodes/zazencodes-season-3](https://github.com/zazencodes/zazencodes-season-3) - YouTube video source code for Season 3
 - [agemagician/CodeTrans](https://github.com/agemagician/CodeTrans) - Pretrained Language Models for Source code
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [bofenghuang/vigogne](https://github.com/bofenghuang/vigogne) - French instruction-following and chat models
@@ -1750,6 +1751,7 @@
 
 ## PHP 
 
+- [jolicode/secret-santa](https://github.com/jolicode/secret-santa) - 🎅 The code behind Secret Santa, the holiday bot for Slack / Discord / Webex
 - [Heyosseus/sloppy](https://github.com/Heyosseus/sloppy) - Static analysis for the debt AI agents leave in PHP: 34 rules, Claude Code hooks, git-diff review, a Rector and Pint fix pass, Pest expectations, CI annotations and an MCP server. Deterministic, local
 - [chr-hertel/oss-complexity-report](https://github.com/chr-hertel/oss-complexity-report) - Complexity Analysis of open source software projects
 - [welcoMattic/messenger-central](https://github.com/welcoMattic/messenger-central) - A terminal UI to drive Symfony Messenger workers during development
@@ -1784,7 +1786,6 @@
 - [Guikingone/php-agent-skills](https://github.com/Guikingone/php-agent-skills) - A PHP implementation of AgentSkills standard
 - [martinkup/symfony-profiler-optimization-advisor-bundle](https://github.com/martinkup/symfony-profiler-optimization-advisor-bundle) - Symfony Profiler meta data collector — reads from Doctrine, Cache, Twig, Events, HTTP Client, Messenger & Stopwatch collectors to detect N+1 queries, slow SQL, cache misses, hot templates & 10 more an
 - [mrconter1/rustc-php](https://github.com/mrconter1/rustc-php) - A Rust compiler with ownership checking, written in PHP
-- [darkwood-com/flowvox](https://github.com/darkwood-com/flowvox) - 🎤 A PHP-based voice transcription engine built with Symfony, Flow orchestration and whisper.cpp. Local audio recording, stateful recorder management, and modular pipeline architecture.
 - [cortexphp/json-repair](https://github.com/cortexphp/json-repair) - Repair invalid JSON strings by automatically fixing common syntax errors
 - [clementtalleu/trigger-mapping](https://github.com/clementtalleu/trigger-mapping) - Trigger mapping bundle
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
@@ -2063,6 +2064,7 @@
 - [vtsykun/packeton](https://github.com/vtsykun/packeton) - :package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos.
 - [arnolem/gmail-archiver](https://github.com/arnolem/gmail-archiver) - Allows you to archive old emails from one Gmail mailbox to another Gmail mailbox
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class.
+- [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [scheb/2fa](https://github.com/scheb/2fa) - Two-factor authentication for Symfony applications 🔐
 - [container-interop/service-provider](https://github.com/container-interop/service-provider) - [EXPERIMENTAL] Promoting container/framework interoperability through standard service providers
 - [steevanb/doctrine-stats](https://github.com/steevanb/doctrine-stats) - Get Doctrine stats : managed entities, lazy loaded entities, hydration time etc.
@@ -2186,7 +2188,7 @@
 - [influxdata/influxdb-php](https://github.com/influxdata/influxdb-php) - influxdb-php: A PHP Client for InfluxDB, a time series database
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo
 - [dantleech/fink](https://github.com/dantleech/fink) - PHP Link Checker
-- [php-deal/framework](https://github.com/php-deal/framework) - Design by Contract framework for PHP
+- [php-deal/framework](https://github.com/php-deal/framework) - AI Design by Contract for PHP
 - [jamierumbelow/basic](https://github.com/jamierumbelow/basic) - A simple BASIC interpreter written in PHP
 - [Innmind/DependencyGraph](https://github.com/Innmind/DependencyGraph) - 
 - [Roave/no-floaters](https://github.com/Roave/no-floaters) - :mag_right: static analysis rules to prevent IEEE-754 floating point errors
@@ -2621,8 +2623,7 @@
 - [NoobyGains/usage-pulse](https://github.com/NoobyGains/usage-pulse) - Usage Pulse: the live usage status bar for Claude Code. Session and weekly limits, your other AI subscriptions on their own rows, cost, context, agents, 10 themes, zero API calls.
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [Huluti/ossatrisk](https://github.com/Huluti/ossatrisk) - Tracking high-risk oss packages: abandoned, undermaintained, or CVE-exposed.
-- [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,926+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,955+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local S
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods
 - [wshobson/agents](https://github.com/wshobson/agents) - Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with valida
@@ -2704,7 +2705,6 @@
 - [jankrepl/mltype](https://github.com/jankrepl/mltype) - Command line tool for improving typing skills (programmers friendly)
 - [freepn/fpnd](https://github.com/freepn/fpnd) - Python package for freepn network daemon
 - [internap/redlock-fifo](https://github.com/internap/redlock-fifo) - True FIFO locks based on redlock-py
-- [IBM/MicroscoPy](https://github.com/IBM/MicroscoPy) - An open-source, motorized, and modular microscope built using LEGO bricks, Arduino, Raspberry Pi and 3D printing.
 - [meesaltena/SSHHeatmap](https://github.com/meesaltena/SSHHeatmap) - Generates a heatmap of IP's that made failed SSH login attempts.
 - [DP-3T/reference_implementation](https://github.com/DP-3T/reference_implementation) - 
 - [nilbuild/itomate](https://github.com/nilbuild/itomate) - Automate your iTerm layouts and session setup
@@ -2914,6 +2914,7 @@
 
 ## Rust 
 
+- [amenophis/arbalete](https://github.com/amenophis/arbalete) - An open-source browser for macOS inspired by Arc: vertical sidebar, Spaces, profiles and link routing. Rust on Chromium (CEF), native SwiftUI interface.
 - [shyim/riff](https://github.com/shyim/riff) - Riff is a fast, standalone Composer-compatible package manager written in Rust.
 - [Melvynx/agent-burn](https://github.com/Melvynx/agent-burn) - Native macOS app and CLI for coding-agent usage, limits, and subscription value.
 - [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
@@ -3068,6 +3069,7 @@
 
 ## Shell 
 
+- [kOlapsis/speckit-guard](https://github.com/kOlapsis/speckit-guard) - Claude Code plugin for GitHub Spec Kit: acceptance tests written from the spec before implementation, locked during /speckit-implement, then a fresh-context review against the spec.
 - [basecamp/gh-signoff](https://github.com/basecamp/gh-signoff) - Local CI. Sign off on your own work.
 - [makraz/ddev-claude](https://github.com/makraz/ddev-claude) - A DDEV add-on that adds a sandboxed sidecar container for running Claude Code (Anthropic's AI coding CLI) with --dangerously-skip-permissions (YOLO mode) safely contained behind an iptables + ipset + 
 - [MikeCodeur/killer-saas](https://github.com/MikeCodeur/killer-saas) - 
@@ -3285,6 +3287,7 @@
 
 ## TypeScript 
 
+- [SkelegonDK/code_explainer_skill](https://github.com/SkelegonDK/code_explainer_skill) - Agent skill to create sophisticated explainer videos about everything from technical code reviews to whole codebase architectures
 - [erensrtky/cogit](https://github.com/erensrtky/cogit) - Git for the intent behind agent-written code. Records what your coding agent decided and why, and links every commit to it.
 - [humanlayer/skills](https://github.com/humanlayer/skills) - 
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
@@ -3308,10 +3311,10 @@
 - [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
 - [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) - Plan, run and supervise fleets of agents from task to merged PR. Desktop (macOS, Windows, Linux) + iPhone & Android apps.  Supports Claude Code, Codex & 35+ coding agents.
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
-- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone
 - [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline
 - [alcaeus/automatic-merge-up-action](https://github.com/alcaeus/automatic-merge-up-action) - Action to trigger creation of merge-up pull requests whenever commits are pushed to a branch
-- [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work.
+- [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for teams
 - [MouadRS/qa-auto-lab](https://github.com/MouadRS/qa-auto-lab) - 
 - [dev-toolings/superpowers-symfony](https://github.com/dev-toolings/superpowers-symfony) - Claude Code plugin for Symfony 7.4 LTS & 8.x — 44 skills, 7 AI subagents & 13 commands for API Platform v4, Doctrine ORM 3, TDD (Pest/PHPUnit), Messenger, security & DDD.
 - [joelhooks/pdf-brain](https://github.com/joelhooks/pdf-brain) - 🧠 Local PDF knowledge base with vector search using libsql w/vectors
@@ -3541,7 +3544,7 @@
 - [hotwired/stimulus](https://github.com/hotwired/stimulus) - A modest JavaScript framework for the HTML you already have
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [prettier/prettier-eslint](https://github.com/prettier/prettier-eslint) - Code :arrow_right: `prettier` :arrow_right: `eslint --fix` :arrow_right: Formatted Code :sparkles:
