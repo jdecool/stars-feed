@@ -465,6 +465,7 @@
 
 ## Go 
 
+- [cribelo/cribelo](https://github.com/cribelo/cribelo) - The reading map of a pull request: which files to read, in which order, which to skip, and why. Local CLI and GitHub Action, no LLM.
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
 - [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 50 other agents.
 - [yoanbernabeu/frankendeploy](https://github.com/yoanbernabeu/frankendeploy) - Deploy Symfony. Production-ready deployments on any VPS. From local to production in minutes.
@@ -841,6 +842,7 @@
 
 ## HTML 
 
+- [EricTechPro/super-board](https://github.com/EricTechPro/super-board) - Autonomous GitHub Project build → QA → review loop for Claude Code. One-line install.
 - [awesome-skills/code-review-skill](https://github.com/awesome-skills/code-review-skill) - A comprehensive code review skill for Claude Code, covering React 19, Vue 3, Rust, TypeScript, TanStack Query v5, and more.
 - [jasonku09/grill-with-ui](https://github.com/jasonku09/grill-with-ui) - Agent-agnostic skill: run a grilling design interview on a local browser page instead of the terminal
 - [fboucher/kanban-dmz](https://github.com/fboucher/kanban-dmz) - Simple Kanban board with public and private zones
@@ -2914,6 +2916,7 @@
 
 ## Rust 
 
+- [ivankovic/omnidiff](https://github.com/ivankovic/omnidiff) - Fast, robust, accurate diffing
 - [amenophis/arbalete](https://github.com/amenophis/arbalete) - An open-source browser for macOS inspired by Arc: vertical sidebar, Spaces, profiles and link routing. Rust on Chromium (CEF), native SwiftUI interface.
 - [shyim/riff](https://github.com/shyim/riff) - Riff is a fast, standalone Composer-compatible package manager written in Rust.
 - [Melvynx/agent-burn](https://github.com/Melvynx/agent-burn) - Native macOS app and CLI for coding-agent usage, limits, and subscription value.
@@ -3618,7 +3621,7 @@
 - [vinayakkulkarni/v-mapbox](https://github.com/vinayakkulkarni/v-mapbox) - Vue 3 wrapper for Mapbox GL & MapLibre GL JS with declarative component API.
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [vue-leaflet/vue-leaflet](https://github.com/vue-leaflet/vue-leaflet) - vue-leaflet compatible with vue3
-- [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
+- [homer-dashboard/homer](https://github.com/homer-dashboard/homer) - A very simple static homepage for your server.
 - [bimdata/platform-old](https://github.com/bimdata/platform-old) - BIMData Platform is a web application to manage your project in the BIM ecosystem
 - [chamerling/gitlab-teams](https://github.com/chamerling/gitlab-teams) - 🦊 Follow merge requests (&more) like a boss 🦊
 - [codeforcloud/agenda](https://github.com/codeforcloud/agenda) - 
